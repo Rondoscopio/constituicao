@@ -56,12 +56,12 @@ orquestrador e não instala ou executa verificadores no host.
 
 ## Limitações de reprodutibilidade
 
-Há **tags explícitas** nas imagens e versões diretas das ferramentas e SHA
-fixo no checkout da Action. Os digests OCI ainda precisam ser obtidos dos
-registries oficiais e registrados para pinagem imutável; o Renovate está
-configurado para propor esses PRs. A instalação de dependências npm
+Há **tags e digests explícitos** nas imagens, versões diretas das ferramentas e SHA
+fixo no checkout da Action. Os digests OCI dos alvos foram fixados a partir dos manifests resolvidos pelo
+GitHub Actions e da referência publicada para o Scorecard. Renovate deverá
+propor atualizações de tag e digest após revisão. A instalação de dependências npm
 transitivas também **não possui lockfile neste primeiro estágio**. Não
-trate essas imagens como builds bit a bit reprodutíveis até sanar ambos.
+trate essas imagens como builds bit a bit reprodutíveis até sanar o lockfile e a pinagem do ecossistema de dependências transitivas.
 
 A regra DL3008 do Hadolint está excepcionada para os pacotes Debian
 porque as versões APT só devem ser fixadas junto com snapshots imutáveis
