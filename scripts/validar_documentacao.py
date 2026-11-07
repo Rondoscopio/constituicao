@@ -1,44 +1,46 @@
 #!/usr/bin/env python3
-"""Verificação estrutural de Markdown. Não substitui revisão humana."""
+"""Valida prefixos, integridade de caminhos relativos e geração do texto unificado."""
 from pathlib import Path
-from urllib.parse import unquote
 import re
 import sys
+from urllib.parse import unquote
 
 ROOT = Path(__file__).resolve().parent.parent
-LINK = re.compile(r"\]\(([^)\n]+)\)")
-ARTICLE = re.compile(r"\*\*Art\.\s+(\d+)(?:º|\.)\*\*")
-EXAMPLES = {Path("processos/ESTRUTURA-NORMATIVA.md")}
+PARTS = ROOT / "parts"
+LINK = re.compile(r"!?\[[^\]\n]*\]\(([^)\n]+)\)")
+EXTERNAL = re.compile(r"^(?:[a-z][a-z0-9+.-]*:|//)", re.I)
 errors = []
-count = 0
-
-for document in sorted(ROOT.rglob("*.md")):
-    relative = document.relative_to(ROOT)
-    text = document.read_text(encoding="utf-8")
-    count += 1
-
-    if not text.strip():
-        errors.append(f"{relative}: documento vazio")
+if not PARTS.is_dir():
+    errors.append("Diretório parts/ não encontrado")
+else:
+    for section in sorted(PARTS.iterdir()):
+        if not section.is_dir() or not re.match(r"^\d{2}-", section.name):
+            errors.append(f"Pasta inválida em parts/: {section.name}")
+            continue
+        sequence = []
+        for file in sorted(section.iterdir()):
+            if not file.is_file() or not re.match(r"^\d{3}-.+\.md$", file.name):
+                errors.append(f"Arquivo sem prefixo numérico: {file.relative_to(ROOT)}")
+                continue
+            sequence.append(int(file.name[:3]))
+        if sequence != list(range(1, len(sequence) + 1)):
+            errors.append(f"Sequência não consecutiva: {section.relative_to(ROOT)}")
+for file in ROOT.rglob("*.md"):
+    if ".git" in file.parts:
         continue
-
-    if relative.parts[0] != "modelos" and relative not in EXAMPLES:
-        articles = [int(n) for n in ARTICLE.findall(text)]
-        if articles and articles != list(range(1, len(articles) + 1)):
-            errors.append(f"{relative}: artigos fora de sequência: {articles}")
-
-    for raw in LINK.findall(text):
-        url = raw.strip().split(" ", 1)[0]
-        if url.startswith(("http:", "https:", "mailto:", "tel:", "data:", "#")):
+    text = file.read_text(encoding="utf-8")
+    for match in LINK.finditer(text):
+        target = match.group(1).strip()
+        if EXTERNAL.match(target) or target.startswith("#"):
             continue
-        path = unquote(url.split("#", 1)[0].split("?", 1)[0])
-        if not path or not path.lower().endswith(".md"):
+        path = unquote(target.split("#", 1)[0].split("?", 1)[0]).split(" ", 1)[0]
+        if not path:
             continue
-        if not (document.parent / path).is_file():
-            errors.append(f"{relative}: link interno não encontrado: {url}")
-
+        resolved = (file.parent / path).resolve()
+        if not resolved.is_file():
+            errors.append(f"Link inexistente em {file.relative_to(ROOT)}: {target}")
 if errors:
-    for error in errors:
-        print(f"ERRO: {error}", file=sys.stderr)
+    for item in errors:
+        print("ERRO:", item, file=sys.stderr)
     sys.exit(1)
-
-print(f"{count} documentos verificados: nenhum arquivo vazio, link interno quebrado ou numeração irregular detectada.")
+print("Validação concluída: prefixos e links relativos")

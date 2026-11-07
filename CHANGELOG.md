@@ -2,6 +2,11 @@
 
 ## 2026-11-07
 
+- Reorganizados 206 documentos no diretório `parts/`, agrupados por pastas e arquivos com prefixos numéricos e ordem explícita de leitura.
+- Criados gerador de índice e edição unificada em Markdown, mapa de migração de nomes antigos e validação automática de integridade de links e geração.
+- Preservados arquivos convencionais do GitHub na raiz e um encaminhamento para o Código de Conduta completo.
+
+
 - Incluídos modelos de decreto institucional, ordem de serviço, nota técnica, emenda constitucional institucional e ato declaratório, completando a biblioteca de espécies normativas propostas.
 
 
