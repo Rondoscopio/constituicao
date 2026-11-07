@@ -30,4 +30,4 @@ A proposta afeta direitos, proteção de fontes, publicação, governança ou se
 - [ ] As referências de terceiros foram atribuídas e as licenças verificadas?
 - [ ] O documento permanece identificado como minuta até aprovação efetiva?
 
-Mudanças em normas constitutivas devem apontar para [Constituição Institucional](../CONSTITUICAO.md) e [Cláusulas de Identidade](../governanca/CLAUSULAS-DE-IDENTIDADE-E-LIMITES-A-REFORMA.md).
+Mudanças em normas constitutivas devem apontar para [Constituição Institucional](../parts/00-abertura/001-constituicao.md) e [Cláusulas de Identidade](../parts/03-governanca/008-clausulas-de-identidade-e-limites-a-reforma.md).
