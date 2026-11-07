@@ -2,6 +2,12 @@
 
 ## 2026-11-07
 
+- Criados documentos sobre autenticação FIDO2/WebAuthn, chaves físicas como YubiKey, proteção contra aleatoriedade fraca, criptografia simétrica e assimétrica e migração pós-quântica (NIST FIPS 203, 204 e 205 e IR 8547).
+- Ampliados Carta Fundadora, Carta de Princípios, Valores e políticas de segurança com compromissos de ética, responsabilidade, solidariedade, igualdade de dignidade, combate à discriminação e militância cívica pacífica.
+- Esclarecidas diferenças entre credenciais FIDO2, chaves OpenPGP, confidencialidade criptográfica, autenticidade e identidade civil.
+
+
+
 - Acrescentadas declarações normativas de proteção à vida, repúdio à tortura e às ditaduras, combate a crimes e respeito à cooperação internacional, com distinção da força jurídica de cada ato.
 - Incluídos documentos sobre logs, detecção contínua, antecipação defensiva e post-mortem de incidentes, integrados à segurança, inteligência de ameaças e aos catálogos MITRE e OWASP.
 

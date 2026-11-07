@@ -88,3 +88,21 @@ Os compromissos correspondentes estão detalhados em [vida e proteção contra a
 - [NIST SP 800-61 rev. 3](https://csrc.nist.gov/pubs/sp/800/61/r3/final): prevenção, resposta e recuperação.
 
 As práticas propostas estão registradas em [logs e telemetria](../seguranca/LOGS-TELEMETRIA-E-TRILHAS-DE-AUDITORIA.md), [detecção contínua](../seguranca/DETECCAO-CONTINUA-E-ANTECIPACAO-DEFENSIVA.md) e [post-mortem](../seguranca/POST-MORTEM-E-LICOES-APRENDIDAS.md). Reconhecer referências não significa possuir certificação ou parceria com seus autores.
+
+## Ética, solidariedade e igualdade humana
+
+- [Declaração Universal dos Direitos Humanos](https://www.un.org/en/about-us/universal-declaration-of-human-rights): dignidade e igualdade de direitos, sem discriminação.
+- [Constituição Federal de 1988](https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm): dignidade, igualdade, direitos fundamentais e objetivos constitucionais de redução das desigualdades e promoção do bem de todos.
+- [Carta da Terra](https://earthcharter.org/read-the-earth-charter/): responsabilidade ética, bem-estar coletivo e sustentabilidade.
+- [Agenda 2030](https://sdgs.un.org/goals): referências para indicadores de saúde, educação, redução de desigualdades e desenvolvimento sustentável.
+
+Essas referências orientam compromissos [de ética e moral](../principios/ETICA-MORAL-E-RESPONSABILIDADE.md), [de sociedade justa e saudável](../principios/COMPROMISSO-COM-UM-MUNDO-JUSTO-E-SAUDAVEL.md) e [de não discriminação](../principios/IGUALDADE-E-NAO-DISCRIMINACAO.md), sem implicar adesão integral às interpretações de terceiros.
+
+## Autenticação moderna e segurança pós-quântica
+
+- [FIDO Alliance](https://fidoalliance.org/specifications/), [WebAuthn Level 3](https://www.w3.org/TR/webauthn-3/) e [Yubico Technical Manual](https://docs.yubico.com/hardware/yubikey/yk-tech-manual/yk5-apps-fido.html): autenticação resistente a phishing, passkeys e chaves físicas.
+- [OWASP Cryptographic Storage](https://cheatsheetseries.owasp.org/cheatsheets/Cryptographic_Storage_Cheat_Sheet.html): CSPRNG, gestão de chaves e cifragem.
+- [OWASP Post-Quantum Cryptography](https://cheatsheetseries.owasp.org/cheatsheets/Post_Quantum_Cryptography_Cheat_Sheet.html): planejamento de migração.
+- [NIST FIPS 203](https://csrc.nist.gov/pubs/fips/203/final), [FIPS 204](https://csrc.nist.gov/pubs/fips/204/final), [FIPS 205](https://csrc.nist.gov/pubs/fips/205/final) e [NIST IR 8547 (outubro de 2026)](https://csrc.nist.gov/pubs/ir/8547/final): padrões criptográficos e transição pós-quântica.
+
+Consulte [FIDO2/WebAuthn](../seguranca/AUTENTICACAO-FIDO2-WEBAUTHN-E-CHAVES-FISICAS.md), [aleatoriedade](../seguranca/ALEATORIEDADE-ENTROPIA-E-GERACAO-DE-SEGREDOS.md), [criptografia simétrica e assimétrica](../seguranca/CRIPTOGRAFIA-SIMETRICA-E-ASSIMETRICA.md) e [criptografia pós-quântica](../seguranca/CRIPTOGRAFIA-POS-QUANTICA.md).

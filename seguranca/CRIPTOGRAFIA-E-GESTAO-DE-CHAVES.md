@@ -1,6 +1,6 @@
 # Criptografia e gestão de chaves
 
-> **Situação:** minuta para discussão pública. **Versão:** 0.3. **Data:** 2026-11-07.
+> **Situação:** minuta para discussão pública. **Versão:** 0.4. **Data:** 2026-11-07.
 > **Natureza:** política institucional proposta. Não comprova controles implementados.
 
 ## CAPÍTULO I
@@ -71,3 +71,30 @@ Parágrafo único. O caso eMudhra de outubro de 2026 evidencia a possibilidade d
 **Art. 12.** Chaves primárias, subchaves, expiração, revogação e comprovação de substituição deverão seguir política específica, com separação de custódia e procedimentos de recuperação.
 
 Consulte [Confiança OpenPGP e cerimônia de chaves](CONFIANCA-OPENPGP-E-CERIMONIA-DE-CHAVES.md).
+
+## CAPÍTULO V
+### DA AUTENTICAÇÃO, ALEATORIEDADE E TRANSIÇÃO PÓS-QUÂNTICA
+
+**Art. 13.** Os acessos críticos deverão priorizar autenticação FIDO2/WebAuthn resistente a phishing, com avaliação de autenticadores físicos, métodos de recuperação e proteção contra fluxos alternativos inseguros.
+
+**Art. 14.** A geração de chaves, desafios, nonces e tokens deverá utilizar geradores criptograficamente seguros e mecanismos adequados de gestão da entropia.
+
+**Art. 15.** A instituição distinguirá:
+
+I - cifragem simétrica autenticada, adequada a grandes volumes de dados;
+
+II - mecanismos de chaves assimétricas, empregados para acordos de chave, autenticação e assinatura segundo o protocolo;
+
+III - funções hash, que não constituem cifragem reversível;
+
+IV - assinaturas digitais, que verificam integridade e associação a uma chave, mas não atestam isoladamente a verdade do conteúdo;
+
+V - mecanismos pós-quânticos de estabelecimento de chaves e assinatura, conforme padrões reconhecidos.
+
+**Art. 16.** A política de longo prazo deverá manter inventário de algoritmos e dependências criptográficas e considerar riscos de coleta presente de informações para decifração futura.
+
+**Art. 17.** A migração para padrões pós-quânticos será gradual e baseada em suporte real de bibliotecas e protocolos, testes e condições de interoperabilidade.
+
+**Art. 18.** Nenhuma credencial FIDO2 ou chave GPG será descrita como resistente a computadores quânticos apenas por sua modalidade física ou pelo nome da ferramenta.
+
+Consulte [Autenticação FIDO2](AUTENTICACAO-FIDO2-WEBAUTHN-E-CHAVES-FISICAS.md), [Aleatoriedade e entropia](ALEATORIEDADE-ENTROPIA-E-GERACAO-DE-SEGREDOS.md), [Criptografia simétrica e assimétrica](CRIPTOGRAFIA-SIMETRICA-E-ASSIMETRICA.md) e [Criptografia pós-quântica](CRIPTOGRAFIA-POS-QUANTICA.md).

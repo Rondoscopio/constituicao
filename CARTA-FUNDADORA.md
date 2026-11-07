@@ -1,6 +1,6 @@
 # Carta Fundadora do Rondoscópio
 
-> **Situação:** minuta para discussão pública. **Versão:** 0.3. **Data:** 2026-11-07.
+> **Situação:** minuta para discussão pública. **Versão:** 0.4. **Data:** 2026-11-07.
 > **Natureza:** documento institucional proposto, sem vigência formal até aprovação pela instância competente.
 
 
@@ -152,3 +152,22 @@ Parágrafo único. O repúdio à criminalidade não autoriza presunção de culp
 § 2º O caráter obrigatório de tratados, decisões, regulamentos e recomendações dependerá de suas competências e do regime jurídico aplicável.
 
 § 3º As referências normativas e os critérios de apuração serão detalhados nas políticas sobre [vida e violência](principios/DIREITO-A-VIDA-E-PROTECAO-CONTRA-VIOLENCIA.md), [repúdio à tortura e ao autoritarismo](principios/REPUDIO-A-TORTURA-E-AUTORITARISMO.md), [criminalidade](principios/COMBATE-A-CRIMINALIDADE-E-ECONOMIAS-ILICITAS.md) e [cooperação internacional](principios/COOPERACAO-INTERNACIONAL-E-ORGANISMOS.md).
+
+## CAPÍTULO VIII
+### DA ÉTICA, DA IGUALDADE E DA SEGURANÇA CRIPTOGRÁFICA
+
+**Art. 24.** O Rondoscópio orientará sua atuação pelo compromisso de fazer o bem, agir corretamente e contribuir para uma sociedade justa, saudável, pacífica e capaz de acolher as diferentes formas de viver, pensar e participar.
+
+§ 1º A convicção moral de estar correto não autoriza violência, fraude, exposição indevida, discriminação ou afastamento das garantias legais.
+
+§ 2º O projeto poderá defender publicamente direitos e valores universais por meios cívicos, não violentos e transparentes, preservada a independência das apurações em relação a partidos e candidatos.
+
+**Art. 25.** Todas as pessoas deverão ser tratadas com igual dignidade, sem discriminação injusta por raça, cor, origem, sexo, gênero, orientação sexual, religião, convicção política, condição econômica, escolaridade, deficiência ou outras características pessoais.
+
+Parágrafo único. A igualdade de dignidade não impede a crítica fundamentada a comportamentos, decisões, argumentos e políticas públicas.
+
+**Art. 26.** A segurança institucional deverá considerar autenticação resistente a phishing, uso de aleatoriedade criptograficamente segura, proteção de chaves, cifragem adequada e planejamento para a transição a padrões criptográficos pós-quânticos.
+
+Parágrafo único. Os instrumentos tecnológicos serão escolhidos mediante análise de risco, testes e critérios de proporcionalidade, não por promessa de invulnerabilidade.
+
+As disposições deste capítulo serão detalhadas em [Ética e responsabilidade](principios/ETICA-MORAL-E-RESPONSABILIDADE.md), [Compromisso com um mundo justo e saudável](principios/COMPROMISSO-COM-UM-MUNDO-JUSTO-E-SAUDAVEL.md), [Autenticação FIDO2](seguranca/AUTENTICACAO-FIDO2-WEBAUTHN-E-CHAVES-FISICAS.md) e [Criptografia pós-quântica](seguranca/CRIPTOGRAFIA-POS-QUANTICA.md).

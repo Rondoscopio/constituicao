@@ -1,6 +1,6 @@
 # Política de segurança
 
-> **Situação:** minuta para discussão pública. **Versão:** 0.4. **Data:** 2026-11-07.
+> **Situação:** minuta para discussão pública. **Versão:** 0.5. **Data:** 2026-11-07.
 > **Natureza:** política institucional proposta. Não comprova controles implementados.
 
 ## CAPÍTULO I
@@ -110,3 +110,25 @@ Parágrafo único. A publicidade dos resultados deverá respeitar privacidade, n
 - [Resposta a incidentes](RESPOSTA-A-INCIDENTES.md).
 - [Post-mortem e lições aprendidas](POST-MORTEM-E-LICOES-APRENDIDAS.md).
 - [Inteligência de ameaças e contrainteligência](INTELIGENCIA-DE-AMEACAS-E-CONTRAINTELIGENCIA.md).
+
+## CAPÍTULO VI
+### DA AUTENTICAÇÃO E DA AGILIDADE CRIPTOGRÁFICA
+
+**Art. 21.** Para funções críticas, a autenticação deverá priorizar mecanismos resistentes a phishing, incluindo FIDO2/WebAuthn e autenticadores físicos compatíveis quando apropriados, com procedimentos de recuperação testados.
+
+**Art. 22.** A geração de chaves, tokens e segredos não poderá depender de fontes de aleatoriedade previsíveis ou métodos caseiros, devendo utilizar geradores criptograficamente seguros.
+
+**Art. 23.** O uso de criptografia simétrica e assimétrica deverá respeitar algoritmos padronizados, finalidade, custódia das chaves e requisitos de integridade e confidencialidade.
+
+**Art. 24.** O planejamento de longo prazo deverá considerar vulnerabilidades futuras de algoritmos assimétricos clássicos, padrões pós-quânticos, dependências criptográficas e transição progressiva sem promessas de segurança absoluta.
+
+§ 1º A proteção de fontes com confidencialidade duradoura terá prioridade na avaliação dos riscos de armazenamento de dados cifrados para decifração futura.
+
+§ 2º A adoção de criptografia pós-quântica não dispensa segurança da implementação, autenticação, atualização e controle de acesso.
+
+## Políticas de autenticação e criptografia
+
+- [FIDO2, WebAuthn e chaves físicas](AUTENTICACAO-FIDO2-WEBAUTHN-E-CHAVES-FISICAS.md).
+- [Aleatoriedade, entropia e geração de segredos](ALEATORIEDADE-ENTROPIA-E-GERACAO-DE-SEGREDOS.md).
+- [Criptografia simétrica e assimétrica](CRIPTOGRAFIA-SIMETRICA-E-ASSIMETRICA.md).
+- [Criptografia pós-quântica](CRIPTOGRAFIA-POS-QUANTICA.md).

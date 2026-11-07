@@ -22,6 +22,10 @@ A hierarquia é uma convenção editorial, não confere força de lei e não sig
 
 A [Carta Fundadora](CARTA-FUNDADORA.md) e a [Carta de Princípios](principios/CARTA-DE-PRINCIPIOS.md) explicitam o repúdio à tortura, às ditaduras, à violência criminosa e ao tráfico ilícito, a defesa da vida e do devido processo e o respeito à cooperação internacional por meio de ONU, OMS e INTERPOL, conforme suas competências legais. Os compromissos não convertem recomendações em obrigações jurídicas automáticas.
 
+## Ética e compromisso com a dignidade
+
+O Rondoscópio estabelece como propostas a [ética, a responsabilidade e o dever de fazer o bem](principios/ETICA-MORAL-E-RESPONSABILIDADE.md), o [compromisso com uma sociedade justa e saudável](principios/COMPROMISSO-COM-UM-MUNDO-JUSTO-E-SAUDAVEL.md) e a [igualdade de dignidade sem discriminação](principios/IGUALDADE-E-NAO-DISCRIMINACAO.md). Esses valores devem ser aplicados com pluralismo, direitos fundamentais e autonomia investigativa.
+
 ## Segurança e proteção de pessoas
 
 A política de segurança abrange engenharia social, infiltração, falsificação de identidade, interceptação, criptografia, vulnerabilidades, ameaças avançadas e continuidade. Comece por [Política de Segurança](seguranca/POLITICA-DE-SEGURANCA.md), [Engenharia Social e Infiltração](seguranca/ENGENHARIA-SOCIAL-E-INFILTRACAO.md) e [Referenciais de Segurança](seguranca/REFERENCIAIS-DE-SEGURANCA.md).
@@ -29,6 +33,10 @@ A política de segurança abrange engenharia social, infiltração, falsificaç�
 A documentação complementar inclui [logs e telemetria](seguranca/LOGS-TELEMETRIA-E-TRILHAS-DE-AUDITORIA.md), [detecção contínua](seguranca/DETECCAO-CONTINUA-E-ANTECIPACAO-DEFENSIVA.md) e [post-mortem](seguranca/POST-MORTEM-E-LICOES-APRENDIDAS.md), com referências aos catálogos MITRE e OWASP e atenção à privacidade das fontes.
 
 Esses documentos são minutas de compromissos. Não significam que o canal de denúncias, mecanismos de criptografia ou todas as medidas técnicas estejam operacionais.
+
+## Autenticação e criptografia
+
+As minutas de segurança incluem [FIDO2/WebAuthn e chaves físicas](seguranca/AUTENTICACAO-FIDO2-WEBAUTHN-E-CHAVES-FISICAS.md), [aleatoriedade e geração de segredos](seguranca/ALEATORIEDADE-ENTROPIA-E-GERACAO-DE-SEGREDOS.md), [criptografia simétrica e assimétrica](seguranca/CRIPTOGRAFIA-SIMETRICA-E-ASSIMETRICA.md) e [criptografia pós-quântica](seguranca/CRIPTOGRAFIA-POS-QUANTICA.md). A adoção de padrões exige testes e não significa que eles estejam operacionais.
 
 ## Proteção de domínios e confiança criptográfica
 

@@ -1,6 +1,6 @@
 # Dignidade e direitos humanos
 
-> **Situação:** minuta para discussão pública. **Versão:** 0.2. **Data:** 2026-11-07.
+> **Situação:** minuta para discussão pública. **Versão:** 0.3. **Data:** 2026-11-07.
 
 ## CAPÍTULO I
 ### DAS GARANTIAS ESSENCIAIS
@@ -18,3 +18,14 @@
 - [Direito à vida e proteção contra a violência](DIREITO-A-VIDA-E-PROTECAO-CONTRA-VIOLENCIA.md).
 - [Repúdio à tortura, às ditaduras e ao autoritarismo](REPUDIO-A-TORTURA-E-AUTORITARISMO.md).
 - [Constituição Federal](https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm).
+
+## CAPÍTULO II
+### DA SOLIDARIEDADE E DO RESPEITO À DIVERSIDADE
+
+**Art. 5º** A dignidade humana alcança todas as pessoas, inclusive as que possuem convicções políticas, religiosas, culturais ou filosóficas diferentes das sustentadas institucionalmente.
+
+**Art. 6º** O compromisso de agir moralmente deverá orientar a prevenção de danos e a promoção do bem-estar sem suprimir a autonomia pessoal ou o pluralismo.
+
+**Art. 7º** A atuação do Rondoscópio não usará a superioridade econômica, a instrução formal ou a origem social como critérios de valor humano.
+
+Consulte [Igualdade e não discriminação](IGUALDADE-E-NAO-DISCRIMINACAO.md) e [Ética, moral e responsabilidade](ETICA-MORAL-E-RESPONSABILIDADE.md).

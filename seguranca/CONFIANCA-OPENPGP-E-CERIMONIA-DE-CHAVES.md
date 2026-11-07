@@ -1,6 +1,6 @@
 # Confiança em chaves OpenPGP e cerimônia de verificação
 
-> **Situação:** minuta para discussão pública. **Versão:** 0.1. **Data:** 2026-11-07.
+> **Situação:** minuta para discussão pública. **Versão:** 0.2. **Data:** 2026-11-07.
 > **Aplicação:** compromisso proposto, sujeito a avaliação de risco, capacidade operacional e aprovação institucional.
 
 ## CAPÍTULO I
@@ -64,3 +64,11 @@ IV - acesso a fontes protegidas, recuperação de segredos ou poder de alterar s
 - [Debian, uso de subchaves](https://wiki.debian.org/Subkeys)
 - [OpenPGP RFC 9580](https://www.rfc-editor.org/rfc/rfc9580)
 - [GnuPG](https://gnupg.org/)
+
+## Relação entre OpenPGP e autenticação FIDO2
+
+Uma chave FIDO2/WebAuthn é gerada e utilizada para autenticação do serviço ao qual está vinculada. Uma chave OpenPGP é utilizada em operações apropriadas de criptografia, assinatura e certificação. Embora alguns dispositivos físicos, incluindo certos modelos YubiKey, implementem ambas as funcionalidades, **elas não são a mesma chave nem o mesmo protocolo**.
+
+A cerimônia de verificação presencial inspirada no Debian diz respeito à confiança na identidade e impressão digital de uma chave OpenPGP. Não substitui o cadastro e a validação de credenciais WebAuthn pelo serviço.
+
+Consulte [Autenticação FIDO2, WebAuthn e chaves físicas](AUTENTICACAO-FIDO2-WEBAUTHN-E-CHAVES-FISICAS.md).

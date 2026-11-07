@@ -1,6 +1,6 @@
 # Carta de Princípios do Rondoscópio
 
-> **Situação:** minuta para discussão pública. **Versão:** 0.3. **Data:** 2026-11-07.
+> **Situação:** minuta para discussão pública. **Versão:** 0.4. **Data:** 2026-11-07.
 > **Natureza:** documento institucional proposto, sem vigência formal até aprovação pela instância competente.
 
 
@@ -149,8 +149,27 @@ Parágrafo único. A natureza jurídica de obrigações internacionais, recomend
 **Art. 26.** A avaliação de políticas públicas e de cooperação internacional deverá fundamentar-se em evidências, resguardar os direitos das pessoas envolvidas e admitir a crítica fundamentada às próprias organizações multilaterais.
 
 ## CAPÍTULO IX
+### DA ÉTICA, DA SOLIDARIEDADE E DA IGUALDADE DE DIGNIDADE
+
+**Art. 27.** A organização adotará uma ética de responsabilidade, solidariedade e honestidade, destinada a orientar ações concretas em benefício da coletividade.
+
+§ 1º O dever de buscar o bem não autoriza impor uma única moral religiosa, filosófica ou partidária às pessoas.
+
+§ 2º A correção de uma decisão será examinada também por seus meios, consequências e respeito aos direitos dos envolvidos.
+
+**Art. 28.** É repudiada a discriminação injusta por raça, cor, sexo, identidade ou expressão de gênero, orientação sexual, religião, convicção política, condição econômica, escolaridade, deficiência ou origem.
+
+§ 1º A instituição deverá respeitar as pessoas independentemente de sua formação escolar, patrimônio ou posição em debates públicos.
+
+§ 2º A crítica a atos, discursos ou propostas não será confundida com discriminação contra a identidade de seus autores.
+
+**Art. 29.** O Rondoscópio poderá promover militância cívica pacífica por direitos humanos, democracia, saúde, educação, justiça social e sustentabilidade.
+
+Parágrafo único. A atuação cívica deverá ser transparente e compatível com o rigor investigativo, a autonomia editorial, o pluralismo e a igualdade de tratamento.
+
+## CAPÍTULO X
 ### DAS DISPOSIÇÕES FINAIS
 
-**Art. 27.** A aplicação destes princípios será detalhada em procedimentos editoriais, metodológicos, de segurança e de governança.
+**Art. 30.** A aplicação destes princípios será detalhada em procedimentos editoriais, metodológicos, de segurança e de governança.
 
-**Art. 28.** A aprovação, a alteração e a entrada em vigência desta Carta dependerão de procedimento institucional competente e de registro público, preservada a confidencialidade legítima.
+**Art. 31.** A aprovação, a alteração e a entrada em vigência desta Carta dependerão de procedimento institucional competente e de registro público, preservada a confidencialidade legítima.

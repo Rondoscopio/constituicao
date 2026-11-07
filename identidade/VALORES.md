@@ -1,6 +1,6 @@
 # Valores
 
-> **Situação:** minuta para discussão pública. **Versão:** 0.1. **Data:** 2026-11-07.
+> **Situação:** minuta para discussão pública. **Versão:** 0.2. **Data:** 2026-11-07.
 
 **Independência.** Investigações e publicações não devem ser subordinadas a governos, partidos, empresas ou financiadores.
 
@@ -19,3 +19,11 @@
 **Memória.** Registros e versões de documentos devem ser preservados com contexto e proveniência.
 
 **Responsabilidade.** O Rondoscópio estará sujeito aos padrões de prestação de contas que propõe para outras instituições.
+
+**Ética e cuidado.** O dever de fazer o bem exige tratar as pessoas com respeito, prevenir danos, assumir consequências e corrigir decisões equivocadas.
+
+**Solidariedade.** Uma sociedade saudável e justa requer proteção de pessoas vulneráveis, acesso a oportunidades e disposição de cooperar.
+
+**Igual dignidade.** Cor, raça, sexo, gênero, orientação sexual, religião, opinião política, patrimônio e escolaridade não determinam o valor humano de ninguém.
+
+**Pluralismo.** O Rondoscópio poderá defender seus princípios com firmeza, sem exigir filiação partidária, adesão religiosa ou concordância pessoal integral de seus colaboradores.

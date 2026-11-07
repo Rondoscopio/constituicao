@@ -9,3 +9,11 @@ A [Declaração Universal dos Direitos Humanos](https://www.un.org/en/about-us/u
 As orientações do [Alto Comissariado da ONU para Direitos Humanos](https://www.ohchr.org/) sobre indicadores estruturais, de processo e de resultado ajudam a distinguir compromissos formais, esforços adotados e efeitos observados.
 
 Acordos climáticos e compromissos das conferências das partes devem ser estudados por sua natureza jurídica e pelos compromissos efetivamente assumidos. Nenhuma meta internacional será automaticamente descrita como obrigação legal municipal.
+
+## Dignidade, saúde e igualdade
+
+- [Declaração Universal dos Direitos Humanos](https://www.un.org/en/about-us/universal-declaration-of-human-rights): respeito à dignidade e não discriminação.
+- [Objetivos de Desenvolvimento Sustentável](https://sdgs.un.org/goals): indicadores e metas para análise de políticas de saúde, educação, igualdade e sustentabilidade.
+- [Carta da Terra](https://earthcharter.org/read-the-earth-charter/): referenciais éticos de responsabilidade e convivência.
+
+A utilização dessas fontes deverá distinguir objetivos e referências éticas de obrigações jurídicas concretas dos poderes públicos brasileiros.
