@@ -32,10 +32,11 @@ orquestrador e não instala ou executa verificadores no host.
   concorrentes sobre os mesmos tipos de arquivo como gate nesta etapa.
 - **Markdownlint** começa com regras básicas de integridade. Os outros
   critérios exigem saneamento editorial gradual, não supressão silenciosa.
-- **ast-grep** analisa padrões de JavaScript. Seu postinstall, necessário\n  para instalar o binário nativo, é executado isoladamente com npm rebuild. **jscpd** é limitado aos
+- **ast-grep** analisa padrões de JavaScript. Seu postinstall, necessário para instalar o binário nativo, é executado isoladamente com npm rebuild. **jscpd** é limitado aos
   scripts, excluindo textos jurídicos e arquivos gerados.
 - **Vitest + fast-check** testam o gerador sobre fixtures temporários.
-- **OSV-Scanner** permanece disponível, mas não é gate obrigatório enquanto não existir lockfile; sua saída 128 para “nenhuma fonte de pacotes” não é erro de vulnerabilidade.\n- **Knip** está instalado no alvo JS, mas não roda como gate: não há
+- **OSV-Scanner** permanece disponível, mas não é gate obrigatório enquanto não existir lockfile; sua saída 128 para “nenhuma fonte de pacotes” não é erro de vulnerabilidade.
+- **Knip** está instalado no alvo JS, mas não roda como gate: não há
   package.json/lockfile de aplicação para análise de dependências útil.
 - **Stylelint** não foi instalado, pois não há CSS ou SCSS.
 - **ShellCheck/shfmt** estão disponíveis no stage de workflows; não há
@@ -56,10 +57,9 @@ orquestrador e não instala ou executa verificadores no host.
 
 ## Limitações de reprodutibilidade
 
-Há **tags e digests explícitos** nas imagens, versões diretas das ferramentas e SHA
-fixo no checkout da Action. Os digests OCI dos alvos foram fixados a partir dos manifests resolvidos pelo
-GitHub Actions e da referência publicada para o Scorecard. Renovate deverá
-propor atualizações de tag e digest após revisão. A instalação de dependências npm\ntransitivas também **não possui lockfile neste primeiro estágio**. Não
+Há **tags atualizadas** nas imagens, versões diretas das ferramentas e SHA
+fixo no checkout da Action. Os digests OCI serão fixados após verificação dos manifests das versões atualizadas no CI. Renovate deverá
+propor atualizações de tag e digest após revisão. A instalação de dependências npm transitivas também **não possui lockfile neste primeiro estágio**. Não
 trate essas imagens como builds bit a bit reprodutíveis até sanar o lockfile e a pinagem do ecossistema de dependências transitivas.
 
 A regra DL3008 do Hadolint está excepcionada para os pacotes Debian
