@@ -1,0 +1,13 @@
+config:
+  default: false
+  MD009: true
+  MD010: true
+  MD047: true
+globs:
+  - README.md
+  - CONTRIBUTING.md
+  - SECURITY.md
+  - "parts/**/*.md"
+ignores:
+  - CONSTITUICAO-COMPLETA.md
+  - INDICE.md

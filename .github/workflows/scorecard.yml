@@ -1,0 +1,24 @@
+name: OpenSSF Scorecard
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "17 9 * * 1"
+
+permissions:
+  contents: read
+
+jobs:
+  scorecard:
+    # Só roda regularmente no branch padrão depois do merge.
+    if: github.repository == 'Rondoscopio/constituicao'
+    runs-on: ubuntu-latest
+    timeout-minutes: 25
+    steps:
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1  # v7.0.1
+        with:
+          persist-credentials: false
+      - name: Scorecard pela imagem definida no Dockerfile
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: docker compose run --build --rm scorecard

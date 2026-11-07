@@ -1,0 +1,53 @@
+name: CI
+
+on:
+  pull_request:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  quality:
+    name: quality / ${{ matrix.service }}
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    strategy:
+      fail-fast: false
+      matrix:
+        service: [docs, javascript, workflows, zizmor, hadolint, gitleaks, semgrep, trivy, osv]
+    steps:
+      - name: Checkout sem credenciais persistentes
+        uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1  # v7.0.1
+        with:
+          persist-credentials: false
+      - name: Construir stage do Dockerfile
+        env:
+          SERVICE: ${{ matrix.service }}
+        run: docker compose build "$SERVICE"
+      - name: Executar verificação no contêiner
+        env:
+          SERVICE: ${{ matrix.service }}
+        run: docker compose run --rm --no-deps "$SERVICE"
+
+  gate:
+    name: gate
+    needs: [quality]
+    if: ${{ always() }}
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    permissions: {}
+    steps:
+      - name: Exigir sucesso em todas as verificações obrigatórias
+        env:
+          QUALITY_RESULT: ${{ needs.quality.result }}
+        shell: bash
+        run: |
+          printf 'Resultado da matriz de qualidade: %s\n' "$QUALITY_RESULT"
+          if [[ "$QUALITY_RESULT" != "success" ]]; then
+            echo "::error::Gate reprovado: quality terminou em $QUALITY_RESULT."
+            exit 1
+          fi
+          echo "Gate aprovado: todas as verificações obrigatórias passaram."

@@ -1,0 +1,6 @@
+id: no-dynamic-eval
+language: JavaScript
+severity: error
+message: Não execute código dinâmico com eval.
+rule:
+  pattern: eval($$$ARGS)

@@ -1,0 +1,43 @@
+{
+  "$schema": "https://docs.renovatebot.com/renovate-schema.json",
+  "extends": [
+    "config:recommended"
+  ],
+  "dependencyDashboard": true,
+  "pinDigests": true,
+  "rangeStrategy": "pin",
+  "prConcurrentLimit": 4,
+  "labels": [
+    "dependencies"
+  ],
+  "packageRules": [
+    {
+      "matchUpdateTypes": [
+        "major"
+      ],
+      "dependencyDashboardApproval": true
+    }
+  ],
+  "customManagers": [
+    {
+      "customType": "regex",
+      "managerFilePatterns": [
+        "/^Dockerfile$/"
+      ],
+      "matchStrings": [
+        "GOBIN=/out go install (?<depName>github\\.com/rhysd/actionlint)/cmd/actionlint@(?<currentValue>v[^\\s\\\\]+)"
+      ],
+      "datasourceTemplate": "go"
+    },
+    {
+      "customType": "regex",
+      "managerFilePatterns": [
+        "/^Dockerfile$/"
+      ],
+      "matchStrings": [
+        "GOBIN=/out go install (?<depName>mvdan\\.cc/sh/v3)/cmd/shfmt@(?<currentValue>v[^\\s\\\\]+)"
+      ],
+      "datasourceTemplate": "go"
+    }
+  ]
+}

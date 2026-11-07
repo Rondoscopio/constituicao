@@ -1,0 +1,25 @@
+{
+  "name": "@rondoscopio/quality-toolchain",
+  "version": "0.0.0",
+  "private": true,
+  "type": "module",
+  "devDependencies": {
+    "@ast-grep/cli": "0.51.1",
+    "@biomejs/biome": "2.6.6",
+    "@typescript-eslint/parser": "8.72.1",
+    "eslint": "10.14.0",
+    "eslint-plugin-sonarjs": "4.2.0",
+    "fast-check": "4.10.2",
+    "jscpd": "5.4.2",
+    "knip": "6.44.2",
+    "markdownlint-cli2": "0.24.0",
+    "prettier": "3.9.10",
+    "typescript": "5.9.3",
+    "vitest": "5.1.0"
+  },
+  "overrides": {
+    "katex": "0.18.2",
+    "minimatch": "11.0.1",
+    "re2js": "2.8.7"
+  }
+}
