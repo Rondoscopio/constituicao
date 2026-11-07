@@ -15,14 +15,14 @@ orquestrador e não instala ou executa verificadores no host.
 - `docker compose run --build --rm zizmor`: auditoria estática de GitHub Actions.
 - `docker compose run --build --rm hadolint`: Dockerfile.
 - `docker compose run --build --rm gitleaks`: segredos no conteúdo atual.
-- `docker compose run --build --rm osv`: executar quando houver manifests/lockfiles reconhecidos.
+- `docker compose run --build --rm osv`: audita as dependências com base no lockfile npm de tooling/.
 - `docker compose run --build --rm trivy`: vulnerabilidades, segredos e configurações incorretas.
 - `docker compose run --build --rm semgrep`: regras SAST locais, sem baixar regras remotas.
 - `docker compose run --build --rm scorecard`: pontuação OpenSSF com `GITHUB_TOKEN`.
 - `docker compose run --rm -T trivy fs --format cyclonedx --output /dev/stdout /workspace > sbom.cdx.json`: SBOM CycloneDX (depois de buildar o alvo).
 
 `just check` executa os validadores principais via Compose.
-`just security` inclui Trivy; OSV será habilitado como gate quando houver manifests/lockfiles.
+`just security` inclui Trivy e OSV, ambos validam o lockfile npm agora versionado.
 `just generate` cria índice e documento consolidado, mas exige montagem de escrita (veja nota abaixo).
 
 ## Aplicabilidade e limites
@@ -35,9 +35,9 @@ orquestrador e não instala ou executa verificadores no host.
 - **ast-grep** analisa padrões de JavaScript. Seu postinstall, necessário para instalar o binário nativo, é executado isoladamente com npm rebuild. **jscpd** é limitado aos
   scripts, excluindo textos jurídicos e arquivos gerados.
 - **Vitest + fast-check** testam o gerador sobre fixtures temporários.
-- **OSV-Scanner** permanece disponível, mas não é gate obrigatório enquanto não existir lockfile; sua saída 128 para “nenhuma fonte de pacotes” não é erro de vulnerabilidade.
-- **Knip** está instalado no alvo JS, mas não roda como gate: não há
-  package.json/lockfile de aplicação para análise de dependências útil.
+- **OSV-Scanner** agora é obrigatório no CI e lê o lockfile criado em `tooling/`.
+- **Knip** está instalado no alvo JS, mas não roda como gate: o manifesto de
+  tooling é de ferramentas CLI, não descreve dependências da aplicação.
 - **Stylelint** não foi instalado, pois não há CSS ou SCSS.
 - **ShellCheck/shfmt** estão disponíveis no stage de workflows; não há
   scripts shell versionados para analisar. **Hadolint** já verifica instruções RUN.
@@ -57,10 +57,9 @@ orquestrador e não instala ou executa verificadores no host.
 
 ## Limitações de reprodutibilidade
 
-Há **tags atualizadas** nas imagens, versões diretas das ferramentas e SHA
-fixo no checkout da Action. Os digests OCI serão fixados após verificação dos manifests das versões atualizadas no CI. Renovate deverá
-propor atualizações de tag e digest após revisão. A instalação de dependências npm transitivas também **não possui lockfile neste primeiro estágio**. Não
-trate essas imagens como builds bit a bit reprodutíveis até sanar o lockfile e a pinagem do ecossistema de dependências transitivas.
+Há **tags e digests conferidos** nas imagens, versões diretas das ferramentas e SHA
+fixo no checkout da Action. O digest OCI do Scorecard depende de confirmação no job de imagem. Renovate deverá
+propor atualizações de tag e digest após revisão. As dependências npm são fixadas por `tooling/package-lock.json` e instaladas com `npm ci`.\nAinda restam dependências do sistema operacional e Python, que não são um snapshot imutável.
 
 A regra DL3008 do Hadolint está excepcionada para os pacotes Debian
 porque as versões APT só devem ser fixadas junto com snapshots imutáveis

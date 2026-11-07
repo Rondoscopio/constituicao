@@ -2,7 +2,7 @@
 default: check
 
 check:
-    docker compose build docs javascript workflows zizmor hadolint gitleaks semgrep trivy
+    docker compose build docs javascript workflows zizmor hadolint gitleaks semgrep trivy osv
     docker compose run --rm docs
     docker compose run --rm javascript
     docker compose run --rm workflows
@@ -11,6 +11,7 @@ check:
     docker compose run --rm gitleaks
     docker compose run --rm semgrep
     docker compose run --rm trivy
+    docker compose run --rm osv
 
 docs:
     docker compose run --build --rm docs
@@ -21,6 +22,7 @@ javascript:
 security:
     docker compose run --build --rm gitleaks
     docker compose run --build --rm trivy
+    docker compose run --build --rm osv
     docker compose run --build --rm semgrep
 
 workflow:

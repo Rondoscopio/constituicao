@@ -17,7 +17,7 @@ jobs:
     strategy:
       fail-fast: false
       matrix:
-        service: [docs, javascript, workflows, zizmor, hadolint, gitleaks, semgrep, trivy]
+        service: [docs, javascript, workflows, zizmor, hadolint, gitleaks, semgrep, trivy, osv]
     steps:
       - name: Checkout sem credenciais persistentes
         uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
@@ -32,8 +32,8 @@ jobs:
           SERVICE: ${{ matrix.service }}
         run: docker compose run --rm --no-deps "$SERVICE"
 
-  lockfile:
-    name: lockfile / temporário
+  images:
+    name: build-only / scorecard
     runs-on: ubuntu-latest
     timeout-minutes: 15
     steps:
@@ -41,10 +41,8 @@ jobs:
         uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
         with:
           persist-credentials: false
-      - name: Resolver dependências npm no Docker
-        run: docker compose build lockfile
-      - name: Exportar lockfile para recuperação e commit
-        run: docker compose run --rm --no-deps lockfile
+      - name: Verificar build da imagem do Scorecard
+        run: docker compose build scorecard
 
   gate:
     name: gate

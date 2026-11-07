@@ -1,7 +1,7 @@
 # syntax=docker/dockerfile:1.7
 # Toolchain de qualidade: cada alvo é uma imagem independente.
-# Versões atualizadas; digests serão fixados após resolução no CI.
-FROM node:26.13.0-bookworm-slim AS base
+# Imagens fixadas por digests conferidos nos builds do GitHub Actions.
+FROM node:26.13.0-bookworm-slim@sha256:add5c17c14752c54d2f3d519ec46a3815684d41c33f198bcb09fb998f7dcbf68 AS base
 ENV DEBIAN_FRONTEND=noninteractive
 RUN apt-get update \
     && apt-get install -y --no-install-recommends ca-certificates git python3 python3-venv \
@@ -9,38 +9,28 @@ RUN apt-get update \
 RUN useradd --create-home --uid 10001 --shell /usr/sbin/nologin quality
 WORKDIR /workspace
 
-FROM base AS lockfile
-COPY tooling/package.json /opt/quality/package.json
-RUN npm install --prefix /opt/quality --package-lock-only --no-audit --no-fund --ignore-scripts
-CMD ["sh", "-ec", "echo __LOCKFILE_BEGIN__; cat /opt/quality/package-lock.json; echo __LOCKFILE_END__"]
+FROM base AS node-tools
+COPY tooling/package.json tooling/package-lock.json /opt/quality/
+RUN npm ci --prefix /opt/quality --no-audit --no-fund --ignore-scripts \
+    && npm rebuild --prefix /opt/quality @ast-grep/cli
+ENV PATH="/opt/quality/node_modules/.bin:${PATH}"
 
-FROM base AS docs
-RUN npm install --global --no-audit --no-fund --ignore-scripts \
-      markdownlint-cli2@0.24.0 prettier@3.9.10
+FROM node-tools AS docs
 RUN python3 -m venv /opt/yaml \
     && /opt/yaml/bin/pip install --no-cache-dir yamllint==1.38.0
 ENV PATH="/opt/yaml/bin:${PATH}"
 USER 10001:10001
 CMD ["sh", "-ec", "python3 scripts/validar_documentacao.py && node scripts/gerar_documento.mjs --check && markdownlint-cli2 && yamllint -c .yamllint.yaml .github/workflows .github/ISSUE_TEMPLATE compose.yaml"]
 
-FROM base AS javascript
-RUN mkdir -p /opt/quality \
-    && npm install --prefix /opt/quality --no-audit --no-fund --ignore-scripts \
-      eslint@10.14.0 eslint-plugin-sonarjs@4.2.0 \
-      @biomejs/biome@2.6.6 @ast-grep/cli@0.51.1 \
-      knip@6.44.2 jscpd@5.4.2 \
-      vitest@5.1.0 fast-check@4.10.2 \
-      typescript@5.9.3 @typescript-eslint/parser@8.72.1 \
-    && npm rebuild --prefix /opt/quality @ast-grep/cli
+FROM node-tools AS javascript
 COPY tooling/eslint.config.mjs /opt/quality/eslint.config.mjs
 COPY tooling/tests/gerador.test.mjs /opt/quality/tests/gerador.test.mjs
-ENV PATH="/opt/quality/node_modules/.bin:${PATH}"
 USER 10001:10001
 CMD ["sh", "-ec", "eslint -c /opt/quality/eslint.config.mjs scripts/gerar_documento.mjs && ast-grep scan --config sgconfig.yml scripts && jscpd --min-lines 8 --min-tokens 60 --threshold 20 --ignore 'parts/**,CONSTITUICAO-COMPLETA.md,INDICE.md' scripts && cd /opt/quality && vitest run --root /opt/quality"]
 
-FROM koalaman/shellcheck:v0.11.0 AS shellcheck-bin
+FROM koalaman/shellcheck:v0.11.0@sha256:61862eba1fcf09a484ebcc6feea46f1782532571a34ed51fedf90dd25f925a8d AS shellcheck-bin
 
-FROM golang:1.27.3-bookworm AS go-build
+FROM golang:1.27.3-bookworm@sha256:dc0963f32053e4bc451d24d87e3892d42d01021b61f093e98eb95c0352bb84b0 AS go-build
 RUN GOBIN=/out go install github.com/rhysd/actionlint/cmd/actionlint@v1.7.12 \
     && GOBIN=/out go install mvdan.cc/sh/v3/cmd/shfmt@v3.14.1
 
@@ -52,22 +42,22 @@ USER 10001:10001
 CMD ["sh", "-ec", "actionlint .github/workflows/*.yml"]
 
 # Os alvos seguintes reutilizam imagens oficiais, sem copiá-las para um monólito.
-FROM ghcr.io/zizmorcore/zizmor:1.32.0 AS zizmor
+FROM ghcr.io/zizmorcore/zizmor:1.32.0@sha256:3014cc8f68f663935f69b3c3e0e41f5ce102b268d97db13db0f62208747f860d AS zizmor
 WORKDIR /workspace
 
-FROM ghcr.io/hadolint/hadolint:v2.15.1-debian AS hadolint
+FROM ghcr.io/hadolint/hadolint:v2.15.1-debian@sha256:9a3944b7fddcb947d1ffd90829ac1a6e5c30479223358f249d8b96c7d0019e27 AS hadolint
 WORKDIR /workspace
 
-FROM ghcr.io/gitleaks/gitleaks:v8.30.1 AS gitleaks
+FROM ghcr.io/gitleaks/gitleaks:v8.30.1@sha256:c00b6bd0aeb3071cbcb79009cb16a60dd9e0a7c60e2be9ab65d25e6bc8abbb7f AS gitleaks
 WORKDIR /workspace
 
-FROM ghcr.io/google/osv-scanner:v2.7.0 AS osv
+FROM ghcr.io/google/osv-scanner:v2.7.0@sha256:4f3b7e2c64b9d38a5febc5a7e4a3dfef1d1362f726dea7a2ef4762b46469fcd0 AS osv
 WORKDIR /workspace
 
-FROM ghcr.io/aquasecurity/trivy:0.76.2 AS trivy
+FROM ghcr.io/aquasecurity/trivy:0.76.2@sha256:8f6bb947dbc528902e11f2f5be52f7b519f6a39d5d148f41166f2040499768fb AS trivy
 WORKDIR /workspace
 
-FROM semgrep/semgrep:1.184.0 AS semgrep
+FROM semgrep/semgrep:1.184.0@sha256:cc1b68266f267878b39739373ea9985b9a78e5d64497dd875c8de100b22695ed AS semgrep
 WORKDIR /workspace
 
 FROM ghcr.io/ossf/scorecard:v5.6.0 AS scorecard
