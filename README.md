@@ -12,6 +12,12 @@ Leia a [Carta Fundadora](CARTA-FUNDADORA.md), depois a [Carta de Princípios](pr
 
 Os arquivos descrevem obrigações que o Rondoscópio pretende assumir. Onde ainda não houver estrutura, orçamento ou equipe para cumpri-las, o texto deve permanecer identificado como proposta.
 
+## Redação e hierarquia normativa
+
+A [Carta Fundadora](CARTA-FUNDADORA.md), a [Carta de Princípios](principios/CARTA-DE-PRINCIPIOS.md) e as políticas que estabelecem regras adotam, quando adequado, artigos e subdivisões em parágrafos, incisos, alíneas e itens. A convenção está em [Estrutura e técnica de redação normativa](processos/ESTRUTURA-NORMATIVA.md), com [modelo de documento normativo](modelos/MODELO-DE-ATO-NORMATIVO.md). O manifesto e as seções educativas permanecem em prosa.
+
+A hierarquia é uma convenção editorial, não confere força de lei e não significa aprovação institucional das minutas.
+
 ## Contribuições e referências
 
 Contribuições públicas podem ser sugeridas por issues ou pull requests, desde que **não contenham denúncias sigilosas, documentos privados ou identidades de fontes**. Consulte [Como contribuir](CONTRIBUTING.md) e [Segurança](SECURITY.md).
