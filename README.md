@@ -1,8 +1,8 @@
 # Constituição do Rondoscópio
 
-**Comece pelo [Índice de leitura](INDICE.md) ou pela [Constituição completa](CONSTITUICAO-COMPLETA.md).**
+**Comece pelo [Índice de leitura](docs/INDICE.md) ou pela [Constituição completa](docs/CONSTITUICAO-COMPLETA.md).**
 
-A fonte editável dos documentos fica exclusivamente em [parts/](parts/00-abertura/001-constituicao.md), com pastas e arquivos numerados. Não edite diretamente a edição consolidada. A organização conserva arquivos auxiliares do GitHub na raiz.
+A fonte editável dos documentos fica exclusivamente em [parts/](parts/00-abertura/001-constituicao.md), com pastas e arquivos numerados. Não edite diretamente a edição consolidada. As configurações e os scripts ficam em `.config/`, os documentos gerados em `docs/` e os arquivos comunitários em `.github/`.
 
 O Rondoscópio é uma iniciativa em formação dedicada à fiscalização do poder público, à investigação documental, ao controle social e à educação cívica e histórica, com foco inicial em Rondônia e seus municípios.
 
@@ -92,7 +92,7 @@ O procedimento inspira-se no New Member Process do Debian. Colaborações públi
 
 ## Contribuições e referências
 
-Contribuições públicas podem ser sugeridas por issues ou pull requests, desde que **não contenham denúncias sigilosas, documentos privados ou identidades de fontes**. Consulte [Como contribuir](CONTRIBUTING.md) e [Segurança](SECURITY.md).
+Contribuições públicas podem ser sugeridas por issues ou pull requests, desde que **não contenham denúncias sigilosas, documentos privados ou identidades de fontes**. Consulte [Como contribuir](.github/CONTRIBUTING.md) e [Segurança](.github/SECURITY.md).
 
 As fontes de inspiração são reconhecidas em [Referências e inspirações](parts/14-referencias/001-referencias-e-inspiracoes.md). Estudar uma organização não constitui parceria nem endosso.
 
@@ -103,3 +103,12 @@ O [plano de ampliação e auditoria documental](parts/13-processos/006-plano-de-
 ## Estado do projeto
 
 O Rondoscópio ainda está em constituição. O lançamento de serviços de denúncia, investigações sensíveis ou funcionalidades que tratem dados pessoais requer avaliações jurídicas, editoriais e de segurança específicas.
+
+## Desenvolvimento e estrutura
+
+- [Configurações e scripts](.config/README.md)
+- [Histórico](docs/CHANGELOG.md)
+- [Código de Conduta](.github/CODE_OF_CONDUCT.md)
+- [CI](.github/workflows/ci.yml)
+
+As ferramentas de validação rodam em contêineres. Com Docker, Docker Compose e `just`, execute `just check` para validações ou `just generate` para atualizar a Constituição consolidada. `.local/` e `.cache/` são diretórios locais ignorados pelo Git.
