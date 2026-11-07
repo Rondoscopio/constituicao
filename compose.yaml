@@ -72,3 +72,9 @@ services:
     environment:
       GITHUB_AUTH_TOKEN: ${GITHUB_TOKEN:-}
     command: [--repo=github.com/Rondoscopio/constituicao, --format=json]
+
+  lockfile:
+    <<: *quality
+    build:
+      context: .
+      target: lockfile

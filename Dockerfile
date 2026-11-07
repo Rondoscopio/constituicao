@@ -9,6 +9,11 @@ RUN apt-get update \
 RUN useradd --create-home --uid 10001 --shell /usr/sbin/nologin quality
 WORKDIR /workspace
 
+FROM base AS lockfile
+COPY tooling/package.json /opt/quality/package.json
+RUN npm install --prefix /opt/quality --package-lock-only --no-audit --no-fund --ignore-scripts
+CMD ["sh", "-ec", "echo __LOCKFILE_BEGIN__; cat /opt/quality/package-lock.json; echo __LOCKFILE_END__"]
+
 FROM base AS node-tools
 COPY tooling/package.json tooling/package-lock.json /opt/quality/
 RUN npm ci --prefix /opt/quality --no-audit --no-fund --ignore-scripts \

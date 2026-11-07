@@ -16,5 +16,10 @@
     "prettier": "3.9.10",
     "typescript": "5.9.3",
     "vitest": "5.1.0"
+  },
+  "overrides": {
+    "katex": "0.18.2",
+    "minimatch": "11.0.1",
+    "re2js": "2.8.7"
   }
 }
