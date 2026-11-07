@@ -18,6 +18,12 @@ A [Carta Fundadora](CARTA-FUNDADORA.md), a [Carta de Princípios](principios/CAR
 
 A hierarquia é uma convenção editorial, não confere força de lei e não significa aprovação institucional das minutas.
 
+## Segurança e proteção de pessoas
+
+A política de segurança abrange engenharia social, infiltração, falsificação de identidade, interceptação, criptografia, vulnerabilidades, ameaças avançadas e continuidade. Comece por [Política de Segurança](seguranca/POLITICA-DE-SEGURANCA.md), [Engenharia Social e Infiltração](seguranca/ENGENHARIA-SOCIAL-E-INFILTRACAO.md) e [Referenciais de Segurança](seguranca/REFERENCIAIS-DE-SEGURANCA.md).
+
+Esses documentos são minutas de compromissos. Não significam que o canal de denúncias, mecanismos de criptografia ou todas as medidas técnicas estejam operacionais.
+
 ## Contribuições e referências
 
 Contribuições públicas podem ser sugeridas por issues ou pull requests, desde que **não contenham denúncias sigilosas, documentos privados ou identidades de fontes**. Consulte [Como contribuir](CONTRIBUTING.md) e [Segurança](SECURITY.md).

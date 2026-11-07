@@ -1,9 +1,62 @@
 # Modelo público de ameaças
 
-> **Situação:** minuta para discussão pública. **Versão:** 0.1. **Data:** 2026-11-07.
+> **Situação:** minuta para discussão pública. **Versão:** 0.2. **Data:** 2026-11-07.
+> **Natureza:** política institucional proposta. Não comprova controles implementados.
 
-O projeto considera falhas de infraestrutura, ataques externos, abuso de contas, exposição acidental, assédio, falsificação de documentos e tentativas de obter identidades de fontes.
+## CAPÍTULO I
+### DO ESCOPO
 
-Cada risco será avaliado pelo possível dano, probabilidade, capacidade de detecção e controles disponíveis. Ameaças plausíveis não serão descritas como ataques efetivamente existentes sem evidências.
+**Art. 1º** O modelo de ameaças deverá identificar ativos, dependências, atores com capacidades distintas, caminhos de comprometimento, impactos e medidas de mitigação.
 
-O modelo operacional completo terá acesso restrito, principalmente onde revelar controles, arquitetura sensível e cenários de proteção de fontes.
+§ 1º Serão considerados criminosos comuns, fraudadores, operadores de campanhas de influência, pessoas com acesso legítimo que abusam de permissões e adversários tecnicamente sofisticados, inclusive agentes estatais, quando pertinentes ao contexto.
+
+§ 2º Capacidade de espionagem estatal constitui cenário de planejamento, não evidência de monitoramento específico da organização.
+
+**Art. 2º** A classificação de riscos deverá considerar:
+
+I - probabilidade e evidências de exposição;
+
+II - capacidade e motivação plausíveis do adversário;
+
+III - gravidade do dano às pessoas, aos dados e à continuidade;
+
+IV - efetividade dos controles e possibilidade de detecção;
+
+V - custo operacional, impacto sobre direitos e riscos residuais.
+
+## CAPÍTULO II
+### DOS CENÁRIOS DE AMEAÇA
+
+**Art. 3º** A avaliação abrangerá, entre outros cenários:
+
+I - acesso por engenharia social, criação de identidade falsa, infiltração em equipes, manipulação emocional e abuso de relações de confiança;
+
+II - falsificação de remetentes e domínios, DNS/ARP spoofing, redirecionamentos, comprometimento de contas e sessões;
+
+III - ataques de intermediário, emissão ou aceitação indevida de certificados TLS e comprometimento da cadeia de confiança;
+
+IV - ataques a caches de aplicação, CDN ou DNS, comprometimento de software, dependências, atualizações e ambientes de compilação;
+
+V - comprometimento de dispositivos pessoais, extração de metadados e vigilância direcionada;
+
+VI - indisponibilidade, apagamento, sequestro de dados, coerção e ataques a provedores ou colaboradores;
+
+VII - manipulação de relatos públicos, envenenamento de dados e prompt injection em fluxos de inteligência artificial.
+
+**Art. 4º** O risco será reavaliado quando surgirem novas funcionalidades, parceiros, fontes sensíveis, vulnerabilidades relevantes ou incidentes demonstrados.
+
+## CAPÍTULO III
+### DOS LIMITES E DA PUBLICIDADE
+
+**Art. 5º** O modelo público apresentará ameaças e compromissos de modo verificável, sem detalhar topologia restrita, dispositivos, acessos de emergência ou identidades protegidas.
+
+**Art. 6º** Investigações de possível espionagem deverão preservar provas e buscar apoio especializado, sem fazer acusações públicas baseadas apenas em suspeita, divergência pessoal ou percepção subjetiva.
+
+**Art. 7º** As análises técnicas poderão utilizar MITRE ATT&CK para descrever comportamentos observáveis e MITRE D3FEND para estudar respostas defensivas, respeitando seus limites de aplicação.
+
+## Referências
+
+- [MITRE ATT&CK Enterprise](https://attack.mitre.org/)
+- [MITRE D3FEND](https://d3fend.mitre.org/)
+- [T1684: Social Engineering](https://attack.mitre.org/techniques/T1684/)
+- [T1557: Adversary-in-the-Middle](https://attack.mitre.org/techniques/T1557/)

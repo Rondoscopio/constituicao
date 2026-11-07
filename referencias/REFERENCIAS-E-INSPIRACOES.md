@@ -47,3 +47,15 @@ Atribuir uma inspiração não equivale a copiar texto ou código, nem dispensa 
 Em cada adoção efetiva, registrar: documento influenciado, aspecto aproveitado, referência primária, natureza da adaptação, licença pertinente e eventuais divergências metodológicas. Evitar sugerir que uma organização referenciada compartilha todos os nossos compromissos.
 
 Consulte os demais arquivos deste diretório para classificar fontes jurídicas, metodológicas, técnicas e bibliográficas.
+
+## Segurança, criptografia e modelagem de ameaças
+
+- [OWASP](https://owasp.org/), especialmente [Top 10:2025](https://top10.owasp.org/2025/pt-BR/) e [ASVS 5.0](https://asvs.owasp.org/): desenvolvimento seguro, critérios verificáveis e avaliação dos riscos de aplicações.
+- [MITRE ATT&CK](https://attack.mitre.org/): representação de comportamentos adversários e técnicas como engenharia social e ataques de intermediário.
+- [MITRE D3FEND](https://d3fend.mitre.org/): técnicas defensivas e relações com comportamentos de ataque.
+- [MITRE CWE](https://cwe.mitre.org/), [CVE](https://www.cve.org/), [NVD](https://nvd.nist.gov/), [CISA KEV](https://www.cisa.gov/known-exploited-vulnerabilities-catalog), [CVSS](https://www.first.org/cvss/) e [EPSS](https://www.first.org/epss/): classificação, acompanhamento e priorização de vulnerabilidades.
+- [GnuPG](https://gnupg.org/), [OpenPGP](https://www.rfc-editor.org/rfc/rfc9580) e [Certificate Transparency](https://certificate.transparency.dev/): proteção, assinatura e verificação de proveniência e confiança.
+- [OWASP Web Cache Security](https://cheatsheetseries.owasp.org/cheatsheets/Web_Cache_Security_Cheat_Sheet.html): prevenção de envenenamento e exposição indevida em caches.
+- [Incidente eMudhra, outubro de 2026](https://blog.mozilla.org/security/2026/10/20/protecting-firefox-users-following-the-compromise-of-emudhra-intermediate-certificates/): exemplo documentado de falha na cadeia de confiança de certificados, sem atribuição de espionagem específica.
+
+A lista detalhada, com aplicações e limites, consta de [Referenciais de Segurança](../seguranca/REFERENCIAIS-DE-SEGURANCA.md).
