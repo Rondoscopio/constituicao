@@ -1,20 +1,33 @@
-name: Validar documentação
+name: Qualidade e segurança da Constituição
 
 on:
   pull_request:
   push:
-    branches: [main]
+    branches: [main, docs/fundamentos-iniciais]
+  workflow_dispatch:
 
 permissions:
   contents: read
 
 jobs:
-  validar:
+  quality:
+    name: Contêiner / ${{ matrix.service }}
     runs-on: ubuntu-latest
+    timeout-minutes: 30
+    strategy:
+      fail-fast: false
+      matrix:
+        service: [docs, javascript, workflows, zizmor, hadolint, gitleaks, semgrep, osv, trivy]
     steps:
-      - name: Checkout
-        uses: actions/checkout@v4
-      - name: Verificar arquivos e links internos
-        run: python3 scripts/validar_documentacao.py
-      - name: Verificar documento unificado e índice
-        run: node scripts/gerar_documento.mjs --check
+      - name: Checkout sem credenciais persistentes
+        uses: actions/checkout@11bd71901bbe5b1630ceea73d27597364c9af683 # v4.2.2
+        with:
+          persist-credentials: false
+      - name: Construir stage da ferramenta
+        env:
+          SERVICE: ${{ matrix.service }}
+        run: docker compose build "$SERVICE"
+      - name: Executar verificação no contêiner
+        env:
+          SERVICE: ${{ matrix.service }}
+        run: docker compose run --rm --no-deps "$SERVICE"

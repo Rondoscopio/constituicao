@@ -1,0 +1,11 @@
+rules:
+  - id: rondoscopio.python-no-dynamic-eval
+    message: Evite executar expressões dinâmicas em validadores documentais.
+    severity: ERROR
+    languages: [python]
+    pattern: eval(...)
+  - id: rondoscopio.javascript-no-dynamic-eval
+    message: Evite executar expressões dinâmicas em geradores documentais.
+    severity: ERROR
+    languages: [javascript]
+    pattern: eval(...)

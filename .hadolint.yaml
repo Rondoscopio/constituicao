@@ -1,0 +1,4 @@
+# Não fixamos pacotes APT por versão sem um snapshot de repositório imutável.
+# Isso é uma limitação declarada, não uma garantia de build reprodutível.
+ignored:
+  - DL3008

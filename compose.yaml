@@ -1,0 +1,74 @@
+x-quality: &quality
+  volumes:
+    - ./:/workspace:ro
+  working_dir: /workspace
+
+services:
+  docs:
+    <<: *quality
+    build:
+      context: .
+      target: docs
+
+  javascript:
+    <<: *quality
+    build:
+      context: .
+      target: javascript
+
+  workflows:
+    <<: *quality
+    build:
+      context: .
+      target: workflows
+
+  zizmor:
+    <<: *quality
+    build:
+      context: .
+      target: zizmor
+    command: [--offline, .github/workflows]
+
+  hadolint:
+    <<: *quality
+    build:
+      context: .
+      target: hadolint
+    command: [/bin/hadolint, Dockerfile]
+
+  gitleaks:
+    <<: *quality
+    build:
+      context: .
+      target: gitleaks
+    command: [dir, /workspace, --redact]
+
+  osv:
+    <<: *quality
+    build:
+      context: .
+      target: osv
+    command: [scan, source, --recursive, /workspace]
+
+  trivy:
+    <<: *quality
+    build:
+      context: .
+      target: trivy
+    command: [fs, --scanners, "vuln,secret,misconfig", --severity, "HIGH,CRITICAL", --exit-code, "1", /workspace]
+
+  semgrep:
+    <<: *quality
+    build:
+      context: .
+      target: semgrep
+    command: [scan, --config, /workspace/tooling/semgrep.yaml, --error, /workspace/scripts]
+
+  scorecard:
+    <<: *quality
+    build:
+      context: .
+      target: scorecard
+    environment:
+      GITHUB_AUTH_TOKEN: ${GITHUB_TOKEN:-}
+    command: [--repo=github.com/Rondoscopio/constituicao, --format=json]
