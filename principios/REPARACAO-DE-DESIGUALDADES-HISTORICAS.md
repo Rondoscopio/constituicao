@@ -74,3 +74,10 @@ VI - outras medidas proporcionais, com base jurídica e evidências de necessida
 - [Constituição Federal de 1988, arts. 3º, 5º, 215, 216 e 231](https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm).
 - [Estatuto da Igualdade Racial, Lei nº 12.288/2010](https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2010/lei/l12288.htm).
 - [Declaração Universal dos Direitos Humanos](https://www.un.org/en/about-us/universal-declaration-of-human-rights).
+
+## DISPOSIÇÕES COMPLEMENTARES
+### DA REPARAÇÃO SEM ESTIGMATIZAÇÃO
+
+**Art. 9.** A desigualdade entre gerações pode ser investigada por história institucional, acesso à terra, renda, oportunidades educacionais e representação política, sem atribuir crimes a descendentes de pessoas investigadas.
+
+**Art. 10.** Políticas reparatórias deverão ser acompanhadas por indicadores públicos, participação dos beneficiários e revisão de efeitos, com proteção de informações pessoais.

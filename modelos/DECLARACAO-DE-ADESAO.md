@@ -39,3 +39,11 @@ A declaração assinada deverá ser verificada por pessoa autorizada e armazenad
 
 - [Debian: Declarações de compromisso no processo de ingresso](https://nm.debian.org/process/1572/sc_dmup/).
 - [Debian: Contrato Social](https://www.debian.org/social_contract.pt.html).
+
+## Compromisso com a finalidade institucional
+
+A declaração deverá reconhecer expressamente que a lealdade se dirige à missão e às regras legítimas, e não a quem ocupa a função ADM.
+
+O aceite não impedirá o exercício de crítica, direito de defesa, voto ou participação em processo de destituição, quando cabível.
+
+Para funções sensíveis, a identidade e a chave pública deverão ser verificadas separadamente, sem exigir divulgação da chave privada.

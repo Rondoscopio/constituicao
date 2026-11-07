@@ -29,3 +29,10 @@
 **Art. 7º** A atuação do Rondoscópio não usará a superioridade econômica, a instrução formal ou a origem social como critérios de valor humano.
 
 Consulte [Igualdade e não discriminação](IGUALDADE-E-NAO-DISCRIMINACAO.md) e [Ética, moral e responsabilidade](ETICA-MORAL-E-RESPONSABILIDADE.md).
+
+## DISPOSIÇÕES COMPLEMENTARES
+### DA UNIVERSALIDADE
+
+**Art. 8.** O direito à vida e à integridade protege vítimas e acusados, opositores e apoiadores, sem distinção de condição social ou opinião política.
+
+**Art. 9.** A gravidade de uma denúncia não autoriza o projeto a tolerar tortura, tratamento degradante, execuções extrajudiciais ou punição privada.

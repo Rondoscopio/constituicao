@@ -31,3 +31,9 @@ Parágrafo único. Nenhuma hipótese de emergência, interesse público, seguran
 - [Lei nº 9.455/1997, crimes de tortura](https://www.planalto.gov.br/ccivil_03/leis/l9455.htm).
 - [Convenção da ONU contra a Tortura](https://www.ohchr.org/en/instruments-mechanisms/instruments/convention-against-torture-and-other-cruel-inhuman-or-degrading).
 - [Declaração Universal dos Direitos Humanos](https://www.un.org/en/about-us/universal-declaration-of-human-rights).
+
+## Disposições complementares
+
+**Art. 6.** A rejeição à tortura, aos desaparecimentos forçados e à ditadura não dependerá de quem exerce o poder ou da popularidade das pessoas atingidas.
+
+**Art. 7.** A defesa da democracia incluirá análise crítica de medidas de emergência que suspendam garantias de modo indevido, inclusive quando revestidas de aparente regularidade formal.

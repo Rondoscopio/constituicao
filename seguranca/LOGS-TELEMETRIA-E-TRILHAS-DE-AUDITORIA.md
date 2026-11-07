@@ -54,3 +54,11 @@ VI - telemetria de disponibilidade e desempenho agregada.
 - [OWASP Top 10:2025](https://top10.owasp.org/2025/).
 - [MITRE ATT&CK: Defense Impairment](https://attack.mitre.org/tactics/TA0112/).
 - [MITRE ATT&CK: Detection Strategies](https://attack.mitre.org/detectionstrategies/).
+
+## Auditoria da própria administração
+
+Eventos de concessão de permissões, exclusão de usuários, alteração de domínios, substituição de chaves e edição de regras constitutivas deverão ter registro verificável quando tecnicamente possível.
+
+A auditoria não deverá depender exclusivamente de credenciais administradas pela pessoa cuja conduta está sendo examinada. A arquitetura futura deverá estabelecer custódia proporcionalmente independente.
+
+A preservação de logs respeitará privacidade, minimização e proteção de fontes, sem registrar dados sensíveis apenas por facilidade técnica.

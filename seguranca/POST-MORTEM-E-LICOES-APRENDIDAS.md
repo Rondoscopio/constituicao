@@ -49,3 +49,11 @@ Parágrafo único. A abordagem orientada a aprendizado não impede responsabiliz
 - [NIST Computer Security Incident Handling Guide, SP 800-61](https://csrc.nist.gov/pubs/sp/800/61/r3/final).
 - [CISA Cybersecurity Incident and Vulnerability Response Playbooks](https://www.cisa.gov/resources-tools/resources/federal-government-cybersecurity-incident-and-vulnerability-response-playbooks).
 - [OWASP Logging Cheat Sheet](https://cheatsheetseries.owasp.org/cheatsheets/Logging_Cheat_Sheet.html).
+
+## Responsabilidade sem caça a culpados
+
+A análise pós-incidente deverá distinguir falha humana, condições organizacionais, vulnerabilidade explorada, ações deliberadas e limites de evidência.
+
+O aprendizado deverá produzir responsáveis e critérios de verificação das medidas corretivas. A abordagem não impede responsabilização quando houver fraude comprovada.
+
+Resumos públicos protegerão fontes, dados pessoais e detalhes que possibilitem exploração recorrente.

@@ -83,3 +83,11 @@ V - custos, transparência, equidade e necessidade de aperfeiçoamento.
 - [INPE TerraBrasilis, PRODES e DETER](https://www.terrabrasilis.dpi.inpe.br/sobre/).
 - [MapBiomas Brasil, cobertura e uso da terra](https://brasil.mapbiomas.org/).
 - [Estatuto da Igualdade Racial, Lei nº 12.288/2010](https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2010/lei/l12288.htm).
+
+## Relação com os valores protegidos
+
+O reconhecimento do aquecimento global de origem humana e dos efeitos históricos de desigualdades é compromisso institucional, mas cada programa público precisa de avaliação própria.
+
+A pesquisa deverá comparar indicadores anteriores e posteriores, custos, grupos afetados e fatores externos, evitando atribuir todos os efeitos à política examinada.
+
+Divergência sobre meios e resultados não significa necessariamente negação de direitos ou da ciência.

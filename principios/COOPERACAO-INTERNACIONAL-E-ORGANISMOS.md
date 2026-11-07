@@ -43,3 +43,10 @@ IV - de outros organismos e acordos internacionais relevantes para segurança, m
 - [OMS, recomendações permanentes e força jurídica](https://www.who.int/teams/ihr/standing-recommendations).
 - [INTERPOL, Red Notices](https://www.interpol.int/en/How-we-work/Notices/Red-Notices).
 - [INTERPOL, Constituição e normas](https://www.interpol.int/Who-we-are/Legal-framework).
+
+## DISPOSIÇÕES COMPLEMENTARES
+### DA INDEPENDÊNCIA CRÍTICA
+
+**Art. 8.** O respeito à ONU, OMS e INTERPOL implica reconhecer competências e documentos oficiais, sem assumir que recomendações, alertas e decisões possuem a mesma força jurídica.
+
+**Art. 9.** A cooperação não significa autorização para entregar indiscriminadamente dados protegidos nem para deixar de fiscalizar abusos ou falhas de organismos internacionais.

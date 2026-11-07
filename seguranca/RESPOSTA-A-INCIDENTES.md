@@ -64,3 +64,11 @@ VI - revisão dos procedimentos e prevenção de recorrência.
 - [Post-mortem e lições aprendidas](POST-MORTEM-E-LICOES-APRENDIDAS.md).
 - [Detecção contínua e antecipação](DETECCAO-CONTINUA-E-ANTECIPACAO-DEFENSIVA.md).
 - [MITRE: detecções e mitigações](MITRE-CATALOGO-DE-TATICAS-MITIGACOES-E-DETECCOES.md).
+
+## Incidentes que afetem a governança
+
+O plano contemplará também comprometimento de contas institucionais, manipulação de permissões, eliminação de registros de decisão e tentativa de concentrar poder por abuso de emergência.
+
+A resposta técnica poderá restringir acesso de modo provisório para proteger pessoas e sistemas, mas não substituirá destituição formal sem defesa e revisão.
+
+Incidentes que exponham fontes exigirão prioridade de proteção, acompanhamento jurídico e comunicação conforme responsabilidades concretas.

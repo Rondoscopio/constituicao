@@ -60,3 +60,10 @@ V - medidas de transição econômica e social, considerando distribuição dos 
 - [IPCC, Impactos, Adaptação e Vulnerabilidade (2022)](https://www.ipcc.ch/report/ar6/wg2/chapter/summary-for-policymakers/).
 - [Convenção-Quadro das Nações Unidas sobre Mudança do Clima](https://unfccc.int/).
 - [Constituição Federal, art. 225](https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm).
+
+## DISPOSIÇÕES COMPLEMENTARES
+### DA RESPONSABILIDADE NA COMUNICAÇÃO CIENTÍFICA
+
+**Art. 9.** A organização deverá distinguir o consenso sobre a influência humana no aquecimento global da avaliação de políticas específicas, cujos custos e resultados permanecem sujeitos a debate fundamentado.
+
+**Art. 10.** A divulgação de eventos extremos evitará atribuição causal individual sem estudo pertinente e explicará os limites de modelos, estatísticas e bases ambientais.

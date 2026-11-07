@@ -33,3 +33,11 @@
 **Responsabilidade climática.** Reconhecemos as evidências científicas do aquecimento global causado por atividades humanas e defendemos medidas fundamentadas de mitigação, adaptação e combate à desinformação climática.
 
 **Reparação histórica.** A promoção da igualdade material exige reconhecer e enfrentar consequências persistentes de injustiças históricas, mediante políticas legítimas, transparentes e avaliáveis.
+
+## Valores e garantias de continuidade
+
+Os valores institucionais serão compromissos a observar, não prova de virtude pessoal de integrantes. A honestidade inclui registrar fracassos e correções.
+
+Independência, dignidade, rigor, transparência e proteção de fontes são garantias estruturantes contra captura por dirigente, maioria ocasional ou financiador.
+
+Os valores poderão ser aprofundados mediante debate e evidência, sem que mudanças de redação sejam pretexto para suprimir o núcleo constitucional protegido.

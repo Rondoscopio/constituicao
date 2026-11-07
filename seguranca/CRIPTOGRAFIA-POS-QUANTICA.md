@@ -68,3 +68,11 @@ VII - testes, monitoramento, revisão de novas publicações e retirada segura d
 - [NIST IR 8547, Transição para criptografia pós-quântica, outubro de 2026](https://csrc.nist.gov/pubs/ir/8547/final).
 - [NIST, projeto de criptografia pós-quântica](https://csrc.nist.gov/Projects/Post-Quantum-Cryptography).
 - [OWASP Post-Quantum Cryptography Cheat Sheet](https://cheatsheetseries.owasp.org/cheatsheets/Post_Quantum_Cryptography_Cheat_Sheet.html).
+
+## Migração gradual e risco residual
+
+A transição pós-quântica deverá considerar a vida útil dos segredos, o suporte real de TLS e outras bibliotecas, a interoperabilidade, o desempenho e a atualização de certificados e assinaturas.
+
+A tecnologia escolhida não será declarada segura apenas por usar o termo pós-quântico. Implementação, aleatoriedade, dispositivo e autenticação continuam relevantes.
+
+Sistemas FIDO2, OpenPGP e esquemas clássicos de assinatura deverão ser avaliados individualmente antes de qualquer afirmação de resistência quântica.

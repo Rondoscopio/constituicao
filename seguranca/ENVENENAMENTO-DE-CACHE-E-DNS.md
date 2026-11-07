@@ -38,3 +38,11 @@ Parágrafo único. DNSSEC melhora a autenticidade de respostas DNS quando corret
 - [OWASP Web Security Testing Guide](https://owasp.org/www-project-web-security-testing-guide/)
 - [MITRE ATT&CK T1557.001](https://attack.mitre.org/techniques/T1557/001/)
 - [OWASP Top 10:2025](https://top10.owasp.org/2025/)
+
+## Verificação de efeitos em cadeia
+
+Testes de CDN, proxies e cache compartilhado deverão observar chaves de cache, cabeçalhos, autenticação e separação de informações privadas e públicas.
+
+O monitoramento de mudanças no DNS incluirá registro de alterações legítimas, segurança da conta do registrador e revisão de configuração.
+
+A prova de um comportamento anômalo requer logs e contexto; não se presumirá ataque intencional sem investigação técnica.

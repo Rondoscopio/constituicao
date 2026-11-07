@@ -35,3 +35,10 @@ V - cuidado com a divulgação de detalhes que coloquem pessoas em risco ou faci
 
 - [Constituição Federal, arts. 1º, III, e 5º](https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm).
 - [Declaração Universal dos Direitos Humanos](https://www.un.org/en/about-us/universal-declaration-of-human-rights).
+
+## DISPOSIÇÕES COMPLEMENTARES
+### DA PRIMAZIA DA PROTEÇÃO HUMANA
+
+**Art. 5.** A apuração sobre violência deverá priorizar segurança de vítimas, testemunhas e familiares, com revisão de dados que permitam identificação indireta.
+
+**Art. 6.** Nenhuma busca por justiça autoriza exposição deliberada de pessoas ao risco ou uma política de retaliação contra acusados.

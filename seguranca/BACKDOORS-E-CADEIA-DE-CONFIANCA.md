@@ -47,3 +47,11 @@ VI - alteração dos mecanismos de recuperação e controle de logs.
 - [MITRE T1505: Server Software Component](https://attack.mitre.org/techniques/T1505/)
 - [SLSA](https://slsa.dev/)
 - [OpenSSF](https://openssf.org/)
+
+## Verificação de dependências e exceções
+
+Portas dos fundos podem surgir de código malicioso, credenciais indevidas, mecanismos ocultos de administração ou comprometimento de dependências.
+
+Mecanismos legítimos de acesso de emergência também exigem inventário, autorização, registros e testes para evitar que se tornem vias clandestinas de persistência.
+
+Assinaturas digitais de artefatos demonstram vinculação à chave, mas não comprovam que o software assinado é seguro.

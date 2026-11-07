@@ -59,3 +59,11 @@ VI - revisão documentada dos acessos de terceiros.
 - [MITRE ATT&CK, Social Engineering (T1684)](https://attack.mitre.org/techniques/T1684/)
 - [MITRE ATT&CK, Phishing (T1566)](https://attack.mitre.org/techniques/T1566/)
 - [CISA, Secure Our World](https://www.cisa.gov/secure-our-world)
+
+## Proteção sem desumanização
+
+O risco de manipulação emocional ou aproximação deliberada para obter acesso será tratado por procedimentos de autorização, confirmação independente e segregação de funções.
+
+Ninguém poderá ser acusado de infiltração apenas por estabelecer amizade, relação afetiva ou ter origem política diversa. Solicitações de acesso fora do processo previsto serão verificadas por fatos objetivos.
+
+Treinamentos sobre engenharia social não deverão estimular desconfiança generalizada entre colaboradores.

@@ -38,3 +38,10 @@ VI - redução de barreiras de acesso à informação e a direitos, inclusive ec
 - [Declaração Universal dos Direitos Humanos](https://www.un.org/en/about-us/universal-declaration-of-human-rights).
 - [Carta da Terra](https://earthcharter.org/read-the-earth-charter/).
 - [Objetivos de Desenvolvimento Sustentável](https://sdgs.un.org/goals).
+
+## DISPOSIÇÕES COMPLEMENTARES
+### DA PLURALIDADE NO IDEAL DE BEM-ESTAR
+
+**Art. 7.** O compromisso com a saúde e a felicidade coletiva não autoriza impor modo único de vida, crença ou orientação política a integrantes ou cidadãos.
+
+**Art. 8.** A organização deverá avaliar consequências de suas próprias intervenções e reduzir danos involuntários, especialmente a pessoas vulneráveis.

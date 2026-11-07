@@ -192,3 +192,10 @@ Parágrafo único. A atuação cívica deverá ser transparente e compatível co
 **Art. 34.** A aplicação destes princípios será detalhada em procedimentos editoriais, metodológicos, de segurança e de governança.
 
 **Art. 35.** A aprovação, a alteração e a entrada em vigência desta Carta dependerão de procedimento institucional competente e de registro público, preservada a confidencialidade legítima.
+
+## DISPOSIÇÕES COMPLEMENTARES
+### DA PRIMAZIA DAS GARANTIAS
+
+**Art. 36.** As posições éticas do Rondoscópio não poderão ser interpretadas como autorização para abolir o contraditório, a imparcialidade metodológica ou o direito de crítica interna.
+
+**Art. 37.** A preservação do núcleo de identidade será exigida também de emendas, resoluções, atos executivos e decisões de órgãos disciplinares, na forma da Constituição Institucional.

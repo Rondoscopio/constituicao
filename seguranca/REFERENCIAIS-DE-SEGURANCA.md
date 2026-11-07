@@ -76,3 +76,11 @@ A ligação entre catálogos e controles deverá ser feita por cenários de risc
 - [NIST IR 8547, outubro de 2026](https://csrc.nist.gov/pubs/ir/8547/final): planejamento e transição de criptografia vulnerável à computação quântica.
 
 A referência a padrões atuais não significa que todos os componentes da infraestrutura já os suportem.
+
+## Limites da referência técnica
+
+MITRE, OWASP, CVE, NIST, CISA, FIDO e padrões criptográficos possuem finalidades distintas. Sua citação não constitui conformidade automática ou garantia contra ataque.
+
+Cada política deverá registrar fonte primária, versão, contexto de aplicabilidade, grau de implementação e teste de controle pertinente.
+
+Os referenciais externos serão atualizados conforme mudanças documentadas, sem substituir a avaliação real de ameaças e a preparação humana.

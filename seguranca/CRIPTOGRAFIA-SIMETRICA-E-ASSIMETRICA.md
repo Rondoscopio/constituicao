@@ -50,3 +50,11 @@ V - assinatura digital permite verificar que uma chave específica assinou um co
 - [OWASP Key Management Cheat Sheet](https://cheatsheetseries.owasp.org/cheatsheets/Key_Management_Cheat_Sheet).
 - [NIST FIPS 197, AES](https://csrc.nist.gov/pubs/fips/197/final).
 - [NIST FIPS 203, ML-KEM](https://csrc.nist.gov/pubs/fips/203/final).
+
+## Integridade e proveniência
+
+Cifragem simétrica autenticada, assinatura digital, funções hash e mecanismos assimétricos resolvem problemas distintos; sua combinação deve respeitar os protocolos adotados.
+
+A assinatura não garante veracidade de uma declaração, e hash não garante autoria quando o valor de referência também puder ser adulterado.
+
+A recuperação de material cifrado exigirá planejamento de chaves e prazos sem concessão indiscriminada de privilégios.

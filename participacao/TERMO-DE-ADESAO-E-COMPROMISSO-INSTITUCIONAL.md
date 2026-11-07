@@ -159,3 +159,11 @@ As referências servem de inspiração metodológica. O Debian não participa ne
 **Art. 20.** O compromisso de proteger o Rondoscópio não obriga colaborador a aceitar riscos físicos ou jurídicos desproporcionais, continuar desempenhando funções contra sua vontade ou sacrificar sua segurança em nome de uma liderança.
 
 Consulte também a [Constituição Institucional](../CONSTITUICAO.md), o [Regimento de Papéis](../governanca/REGIMENTO-DE-PAPEIS-E-PERMISSOES.md), o [Comitê de Ética e Conduta](../governanca/COMITE-DE-ETICA-E-CONDUTA.md) e o [Processo de Destituição e Defesa](../governanca/PROCESSO-DE-DESTITUICAO-E-DEFESA.md).
+
+## Disposição interpretativa
+
+O compromisso de fidelidade ao ideal não será lido como licença para desobedecer à lei, ocultar prova, assumir risco pessoal não consentido ou realizar atos violentos em nome da organização.
+
+É legítimo propor reformas e responsabilização de dirigentes, inclusive por impeachment interno quando houver órgão competente e procedimento aprovado.
+
+Nenhuma pessoa perderá automaticamente direitos de participação por formular crítica de boa-fé à administração.

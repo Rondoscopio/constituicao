@@ -72,3 +72,11 @@ Uma chave FIDO2/WebAuthn é gerada e utilizada para autenticação do serviço a
 A cerimônia de verificação presencial inspirada no Debian diz respeito à confiança na identidade e impressão digital de uma chave OpenPGP. Não substitui o cadastro e a validação de credenciais WebAuthn pelo serviço.
 
 Consulte [Autenticação FIDO2, WebAuthn e chaves físicas](AUTENTICACAO-FIDO2-WEBAUTHN-E-CHAVES-FISICAS.md).
+
+## Confiança distribuída e prevenção de personificação
+
+A autenticação da identidade associada a uma chave não deverá depender exclusivamente de um endereço de e-mail ou de um único site sujeito a comprometimento.
+
+As cerimônias inspiradas no Debian preferirão a confirmação pessoal de identidade e fingerprint para funções críticas, sem obrigar entrega de chave privada ou pagamento por hardware de marca específica.
+
+Mudanças inesperadas de chave de publicação institucional deverão receber confirmação por canais independentes e registro de revogação.

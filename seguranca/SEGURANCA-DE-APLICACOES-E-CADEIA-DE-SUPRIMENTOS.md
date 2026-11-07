@@ -63,3 +63,11 @@ VI - separação de ambiente de desenvolvimento, produção e sistemas confidenc
 - [OWASP Cheat Sheet Series](https://cheatsheetseries.owasp.org/)
 - [SLSA](https://slsa.dev/)
 - [CISA SBOM](https://www.cisa.gov/sbom)
+
+## Proveniência e revisão de mudanças
+
+O projeto deverá verificar origem e integridade de dependências, builds, imagens e atualizações e controlar alterações de processos de CI/CD.
+
+Um pacote assinado não é necessariamente seguro. A assinatura confirma vínculo à chave, cuja custódia e processo de publicação também precisam ser confiáveis.
+
+A inserção de backdoors e o abuso de credenciais administrativas serão tratados com revisão de mudanças, acessos mínimos e resposta documentada.

@@ -17,3 +17,11 @@ Acordos climáticos e compromissos das conferências das partes devem ser estuda
 - [Carta da Terra](https://earthcharter.org/read-the-earth-charter/): referenciais éticos de responsabilidade e convivência.
 
 A utilização dessas fontes deverá distinguir objetivos e referências éticas de obrigações jurídicas concretas dos poderes públicos brasileiros.
+
+## Relações entre tratados e compromissos voluntários
+
+A Constituição de 1988, instrumentos internacionais de direitos humanos, documentos do IPCC e diretrizes de jornalismo possuem naturezas distintas e não podem ser somados como se todos criassem obrigações da mesma espécie.
+
+A organização utilizará referências para fundamentar compromissos e análises, indicando quando uma fonte é lei, tratado vinculante, recomendação, síntese científica ou manifestação de organização civil.
+
+A influência de princípios internacionais não significa parceria ou representação de ONU, OMS ou INTERPOL.

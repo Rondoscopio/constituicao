@@ -1,257 +1,252 @@
 # Plano de ampliação e auditoria documental
 
-> **Situação:** instrumento de acompanhamento, não política aprovada. **Data:** 2026-11-07.
-> **Critério:** comparação do inventário desta revisão com o estado do repositório no início da rodada; um arquivo **ampliado** não significa que esteja concluído.
+> **Situação:** registro de minutas para revisão. **Data:** 2026-11-07.
+> **Critério:** comparação entre o início desta revisão e a composição das alterações paralelas. A ampliação textual não equivale a aprovação nem implantação.
 
-## Escopo e compromissos
+## Consolidação das contribuições
 
-O Rondoscópio pretende desenvolver textos completos, verificáveis e coerentes, aproveitando criticamente as referências já registradas. A existência de um documento curto não comprova implementação do procedimento. Nenhum dos arquivos listados deve ser apresentado como política em vigor sem ato de aprovação real.
+- Arquivos existentes ampliados: **188**.
+- Arquivos novos, incluindo este inventário: **23**.
+- Arquivos não ampliados nesta revisão: **0**.
+- Todos os documentos institucionais permanecem **minutas**.
 
-Os temas mais sensíveis exigem revisão jurídica e de segurança antes de produzir efeitos: destituição, composição de comitês, proteção de fontes, cooperação com autoridades, privacidade e retirada de conteúdos.
+Foram preservadas as contribuições paralelas sobre modelos de emenda constitucional institucional, resolução, decreto institucional, instrução normativa, portaria, ordem de serviço, nota técnica, ato declaratório, parecer de conformidade e avaliação de cooperação. Também foram mantidas as novas minutas de segurança sobre ameaças jurídicas, políticas e riscos de captura.
 
-## Prioridades por área
+O outro eixo desta revisão aprofundou a Constituição Institucional, limites à reforma, cláusulas protegidas, apuração do poder, direito de resposta, liberdade de crítica, assédio judicial, cooperação segura e salvaguardas contra abuso interno.
 
-| Área | Prioridade | Verificação necessária |
-| --- | --- | --- |
-| governanca | Alta | Competências, quórum, limites de reforma e consistência com Código Civil |
-| editorial | Alta | Direito de resposta, correções, prova e revisão de imputações |
-| denuncias | Alta | Risco de identificação de fontes, capacidade do canal e encaminhamentos |
-| direitos | Alta | Fundamentação, vigência normativa e preservação do direito de defesa |
-| seguranca | Alta | Controles testáveis, recuperações, limitação de acesso e operação de incidentes |
-| metodologia | Alta | Critérios de evidência, contraprovas e reprodutibilidade |
-| principios | Alta | Coerência interna, aplicação prática, acessibilidade e registro de revisão |
-| participacao | Média | Coerência interna, aplicação prática, acessibilidade e registro de revisão |
-| transparencia | Média | Coerência interna, aplicação prática, acessibilidade e registro de revisão |
-| memoria | Média | Coerência interna, aplicação prática, acessibilidade e registro de revisão |
-| educacao | Média | Coerência interna, aplicação prática, acessibilidade e registro de revisão |
-| identidade | Média | Coerência interna, aplicação prática, acessibilidade e registro de revisão |
-| processos | Alta | Coerência interna, aplicação prática, acessibilidade e registro de revisão |
-| referencias | Alta | Fonte primária, licença, atribuição e natureza da inspiração |
-| modelos | Média | Coerência interna, aplicação prática, acessibilidade e registro de revisão |
+## Critérios para considerar um documento maduro
 
-## Critérios mínimos de conclusão
-
-1. Escopo, competência, objeto e público claramente definidos.
-2. Regras ou compromissos verificáveis, sem obrigações impossíveis ou vagas.
-3. Exceções, limites, conflitos de interesses, revisão e recurso quando pertinentes.
-4. Conformidade com normas jurídicas aplicáveis, com consulta a fontes vigentes.
-5. Referências completas, atribuição adequada e ausência de indicação de parceria inexistente.
-6. Compatibilidade com a Constituição interna, especialmente as garantias protegidas.
-7. Exame de riscos a pessoas, fontes, dados e continuidade.
-8. Revisão editorial independente quando houver equipe e procedimento efetivos.
+1. Identificar finalidade, competência, destinatários, regras e exceções.
+2. Respeitar a Constituição interna, a legislação e os direitos fundamentais.
+3. Definir meio de contestação, revisão e publicidade proporcional quando necessário.
+4. Verificar fontes primárias, direitos autorais, atribuições e versões relevantes.
+5. Avaliar impactos em segurança, privacidade, fontes, independência e continuidade.
+6. Confirmar coerência das remissões, numeração e hierarquia dos atos.
+7. Distinguir compromisso normativo de controle técnico efetivamente implementado.
+8. Obter revisão especializada e aprovação por instância realmente competente.
 
 ## Inventário integral
 
-**Legenda:** "Criado nesta revisão" ou "Ampliado nesta revisão" indica intervenção documental neste ciclo, não aprovação ou validação jurídica. "A aprofundar" indica ausência de alteração nesta rodada e necessidade de revisão de conteúdo.
+O estado abaixo refere-se ao trabalho textual nesta revisão. **Não indica que cada documento esteja juridicamente correto, completo ou em vigor.**
 
-| Arquivo | Situação |
+| Arquivo | Situação nesta revisão |
 | --- | --- |
-| .github/PULL_REQUEST_TEMPLATE.md | A aprofundar |
-| CARTA-FUNDADORA.md | Ampliado nesta revisão |
-| CHANGELOG.md | Ampliado nesta revisão |
-| CODE_OF_CONDUCT.md | A aprofundar |
-| CONSTITUICAO.md | Ampliado nesta revisão |
-| CONTRIBUTING.md | Ampliado nesta revisão |
-| MANIFESTO.md | Ampliado nesta revisão |
-| README.md | Ampliado nesta revisão |
-| SECURITY.md | A aprofundar |
-| denuncias/ANONIMATO-E-PSEUDONIMATO.md | Ampliado nesta revisão |
-| denuncias/COMUNICACAO-SEGURA.md | Ampliado nesta revisão |
-| denuncias/CONFIDENCIALIDADE-E-SIGILO.md | Ampliado nesta revisão |
-| denuncias/COOPERACAO-SEGURA-COM-AUTORIDADES.md | Criado nesta revisão |
-| denuncias/ENCAMINHAMENTO-A-AUTORIDADES.md | Ampliado nesta revisão |
-| denuncias/POLITICA-DE-RECEBIMENTO.md | Ampliado nesta revisão |
-| denuncias/PROTECAO-CONTRA-RETALIACOES.md | Ampliado nesta revisão |
-| denuncias/REDE-DE-FONTES-PROTEGIDAS.md | Ampliado nesta revisão |
-| denuncias/RETENCAO-E-EXCLUSAO.md | Ampliado nesta revisão |
-| denuncias/TRATAMENTO-DE-EVIDENCIAS.md | Ampliado nesta revisão |
-| denuncias/TRIAGEM-E-VERIFICACAO.md | Ampliado nesta revisão |
-| direitos/CANAIS-DE-APOIO-E-PROTECAO.md | A aprofundar |
-| direitos/DIREITO-DE-PETICAO-E-INFORMACAO.md | A aprofundar |
-| direitos/FUNDAMENTACAO-CONSTITUCIONAL.md | A aprofundar |
-| direitos/LIBERDADE-DE-EXPRESSAO-E-IMPRENSA.md | Ampliado nesta revisão |
-| direitos/PREVENCAO-A-ASSEDIO-JUDICIAL.md | Ampliado nesta revisão |
-| direitos/PROTECAO-CONTRA-ASSEDIO-JUDICIAL-E-PERSEGUICAO.md | Criado nesta revisão |
-| direitos/PROTECAO-DE-DADOS-PESSOAIS.md | Ampliado nesta revisão |
-| direitos/PROTECAO-DE-DENUNCIANTES.md | A aprofundar |
-| direitos/PROTECAO-JURIDICA-DE-COMUNICADORES.md | Ampliado nesta revisão |
-| editorial/ARQUIVAMENTO-E-RETIRADA-DE-CONTEUDO.md | A aprofundar |
-| editorial/CONTESTACOES-E-RECURSOS.md | A aprofundar |
-| editorial/CORRECOES-E-RETRATACOES.md | Ampliado nesta revisão |
-| editorial/CRITICA-PUBLICA-SATIRA-E-RESPONSABILIDADE.md | Criado nesta revisão |
-| editorial/DIREITO-DE-RESPOSTA.md | Ampliado nesta revisão |
-| editorial/ESTILO-DE-REDACAO.md | A aprofundar |
-| editorial/INDEPENDENCIA-EDITORIAL.md | Ampliado nesta revisão |
-| editorial/INTERESSE-PUBLICO-E-PRIVACIDADE.md | A aprofundar |
-| editorial/INVESTIGACAO-DE-AUTORIDADES-E-PODERES.md | Criado nesta revisão |
-| editorial/LGPD-JORNALISMO-E-MINIMIZACAO-DE-DADOS.md | Criado nesta revisão |
-| editorial/POLITICA-EDITORIAL.md | Ampliado nesta revisão |
-| editorial/PRESUNCAO-DE-INOCENCIA.md | Ampliado nesta revisão |
-| editorial/PROTECAO-DE-PESSOAS-VULNERAVEIS.md | A aprofundar |
-| editorial/REVISAO-E-PUBLICACAO.md | Ampliado nesta revisão |
-| editorial/TRANSPARENCIA-EDITORIAL.md | Ampliado nesta revisão |
-| educacao/COMPROMISSO-EDUCACIONAL.md | Ampliado nesta revisão |
-| educacao/CRITERIOS-DIDATICOS.md | Ampliado nesta revisão |
-| educacao/EDUCACAO-CIENTIFICA.md | Ampliado nesta revisão |
-| educacao/EDUCACAO-CIVICA-E-CONSTITUCIONAL.md | Ampliado nesta revisão |
-| educacao/EDUCACAO-EM-DIREITOS-HUMANOS.md | Ampliado nesta revisão |
-| educacao/EDUCACAO-EM-PRIVACIDADE-DIGITAL.md | Ampliado nesta revisão |
-| educacao/EDUCACAO-HISTORICA.md | Ampliado nesta revisão |
-| educacao/EDUCACAO-MIDIATICA.md | Ampliado nesta revisão |
-| governanca/ALTERACAO-DOS-FUNDAMENTOS.md | Ampliado nesta revisão |
-| governanca/CLAUSULAS-DE-IDENTIDADE-E-LIMITES-A-REFORMA.md | Criado nesta revisão |
-| governanca/COMITE-DE-ETICA-E-CONDUTA.md | Ampliado nesta revisão |
-| governanca/COMPETENCIAS-E-RESPONSABILIDADES.md | A aprofundar |
-| governanca/CONFLITOS-DE-INTERESSES.md | Ampliado nesta revisão |
-| governanca/ESTATUTO-SOCIAL.md | Ampliado nesta revisão |
-| governanca/ESTRUTURA-ORGANIZACIONAL.md | A aprofundar |
-| governanca/GESTAO-DE-RISCOS.md | A aprofundar |
-| governanca/HIERARQUIA-E-ESPECIES-NORMATIVAS.md | Criado nesta revisão |
-| governanca/MODELO-INSTITUCIONAL.md | A aprofundar |
-| governanca/POLITICA-DE-FINANCIAMENTO.md | Ampliado nesta revisão |
-| governanca/PRESTACAO-DE-CONTAS.md | A aprofundar |
-| governanca/PROCEDIMENTO-DE-CONTROLE-DE-CONSTITUCIONALIDADE-INTERNA.md | Criado nesta revisão |
-| governanca/PROCESSO-DE-DESTITUICAO-E-DEFESA.md | Ampliado nesta revisão |
-| governanca/PROTECAO-CONTRA-CAPTURA-INSTITUCIONAL.md | Ampliado nesta revisão |
-| governanca/REGIMENTO-DE-PAPEIS-E-PERMISSOES.md | Ampliado nesta revisão |
-| governanca/SUCESSAO-E-CONTINUIDADE.md | A aprofundar |
-| governanca/TOMADA-DE-DECISOES.md | Ampliado nesta revisão |
-| governanca/TRANSICAO-ADMINISTRATIVA-E-SUCESSAO.md | Ampliado nesta revisão |
-| identidade/ESCOPO-E-LIMITES.md | Ampliado nesta revisão |
-| identidade/IDENTIDADE-VISUAL.md | A aprofundar |
-| identidade/MISSAO.md | A aprofundar |
-| identidade/OBJETIVOS.md | A aprofundar |
-| identidade/PROPOSITO.md | A aprofundar |
-| identidade/VALORES.md | A aprofundar |
-| identidade/VISAO.md | A aprofundar |
-| memoria/CRITERIOS-HISTORIOGRAFICOS.md | Ampliado nesta revisão |
-| memoria/DIREITOS-E-LICENCAS-DO-ACERVO.md | A aprofundar |
-| memoria/PATRIMONIO-CULTURAL-E-HISTORICO.md | A aprofundar |
-| memoria/POLITICA-DE-MEMORIA.md | Ampliado nesta revisão |
-| memoria/PRESERVACAO-DOCUMENTAL.md | Ampliado nesta revisão |
-| memoria/TRATAMENTO-DE-TESTEMUNHOS.md | A aprofundar |
-| metodologia/ANALISE-DE-DESINFORMACAO.md | Ampliado nesta revisão |
-| metodologia/AVALIACAO-DE-POLITICAS-CLIMATICAS-E-REPARATORIAS.md | A aprofundar |
-| metodologia/AVALIACAO-DE-POLITICAS-PUBLICAS.md | Ampliado nesta revisão |
-| metodologia/CRITERIOS-DE-EVIDENCIA.md | Ampliado nesta revisão |
-| metodologia/DETECCAO-DE-ANOMALIAS.md | A aprofundar |
-| metodologia/FONTES-E-PROVENIENCIA.md | A aprofundar |
-| metodologia/IDENTIFICACAO-DE-ENTIDADES.md | A aprofundar |
-| metodologia/INDICADORES-E-SERIES-HISTORICAS.md | A aprofundar |
-| metodologia/INVESTIGACAO-DE-ATOS-E-OMISSOES.md | Ampliado nesta revisão |
-| metodologia/INVESTIGACAO-DE-CRIMINALIDADE-E-COOPERACAO-INTERNACIONAL.md | A aprofundar |
-| metodologia/INVESTIGACAO-DE-INTERESSES-E-RELACOES.md | Ampliado nesta revisão |
-| metodologia/INVESTIGACAO-FUNDIARIA-E-AMBIENTAL.md | A aprofundar |
-| metodologia/LICITACOES-CONTRATOS-E-PRECOS.md | A aprofundar |
-| metodologia/LIMITACOES-E-INCERTEZAS.md | A aprofundar |
-| metodologia/METODOLOGIA-DE-INVESTIGACAO.md | Ampliado nesta revisão |
-| metodologia/MONITORAMENTO-DE-DISCURSOS.md | A aprofundar |
-| metodologia/MONITORAMENTO-DE-SERVICOS-PUBLICOS.md | A aprofundar |
-| metodologia/ORCAMENTO-EMENDAS-E-TRANSFERENCIAS.md | A aprofundar |
-| metodologia/PROCESSOS-JUDICIAIS-E-SANCOES.md | A aprofundar |
-| metodologia/USO-DE-INTELIGENCIA-ARTIFICIAL.md | Ampliado nesta revisão |
-| metodologia/VERIFICACAO-DE-FATOS.md | Ampliado nesta revisão |
-| modelos/DECLARACAO-DE-ADESAO.md | A aprofundar |
-| modelos/MODELO-DE-ATO-INSTITUCIONAL.md | Criado nesta revisão |
-| modelos/MODELO-DE-ATO-NORMATIVO.md | A aprofundar |
-| modelos/MODELO-DE-AVALIACAO-DE-RISCO.md | A aprofundar |
-| modelos/MODELO-DE-DOCUMENTO.md | A aprofundar |
-| modelos/MODELO-DE-INVESTIGACAO.md | A aprofundar |
-| modelos/MODELO-DE-REFERENCIA.md | A aprofundar |
-| modelos/MODELO-DE-RELATORIO.md | A aprofundar |
-| modelos/MODELO-DE-RETIFICACAO.md | A aprofundar |
-| participacao/COLABORACAO-E-VOLUNTARIADO.md | Ampliado nesta revisão |
-| participacao/CONTROLE-SOCIAL.md | Ampliado nesta revisão |
-| participacao/MANIFESTACOES-E-RECLAMACOES.md | A aprofundar |
-| participacao/PARTICIPACAO-CIDADA.md | Ampliado nesta revisão |
-| participacao/PEDIDOS-DE-ACESSO-A-INFORMACAO.md | Ampliado nesta revisão |
-| participacao/PROCESSO-DE-INGRESSO.md | A aprofundar |
-| participacao/PROTECAO-CONTRA-INSTRUMENTALIZACAO.md | Ampliado nesta revisão |
-| participacao/TERMO-DE-ADESAO-E-COMPROMISSO-INSTITUCIONAL.md | A aprofundar |
-| principios/CARTA-DE-PRINCIPIOS.md | A aprofundar |
-| principios/COMBATE-A-CRIMINALIDADE-E-ECONOMIAS-ILICITAS.md | A aprofundar |
-| principios/COMPROMISSO-COM-UM-MUNDO-JUSTO-E-SAUDAVEL.md | A aprofundar |
-| principios/COOPERACAO-INTERNACIONAL-E-ORGANISMOS.md | A aprofundar |
-| principios/DEMOCRACIA-E-ESTADO-DE-DIREITO.md | A aprofundar |
-| principios/DIGNIDADE-E-DIREITOS-HUMANOS.md | A aprofundar |
-| principios/DIREITO-A-VIDA-E-PROTECAO-CONTRA-VIOLENCIA.md | A aprofundar |
-| principios/DIREITOS-SEXUAIS-E-REPRODUTIVOS.md | A aprofundar |
-| principios/ENFRENTAMENTO-DAS-MUDANCAS-CLIMATICAS.md | A aprofundar |
-| principios/ETICA-MORAL-E-RESPONSABILIDADE.md | A aprofundar |
-| principios/FUNCAO-SOCIAL-DA-PROPRIEDADE.md | A aprofundar |
-| principios/IGUALDADE-E-NAO-DISCRIMINACAO.md | A aprofundar |
-| principios/INDEPENDENCIA-E-IMPARCIALIDADE.md | A aprofundar |
-| principios/JUSTICA-SOCIAL-E-ECONOMICA.md | A aprofundar |
-| principios/LAICIDADE-E-LIBERDADE-RELIGIOSA.md | A aprofundar |
-| principios/LIBERDADES-FUNDAMENTAIS.md | A aprofundar |
-| principios/MEMORIA-E-DIREITO-A-INFORMACAO.md | A aprofundar |
-| principios/PROTECAO-AMBIENTAL.md | A aprofundar |
-| principios/PRUDENCIA-E-RESISTENCIA-A-MANIPULACAO.md | A aprofundar |
-| principios/REPARACAO-DE-DESIGUALDADES-HISTORICAS.md | A aprofundar |
-| principios/REPUDIO-A-TORTURA-E-AUTORITARISMO.md | A aprofundar |
-| principios/RIGOR-CIENTIFICO-E-EPISTEMOLOGICO.md | A aprofundar |
-| processos/CICLO-DE-VIDA-DOS-DOCUMENTOS.md | A aprofundar |
-| processos/ESTRUTURA-NORMATIVA.md | Ampliado nesta revisão |
-| processos/PROPOSTAS-DE-ALTERACAO.md | A aprofundar |
-| processos/REGISTRO-DE-DECISOES.md | A aprofundar |
-| processos/REVISAO-E-APROVACAO.md | A aprofundar |
-| processos/VERSIONAMENTO-E-VIGENCIA.md | A aprofundar |
-| referencias/ATRIBUICOES-E-LICENCAS.md | A aprofundar |
-| referencias/BIBLIOGRAFIA.md | A aprofundar |
-| referencias/DIREITOS-HUMANOS-E-COOPERACAO-INTERNACIONAL.md | A aprofundar |
-| referencias/LICOES-DE-MOVIMENTOS-CIVICOS-E-JORNALISMO.md | Criado nesta revisão |
-| referencias/MANIFESTOS-E-CARTAS.md | Ampliado nesta revisão |
-| referencias/METODOLOGIAS-E-CODIGOS-ETICOS.md | Ampliado nesta revisão |
-| referencias/NORMAS-E-LEGISLACAO.md | A aprofundar |
-| referencias/ORGANIZACOES-E-PROJETOS.md | Ampliado nesta revisão |
-| referencias/REFERENCIAIS-INTERNACIONAIS.md | A aprofundar |
-| referencias/REFERENCIAS-E-INSPIRACOES.md | Ampliado nesta revisão |
-| referencias/SOFTWARE-LIVRE-E-DADOS-ABERTOS.md | A aprofundar |
-| seguranca/ALEATORIEDADE-ENTROPIA-E-GERACAO-DE-SEGREDOS.md | A aprofundar |
-| seguranca/AUTENTICACAO-FIDO2-WEBAUTHN-E-CHAVES-FISICAS.md | A aprofundar |
-| seguranca/AUTENTICIDADE-INTERCEPTACAO-E-SPOOFING.md | A aprofundar |
-| seguranca/BACKDOORS-E-CADEIA-DE-CONFIANCA.md | A aprofundar |
-| seguranca/BACKUPS-E-RECUPERACAO.md | A aprofundar |
-| seguranca/CLASSIFICACAO-DAS-INFORMACOES.md | A aprofundar |
-| seguranca/CONFIANCA-OPENPGP-E-CERIMONIA-DE-CHAVES.md | A aprofundar |
-| seguranca/CONTINUIDADE-OPERACIONAL.md | Ampliado nesta revisão |
-| seguranca/CRIPTOGRAFIA-E-GESTAO-DE-CHAVES.md | A aprofundar |
-| seguranca/CRIPTOGRAFIA-POS-QUANTICA.md | A aprofundar |
-| seguranca/CRIPTOGRAFIA-SIMETRICA-E-ASSIMETRICA.md | A aprofundar |
-| seguranca/DETECCAO-CONTINUA-E-ANTECIPACAO-DEFENSIVA.md | A aprofundar |
-| seguranca/DOMINIOS-REGISTRO-E-STATUS-EPP.md | A aprofundar |
-| seguranca/DUPLA-LEALDADE-E-RISCOS-INTERNOS.md | A aprofundar |
-| seguranca/ENGENHARIA-SOCIAL-E-INFILTRACAO.md | A aprofundar |
-| seguranca/ENVENENAMENTO-DE-CACHE-E-DNS.md | A aprofundar |
-| seguranca/ESPIONAGEM-E-AMEACAS-AVANCADAS.md | A aprofundar |
-| seguranca/GESTAO-DE-VULNERABILIDADES.md | A aprofundar |
-| seguranca/INTELIGENCIA-DE-AMEACAS-E-CONTRAINTELIGENCIA.md | Ampliado nesta revisão |
-| seguranca/LOGS-TELEMETRIA-E-TRILHAS-DE-AUDITORIA.md | A aprofundar |
-| seguranca/MITRE-CATALOGO-DE-TATICAS-MITIGACOES-E-DETECCOES.md | A aprofundar |
-| seguranca/MODELO-PUBLICO-DE-AMEACAS.md | Ampliado nesta revisão |
-| seguranca/OWASP-CATALOGOS-PROATIVOS-E-CASOS.md | A aprofundar |
-| seguranca/POLITICA-DE-SEGURANCA.md | Ampliado nesta revisão |
-| seguranca/POST-MORTEM-E-LICOES-APRENDIDAS.md | A aprofundar |
-| seguranca/PRESERVACAO-E-ESPELHAMENTO.md | Ampliado nesta revisão |
-| seguranca/REFERENCIAIS-DE-SEGURANCA.md | A aprofundar |
-| seguranca/RESPOSTA-A-INCIDENTES.md | A aprofundar |
-| seguranca/SEGREGACAO-DE-SISTEMAS-E-DADOS.md | A aprofundar |
-| seguranca/SEGURANCA-DE-APLICACOES-E-CADEIA-DE-SUPRIMENTOS.md | A aprofundar |
-| seguranca/SEGURANCA-DOS-COLABORADORES.md | A aprofundar |
-| transparencia/COMPROMISSOS-DE-TRANSPARENCIA.md | Ampliado nesta revisão |
-| transparencia/DIVULGACAO-DE-CONFLITOS.md | Ampliado nesta revisão |
-| transparencia/INDICADORES-DA-ORGANIZACAO.md | Ampliado nesta revisão |
-| transparencia/PUBLICIDADE-DAS-DECISOES.md | Ampliado nesta revisão |
-| transparencia/RELATORIOS-DE-ATIVIDADES.md | Ampliado nesta revisão |
-| transparencia/TRANSPARENCIA-FINANCEIRA.md | Ampliado nesta revisão |
+| .github/PULL_REQUEST_TEMPLATE.md | Ampliado nesta etapa |
+| CARTA-FUNDADORA.md | Ampliado nesta etapa |
+| CHANGELOG.md | Ampliado nesta etapa |
+| CODE_OF_CONDUCT.md | Ampliado nesta etapa |
+| CONSTITUICAO.md | Ampliado nesta etapa |
+| CONTRIBUTING.md | Ampliado nesta etapa |
+| MANIFESTO.md | Ampliado nesta etapa |
+| README.md | Ampliado nesta etapa |
+| SECURITY.md | Ampliado nesta etapa |
+| denuncias/ANONIMATO-E-PSEUDONIMATO.md | Ampliado nesta etapa |
+| denuncias/COMUNICACAO-SEGURA.md | Ampliado nesta etapa |
+| denuncias/CONFIDENCIALIDADE-E-SIGILO.md | Ampliado nesta etapa |
+| denuncias/COOPERACAO-SEGURA-COM-AUTORIDADES.md | Criado nesta etapa |
+| denuncias/ENCAMINHAMENTO-A-AUTORIDADES.md | Ampliado nesta etapa |
+| denuncias/POLITICA-DE-RECEBIMENTO.md | Ampliado nesta etapa |
+| denuncias/PROTECAO-CONTRA-RETALIACOES.md | Ampliado nesta etapa |
+| denuncias/REDE-DE-FONTES-PROTEGIDAS.md | Ampliado nesta etapa |
+| denuncias/RETENCAO-E-EXCLUSAO.md | Ampliado nesta etapa |
+| denuncias/TRATAMENTO-DE-EVIDENCIAS.md | Ampliado nesta etapa |
+| denuncias/TRIAGEM-E-VERIFICACAO.md | Ampliado nesta etapa |
+| direitos/CANAIS-DE-APOIO-E-PROTECAO.md | Ampliado nesta etapa |
+| direitos/DIREITO-DE-PETICAO-E-INFORMACAO.md | Ampliado nesta etapa |
+| direitos/FUNDAMENTACAO-CONSTITUCIONAL.md | Ampliado nesta etapa |
+| direitos/LIBERDADE-DE-EXPRESSAO-E-IMPRENSA.md | Ampliado nesta etapa |
+| direitos/PREVENCAO-A-ASSEDIO-JUDICIAL.md | Ampliado nesta etapa |
+| direitos/PROTECAO-CONTRA-ASSEDIO-JUDICIAL-E-PERSEGUICAO.md | Criado nesta etapa |
+| direitos/PROTECAO-DE-DADOS-PESSOAIS.md | Ampliado nesta etapa |
+| direitos/PROTECAO-DE-DENUNCIANTES.md | Ampliado nesta etapa |
+| direitos/PROTECAO-JURIDICA-DE-COMUNICADORES.md | Ampliado nesta etapa |
+| editorial/ARQUIVAMENTO-E-RETIRADA-DE-CONTEUDO.md | Ampliado nesta etapa |
+| editorial/CONTESTACOES-E-RECURSOS.md | Ampliado nesta etapa |
+| editorial/CORRECOES-E-RETRATACOES.md | Ampliado nesta etapa |
+| editorial/CRITICA-PUBLICA-SATIRA-E-RESPONSABILIDADE.md | Criado nesta etapa |
+| editorial/DIREITO-DE-RESPOSTA.md | Ampliado nesta etapa |
+| editorial/ESTILO-DE-REDACAO.md | Ampliado nesta etapa |
+| editorial/INDEPENDENCIA-EDITORIAL.md | Ampliado nesta etapa |
+| editorial/INTERESSE-PUBLICO-E-PRIVACIDADE.md | Ampliado nesta etapa |
+| editorial/INVESTIGACAO-DE-AUTORIDADES-E-PODERES.md | Criado nesta etapa |
+| editorial/LGPD-JORNALISMO-E-MINIMIZACAO-DE-DADOS.md | Criado nesta etapa |
+| editorial/POLITICA-EDITORIAL.md | Ampliado nesta etapa |
+| editorial/PRESUNCAO-DE-INOCENCIA.md | Ampliado nesta etapa |
+| editorial/PROTECAO-DE-PESSOAS-VULNERAVEIS.md | Ampliado nesta etapa |
+| editorial/REVISAO-E-PUBLICACAO.md | Ampliado nesta etapa |
+| editorial/TRANSPARENCIA-EDITORIAL.md | Ampliado nesta etapa |
+| educacao/COMPROMISSO-EDUCACIONAL.md | Ampliado nesta etapa |
+| educacao/CRITERIOS-DIDATICOS.md | Ampliado nesta etapa |
+| educacao/EDUCACAO-CIENTIFICA.md | Ampliado nesta etapa |
+| educacao/EDUCACAO-CIVICA-E-CONSTITUCIONAL.md | Ampliado nesta etapa |
+| educacao/EDUCACAO-EM-DIREITOS-HUMANOS.md | Ampliado nesta etapa |
+| educacao/EDUCACAO-EM-PRIVACIDADE-DIGITAL.md | Ampliado nesta etapa |
+| educacao/EDUCACAO-HISTORICA.md | Ampliado nesta etapa |
+| educacao/EDUCACAO-MIDIATICA.md | Ampliado nesta etapa |
+| governanca/ALTERACAO-DOS-FUNDAMENTOS.md | Ampliado nesta etapa |
+| governanca/CLAUSULAS-DE-IDENTIDADE-E-LIMITES-A-REFORMA.md | Criado nesta etapa |
+| governanca/COMITE-DE-ETICA-E-CONDUTA.md | Ampliado nesta etapa |
+| governanca/COMPETENCIAS-E-RESPONSABILIDADES.md | Ampliado nesta etapa |
+| governanca/CONFLITOS-DE-INTERESSES.md | Ampliado nesta etapa |
+| governanca/ESTATUTO-SOCIAL.md | Ampliado nesta etapa |
+| governanca/ESTRUTURA-ORGANIZACIONAL.md | Ampliado nesta etapa |
+| governanca/GESTAO-DE-RISCOS.md | Ampliado nesta etapa |
+| governanca/HIERARQUIA-E-ESPECIES-NORMATIVAS.md | Criado nesta etapa |
+| governanca/MODELO-INSTITUCIONAL.md | Ampliado nesta etapa |
+| governanca/POLITICA-DE-FINANCIAMENTO.md | Ampliado nesta etapa |
+| governanca/PRESTACAO-DE-CONTAS.md | Ampliado nesta etapa |
+| governanca/PROCEDIMENTO-DE-CONTROLE-DE-CONSTITUCIONALIDADE-INTERNA.md | Criado nesta etapa |
+| governanca/PROCESSO-DE-DESTITUICAO-E-DEFESA.md | Ampliado nesta etapa |
+| governanca/PROTECAO-CONTRA-CAPTURA-INSTITUCIONAL.md | Ampliado nesta etapa |
+| governanca/REGIMENTO-DE-PAPEIS-E-PERMISSOES.md | Ampliado nesta etapa |
+| governanca/SUCESSAO-E-CONTINUIDADE.md | Ampliado nesta etapa |
+| governanca/TOMADA-DE-DECISOES.md | Ampliado nesta etapa |
+| governanca/TRANSICAO-ADMINISTRATIVA-E-SUCESSAO.md | Ampliado nesta etapa |
+| identidade/ESCOPO-E-LIMITES.md | Ampliado nesta etapa |
+| identidade/IDENTIDADE-VISUAL.md | Ampliado nesta etapa |
+| identidade/MISSAO.md | Ampliado nesta etapa |
+| identidade/OBJETIVOS.md | Ampliado nesta etapa |
+| identidade/PROPOSITO.md | Ampliado nesta etapa |
+| identidade/VALORES.md | Ampliado nesta etapa |
+| identidade/VISAO.md | Ampliado nesta etapa |
+| memoria/CRITERIOS-HISTORIOGRAFICOS.md | Ampliado nesta etapa |
+| memoria/DIREITOS-E-LICENCAS-DO-ACERVO.md | Ampliado nesta etapa |
+| memoria/PATRIMONIO-CULTURAL-E-HISTORICO.md | Ampliado nesta etapa |
+| memoria/POLITICA-DE-MEMORIA.md | Ampliado nesta etapa |
+| memoria/PRESERVACAO-DOCUMENTAL.md | Ampliado nesta etapa |
+| memoria/TRATAMENTO-DE-TESTEMUNHOS.md | Ampliado nesta etapa |
+| metodologia/ANALISE-DE-DESINFORMACAO.md | Ampliado nesta etapa |
+| metodologia/AVALIACAO-DE-POLITICAS-CLIMATICAS-E-REPARATORIAS.md | Ampliado nesta etapa |
+| metodologia/AVALIACAO-DE-POLITICAS-PUBLICAS.md | Ampliado nesta etapa |
+| metodologia/CRITERIOS-DE-EVIDENCIA.md | Ampliado nesta etapa |
+| metodologia/DETECCAO-DE-ANOMALIAS.md | Ampliado nesta etapa |
+| metodologia/FONTES-E-PROVENIENCIA.md | Ampliado nesta etapa |
+| metodologia/IDENTIFICACAO-DE-ENTIDADES.md | Ampliado nesta etapa |
+| metodologia/INDICADORES-E-SERIES-HISTORICAS.md | Ampliado nesta etapa |
+| metodologia/INVESTIGACAO-DE-ATOS-E-OMISSOES.md | Ampliado nesta etapa |
+| metodologia/INVESTIGACAO-DE-CRIMINALIDADE-E-COOPERACAO-INTERNACIONAL.md | Ampliado nesta etapa |
+| metodologia/INVESTIGACAO-DE-INTERESSES-E-RELACOES.md | Ampliado nesta etapa |
+| metodologia/INVESTIGACAO-FUNDIARIA-E-AMBIENTAL.md | Ampliado nesta etapa |
+| metodologia/LICITACOES-CONTRATOS-E-PRECOS.md | Ampliado nesta etapa |
+| metodologia/LIMITACOES-E-INCERTEZAS.md | Ampliado nesta etapa |
+| metodologia/METODOLOGIA-DE-INVESTIGACAO.md | Ampliado nesta etapa |
+| metodologia/MONITORAMENTO-DE-DISCURSOS.md | Ampliado nesta etapa |
+| metodologia/MONITORAMENTO-DE-SERVICOS-PUBLICOS.md | Ampliado nesta etapa |
+| metodologia/ORCAMENTO-EMENDAS-E-TRANSFERENCIAS.md | Ampliado nesta etapa |
+| metodologia/PROCESSOS-JUDICIAIS-E-SANCOES.md | Ampliado nesta etapa |
+| metodologia/USO-DE-INTELIGENCIA-ARTIFICIAL.md | Ampliado nesta etapa |
+| metodologia/VERIFICACAO-DE-FATOS.md | Ampliado nesta etapa |
+| modelos/DECLARACAO-DE-ADESAO.md | Ampliado nesta etapa |
+| modelos/MODELO-DE-ANALISE-DE-COOPERACAO.md | Criado nesta etapa |
+| modelos/MODELO-DE-ATO-DECLARATORIO.md | Criado nesta etapa |
+| modelos/MODELO-DE-ATO-INSTITUCIONAL.md | Criado nesta etapa |
+| modelos/MODELO-DE-ATO-NORMATIVO.md | Ampliado nesta etapa |
+| modelos/MODELO-DE-AVALIACAO-DE-RISCO.md | Ampliado nesta etapa |
+| modelos/MODELO-DE-DECRETO-INSTITUCIONAL.md | Criado nesta etapa |
+| modelos/MODELO-DE-DOCUMENTO.md | Ampliado nesta etapa |
+| modelos/MODELO-DE-EMENDA-CONSTITUCIONAL-INSTITUCIONAL.md | Criado nesta etapa |
+| modelos/MODELO-DE-INSTRUCAO-NORMATIVA.md | Criado nesta etapa |
+| modelos/MODELO-DE-INVESTIGACAO.md | Ampliado nesta etapa |
+| modelos/MODELO-DE-NOTA-TECNICA.md | Criado nesta etapa |
+| modelos/MODELO-DE-ORDEM-DE-SERVICO.md | Criado nesta etapa |
+| modelos/MODELO-DE-PARECER-DE-CONFORMIDADE.md | Criado nesta etapa |
+| modelos/MODELO-DE-PORTARIA.md | Criado nesta etapa |
+| modelos/MODELO-DE-REFERENCIA.md | Ampliado nesta etapa |
+| modelos/MODELO-DE-RELATORIO.md | Ampliado nesta etapa |
+| modelos/MODELO-DE-RESOLUCAO.md | Criado nesta etapa |
+| modelos/MODELO-DE-RETIFICACAO.md | Ampliado nesta etapa |
+| participacao/COLABORACAO-E-VOLUNTARIADO.md | Ampliado nesta etapa |
+| participacao/CONTROLE-SOCIAL.md | Ampliado nesta etapa |
+| participacao/MANIFESTACOES-E-RECLAMACOES.md | Ampliado nesta etapa |
+| participacao/PARTICIPACAO-CIDADA.md | Ampliado nesta etapa |
+| participacao/PEDIDOS-DE-ACESSO-A-INFORMACAO.md | Ampliado nesta etapa |
+| participacao/PROCESSO-DE-INGRESSO.md | Ampliado nesta etapa |
+| participacao/PROTECAO-CONTRA-INSTRUMENTALIZACAO.md | Ampliado nesta etapa |
+| participacao/TERMO-DE-ADESAO-E-COMPROMISSO-INSTITUCIONAL.md | Ampliado nesta etapa |
+| principios/CARTA-DE-PRINCIPIOS.md | Ampliado nesta etapa |
+| principios/COMBATE-A-CRIMINALIDADE-E-ECONOMIAS-ILICITAS.md | Ampliado nesta etapa |
+| principios/COMPROMISSO-COM-UM-MUNDO-JUSTO-E-SAUDAVEL.md | Ampliado nesta etapa |
+| principios/COOPERACAO-INTERNACIONAL-E-ORGANISMOS.md | Ampliado nesta etapa |
+| principios/DEMOCRACIA-E-ESTADO-DE-DIREITO.md | Ampliado nesta etapa |
+| principios/DIGNIDADE-E-DIREITOS-HUMANOS.md | Ampliado nesta etapa |
+| principios/DIREITO-A-VIDA-E-PROTECAO-CONTRA-VIOLENCIA.md | Ampliado nesta etapa |
+| principios/DIREITOS-SEXUAIS-E-REPRODUTIVOS.md | Ampliado nesta etapa |
+| principios/ENFRENTAMENTO-DAS-MUDANCAS-CLIMATICAS.md | Ampliado nesta etapa |
+| principios/ETICA-MORAL-E-RESPONSABILIDADE.md | Ampliado nesta etapa |
+| principios/FUNCAO-SOCIAL-DA-PROPRIEDADE.md | Ampliado nesta etapa |
+| principios/IGUALDADE-E-NAO-DISCRIMINACAO.md | Ampliado nesta etapa |
+| principios/INDEPENDENCIA-E-IMPARCIALIDADE.md | Ampliado nesta etapa |
+| principios/JUSTICA-SOCIAL-E-ECONOMICA.md | Ampliado nesta etapa |
+| principios/LAICIDADE-E-LIBERDADE-RELIGIOSA.md | Ampliado nesta etapa |
+| principios/LIBERDADES-FUNDAMENTAIS.md | Ampliado nesta etapa |
+| principios/MEMORIA-E-DIREITO-A-INFORMACAO.md | Ampliado nesta etapa |
+| principios/PROTECAO-AMBIENTAL.md | Ampliado nesta etapa |
+| principios/PRUDENCIA-E-RESISTENCIA-A-MANIPULACAO.md | Ampliado nesta etapa |
+| principios/REPARACAO-DE-DESIGUALDADES-HISTORICAS.md | Ampliado nesta etapa |
+| principios/REPUDIO-A-TORTURA-E-AUTORITARISMO.md | Ampliado nesta etapa |
+| principios/RIGOR-CIENTIFICO-E-EPISTEMOLOGICO.md | Ampliado nesta etapa |
+| processos/CICLO-DE-VIDA-DOS-DOCUMENTOS.md | Ampliado nesta etapa |
+| processos/ESTRUTURA-NORMATIVA.md | Ampliado nesta etapa |
+| processos/PLANO-DE-AMPLIACAO-DOCUMENTAL.md | Criado nesta etapa |
+| processos/PROPOSTAS-DE-ALTERACAO.md | Ampliado nesta etapa |
+| processos/REGISTRO-DE-DECISOES.md | Ampliado nesta etapa |
+| processos/REVISAO-E-APROVACAO.md | Ampliado nesta etapa |
+| processos/VERSIONAMENTO-E-VIGENCIA.md | Ampliado nesta etapa |
+| referencias/ATRIBUICOES-E-LICENCAS.md | Ampliado nesta etapa |
+| referencias/BIBLIOGRAFIA.md | Ampliado nesta etapa |
+| referencias/DIREITOS-HUMANOS-E-COOPERACAO-INTERNACIONAL.md | Ampliado nesta etapa |
+| referencias/LICOES-DE-MOVIMENTOS-CIVICOS-E-JORNALISMO.md | Criado nesta etapa |
+| referencias/MANIFESTOS-E-CARTAS.md | Ampliado nesta etapa |
+| referencias/METODOLOGIAS-E-CODIGOS-ETICOS.md | Ampliado nesta etapa |
+| referencias/NORMAS-E-LEGISLACAO.md | Ampliado nesta etapa |
+| referencias/ORGANIZACOES-E-PROJETOS.md | Ampliado nesta etapa |
+| referencias/REFERENCIAIS-INTERNACIONAIS.md | Ampliado nesta etapa |
+| referencias/REFERENCIAS-E-INSPIRACOES.md | Ampliado nesta etapa |
+| referencias/SOFTWARE-LIVRE-E-DADOS-ABERTOS.md | Ampliado nesta etapa |
+| seguranca/ALEATORIEDADE-ENTROPIA-E-GERACAO-DE-SEGREDOS.md | Ampliado nesta etapa |
+| seguranca/AMEACAS-JURIDICAS-POLITICAS-E-RESILIENCIA.md | Criado nesta etapa |
+| seguranca/AUTENTICACAO-FIDO2-WEBAUTHN-E-CHAVES-FISICAS.md | Ampliado nesta etapa |
+| seguranca/AUTENTICIDADE-INTERCEPTACAO-E-SPOOFING.md | Ampliado nesta etapa |
+| seguranca/BACKDOORS-E-CADEIA-DE-CONFIANCA.md | Ampliado nesta etapa |
+| seguranca/BACKUPS-E-RECUPERACAO.md | Ampliado nesta etapa |
+| seguranca/CLASSIFICACAO-DAS-INFORMACOES.md | Ampliado nesta etapa |
+| seguranca/CONFIANCA-OPENPGP-E-CERIMONIA-DE-CHAVES.md | Ampliado nesta etapa |
+| seguranca/CONTINUIDADE-OPERACIONAL.md | Ampliado nesta etapa |
+| seguranca/COOPERACAO-INSTITUCIONAL-E-RISCOS-DE-CAPTURA.md | Criado nesta etapa |
+| seguranca/CRIPTOGRAFIA-E-GESTAO-DE-CHAVES.md | Ampliado nesta etapa |
+| seguranca/CRIPTOGRAFIA-POS-QUANTICA.md | Ampliado nesta etapa |
+| seguranca/CRIPTOGRAFIA-SIMETRICA-E-ASSIMETRICA.md | Ampliado nesta etapa |
+| seguranca/DETECCAO-CONTINUA-E-ANTECIPACAO-DEFENSIVA.md | Ampliado nesta etapa |
+| seguranca/DOMINIOS-REGISTRO-E-STATUS-EPP.md | Ampliado nesta etapa |
+| seguranca/DUPLA-LEALDADE-E-RISCOS-INTERNOS.md | Ampliado nesta etapa |
+| seguranca/ENGENHARIA-SOCIAL-E-INFILTRACAO.md | Ampliado nesta etapa |
+| seguranca/ENVENENAMENTO-DE-CACHE-E-DNS.md | Ampliado nesta etapa |
+| seguranca/ESPIONAGEM-E-AMEACAS-AVANCADAS.md | Ampliado nesta etapa |
+| seguranca/GESTAO-DE-VULNERABILIDADES.md | Ampliado nesta etapa |
+| seguranca/INTELIGENCIA-DE-AMEACAS-E-CONTRAINTELIGENCIA.md | Ampliado nesta etapa |
+| seguranca/LOGS-TELEMETRIA-E-TRILHAS-DE-AUDITORIA.md | Ampliado nesta etapa |
+| seguranca/MITRE-CATALOGO-DE-TATICAS-MITIGACOES-E-DETECCOES.md | Ampliado nesta etapa |
+| seguranca/MODELO-PUBLICO-DE-AMEACAS.md | Ampliado nesta etapa |
+| seguranca/OWASP-CATALOGOS-PROATIVOS-E-CASOS.md | Ampliado nesta etapa |
+| seguranca/POLITICA-DE-SEGURANCA.md | Ampliado nesta etapa |
+| seguranca/POST-MORTEM-E-LICOES-APRENDIDAS.md | Ampliado nesta etapa |
+| seguranca/PRESERVACAO-E-ESPELHAMENTO.md | Ampliado nesta etapa |
+| seguranca/REFERENCIAIS-DE-SEGURANCA.md | Ampliado nesta etapa |
+| seguranca/RESPOSTA-A-INCIDENTES.md | Ampliado nesta etapa |
+| seguranca/SEGREGACAO-DE-SISTEMAS-E-DADOS.md | Ampliado nesta etapa |
+| seguranca/SEGURANCA-DE-APLICACOES-E-CADEIA-DE-SUPRIMENTOS.md | Ampliado nesta etapa |
+| seguranca/SEGURANCA-DOS-COLABORADORES.md | Ampliado nesta etapa |
+| transparencia/COMPROMISSOS-DE-TRANSPARENCIA.md | Ampliado nesta etapa |
+| transparencia/DIVULGACAO-DE-CONFLITOS.md | Ampliado nesta etapa |
+| transparencia/INDICADORES-DA-ORGANIZACAO.md | Ampliado nesta etapa |
+| transparencia/PUBLICIDADE-DAS-DECISOES.md | Ampliado nesta etapa |
+| transparencia/RELATORIOS-DE-ATIVIDADES.md | Ampliado nesta etapa |
+| transparencia/TRANSPARENCIA-FINANCEIRA.md | Ampliado nesta etapa |
 
-## Próximo ciclo
+## Revisões ainda necessárias
 
-As minutas ainda precisam de revisão caso a caso para evitar repetição e contradições. As decisões sobre artigos protegidos, natureza da pessoa jurídica, competências da assembleia e condições de exclusão de associados dependerão de assessoria jurídica. A implantação de sistemas que recebam denúncias e informações sensíveis dependerá de auditoria técnica e equipe responsável.
+A harmonização final poderá reunir normas repetitivas, corrigir divergências, atualizar referências, verificar licenças e aperfeiçoar a estrutura dos atos. A Constituição e a futura estrutura jurídica exigem análise especializada dos arts. 54 a 61 do Código Civil.
 
-A revisão não deverá produzir uniformidade artificial. Cartas, manifesto e textos educativos podem manter prosa. Regimentos, políticas e procedimentos devem usar a estrutura normativa quando essa forma melhorar a precisão.
-## Integração complementar de 7 de novembro de 2026
+As políticas de recebimento protegido de informações, autenticação e continuidade dependem de testes reais, responsáveis designados e operação segura. As cláusulas de identidade, mesmo reforçadas, não tornam impossível a dissolução legal de uma associação nem a criação de outra organização por pessoas dissidentes.
 
-Foram integrados modelos separados de resolução, portaria, instrução normativa, parecer de conformidade e avaliação de cooperação, bem como minutas adicionais sobre riscos institucionais de compartilhamento e resiliência a pressões jurídicas e políticas.
-
-Esses documentos ampliam a discussão, mas não representam implantação de controles, aprovação por comitê ou revisão jurídica concluída. O inventário acima foi elaborado antes dessa integração e permanece como fotografia do ciclo anterior. Novos arquivos deverão constar de revisão subsequente com identificação da data de referência.
+A validação automática de links e numeração ajuda a detectar problemas estruturais, mas não substitui revisão editorial, jurídica, científica e de segurança.

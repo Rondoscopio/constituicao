@@ -37,3 +37,11 @@ Em riscos imediatos, pode haver proteção técnica provisória, sujeita a revis
 Consulte a [Constituição Institucional](CONSTITUICAO.md), o [Comitê de Ética e Conduta](governanca/COMITE-DE-ETICA-E-CONDUTA.md), o [Processo de Destituição e Defesa](governanca/PROCESSO-DE-DESTITUICAO-E-DEFESA.md) e os [Procedimentos de Código de Conduta da Python Software Foundation](https://policies.python.org/python.org/code-of-conduct/Enforcement-Procedures/).
 
 O uso da referência externa não implica cópia integral do texto, certificação ou endosso.
+
+## Proteção contra captura do processo disciplinar
+
+O direito de discordar não poderá ser neutralizado mediante denúncias de conduta formuladas para intimidar críticos, candidatos ou participantes de votações legítimas.
+
+O Comitê de Ética deverá reconhecer impedimentos, proteger denunciantes e oferecer defesa suficiente ao acusado. Quando não houver comitê independente, essa limitação será comunicada.
+
+A aplicação do código deverá distinguir opinião política, conduta discriminatória, ameaça concreta e denúncia factual verificável.

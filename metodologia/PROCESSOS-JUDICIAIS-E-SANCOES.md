@@ -9,3 +9,11 @@ Investigações, denúncias, processos em andamento, condenações recorríveis,
 Em ações administrativas ou julgamentos de contas, explicar a competência e o alcance da decisão. Processos de familiares ou de empresas ligadas a autoridades não serão atribuídos à autoridade sem evidência de participação relevante.
 
 A equipe deve acompanhar recursos, anulações e decisões supervenientes e corrigir prontamente os registros públicos.
+
+## Histórico e direito de defesa
+
+A base distinguirá distribuição, decisões interlocutórias, medidas cautelares, condenações recorríveis, trânsito em julgado, absolvição e arquivamento.
+
+A informação deverá ser atualizada após recurso, anulação ou retificação. Processos envolvendo homônimos ou familiares não poderão ser automaticamente atribuídos à pessoa pesquisada.
+
+Discordar de decisão judicial não implica acusar o julgador de corrupção sem provas de conduta e infração.

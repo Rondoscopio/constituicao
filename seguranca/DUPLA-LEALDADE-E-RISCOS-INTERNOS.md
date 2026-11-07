@@ -53,3 +53,11 @@ IV - encaminhamento de denúncias e documentos confidenciais.
 
 - [CISA Insider Threat Mitigation](https://www.cisa.gov/topics/physical-security/insider-threat-mitigation)
 - [MITRE ATT&CK: Account Manipulation](https://attack.mitre.org/techniques/T1098/)
+
+## Decisões verificáveis, não testes pessoais
+
+Compromissos profissionais e pessoais podem gerar conflitos de interesses legítimos; sua existência não demonstra sabotagem.
+
+As medidas preventivas deverão limitar privilégio, separar decisões e exigir confirmação independente de ações críticas. Não haverá vigilância de relacionamentos, investigações ideológicas ou exigência de fidelidade pessoal.
+
+Condutas concretas serão avaliadas com contraditório e proteção de denunciantes e acusados.

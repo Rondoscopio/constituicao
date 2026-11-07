@@ -19,3 +19,9 @@ Nenhum documento deverá acumular níveis de subdivisão apenas para imitar uma 
 Manifestos, cartas abertas, apresentações e textos educativos poderão permanecer em prosa. Uma redação solene não é automaticamente mais precisa.
 
 O emprego de IA para revisão não dispensa leitura humana. Revisores devem remover passagens genéricas e verificar números, datas, nomes, normas e fontes.
+
+## Da firmeza e da precisão
+
+A crítica pública poderá empregar ironia e sátira para expor contradições documentadas, sem transformar o texto em campanha de humilhação pessoal.
+
+Evitar expressões vagas que imputem crimes, qualificações clínicas sem base e termos como condenado quando o registro apenas demonstra investigação. Distinguir opinião de fato e indicar fontes verificáveis.

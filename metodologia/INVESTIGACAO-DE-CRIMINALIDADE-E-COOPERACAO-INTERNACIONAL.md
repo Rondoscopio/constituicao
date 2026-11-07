@@ -37,3 +37,11 @@ Parágrafo único. Não serão publicadas identidades de informantes, testemunha
 **Art. 6º** Publicações sobre processos e alertas internacionais deverão acompanhar alterações, revogações, retificações e decisões posteriores relevantes.
 
 **Art. 7º** O projeto deverá orientar a população sobre autoridades competentes e canais de comunicação de crimes, sem estimular denúncias públicas indiscriminadas.
+
+## Controle de acusações sensíveis
+
+Análises de crime organizado, contrabando, tráfico e participação de agentes públicos exigirão documentos verificáveis, proteção a vítimas e respeito ao devido processo.
+
+Notificações da INTERPOL, apurações policiais e processos em curso possuem naturezas jurídicas distintas e devem ser contextualizados.
+
+O eventual comprometimento de autoridade será tratado como hipótese dependente de evidências individualizadas, não como presunção contra órgãos inteiros.

@@ -49,3 +49,10 @@ Parágrafo único. A organização avaliará criticamente políticas, tecnologia
 - [MapBiomas Brasil](https://brasil.mapbiomas.org/).
 
 Consulte [Enfrentamento das mudanças climáticas](ENFRENTAMENTO-DAS-MUDANCAS-CLIMATICAS.md) e [Avaliação de políticas climáticas e reparatórias](../metodologia/AVALIACAO-DE-POLITICAS-CLIMATICAS-E-REPARATORIAS.md).
+
+## DISPOSIÇÕES COMPLEMENTARES
+### DA PREVENÇÃO E DA PROVA
+
+**Art. 9.** A fiscalização ambiental deverá distinguir evidência de desmatamento de conclusão de ilegalidade, contextualizando licenças, competência e período.
+
+**Art. 10.** Proteção de biodiversidade, clima, águas e florestas será compromisso estável, sem impedir investigação crítica de cada programa de conservação ou compensação de carbono.

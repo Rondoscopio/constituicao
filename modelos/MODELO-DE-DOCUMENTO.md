@@ -23,3 +23,11 @@ Registrar fontes realmente consultadas, com links e licenças pertinentes.
 ## Histórico
 
 Registrar mudanças de conteúdo relevantes sem divulgar informações confidenciais.
+
+## Checagem de consistência
+
+Antes de solicitar aprovação, verifique se o documento possui responsável, público, fundamento, efeitos, condições de revisão e referências consultadas.
+
+Não descreva comitê não instalado como autoridade operacional nem atribua efeito vinculante a minuta.
+
+Quando houver risco de conflito com a Constituição interna, indique os dispositivos e abra discussão fundamentada.

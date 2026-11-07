@@ -78,3 +78,11 @@ VI - controles de sessão e autorização independentes da autenticação inicia
 - [W3C WebAuthn Level 3, Recommendation de 25/08/2026](https://www.w3.org/TR/webauthn-3/).
 - [Yubico: YubiKey FIDO](https://docs.yubico.com/hardware/yubikey/yk-tech-manual/yk5-apps-fido.html).
 - [NCSC UK: FIDO2 Security Properties](https://www.ncsc.gov.uk/paper/traditional-user-and-fido2-credentials-personal-use).
+
+## Recuperação e comprometimento de sessão
+
+A preferência por FIDO2 e WebAuthn não elimina a necessidade de proteger sessões, métodos alternativos de login e fluxo de recuperação de contas.
+
+Para funções críticas, a organização deverá manter meios independentes de recuperação com inventário e verificação de custódia. A perda de uma YubiKey ou de outro autenticador não poderá impor perda definitiva de todos os ativos.
+
+A credencial WebAuthn e a chave OpenPGP são objetos distintos, mesmo quando suportados por um mesmo dispositivo físico.

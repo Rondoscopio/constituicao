@@ -43,3 +43,11 @@ Parágrafo único. Esses sinais justificam conferência e prevenção, mas não 
 **Art. 7º** Em ameaças concretas, a prioridade será interromper o risco, proteger pessoas, registrar evidências de forma lícita e buscar suporte profissional ou das autoridades competentes.
 
 **Art. 8º** Toda investigação interna respeitará proporcionalidade, direito de manifestação, segurança psicológica e proteção dos dados pessoais dos envolvidos.
+
+## Proteção humana e direito ao dissenso
+
+A organização deverá orientar integrantes sobre ameaça, assédio judicial, phishing, exposição de dados e abordagens coercitivas, sem obrigá-los a aceitar risco físico ou jurídico em nome da missão.
+
+Relações pessoais não serão tratadas automaticamente como infiltração. Suspeitas de dupla lealdade exigirão fatos verificáveis e procedimentos proporcionais.
+
+A crítica à direção institucional não será classificada como ameaça de segurança apenas por discordância política ou conflito de opiniões.

@@ -7,3 +7,11 @@ Decisões institucionais relevantes devem indicar problema, alternativas, crité
 Quando houver conflito de interesses ou impedimento, a informação deverá ser registrada e tratada de acordo com as regras pertinentes.
 
 Versões públicas poderão ocultar detalhes de segurança e dados pessoais, mantendo justificativa geral compatível com a proteção das pessoas.
+
+## Memória e legitimidade
+
+Os registros deverão permitir reconstruir a sequência de deliberação, o órgão competente, votos, impedimentos, fundamentos e alterações posteriores.
+
+A publicidade poderá omitir fontes protegidas e detalhes operacionais sensíveis, mas não deverá ocultar a própria existência da decisão.
+
+A ausência de comitê ou assembleia instalada será informada quando a decisão tiver sido tomada pelo ADM provisório.

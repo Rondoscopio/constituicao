@@ -57,3 +57,11 @@ Para cada sistema deverá existir uma matriz de requisitos de segurança com: re
 A implementação contemplará proteção contra acesso indevido, injeções, SSRF, falhas de autenticação, cache poisoning, manipulação de logs, exposição em integrações e uso de instruções maliciosas em documentos processados por IA.
 
 A cópia de requisitos ou grandes trechos de materiais OWASP exigirá observância das licenças de cada projeto. Links e referências não constituem endosso ou certificação.
+
+## Critérios de aplicação
+
+A seleção de controles OWASP deverá distinguir categoria de risco, requisitos ASVS, exemplos de teste e evidência de implementação, sem confundir uma lista com certificação.
+
+O projeto deverá considerar riscos de APIs, aplicação web, documentos processados, cadeia de suprimentos, login, sessões, integrações e sistemas de IA.
+
+Toda implantação terá escopo e versão identificáveis, além de registro de testes, limitações e correções pendentes.

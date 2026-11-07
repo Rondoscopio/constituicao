@@ -13,3 +13,11 @@ Não caberá a uma única pessoa investigar, aprovar publicação, alterar evid�
 A autoridade de acesso a fontes será menor que a autoridade editorial geral e dependerá da necessidade concreta. Cada delegação deverá registrar escopo, duração, responsável, aceitação e procedimento de revogação.
 
 Consulte [Constituição Institucional](../CONSTITUICAO.md) e [Regimento de Papéis e Permissões](REGIMENTO-DE-PAPEIS-E-PERMISSOES.md).
+
+## Hierarquia interna e controle de autoridade
+
+A Constituição Institucional e o Regimento de Papéis definem competência, nomeação, impedimento e revogação. Ordens administrativas não podem alterar a missão nem suspender garantias por mero ato executivo.
+
+A administração provisória individual não equivale a mandato vitalício ou legitimidade colegiada. A formação de outros cargos deverá resultar em transferência real de permissões e capacidade de revisão.
+
+Funções de segurança não autorizam acesso irrestrito a fontes apenas pela posição hierárquica.

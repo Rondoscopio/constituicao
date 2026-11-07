@@ -45,3 +45,11 @@ Parágrafo único. Esses cenários abrangem capacidades que podem existir em age
 - [MITRE ATT&CK](https://attack.mitre.org/)
 - [MITRE D3FEND](https://d3fend.mitre.org/)
 - [CISA, Known Exploited Vulnerabilities](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
+
+## Avaliação contextual e proteção de fontes
+
+Riscos envolvendo serviços de inteligência ou adversários tecnicamente avançados deverão ser considerados por capacidade plausível, ativos valiosos, exposição e evidências concretas.
+
+A suspeita de espionagem não autoriza operação clandestina em resposta, nem divulgação de acusações contra órgão estatal sem provas.
+
+A prioridade permanecerá a proteção proporcional: controle de endpoints, minimização de dados, criptografia, isolamento e assistência especializada quando necessária.

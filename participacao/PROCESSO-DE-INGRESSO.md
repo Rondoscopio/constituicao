@@ -97,3 +97,11 @@ IX - orientação inicial, treinamento e indicação de responsável pelo acompa
 **Art. 15.** A admissão ou recusa poderá ser revista pelos meios de contestação previstos na governança, com fundamentação e preservação de informações pessoais.
 
 Consulte [Constituição Institucional](../CONSTITUICAO.md) e [Proteção contra Captura](../governanca/PROTECAO-CONTRA-CAPTURA-INSTITUCIONAL.md).
+
+## Defesa da finalidade sem fidelidade pessoal
+
+A admissão poderá exigir leitura e aceitação das regras institucionais, mas não obrigará a apoiar dirigentes, aderir a partido ou renunciar à crítica.
+
+O acesso a funções sensíveis dependerá de capacidade, idoneidade funcional, necessidade de conhecimento e controles proporcionais. Discordância ideológica legítima não bastará para negar ingresso.
+
+O sistema de habilitação eleitoral não poderá ser alterado retroativamente para manipular deliberação de destituição ou reforma.

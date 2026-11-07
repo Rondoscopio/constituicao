@@ -54,3 +54,11 @@ Parágrafo único. A existência de um CVE em um componente não comprova explor
 - [OWASP Top 10:2025](https://top10.owasp.org/2025/pt-BR/)
 - [OWASP ASVS 5.0](https://asvs.owasp.org/)
 - [MITRE ATT&CK](https://attack.mitre.org/)
+
+## Priorização conforme exposição real
+
+A gestão de CVE deverá considerar versões instaladas, exploração conhecida, conectividade externa, privilégios envolvidos e valor dos dados protegidos.
+
+A presença de uma vulnerabilidade em catálogo não comprova que determinada implantação seja explorável, assim como ausência de CVE não equivale a ausência de risco.
+
+As medidas poderão incluir atualização, isolamento, desativação, revisão de configuração e acompanhamento de mitigação documentada.

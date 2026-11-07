@@ -53,3 +53,10 @@ Consulte [Ética, moral e responsabilidade](ETICA-MORAL-E-RESPONSABILIDADE.md) e
 **Art. 10.** A crítica fundamentada a qualquer ação afirmativa não será considerada, por si só, discriminação. A defesa dessas políticas tampouco autoriza hostilizar pessoas por sua origem ou condição.
 
 Consulte [Reparação de desigualdades históricas](REPARACAO-DE-DESIGUALDADES-HISTORICAS.md).
+
+## DISPOSIÇÕES COMPLEMENTARES
+### DO ACESSO À PARTICIPAÇÃO
+
+**Art. 11.** Regras de ingresso e cargos não poderão privilegiar patrimônio, escolaridade formal, origem familiar, convicção política ou proximidade com dirigentes sem justificativa funcional e legal.
+
+**Art. 12.** A investigação de desigualdades deverá evitar estigmatização de indivíduos e apresentar critérios, amostras, limitações e resultados verificáveis.

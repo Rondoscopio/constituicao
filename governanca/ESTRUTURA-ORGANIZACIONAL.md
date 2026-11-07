@@ -13,3 +13,11 @@ Não haverá prerrogativa vitalícia atribuída à condição de fundador. Poder
 A instalação dos órgãos exige integrantes suficientes, aceites, nomeações e transferência real de permissões. O projeto não apresentará comitês ou assembleias como existentes antes disso.
 
 Consulte a [Constituição Institucional](../CONSTITUICAO.md), o [Regimento de Papéis e Permissões](REGIMENTO-DE-PAPEIS-E-PERMISSOES.md) e o [Plano de Transição Administrativa](TRANSICAO-ADMINISTRATIVA-E-SUCESSAO.md).
+
+## Separação funcional e independência
+
+A estrutura pretendida diferencia exercício de administração, revisão editorial, julgamento de conduta, controle de recursos e custódia de fontes.
+
+Os órgãos previstos só existirão operacionalmente quando tiverem membros habilitados, competências documentadas, aceite e acesso proporcional. Organogramas não substituem instalação efetiva.
+
+A composição dos órgãos deverá considerar impedimentos e risco de captura por pessoas sujeitas a decisão do próprio comitê.

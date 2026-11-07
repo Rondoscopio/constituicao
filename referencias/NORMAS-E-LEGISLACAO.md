@@ -22,3 +22,12 @@ A Constituição de Rondônia e a legislação estadual e municipal serão incor
 - [Lei nº 9.985/2000, Sistema Nacional de Unidades de Conservação](https://www.planalto.gov.br/ccivil_03/leis/l9985.htm): referência para conservação e gestão de áreas protegidas.
 
 Uma norma citada não substitui a análise de sua vigência, das competências e das particularidades de sua aplicação a Rondônia e aos municípios.
+
+## Normas de governança e jornalismo
+
+- [Código Civil, arts. 54, 57, 59, 60 e 61](https://www.planalto.gov.br/ccivil_03/leis/2002/l10406compilada.htm): estatuto de associações, direitos, defesa, destituição, convocação e dissolução.
+- [Constituição Federal, art. 60, § 4º](https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm): referência de limitação material a reformas.
+- [LGPD, art. 4º, II, a](https://www2.camara.leg.br/legin/fed/lei/2018/lei-13709-14-agosto-2018-787077-normaatualizada-pl.html): tratamento de dados exclusivamente jornalístico.
+- [STF, ADIs 7055 e 6792](https://portal.stf.jus.br/noticias/verNoticiaDetalhe.asp?idConteudo=539357): referência de assédio judicial contra jornalistas.
+
+Não tratar essas fontes como parecer específico sobre a futura pessoa jurídica sem revisão profissional.

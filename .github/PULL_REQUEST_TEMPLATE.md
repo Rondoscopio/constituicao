@@ -20,3 +20,14 @@ A proposta afeta direitos, proteção de fontes, publicação, governança ou se
 - [ ] Não declara como vigente uma política ainda não aprovada.
 - [ ] Distingue fatos, hipóteses e compromissos.
 - [ ] Usa linguagem clara e apresenta fontes relevantes.
+
+## Controle de compatibilidade institucional
+
+- [ ] A proposta indica a norma superior aplicável e o tipo correto de ato?
+- [ ] Foi verificado que não suprime cláusulas de identidade nem direitos dos integrantes?
+- [ ] A alteração preserva direito de resposta, correção, proteção de fontes e independência editorial?
+- [ ] Foram considerados conflitos de interesses e efeitos sobre processos eleitorais ou disciplinares em andamento?
+- [ ] As referências de terceiros foram atribuídas e as licenças verificadas?
+- [ ] O documento permanece identificado como minuta até aprovação efetiva?
+
+Mudanças em normas constitutivas devem apontar para [Constituição Institucional](../CONSTITUICAO.md) e [Cláusulas de Identidade](../governanca/CLAUSULAS-DE-IDENTIDADE-E-LIMITES-A-REFORMA.md).

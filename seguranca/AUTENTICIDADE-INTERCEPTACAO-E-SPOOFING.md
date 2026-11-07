@@ -61,3 +61,11 @@ Parágrafo único. SPF, DKIM e DMARC reduzem determinadas formas de fraude de e-
 - [eMudhra: esclarecimentos públicos do incidente](https://emudhra.com/en/post/certificate-security-incident/)
 - [MITRE ATT&CK T1557](https://attack.mitre.org/techniques/T1557/)
 - [MDN: ataques de intermediário](https://developer.mozilla.org/en-US/docs/Web/Security/Attacks/MITM)
+
+## Limitações da cadeia de confiança
+
+HTTPS validado oferece proteção robusta, mas pode falhar diante de comprometimento do cliente, autoridade certificadora ou configuração de confiança.
+
+A avaliação de spoofing deverá considerar DNS, e-mail, registrador, certificados, nomes semelhantes e redes locais, com verificação independente em ações críticas.
+
+O caso eMudhra deverá ser citado como risco documentado envolvendo certificados, sem ser apresentado como prova de interceptação contra uma pessoa específica.

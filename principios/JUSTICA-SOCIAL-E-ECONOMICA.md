@@ -30,3 +30,10 @@
 Parágrafo único. A proteção do meio ambiente e o combate a desigualdades podem reforçar-se mutuamente, mas os efeitos concretos de cada medida precisam ser avaliados.
 
 Consulte [Reparação de desigualdades históricas](REPARACAO-DE-DESIGUALDADES-HISTORICAS.md) e [Enfrentamento das mudanças climáticas](ENFRENTAMENTO-DAS-MUDANCAS-CLIMATICAS.md).
+
+## DISPOSIÇÕES COMPLEMENTARES
+### DA RESPONSABILIDADE NO DIAGNÓSTICO
+
+**Art. 7.** A análise de concentração econômica, poder político e desigualdades históricas buscará dados e mecanismos verificáveis em lugar de imputações hereditárias.
+
+**Art. 8.** O compromisso com políticas de reparação não dispensa examinar sua eficácia, seus custos e eventuais efeitos não desejados.

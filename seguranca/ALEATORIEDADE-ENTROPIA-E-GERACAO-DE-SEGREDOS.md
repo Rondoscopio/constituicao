@@ -54,3 +54,11 @@ VI - verificações durante rotação, restauração e recuperação de sistemas
 - [OWASP Key Management Cheat Sheet](https://cheatsheetseries.owasp.org/cheatsheets/Key_Management_Cheat_Sheet).
 - [NIST SP 800-90A](https://csrc.nist.gov/pubs/sp/800/90/a/r1/final).
 - [NIST SP 800-90B](https://csrc.nist.gov/pubs/sp/800/90/b/final).
+
+## Auditoria do ciclo de geração
+
+A segurança deverá ser verificada também em clonagem de máquinas, restauração de backups, inicialização de containers e geração automatizada de certificados, para evitar reutilização involuntária de segredos.
+
+A imprevisibilidade dos geradores é apenas uma parte da proteção. Chaves seguras expostas em logs, repositórios ou sistemas comprometidos deverão ser revogadas e substituídas.
+
+A escolha de biblioteca e fonte de entropia deverá observar suporte, atualizações e avaliações técnicas.

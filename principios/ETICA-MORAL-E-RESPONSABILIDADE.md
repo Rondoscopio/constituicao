@@ -68,3 +68,10 @@ VII - idade, deficiência, estado de saúde ou outras características pessoais 
 - [Constituição Federal, arts. 1º, 3º e 5º](https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm).
 - [Carta da Terra](https://earthcharter.org/read-the-earth-charter/).
 - [Manifesto Mozilla](https://www.mozilla.org/pt-BR/about/manifesto/).
+
+## DISPOSIÇÕES COMPLEMENTARES
+### DOS MEIOS E DAS CONSEQUÊNCIAS
+
+**Art. 9.** A vontade de fazer o bem não dispensará legalidade, prova, respeito a pessoas e avaliação dos meios empregados.
+
+**Art. 10.** Ao reconhecer uma falha própria, a organização deverá corrigir o dano possível e rever o procedimento que permitiu o erro, sem transformar convicção moral em imunidade.

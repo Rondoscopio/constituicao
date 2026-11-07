@@ -68,3 +68,11 @@ VII - meios alternativos de divulgar **endereços oficiais previamente verificad
 - [ICANN, Domain Name Registration Data / RDAP](https://www.icann.org/rdap)
 - [IANA, Root Zone Database](https://www.iana.org/domains/root/db)
 - [RFC 5731, EPP Domain Name Mapping](https://www.rfc-editor.org/rfc/rfc5731)
+
+## Resposta a suspensão ou perda de domínio
+
+A ocorrência de clientHold ou serverHold deverá desencadear confirmação junto ao registrador ou operador do registro, avaliação do motivo e medidas legais de regularização.
+
+Espelhos sob o mesmo domínio não asseguram continuidade quando a delegação DNS é afetada. Alternativas independentes só serão anunciadas com autenticação verificável para evitar golpes de personificação.
+
+O projeto não utilizará infraestrutura alternativa como justificativa para descumprir ordem judicial válida.

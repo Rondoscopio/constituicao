@@ -62,3 +62,11 @@ V - mecanismos de resposta seguros contra uso indevido ou execução automática
 - [MITRE D3FEND](https://d3fend.mitre.org/).
 - [OWASP ASVS](https://asvs.owasp.org/).
 - [CISA KEV](https://www.cisa.gov/known-exploited-vulnerabilities-catalog).
+
+## Exercícios e medida de eficácia
+
+As hipóteses de detecção serão avaliadas por testes autorizados, telemetria disponível, falsos positivos, falhas de cobertura e custo operacional.
+
+A estratégia de antecipação deverá priorizar riscos demonstrados e dependências críticas antes de empregar recursos em cenários sofisticados sem evidências de exposição.
+
+Os resultados alimentarão correção de configuração, gestão de vulnerabilidades, revisão de acesso e exercícios de recuperação.

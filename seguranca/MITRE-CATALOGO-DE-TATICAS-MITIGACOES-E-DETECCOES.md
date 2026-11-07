@@ -78,3 +78,11 @@ Para cada técnica aplicável, registrar:
 7. **Risco residual.** O que não é coberto e com qual prioridade deverá ser reavaliado.
 
 Não será apresentada conformidade com todas as técnicas de um catálogo apenas porque seus links estão disponíveis.
+
+## Aplicação e atualização
+
+Os catálogos de táticas, técnicas, mitigações e detecções deverão ser acompanhados em sua fonte oficial, com versão ou data de consulta registrada em avaliações.
+
+Cada técnica considerada relevante será vinculada ao ativo, hipótese observável, mitigação aplicável, telemetria de detecção e teste de eficácia, sem afirmar cobertura universal.
+
+O mapeamento de ATT&CK não substitui análise de riscos humanos, institucionais e jurídicos, que exigem procedimentos próprios.

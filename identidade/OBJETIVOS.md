@@ -22,3 +22,11 @@ Fortalecer o controle social, a educação cívica e a memória pública por mei
 ## Limites
 
 O Rondoscópio não exerce função policial, judicial ou de tribunal de contas. Não declara culpabilidade criminal, nem substitui assistência jurídica ou canais de emergência.
+
+## Verificação e priorização
+
+Os objetivos poderão ser traduzidos em indicadores de cobertura, qualidade documental, cumprimento de prazos, correções, atividades educativas e uso público dos dados.
+
+Quantidade de denúncias ou pessoas acusadas não será tratada como medida de êxito. Os projetos deverão ser avaliados por utilidade social, evidências produzidas e proteção de direitos.
+
+Novas áreas de atuação serão admitidas quando compatíveis com a identidade institucional e com a capacidade real de execução.

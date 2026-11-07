@@ -98,3 +98,11 @@ V - mecanismos pós-quânticos de estabelecimento de chaves e assinatura, confor
 **Art. 18.** Nenhuma credencial FIDO2 ou chave GPG será descrita como resistente a computadores quânticos apenas por sua modalidade física ou pelo nome da ferramenta.
 
 Consulte [Autenticação FIDO2](AUTENTICACAO-FIDO2-WEBAUTHN-E-CHAVES-FISICAS.md), [Aleatoriedade e entropia](ALEATORIEDADE-ENTROPIA-E-GERACAO-DE-SEGREDOS.md), [Criptografia simétrica e assimétrica](CRIPTOGRAFIA-SIMETRICA-E-ASSIMETRICA.md) e [Criptografia pós-quântica](CRIPTOGRAFIA-POS-QUANTICA.md).
+
+## Aplicação à preservação institucional
+
+Chaves utilizadas para assinar documentos, builds e comunicados não deverão permanecer exclusivamente sob custódia de uma pessoa sem possibilidade de recuperação legítima.
+
+A separação entre chave primária, subchaves, credenciais de autenticação e segredos de backup deve corresponder a responsabilidades e procedimentos distintos.
+
+O plano de substituição de algoritmos contemplará validação de versões históricas e proteção de fontes com confidencialidade duradoura.

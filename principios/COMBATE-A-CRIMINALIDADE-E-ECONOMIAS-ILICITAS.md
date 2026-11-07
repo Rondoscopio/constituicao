@@ -41,3 +41,10 @@ Parágrafo único. As categorias legais não são intercambiáveis. O tráfico d
 - [Lei nº 11.343/2006, política de drogas](https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2006/lei/l11343.htm).
 - [Lei nº 13.344/2016, prevenção e repressão ao tráfico de pessoas](https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2016/lei/l13344.htm).
 - [UNODC, crime organizado](https://www.unodc.org/).
+
+## DISPOSIÇÕES COMPLEMENTARES
+### DA APURAÇÃO SEM VIGILÂNCIA PRIVADA
+
+**Art. 6.** O combate ao contrabando, descaminho, tráfico e demais crimes será orientado por evidências e cooperação legal, sem operações policiais privadas ou acesso clandestino a sistemas.
+
+**Art. 7.** Os mecanismos de comunicação às autoridades considerarão competência e proteção das fontes, inclusive quando houver prova relevante de conflito de interesse no órgão receptor.

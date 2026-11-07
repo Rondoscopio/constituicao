@@ -16,3 +16,10 @@
 **Art. 5º** O repúdio ao crime e à violência deverá respeitar o devido processo, o direito à vida, as garantias dos acusados e a proibição absoluta da tortura.
 
 Consulte [Repúdio à tortura e ao autoritarismo](REPUDIO-A-TORTURA-E-AUTORITARISMO.md).
+
+## DISPOSIÇÕES COMPLEMENTARES
+### DAS GARANTIAS CONTRA A EROSÃO INSTITUCIONAL
+
+**Art. 6.** A democracia requer mais que contabilizar votos. Exige garantias para oposição, liberdade de expressão, imprensa, revisão de decisões e limites ao uso de emergência.
+
+**Art. 7.** A história da ascensão do nazismo será apresentada com atenção à repressão de adversários e ao emprego de instrumentos jurídicos para destruir instituições democráticas, sem equivalência mecânica com controvérsias eleitorais atuais.

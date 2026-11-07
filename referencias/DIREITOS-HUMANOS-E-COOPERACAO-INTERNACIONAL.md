@@ -28,3 +28,11 @@ O Rondoscópio reconhece como referências jurídicas ou metodológicas os instr
 - [INTERPOL, notificações vermelhas](https://www.interpol.int/en/How-we-work/Notices/Red-Notices).
 
 A obrigação jurídica, o caráter de recomendação e a aplicabilidade brasileira deverão ser analisados caso a caso. A organização pode fiscalizar organismos internacionais e suas práticas, sem presumir infalibilidade.
+
+## Avaliação de obrigações internacionais
+
+O reconhecimento de instrumentos multilaterais não elimina a necessidade de analisar vigência, competência, natureza jurídica e aplicação nacional.
+
+Red Notices da INTERPOL não equivalem a mandados internacionais que obrigam automaticamente a prisão. Orientações técnicas da OMS podem ter força diferente das obrigações previstas no Regulamento Sanitário Internacional.
+
+O Rondoscópio poderá cooperar com autoridades sem abdicar da independência editorial e sem presumir que o órgão destinatário seja sempre confiável ou comprometido.

@@ -29,3 +29,13 @@ Separar fatos verificados, alegações, incertezas e conclusões que precisam de
 ## Publicação
 
 Versão, responsável, correções e direito de resposta.
+
+## Questões adicionais de revisão
+
+- A autoridade ou instituição investigada possui competência real sobre o fato?
+- Alguma evidência foi recebida por parte interessada e requer corroboração?
+- Há riscos à fonte se o material for encaminhado à polícia, Justiça ou órgão de inteligência?
+- Foram procuradas explicações que contrariem a hipótese central?
+- A publicação distingue investigação, opinião, imputação criminal e decisão judicial definitiva?
+
+Registre a decisão de publicar com fundamentos e direitos de resposta pertinentes.

@@ -49,3 +49,11 @@ b) [segunda hipótese]:
 ---
 
 > **Nota de uso:** remova níveis hierárquicos desnecessários. Um artigo não precisa de parágrafos, incisos, alíneas e itens ao mesmo tempo. Consulte [Estrutura e técnica de redação normativa](../processos/ESTRUTURA-NORMATIVA.md).
+
+## Verificação de hierarquia e limites materiais
+
+Antes de aprovar um ato, identifique a espécie normativa, a autoridade competente e a norma superior que autoriza sua emissão.
+
+Indique se o texto altera direitos, regras de participação, procedimentos disciplinares ou deveres de proteção de fontes. Caso altere matéria reservada à Constituição ou à assembleia, um ato inferior será inadequado.
+
+Consulte [Hierarquia e Espécies Normativas](../governanca/HIERARQUIA-E-ESPECIES-NORMATIVAS.md).

@@ -13,3 +13,11 @@ A sucessão não decorrerá de vínculo familiar ou privilégio pessoal de funda
 Nenhuma pessoa será obrigada a aceitar perigo físico, responsabilidade jurídica extraordinária ou exposição indevida para preservar o projeto.
 
 Consulte [Constituição Institucional](../CONSTITUICAO.md) e [Transição Administrativa e Sucessão](TRANSICAO-ADMINISTRATIVA-E-SUCESSAO.md).
+
+## Redução de dependências pessoais
+
+A missão não deve desaparecer com a ausência de um administrador. Entretanto, a continuidade não estará garantida sem mecanismos técnicos e jurídicos testados de recuperação e transferência legítima.
+
+O projeto identificará dependência de contas pessoais, domínios, propriedade de repositórios, licenças, senhas, chaves e contratos. A transferência futura exigirá aceitação e controles que protejam fontes.
+
+A designação de sucessores não poderá ocorrer automaticamente por parentesco, proximidade pessoal ou simples posse das credenciais.

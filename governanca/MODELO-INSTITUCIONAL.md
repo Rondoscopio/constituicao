@@ -14,3 +14,11 @@ A governança deve funcionar antes da formalização por procedimentos transpare
 A organização pretende adotar um [Termo de Adesão e Compromisso Institucional](../participacao/TERMO-DE-ADESAO-E-COMPROMISSO-INSTITUCIONAL.md) e um [Processo de Ingresso](../participacao/PROCESSO-DE-INGRESSO.md), inspirados no Debian, para distinguir colaboradores públicos de pessoas com função institucional e acesso a recursos internos.
 
 O processo não será considerado vigente antes da definição dos responsáveis, da revisão jurídica e da aprovação apropriada. A assinatura de documento de compromisso não constitui por si só associação civil ou vínculo de emprego.
+
+## Da constituição da entidade
+
+A futura forma jurídica deverá permitir participação, controle de recursos, responsabilidade e continuidade, preservando a missão sem criar privilégios pessoais irrevogáveis.
+
+Ao constituir associação, o estatuto deverá estabelecer fins, sede, admissão, exclusão, direitos, receitas, órgãos deliberativos, prestação de contas, alteração e dissolução conforme o Código Civil.
+
+A Constituição interna é referência de princípios e competências, mas não pode suprimir a autonomia legal da assembleia nem substituir os atos necessários ao registro da pessoa jurídica.
