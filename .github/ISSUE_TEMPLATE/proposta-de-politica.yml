@@ -1,0 +1,16 @@
+name: Proposta de política
+description: Propor alteração institucional não sensível
+title: "Proposta: "
+body:
+  - type: textarea
+    id: mudanca
+    attributes:
+      label: Alteração proposta
+    validations:
+      required: true
+  - type: textarea
+    id: justificativa
+    attributes:
+      label: Justificativa, impactos e referências
+    validations:
+      required: true

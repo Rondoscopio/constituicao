@@ -1,0 +1,16 @@
+name: Sugestão de referência
+description: Sugerir fonte ou organização para estudo
+title: "Referência: "
+body:
+  - type: input
+    id: endereco
+    attributes:
+      label: Fonte original ou URL
+    validations:
+      required: true
+  - type: textarea
+    id: relevancia
+    attributes:
+      label: Qual ideia ou método merece estudo?
+    validations:
+      required: true

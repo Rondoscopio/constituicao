@@ -1,0 +1,28 @@
+name: Verificar documentação
+on:
+  pull_request:
+  push:
+    branches: [main]
+permissions:
+  contents: read
+jobs:
+  verificar:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Verificar arquivos Markdown e ausência de documentos vazios
+        shell: bash
+        run: |
+          set -euo pipefail
+          mapfile -d '' files < <(find . -type f -name '*.md' -print0)
+          if [ "${#files[@]}" -eq 0 ]; then
+            echo "Nenhum documento Markdown encontrado"
+            exit 1
+          fi
+          for file in "${files[@]}"; do
+            if [ ! -s "$file" ]; then
+              echo "Documento vazio: $file"
+              exit 1
+            fi
+          done
+          echo "${#files[@]} documentos Markdown verificados"

@@ -1,0 +1,22 @@
+name: Correção documental
+description: Corrigir erro factual ou de redação em documento público, sem incluir informação sensível
+title: "Correção: "
+body:
+  - type: input
+    id: caminho
+    attributes:
+      label: Documento
+      description: Informe o caminho relativo do arquivo
+    validations:
+      required: true
+  - type: textarea
+    id: problema
+    attributes:
+      label: Problema observado
+      description: Não inclua informações pessoais ou material sigiloso
+    validations:
+      required: true
+  - type: textarea
+    id: fonte
+    attributes:
+      label: Referências de suporte
