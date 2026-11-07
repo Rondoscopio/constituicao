@@ -32,6 +32,20 @@ jobs:
           SERVICE: ${{ matrix.service }}
         run: docker compose run --rm --no-deps "$SERVICE"
 
+  lockfile:
+    name: lockfile / temporário
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - name: Checkout
+        uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+        with:
+          persist-credentials: false
+      - name: Resolver dependências npm no Docker
+        run: docker compose build lockfile
+      - name: Exportar lockfile para recuperação e commit
+        run: docker compose run --rm --no-deps lockfile
+
   gate:
     name: gate
     needs: [quality]

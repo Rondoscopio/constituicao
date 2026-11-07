@@ -9,6 +9,11 @@ RUN apt-get update \
 RUN useradd --create-home --uid 10001 --shell /usr/sbin/nologin quality
 WORKDIR /workspace
 
+FROM base AS lockfile
+COPY tooling/package.json /opt/quality/package.json
+RUN npm install --prefix /opt/quality --package-lock-only --no-audit --no-fund --ignore-scripts
+CMD ["sh", "-ec", "echo __LOCKFILE_BEGIN__; cat /opt/quality/package-lock.json; echo __LOCKFILE_END__"]
+
 FROM base AS docs
 RUN npm install --global --no-audit --no-fund --ignore-scripts \
       markdownlint-cli2@0.24.0 prettier@3.9.10
