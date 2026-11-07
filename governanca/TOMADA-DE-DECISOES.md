@@ -1,9 +1,32 @@
 # Tomada de decisões
 
-> **Situação:** minuta para discussão pública. **Versão:** 0.1. **Data:** 2026-11-07.
+> **Situação:** minuta para discussão pública. **Versão:** 0.2. **Data:** 2026-11-07.
 
-Decisões institucionais relevantes devem registrar proposta, alternativas, fundamentos, responsáveis e eventuais divergências.
+## CAPÍTULO I
+### DAS DECISÕES ORDINÁRIAS
 
-Alterações de princípios e regras de proteção exigirão quórum ou procedimento reforçado quando a organização tiver estatuto vigente.
+**Art. 1º** As decisões deverão ter competência definida e, quando relevantes, registrar questão, alternativas, razões, responsável e data.
 
-Decisões de emergência não dispensam prestação de contas posterior, mas podem ter registro reservado para proteger pessoas ou infraestrutura.
+**Art. 2º** O exercício de competência decisória dependerá de nomeação ou habilitação válida, sem atribuição automática de poder de voto a administradores técnicos.
+
+## CAPÍTULO II
+### DAS DELIBERAÇÕES COLEGIADAS
+
+**Art. 3º** Uma votação dependerá de lista de eleitores aptos, convocação, quórum, período, método de apuração, registro de impedimentos e decisão documentada.
+
+**Art. 4º** As deliberações ordinárias adotarão maioria simples dos votos válidos, observado quórum de participação de metade mais um dos membros eleitores habilitados, salvo exigência maior na Constituição ou estatuto.
+
+**Art. 5º** Destituições de administradores, alterações da Constituição, mudanças estatutárias e outras decisões especialmente protegidas observarão maiorias, convocação e competências específicas.
+
+**Art. 6º** A Secretaria deverá realizar a apuração sem depender exclusivamente das credenciais ou da vontade do dirigente diretamente interessado.
+
+## CAPÍTULO III
+### DO REGIME PROVISÓRIO
+
+**Art. 7º** Na fase individual, decisões operacionais caberão ao ADM provisório, com registro e indicação de suas limitações.
+
+**Art. 8º** Não poderão ser descritas como decisões de assembleia ou comitê deliberações tomadas por uma única pessoa.
+
+**Art. 9º** A formação do colegiado implicará revisão documentada dos poderes e permissões técnicas para corresponder à distribuição constitucional das competências.
+
+Consulte [Constituição Institucional](../CONSTITUICAO.md), [Proteção contra Captura](PROTECAO-CONTRA-CAPTURA-INSTITUCIONAL.md) e [Alteração dos Fundamentos](ALTERACAO-DOS-FUNDAMENTOS.md).

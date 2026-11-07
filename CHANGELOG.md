@@ -2,6 +2,13 @@
 
 ## 2026-11-07
 
+- Criada a proposta de Constituição Institucional, sem nomes pessoais, que define a lealdade à missão e aos direitos em lugar de fidelidade ao fundador.
+- Estabelecida a função ADM individual provisória, com mecanismos futuros de separação de competências, assembleia, secretaria, comitês independentes, eleição, impedimento e destituição.
+- Criados regimentos de papéis e permissões, Comitê de Ética e Conduta, Processo de Destituição e Defesa, Prevenção contra Captura Institucional e Transição Administrativa e Sucessão.
+- Atualizados Código de Conduta, Termo de Adesão, Processo de Ingresso, documentos de governança, Carta Fundadora e referências, respeitando contraditório e ampla defesa.
+- Confirmada a distinção entre governança interna e direitos legais em eventual associação civil, especialmente arts. 54, 57 e 59 do Código Civil.
+
+
 - Criadas minutas de Termo de Adesão e Compromisso Institucional, Processo de Ingresso e Modelo de Declaração de Adesão, inspiradas no Debian New Member Process.
 - Diferenciadas colaboração pública e adesão formal; previstas assinaturas verificáveis, proteção de dados, direitos dos participantes, tratamento de conflitos e revisão de acessos, sem exigir lealdade pessoal.
 - Adoção formal pendente de aprovação e avaliação jurídica.

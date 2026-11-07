@@ -16,3 +16,11 @@ Propostas, correções e referências públicas podem ser apresentadas sem torna
 Pessoas que desejarem exercer função institucional ou acessar recursos internos deverão consultar as minutas do [Termo de Adesão e Compromisso](participacao/TERMO-DE-ADESAO-E-COMPROMISSO-INSTITUCIONAL.md) e do [Processo de Ingresso](participacao/PROCESSO-DE-INGRESSO.md). O mecanismo ainda não está ativo, pois depende de revisão jurídica e da definição dos responsáveis.
 
 A assinatura de uma declaração não concede poderes de representação, acesso a fontes ou admissão automática em associação civil.
+
+## Governança e direito de discordar
+
+As propostas de [Constituição Institucional](CONSTITUICAO.md) e [Código de Conduta](CODE_OF_CONDUCT.md) reconhecem o direito de criticar decisões, apresentar objeções, propor reformas e solicitar apuração de abuso de poder.
+
+Lealdade à missão não equivale a lealdade a dirigentes. Não haverá acesso obrigatório a informações privadas de colaboradores nem proibição de discordância política legítima.
+
+O [Comitê de Ética e Conduta](governanca/COMITE-DE-ETICA-E-CONDUTA.md) e os demais órgãos previstos ainda dependem de instalação efetiva. Não existem canais internos de recurso independentes enquanto a equipe for individual.

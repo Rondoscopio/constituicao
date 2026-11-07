@@ -1,4 +1,4 @@
-# Fundamentos do Rondoscópio
+# Constituição e fundamentos do Rondoscópio
 
 O Rondoscópio é uma iniciativa em formação dedicada à fiscalização do poder público, à investigação documental, ao controle social e à educação cívica e histórica, com foco inicial em Rondônia e seus municípios.
 
@@ -6,9 +6,17 @@ Este repositório reúne as propostas de Carta Fundadora, princípios, métodos,
 
 **Todos os documentos deste repositório estão em fase de minuta, salvo indicação expressa em contrário.** Não há estatuto vigente nem promessa de que serviços descritos estejam implementados. A aprovação futura deverá ocorrer pelo procedimento de governança que vier a ser adotado.
 
+## Governança e separação de poderes
+
+A [Constituição Institucional](CONSTITUICAO.md) propõe uma organização que continua além de qualquer pessoa, sem privilégios permanentes de fundador. A função [ADM](governanca/REGIMENTO-DE-PAPEIS-E-PERMISSOES.md) é ocupada provisoriamente por uma pessoa nesta fase; os comitês e a assembleia ainda não estão instalados.
+
+As minutas tratam de [papéis e permissões](governanca/REGIMENTO-DE-PAPEIS-E-PERMISSOES.md), [comitê de ética e conduta](governanca/COMITE-DE-ETICA-E-CONDUTA.md), [destituição e defesa](governanca/PROCESSO-DE-DESTITUICAO-E-DEFESA.md), [proteção contra captura institucional](governanca/PROTECAO-CONTRA-CAPTURA-INSTITUCIONAL.md) e [transição e sucessão](governanca/TRANSICAO-ADMINISTRATIVA-E-SUCESSAO.md).
+
+A criação de funções no texto não concede automaticamente direitos no GitHub, nos domínios ou em uma eventual pessoa jurídica. Sua implementação exigirá pessoas habilitadas, decisões registradas e controles técnicos reais.
+
 ## Como começar
 
-Leia a [Carta Fundadora](CARTA-FUNDADORA.md), depois a [Carta de Princípios](principios/CARTA-DE-PRINCIPIOS.md) e a [Metodologia de Investigação](metodologia/METODOLOGIA-DE-INVESTIGACAO.md). Para entender os limites do projeto, consulte [Escopo e limites](identidade/ESCOPO-E-LIMITES.md).
+Leia a [Constituição Institucional](CONSTITUICAO.md), depois a [Carta Fundadora](CARTA-FUNDADORA.md), depois a [Carta de Princípios](principios/CARTA-DE-PRINCIPIOS.md) e a [Metodologia de Investigação](metodologia/METODOLOGIA-DE-INVESTIGACAO.md). Para entender os limites do projeto, consulte [Escopo e limites](identidade/ESCOPO-E-LIMITES.md).
 
 Os arquivos descrevem obrigações que o Rondoscópio pretende assumir. Onde ainda não houver estrutura, orçamento ou equipe para cumpri-las, o texto deve permanecer identificado como proposta.
 

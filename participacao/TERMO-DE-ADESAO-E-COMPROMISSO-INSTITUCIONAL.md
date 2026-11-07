@@ -1,6 +1,6 @@
 # Termo de Adesão e Compromisso Institucional
 
-> **Situação:** minuta para discussão pública. **Versão:** 0.1. **Data:** 2026-11-07.
+> **Situação:** minuta para discussão pública. **Versão:** 0.2. **Data:** 2026-11-07.
 > **Natureza:** proposta de termo institucional, sem efeito vinculante automático ou admissão de membros antes de aprovação e aceitação válida.
 
 ## Preâmbulo
@@ -147,3 +147,15 @@ Parágrafo único. A natureza jurídica da colaboração e eventuais instrumento
 - [Debian: Contrato Social](https://www.debian.org/social_contract.pt.html).
 
 As referências servem de inspiração metodológica. O Debian não participa nem endossa o Rondoscópio.
+
+## Compromisso com a missão e limites de poder
+
+**Art. 19.** A lealdade institucional significa respeito à missão, aos direitos fundamentais, à Constituição institucional e às normas regularmente aprovadas, não submissão pessoal a qualquer dirigente.
+
+§ 1º A pessoa aderente poderá apoiar propostas de substituição ou destituição de dirigentes, requerer apuração de abusos e votar conforme as regras, sem que isso seja considerado deslealdade.
+
+§ 2º Qualquer acusação de má-fé, infiltração ou dupla lealdade deverá ser examinada por fatos verificáveis, com respeito à privacidade e ao contraditório.
+
+**Art. 20.** O compromisso de proteger o Rondoscópio não obriga colaborador a aceitar riscos físicos ou jurídicos desproporcionais, continuar desempenhando funções contra sua vontade ou sacrificar sua segurança em nome de uma liderança.
+
+Consulte também a [Constituição Institucional](../CONSTITUICAO.md), o [Regimento de Papéis](../governanca/REGIMENTO-DE-PAPEIS-E-PERMISSOES.md), o [Comitê de Ética e Conduta](../governanca/COMITE-DE-ETICA-E-CONDUTA.md) e o [Processo de Destituição e Defesa](../governanca/PROCESSO-DE-DESTITUICAO-E-DEFESA.md).

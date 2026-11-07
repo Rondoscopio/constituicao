@@ -1,6 +1,6 @@
 # Processo de ingresso e habilitação de colaboradores
 
-> **Situação:** minuta para discussão pública. **Versão:** 0.1. **Data:** 2026-11-07.
+> **Situação:** minuta para discussão pública. **Versão:** 0.2. **Data:** 2026-11-07.
 > **Natureza:** proposta de termo institucional, sem efeito vinculante automático ou admissão de membros antes de aprovação e aceitação válida.
 
 ## CAPÍTULO I
@@ -87,3 +87,13 @@ IX - orientação inicial, treinamento e indicação de responsável pelo acompa
 - [Debian New Member Process](https://www.debian.org/devel/join/newmaint).
 - [Debian New Member: Commitments](https://nm.debian.org/process/1572/sc_dmup/).
 - [Confiança em chaves OpenPGP](../seguranca/CONFIANCA-OPENPGP-E-CERIMONIA-DE-CHAVES.md).
+
+## Direitos de participação e controle institucional
+
+**Art. 13.** O ingresso formal concede apenas as atribuições expressamente definidas; a habilitação como membro eleitor seguirá os requisitos da Constituição, inclusive prazo mínimo de participação.
+
+**Art. 14.** A avaliação de candidatos deverá proteger divergências políticas legítimas, não exigir adesão à personalidade de dirigentes e evitar verificações invasivas da vida privada.
+
+**Art. 15.** A admissão ou recusa poderá ser revista pelos meios de contestação previstos na governança, com fundamentação e preservação de informações pessoais.
+
+Consulte [Constituição Institucional](../CONSTITUICAO.md) e [Proteção contra Captura](../governanca/PROTECAO-CONTRA-CAPTURA-INSTITUCIONAL.md).

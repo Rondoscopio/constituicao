@@ -1,6 +1,6 @@
 # Alteração dos fundamentos
 
-> **Situação:** minuta para discussão pública. **Versão:** 0.2. **Data:** 2026-11-07.
+> **Situação:** minuta para discussão pública. **Versão:** 0.3. **Data:** 2026-11-07.
 
 ## CAPÍTULO I
 ### DOS TIPOS DE ALTERAÇÃO
@@ -25,3 +25,14 @@ III - alteração substantiva, quando forem modificados direitos, deveres, compe
 Parágrafo único. A publicação de minuta ou de proposta em pull request não representa aprovação institucional.
 
 **Art. 5º** O histórico público deverá conservar datas, versões e razões gerais da mudança, protegidas as informações pessoais e operacionais sigilosas.
+
+## CAPÍTULO III
+### DAS PROPOSTAS CONSTITUCIONAIS
+
+**Art. 6º** A Constituição Institucional é proposta como norma superior interna, sem prevalência sobre estatuto registrado e legislação aplicável.
+
+**Art. 7º** Após instalação colegiada, alterações substantivas exigirão prazo de trinta dias, quórum de participação de dois terços e aprovação por três quartos dos votos válidos, com os requisitos de habilitação e votos mínimos estabelecidos na Constituição.
+
+**Art. 8º** Emendas não produzirão efeito retroativo para suprimir direitos de defesa ou influenciar processo de destituição já instaurado.
+
+Consulte [Constituição Institucional](../CONSTITUICAO.md) e [Proteção contra Captura](PROTECAO-CONTRA-CAPTURA-INSTITUCIONAL.md).

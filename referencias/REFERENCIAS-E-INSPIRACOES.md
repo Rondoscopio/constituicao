@@ -128,3 +128,15 @@ Essas referências fundamentam estudos e compromissos de [enfrentamento das muda
 - [Debian Social Contract](https://www.debian.org/social_contract.pt.html): compromissos públicos organizacionais, distintos da declaração individual de ingresso.
 
 A inspiração resultou nas minutas de [Termo de Adesão e Compromisso Institucional](../participacao/TERMO-DE-ADESAO-E-COMPROMISSO-INSTITUCIONAL.md), [Processo de Ingresso](../participacao/PROCESSO-DE-INGRESSO.md) e [Declaração de Adesão](../modelos/DECLARACAO-DE-ADESAO.md). O Debian não participa da elaboração, revisão ou aprovação desses documentos.
+
+## Constituição interna, divisão de poderes e controle de conduta
+
+- [Constituição do Debian](https://www.debian.org/devel/constitution): distinção entre líder, membros, secretário, comitê técnico e delegados; regras de resolução, destituição e alteração de documentos fundamentais.
+- [Debian, Contrato Social](https://www.debian.org/social_contract.pt.html): compromissos públicos que não dependem da pessoa que exerce a liderança.
+- [Python Software Foundation, Procedimentos do Código de Conduta](https://policies.python.org/python.org/code-of-conduct/Enforcement-Procedures/): recebimento e avaliação de relatos, impedimento de pessoas com conflitos de interesse, medidas proporcionais, registros de decisão e acompanhamento.
+- [Wikimedia Foundation, diretrizes de aplicação do Código Universal de Conduta](https://foundation.wikimedia.org/wiki/Policy:Universal_Code_of_Conduct/Enforcement_guidelines): procedimentos de fiscalização, recursos e revisão por instâncias próprias.
+- [Código Civil brasileiro, arts. 53 a 59](https://www.planalto.gov.br/ccivil_03/leis/2002/l10406compilada.htm): admissão e exclusão de associados, defesa, recurso, competências da assembleia e estatuto social em futura associação.
+
+A influência desses projetos é metodológica. Seus órgãos, nomes e procedimentos não foram copiados integralmente nem implicam parceria ou endosso.
+
+As adaptações estão em [Constituição Institucional](../CONSTITUICAO.md), [Regimento de Papéis](../governanca/REGIMENTO-DE-PAPEIS-E-PERMISSOES.md), [Comitê de Ética](../governanca/COMITE-DE-ETICA-E-CONDUTA.md), [Destituição e Defesa](../governanca/PROCESSO-DE-DESTITUICAO-E-DEFESA.md), [Prevenção de Captura](../governanca/PROTECAO-CONTRA-CAPTURA-INSTITUCIONAL.md) e [Transição Administrativa](../governanca/TRANSICAO-ADMINISTRATIVA-E-SUCESSAO.md).

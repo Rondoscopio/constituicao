@@ -1,9 +1,15 @@
 # Sucessão e continuidade
 
-> **Situação:** minuta para discussão pública. **Versão:** 0.1. **Data:** 2026-11-07.
+> **Situação:** minuta para discussão pública. **Versão:** 0.2. **Data:** 2026-11-07.
 
-O projeto não deve depender exclusivamente do fundador para acesso a contas, publicação de investigações ou recuperação do acervo.
+O Rondoscópio deverá existir para além da presença de qualquer pessoa, inclusive de quem iniciou o projeto. A missão, os métodos e os arquivos precisam ser preserváveis e transferíveis por procedimentos legítimos.
 
-A sucessão deverá separar custódia de credenciais, poderes editoriais e direitos sobre ativos. Procedimentos críticos precisam de documentação protegida e testes periódicos.
+Essa intenção não significa que a continuidade já esteja garantida. Enquanto houver um único administrador com controle efetivo das contas, existe um risco real de paralisação por perda de acesso, ausência prolongada, incapacidade ou falecimento.
 
-A continuidade não pode comprometer fontes por transmissão indiscriminada de acesso a novos administradores.
+A estratégia de transição deverá inventariar repositórios, domínios, identidades institucionais, contratos, chaves de publicação e backups, mantendo dados sensíveis protegidos. A passagem de atribuições exige aceitação, autorização e mecanismos de recuperação comprováveis.
+
+A sucessão não decorrerá de vínculo familiar ou privilégio pessoal de fundador. Quando houver assembleia e funções colegiadas, a substituição seguirá competências e mandatos definidos.
+
+Nenhuma pessoa será obrigada a aceitar perigo físico, responsabilidade jurídica extraordinária ou exposição indevida para preservar o projeto.
+
+Consulte [Constituição Institucional](../CONSTITUICAO.md) e [Transição Administrativa e Sucessão](TRANSICAO-ADMINISTRATIVA-E-SUCESSAO.md).

@@ -1,6 +1,6 @@
 # Carta Fundadora do Rondoscópio
 
-> **Situação:** minuta para discussão pública. **Versão:** 0.5. **Data:** 2026-11-07.
+> **Situação:** minuta para discussão pública. **Versão:** 0.6. **Data:** 2026-11-07.
 > **Natureza:** documento institucional proposto, sem vigência formal até aprovação pela instância competente.
 
 
@@ -192,3 +192,18 @@ As disposições deste capítulo serão detalhadas em [Ética e responsabilidade
 **Art. 30.** A defesa desses princípios não dispensa a avaliação independente de cada política, seus custos, consequências distributivas, efeitos inesperados e resultados, inclusive quando contrariem expectativas institucionais.
 
 Os compromissos são detalhados em [Proteção ambiental](principios/PROTECAO-AMBIENTAL.md), [Enfrentamento das mudanças climáticas](principios/ENFRENTAMENTO-DAS-MUDANCAS-CLIMATICAS.md), [Reparação de desigualdades históricas](principios/REPARACAO-DE-DESIGUALDADES-HISTORICAS.md) e [Avaliação de políticas climáticas e reparatórias](metodologia/AVALIACAO-DE-POLITICAS-CLIMATICAS-E-REPARATORIAS.md).
+
+## CAPÍTULO X
+### DA AUTONOMIA INSTITUCIONAL E DOS LIMITES DO PODER
+
+**Art. 31.** O Rondoscópio deverá ser capaz de prosseguir sua missão independentemente da identidade, da presença ou das convicções particulares de qualquer administrador.
+
+**Art. 32.** Nenhuma pessoa terá prerrogativa vitalícia de comando, imunidade disciplinar ou direito de exigir fidelidade pessoal por ter participado da fundação do projeto.
+
+**Art. 33.** A administração individual provisória será reconhecida como limitação operacional, devendo ser progressivamente substituída por distribuição documentada de competências, controles e mecanismos de sucessão.
+
+**Art. 34.** As funções institucionais poderão estar sujeitas a nomeação, eleição, impedimento, destituição e revisão, com garantias de contraditório, ampla defesa e recurso, conforme a legislação e a [Constituição Institucional](CONSTITUICAO.md).
+
+Parágrafo único. A vontade de proteger a missão não autoriza impor riscos físicos, jurídicos ou pessoais desproporcionais aos colaboradores.
+
+Consulte a [Constituição Institucional](CONSTITUICAO.md), o [Comitê de Ética e Conduta](governanca/COMITE-DE-ETICA-E-CONDUTA.md) e o [Processo de Destituição e Defesa](governanca/PROCESSO-DE-DESTITUICAO-E-DEFESA.md).
