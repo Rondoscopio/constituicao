@@ -1,6 +1,6 @@
 # Igualdade e não discriminação
 
-> **Situação:** minuta para discussão pública. **Versão:** 0.2. **Data:** 2026-11-07.
+> **Situação:** minuta para discussão pública. **Versão:** 0.3. **Data:** 2026-11-07.
 
 ## CAPÍTULO I
 ### DA IGUALDADE DE DIGNIDADE
@@ -42,3 +42,14 @@ Parágrafo único. Criticar decisões de autoridades, políticas públicas ou id
 **Art. 7º** Denúncias de discriminação deverão ser examinadas com confidencialidade proporcional, direito de manifestação e respeito à privacidade.
 
 Consulte [Ética, moral e responsabilidade](ETICA-MORAL-E-RESPONSABILIDADE.md) e [Compromisso com um mundo justo e saudável](COMPROMISSO-COM-UM-MUNDO-JUSTO-E-SAUDAVEL.md).
+
+## CAPÍTULO IV
+### DA IGUALDADE MATERIAL E DA REPARAÇÃO
+
+**Art. 8º** O Rondoscópio reconhece que a igualdade perante a lei deve ser acompanhada da investigação de desigualdades persistentes de acesso a direitos, serviços e oportunidades.
+
+**Art. 9º** A organização defende a legitimidade de políticas reparatórias e ações afirmativas, com base jurídica, diagnóstico apropriado, proteção da dignidade e avaliação de resultados.
+
+**Art. 10.** A crítica fundamentada a qualquer ação afirmativa não será considerada, por si só, discriminação. A defesa dessas políticas tampouco autoriza hostilizar pessoas por sua origem ou condição.
+
+Consulte [Reparação de desigualdades históricas](REPARACAO-DE-DESIGUALDADES-HISTORICAS.md).

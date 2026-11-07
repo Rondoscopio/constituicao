@@ -1,6 +1,6 @@
 # Carta Fundadora do Rondoscópio
 
-> **Situação:** minuta para discussão pública. **Versão:** 0.4. **Data:** 2026-11-07.
+> **Situação:** minuta para discussão pública. **Versão:** 0.5. **Data:** 2026-11-07.
 > **Natureza:** documento institucional proposto, sem vigência formal até aprovação pela instância competente.
 
 
@@ -171,3 +171,24 @@ Parágrafo único. A igualdade de dignidade não impede a crítica fundamentada 
 Parágrafo único. Os instrumentos tecnológicos serão escolhidos mediante análise de risco, testes e critérios de proporcionalidade, não por promessa de invulnerabilidade.
 
 As disposições deste capítulo serão detalhadas em [Ética e responsabilidade](principios/ETICA-MORAL-E-RESPONSABILIDADE.md), [Compromisso com um mundo justo e saudável](principios/COMPROMISSO-COM-UM-MUNDO-JUSTO-E-SAUDAVEL.md), [Autenticação FIDO2](seguranca/AUTENTICACAO-FIDO2-WEBAUTHN-E-CHAVES-FISICAS.md) e [Criptografia pós-quântica](seguranca/CRIPTOGRAFIA-POS-QUANTICA.md).
+
+## CAPÍTULO IX
+### DA PROTEÇÃO DA NATUREZA E DA JUSTIÇA HISTÓRICA
+
+**Art. 27.** O Rondoscópio reconhece o direito ao meio ambiente ecologicamente equilibrado e defende a conservação da biodiversidade, das florestas, dos rios e dos demais ecossistemas, em benefício das gerações presentes e futuras.
+
+**Art. 28.** A organização reconhece o aquecimento global causado pela atividade humana, conforme o conhecimento científico consolidado, e apoia políticas fundamentadas de mitigação das emissões de gases de efeito estufa e de adaptação aos impactos das mudanças climáticas.
+
+§ 1º A organização se opõe à negação ou distorção deliberada das evidências científicas, sem restringir a crítica fundamentada de modelos, projeções e propostas de políticas públicas.
+
+§ 2º Os resultados e os impactos de cada medida ambiental deverão ser avaliados com rigor e atenção aos direitos das comunidades afetadas.
+
+**Art. 29.** O Rondoscópio defende políticas de reparação de desigualdades históricas e de promoção da igualdade material, inclusive ações afirmativas e medidas de acesso a direitos, quando juridicamente fundamentadas, proporcionais e avaliáveis.
+
+§ 1º O compromisso considera efeitos persistentes de escravização, racismo, expulsão de territórios, exclusão social e educacional, discriminação e outras violações históricas documentadas.
+
+§ 2º Nenhuma pessoa será presumida moralmente culpada por sua raça, origem, identidade ou condição econômica. A responsabilidade por atos individuais dependerá de evidências e dos critérios jurídicos pertinentes.
+
+**Art. 30.** A defesa desses princípios não dispensa a avaliação independente de cada política, seus custos, consequências distributivas, efeitos inesperados e resultados, inclusive quando contrariem expectativas institucionais.
+
+Os compromissos são detalhados em [Proteção ambiental](principios/PROTECAO-AMBIENTAL.md), [Enfrentamento das mudanças climáticas](principios/ENFRENTAMENTO-DAS-MUDANCAS-CLIMATICAS.md), [Reparação de desigualdades históricas](principios/REPARACAO-DE-DESIGUALDADES-HISTORICAS.md) e [Avaliação de políticas climáticas e reparatórias](metodologia/AVALIACAO-DE-POLITICAS-CLIMATICAS-E-REPARATORIAS.md).

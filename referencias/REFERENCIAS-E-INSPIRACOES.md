@@ -106,3 +106,15 @@ Essas referências orientam compromissos [de ética e moral](../principios/ETICA
 - [NIST FIPS 203](https://csrc.nist.gov/pubs/fips/203/final), [FIPS 204](https://csrc.nist.gov/pubs/fips/204/final), [FIPS 205](https://csrc.nist.gov/pubs/fips/205/final) e [NIST IR 8547 (outubro de 2026)](https://csrc.nist.gov/pubs/ir/8547/final): padrões criptográficos e transição pós-quântica.
 
 Consulte [FIDO2/WebAuthn](../seguranca/AUTENTICACAO-FIDO2-WEBAUTHN-E-CHAVES-FISICAS.md), [aleatoriedade](../seguranca/ALEATORIEDADE-ENTROPIA-E-GERACAO-DE-SEGREDOS.md), [criptografia simétrica e assimétrica](../seguranca/CRIPTOGRAFIA-SIMETRICA-E-ASSIMETRICA.md) e [criptografia pós-quântica](../seguranca/CRIPTOGRAFIA-POS-QUANTICA.md).
+
+## Natureza, clima e reparação de desigualdades históricas
+
+- [IPCC, Relatório de Síntese do Sexto Ciclo (AR6, 2023)](https://www.ipcc.ch/report/ar6/syr/summary-for-policymakers/): base de evidências sobre aquecimento global causado por atividades humanas, mitigação, adaptação, impactos e riscos.
+- [IPCC, Impactos, Adaptação e Vulnerabilidade (2022)](https://www.ipcc.ch/report/ar6/wg2/chapter/summary-for-policymakers/): referência para riscos climáticos, vulnerabilidade e impactos distributivos.
+- [INPE TerraBrasilis](https://www.terrabrasilis.dpi.inpe.br/sobre/): dados geoespaciais e documentação sobre monitoramento de vegetação, PRODES e DETER, distinguindo alertas de ilegalidade.
+- [MapBiomas Brasil](https://brasil.mapbiomas.org/): séries históricas de cobertura e uso da terra e metodologias geoespaciais. A utilização deve registrar coleção, data, método e atribuição exigida.
+- [Constituição Federal de 1988](https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm): objetivos de erradicação da pobreza e redução de desigualdades (art. 3º), proteção da cultura e dos direitos indígenas e meio ambiente equilibrado (art. 225).
+- [Estatuto da Igualdade Racial, Lei nº 12.288/2010](https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2010/lei/l12288.htm): igualdade material e ações afirmativas para enfrentar efeitos de discriminação e distorções históricas.
+- [Declaração Universal dos Direitos Humanos](https://www.un.org/en/about-us/universal-declaration-of-human-rights): igual dignidade e direitos fundamentais.
+
+Essas referências fundamentam estudos e compromissos de [enfrentamento das mudanças climáticas](../principios/ENFRENTAMENTO-DAS-MUDANCAS-CLIMATICAS.md), [reparação de desigualdades históricas](../principios/REPARACAO-DE-DESIGUALDADES-HISTORICAS.md) e [avaliação de políticas](../metodologia/AVALIACAO-DE-POLITICAS-CLIMATICAS-E-REPARATORIAS.md). O Rondoscópio não possui parceria ou endosso automático dos autores.

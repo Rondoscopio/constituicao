@@ -13,3 +13,12 @@ As fontes abaixo são pontos de partida. O texto consolidado, alterações legis
 - [Lei das Organizações da Sociedade Civil, Lei nº 13.019/2014](https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2014/lei/l13019.htm).
 
 A Constituição de Rondônia e a legislação estadual e municipal serão incorporadas após conferência das fontes oficiais e de suas versões vigentes.
+
+## Legislação para análise ambiental e de reparação histórica
+
+- [Constituição Federal, arts. 3º e 225](https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm): redução das desigualdades e direito ao meio ambiente ecologicamente equilibrado.
+- [Estatuto da Igualdade Racial, Lei nº 12.288/2010](https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2010/lei/l12288.htm): combate à discriminação e políticas de ações afirmativas.
+- [Lei nº 12.187/2009, Política Nacional sobre Mudança do Clima](https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2009/lei/l12187.htm): referência legal climática, devendo ser consultada na versão consolidada vigente.
+- [Lei nº 9.985/2000, Sistema Nacional de Unidades de Conservação](https://www.planalto.gov.br/ccivil_03/leis/l9985.htm): referência para conservação e gestão de áreas protegidas.
+
+Uma norma citada não substitui a análise de sua vigência, das competências e das particularidades de sua aplicação a Rondônia e aos municípios.

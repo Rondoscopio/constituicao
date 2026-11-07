@@ -1,6 +1,6 @@
 # Carta de Princípios do Rondoscópio
 
-> **Situação:** minuta para discussão pública. **Versão:** 0.4. **Data:** 2026-11-07.
+> **Situação:** minuta para discussão pública. **Versão:** 0.5. **Data:** 2026-11-07.
 > **Natureza:** documento institucional proposto, sem vigência formal até aprovação pela instância competente.
 
 
@@ -168,8 +168,27 @@ Parágrafo único. A natureza jurídica de obrigações internacionais, recomend
 Parágrafo único. A atuação cívica deverá ser transparente e compatível com o rigor investigativo, a autonomia editorial, o pluralismo e a igualdade de tratamento.
 
 ## CAPÍTULO X
+### DO CLIMA, DA NATUREZA E DA REPARAÇÃO HISTÓRICA
+
+**Art. 30.** A defesa do meio ambiente, da biodiversidade e das condições climáticas necessárias à vida integra os compromissos do Rondoscópio.
+
+**Art. 31.** O projeto reconhece a origem predominantemente humana do aquecimento global observado e se opõe à negação deliberada ou à distorção de evidências científicas consolidadas.
+
+§ 1º A organização defenderá políticas fundamentadas de redução de emissões, proteção da natureza, prevenção de desastres e adaptação, observadas as condições socioeconômicas e os direitos territoriais.
+
+§ 2º A análise de alternativas tecnológicas, regulatórias e econômicas deverá permanecer aberta a evidências, custos e efeitos distributivos.
+
+**Art. 32.** O Rondoscópio reconhece a necessidade de enfrentar consequências persistentes de desigualdades historicamente produzidas, apoiando a legitimidade de políticas de reparação, ações afirmativas e promoção de oportunidades reais, em condições legalmente adequadas.
+
+§ 1º A avaliação das políticas de reparação deverá distinguir responsabilidades individuais, injustiças institucionais e efeitos sociais que persistem entre gerações.
+
+§ 2º Será assegurado exame crítico da finalidade, da legalidade, da proporcionalidade, dos custos e dos resultados de cada política, sem preconceito contra beneficiários ou críticos.
+
+**Art. 33.** O compromisso institucional com a justiça ambiental e a igualdade material não autoriza ocultação de resultados, manipulação de indicadores ou responsabilização sem evidência.
+
+## CAPÍTULO XI
 ### DAS DISPOSIÇÕES FINAIS
 
-**Art. 30.** A aplicação destes princípios será detalhada em procedimentos editoriais, metodológicos, de segurança e de governança.
+**Art. 34.** A aplicação destes princípios será detalhada em procedimentos editoriais, metodológicos, de segurança e de governança.
 
-**Art. 31.** A aprovação, a alteração e a entrada em vigência desta Carta dependerão de procedimento institucional competente e de registro público, preservada a confidencialidade legítima.
+**Art. 35.** A aprovação, a alteração e a entrada em vigência desta Carta dependerão de procedimento institucional competente e de registro público, preservada a confidencialidade legítima.

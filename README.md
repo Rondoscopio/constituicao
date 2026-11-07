@@ -22,6 +22,12 @@ A hierarquia é uma convenção editorial, não confere força de lei e não sig
 
 A [Carta Fundadora](CARTA-FUNDADORA.md) e a [Carta de Princípios](principios/CARTA-DE-PRINCIPIOS.md) explicitam o repúdio à tortura, às ditaduras, à violência criminosa e ao tráfico ilícito, a defesa da vida e do devido processo e o respeito à cooperação internacional por meio de ONU, OMS e INTERPOL, conforme suas competências legais. Os compromissos não convertem recomendações em obrigações jurídicas automáticas.
 
+## Clima, natureza e reparação histórica
+
+O Rondoscópio propõe a [proteção da natureza](principios/PROTECAO-AMBIENTAL.md), o [enfrentamento das mudanças climáticas](principios/ENFRENTAMENTO-DAS-MUDANCAS-CLIMATICAS.md) e a [reparação de desigualdades históricas](principios/REPARACAO-DE-DESIGUALDADES-HISTORICAS.md), com [metodologia para avaliar políticas climáticas e reparatórias](metodologia/AVALIACAO-DE-POLITICAS-CLIMATICAS-E-REPARATORIAS.md).
+
+O reconhecimento das evidências científicas e das desigualdades históricas não dispensa a avaliação dos resultados de cada política. A abordagem terá atenção especial ao contexto amazônico e aos 52 municípios de Rondônia.
+
 ## Ética e compromisso com a dignidade
 
 O Rondoscópio estabelece como propostas a [ética, a responsabilidade e o dever de fazer o bem](principios/ETICA-MORAL-E-RESPONSABILIDADE.md), o [compromisso com uma sociedade justa e saudável](principios/COMPROMISSO-COM-UM-MUNDO-JUSTO-E-SAUDAVEL.md) e a [igualdade de dignidade sem discriminação](principios/IGUALDADE-E-NAO-DISCRIMINACAO.md). Esses valores devem ser aplicados com pluralismo, direitos fundamentais e autonomia investigativa.

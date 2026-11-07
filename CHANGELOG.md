@@ -2,6 +2,11 @@
 
 ## 2026-11-07
 
+- Incluídas propostas de reconhecimento da influência humana no aquecimento global, defesa da conservação da natureza, mitigação e adaptação climáticas e enfrentamento da negação infundada das evidências científicas.
+- Incluído o compromisso de apoiar políticas de reparação de desigualdades históricas e ações afirmativas legítimas, com análise de eficácia, direitos, proporcionalidade e consequências distributivas.
+- Atualizadas a Carta Fundadora, a Carta de Princípios, os Valores, os princípios de proteção ambiental, igualdade e justiça social, com metodologia específica de avaliação de políticas climáticas e reparatórias.
+
+
 - Criados documentos sobre autenticação FIDO2/WebAuthn, chaves físicas como YubiKey, proteção contra aleatoriedade fraca, criptografia simétrica e assimétrica e migração pós-quântica (NIST FIPS 203, 204 e 205 e IR 8547).
 - Ampliados Carta Fundadora, Carta de Princípios, Valores e políticas de segurança com compromissos de ética, responsabilidade, solidariedade, igualdade de dignidade, combate à discriminação e militância cívica pacífica.
 - Esclarecidas diferenças entre credenciais FIDO2, chaves OpenPGP, confidencialidade criptográfica, autenticidade e identidade civil.

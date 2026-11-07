@@ -1,6 +1,6 @@
 # Valores
 
-> **Situação:** minuta para discussão pública. **Versão:** 0.2. **Data:** 2026-11-07.
+> **Situação:** minuta para discussão pública. **Versão:** 0.3. **Data:** 2026-11-07.
 
 **Independência.** Investigações e publicações não devem ser subordinadas a governos, partidos, empresas ou financiadores.
 
@@ -27,3 +27,9 @@
 **Igual dignidade.** Cor, raça, sexo, gênero, orientação sexual, religião, opinião política, patrimônio e escolaridade não determinam o valor humano de ninguém.
 
 **Pluralismo.** O Rondoscópio poderá defender seus princípios com firmeza, sem exigir filiação partidária, adesão religiosa ou concordância pessoal integral de seus colaboradores.
+
+**Proteção da natureza.** A conservação da biodiversidade, das águas, das florestas e das condições ambientais necessárias à vida é compromisso institucional.
+
+**Responsabilidade climática.** Reconhecemos as evidências científicas do aquecimento global causado por atividades humanas e defendemos medidas fundamentadas de mitigação, adaptação e combate à desinformação climática.
+
+**Reparação histórica.** A promoção da igualdade material exige reconhecer e enfrentar consequências persistentes de injustiças históricas, mediante políticas legítimas, transparentes e avaliáveis.

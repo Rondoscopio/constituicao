@@ -1,9 +1,32 @@
 # Justiça social e econômica
 
-> **Situação:** minuta para discussão pública. **Versão:** 0.1. **Data:** 2026-11-07.
+> **Situação:** minuta para discussão pública. **Versão:** 0.2. **Data:** 2026-11-07.
 
-O Rondoscópio examinará concentração econômica, poder de mercado, desigualdades de renda e condições de trabalho por meio de dados e referências verificáveis.
+## CAPÍTULO I
+### DA IGUALDADE MATERIAL E DAS CONDIÇÕES DE VIDA
 
-Não confundirá concentração econômica com infração concorrencial automaticamente. Sempre que houver hipótese de ilícito, será necessário demonstrar sua relação com a regra jurídica aplicável.
+**Art. 1º** O Rondoscópio reconhece a importância de reduzir desigualdades injustas, garantir direitos sociais e ampliar o acesso efetivo a educação, saúde, segurança, moradia, renda e oportunidades econômicas.
 
-A análise de políticas econômicas contemplará custos, consequências distributivas, efeitos não desejados e resultados contrários à tese inicial.
+**Art. 2º** A investigação poderá examinar concentração econômica, poder de mercado, condições de trabalho, acesso à terra, distribuição territorial de investimentos e barreiras de mobilidade social.
+
+§ 1º Concentração de mercado, riqueza ou terra não equivale automaticamente a infração ou ato ilícito.
+
+§ 2º Hipóteses de abuso econômico, corrupção ou favorecimento deverão ser examinadas conforme regras, fatos e evidências próprios.
+
+## CAPÍTULO II
+### DAS POLÍTICAS DE REPARAÇÃO E REDUÇÃO DAS DESIGUALDADES
+
+**Art. 3º** O projeto defende a legitimidade de medidas destinadas a reparar consequências de exclusões históricas documentadas, sem responsabilizar indivíduos por características de nascimento.
+
+**Art. 4º** A avaliação dessas políticas considerará elegibilidade, custos, transparência, impacto sobre oportunidades reais, consequências distributivas e adequação ao marco jurídico.
+
+**Art. 5º** Resultados favoráveis, negativos e inconclusivos deverão ser comunicados com o mesmo rigor, inclusive quando contrariem a posição normativa da organização.
+
+## CAPÍTULO III
+### DA JUSTIÇA AMBIENTAL
+
+**Art. 6º** As políticas climáticas e ambientais deverão ser examinadas também quanto à distribuição territorial e social dos riscos, dos danos e dos benefícios.
+
+Parágrafo único. A proteção do meio ambiente e o combate a desigualdades podem reforçar-se mutuamente, mas os efeitos concretos de cada medida precisam ser avaliados.
+
+Consulte [Reparação de desigualdades históricas](REPARACAO-DE-DESIGUALDADES-HISTORICAS.md) e [Enfrentamento das mudanças climáticas](ENFRENTAMENTO-DAS-MUDANCAS-CLIMATICAS.md).
