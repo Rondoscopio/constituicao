@@ -24,6 +24,10 @@ A política de segurança abrange engenharia social, infiltração, falsificaç�
 
 Esses documentos são minutas de compromissos. Não significam que o canal de denúncias, mecanismos de criptografia ou todas as medidas técnicas estejam operacionais.
 
+## Proteção de domínios e confiança criptográfica
+
+Os fundamentos de segurança foram ampliados para contemplar [cerimônias OpenPGP de verificação de chaves](seguranca/CONFIANCA-OPENPGP-E-CERIMONIA-DE-CHAVES.md), [riscos de suspensão de domínios por clientHold e serverHold](seguranca/DOMINIOS-REGISTRO-E-STATUS-EPP.md), [riscos internos e dupla lealdade](seguranca/DUPLA-LEALDADE-E-RISCOS-INTERNOS.md) e [catálogos MITRE](seguranca/MITRE-CATALOGO-DE-TATICAS-MITIGACOES-E-DETECCOES.md) e [OWASP](seguranca/OWASP-CATALOGOS-PROATIVOS-E-CASOS.md). As políticas são propostas, não comprovações de segurança operacional.
+
 ## Contribuições e referências
 
 Contribuições públicas podem ser sugeridas por issues ou pull requests, desde que **não contenham denúncias sigilosas, documentos privados ou identidades de fontes**. Consulte [Como contribuir](CONTRIBUTING.md) e [Segurança](SECURITY.md).

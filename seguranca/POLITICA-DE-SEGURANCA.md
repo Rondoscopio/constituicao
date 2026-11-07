@@ -1,6 +1,6 @@
 # Política de segurança
 
-> **Situação:** minuta para discussão pública. **Versão:** 0.2. **Data:** 2026-11-07.
+> **Situação:** minuta para discussão pública. **Versão:** 0.3. **Data:** 2026-11-07.
 > **Natureza:** política institucional proposta. Não comprova controles implementados.
 
 ## CAPÍTULO I
@@ -62,3 +62,30 @@ Parágrafo único. A inclusão de referenciais não significa certificação nem
 - [OWASP ASVS 5.0](https://asvs.owasp.org/)
 - [MITRE ATT&CK](https://attack.mitre.org/)
 - [CISA KEV](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
+
+## CAPÍTULO IV
+### DA CONFIANÇA, DA CONTINUIDADE E DA ANTECIPAÇÃO DEFENSIVA
+
+**Art. 11.** O programa de segurança deverá contemplar conflitos de lealdade e possíveis riscos internos, sem presumir que relações pessoais, opiniões políticas ou vínculos profissionais constituam prova de ameaça.
+
+**Art. 12.** A integridade dos sistemas será protegida contra portas dos fundos, comprometimento de dependências, abuso de credenciais e alterações não autorizadas da cadeia de confiança.
+
+**Art. 13.** A custódia das chaves OpenPGP deverá separar chaves públicas e privadas e exigir verificação reforçada da identidade e da fingerprint antes da certificação de pessoas com responsabilidades críticas.
+
+Parágrafo único. A prática de verificação presencial adotada como referência no projeto Debian não significa compartilhamento físico de chaves privadas.
+
+**Art. 14.** Os estados de domínio `clientHold` e `serverHold`, estabelecidos por registradores e registros, respectivamente, integrarão as avaliações de risco de disponibilidade e autenticidade dos serviços públicos.
+
+**Art. 15.** O programa poderá adotar inteligência de ameaças e contrainteligência exclusivamente defensiva, fundamentadas em coleta lícita, indicadores verificáveis, prevenção proativa e proteção dos direitos das pessoas.
+
+**Art. 16.** Os controles preventivos, detectivos e de resposta deverão ser relacionados aos catálogos MITRE e OWASP aplicáveis, com registros de evidência, testes e risco residual, sem alegar cobertura integral ainda não implementada.
+
+## Políticas complementares
+
+- [Dupla lealdade e riscos internos](DUPLA-LEALDADE-E-RISCOS-INTERNOS.md)
+- [Portas dos fundos e cadeia de confiança](BACKDOORS-E-CADEIA-DE-CONFIANCA.md)
+- [Confiança OpenPGP e cerimônia de chaves](CONFIANCA-OPENPGP-E-CERIMONIA-DE-CHAVES.md)
+- [Proteção de domínios, clientHold e serverHold](DOMINIOS-REGISTRO-E-STATUS-EPP.md)
+- [Inteligência de ameaças e contrainteligência defensiva](INTELIGENCIA-DE-AMEACAS-E-CONTRAINTELIGENCIA.md)
+- [MITRE: táticas, detecções e mitigações](MITRE-CATALOGO-DE-TATICAS-MITIGACOES-E-DETECCOES.md)
+- [OWASP: catálogos e controles proativos](OWASP-CATALOGOS-PROATIVOS-E-CASOS.md)

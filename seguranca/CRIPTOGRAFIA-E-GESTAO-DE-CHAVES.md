@@ -1,6 +1,6 @@
 # Criptografia e gestão de chaves
 
-> **Situação:** minuta para discussão pública. **Versão:** 0.2. **Data:** 2026-11-07.
+> **Situação:** minuta para discussão pública. **Versão:** 0.3. **Data:** 2026-11-07.
 > **Natureza:** política institucional proposta. Não comprova controles implementados.
 
 ## CAPÍTULO I
@@ -56,3 +56,18 @@ Parágrafo único. O caso eMudhra de outubro de 2026 evidencia a possibilidade d
 - [GnuPG](https://gnupg.org/)
 - [Mozilla: proteção após o incidente eMudhra](https://blog.mozilla.org/security/2026/10/20/protecting-firefox-users-following-the-compromise-of-emudhra-intermediate-certificates/)
 - [Google: proteção contra certificados eMudhra](https://blog.google/security/protecting-chrome-and-android-users-from-compromised-emudhra-intermediate-ca-certificates/)
+
+## CAPÍTULO IV
+### DAS CERIMÔNIAS DE CONFIANÇA OPENPGP
+
+**Art. 10.** A chave pública poderá ser divulgada livremente. A chave privada permanecerá sob custódia autorizada e não será compartilhada para comprovar identidade.
+
+**Art. 11.** A atribuição de confiança a uma chave usada para operações sensíveis dependerá de verificação da fingerprint completa e de confirmação independente da identidade ou função do titular.
+
+§ 1º Será preferido encontro presencial para certificação de chaves críticas, conforme a tradição documentada do Debian, sem impedir alternativas remotas autenticadas quando avaliadas e aprovadas.
+
+§ 2º A presença física do participante não implica entrega da chave privada ou da respectiva senha.
+
+**Art. 12.** Chaves primárias, subchaves, expiração, revogação e comprovação de substituição deverão seguir política específica, com separação de custódia e procedimentos de recuperação.
+
+Consulte [Confiança OpenPGP e cerimônia de chaves](CONFIANCA-OPENPGP-E-CERIMONIA-DE-CHAVES.md).

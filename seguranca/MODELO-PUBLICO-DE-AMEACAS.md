@@ -1,6 +1,6 @@
 # Modelo público de ameaças
 
-> **Situação:** minuta para discussão pública. **Versão:** 0.2. **Data:** 2026-11-07.
+> **Situação:** minuta para discussão pública. **Versão:** 0.3. **Data:** 2026-11-07.
 > **Natureza:** política institucional proposta. Não comprova controles implementados.
 
 ## CAPÍTULO I
@@ -60,3 +60,11 @@ VII - manipulação de relatos públicos, envenenamento de dados e prompt inject
 - [MITRE D3FEND](https://d3fend.mitre.org/)
 - [T1684: Social Engineering](https://attack.mitre.org/techniques/T1684/)
 - [T1557: Adversary-in-the-Middle](https://attack.mitre.org/techniques/T1557/)
+
+## Ameaças institucionais e riscos de continuidade
+
+O modelo de ameaças deverá também acompanhar possíveis conflitos de lealdade, riscos internos, portas dos fundos e suspensão de domínios por estados EPP como clientHold e serverHold. Esses cenários não implicam suspeita automática contra pessoas ou provedores.
+
+O ciclo de inteligência de ameaças buscará evidências e medidas preventivas, detectivas e de resposta. A atividade de contrainteligência será estritamente defensiva e não envolverá vigilância clandestina.
+
+Consulte [Dupla lealdade](DUPLA-LEALDADE-E-RISCOS-INTERNOS.md), [Backdoors](BACKDOORS-E-CADEIA-DE-CONFIANCA.md), [Status EPP](DOMINIOS-REGISTRO-E-STATUS-EPP.md) e [Inteligência de ameaças](INTELIGENCIA-DE-AMEACAS-E-CONTRAINTELIGENCIA.md).

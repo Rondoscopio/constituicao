@@ -45,3 +45,11 @@ O episódio de chaves criptograficamente fracas em autoridades certificadoras in
 ## Política de atualização
 
 A atualização deste documento deverá registrar versão ou data do referencial quando necessária, particularidades de aplicação e ausência de endosso institucional. Os procedimentos operacionais não deverão depender apenas de rótulos, certificações declaradas ou listas de verificação.
+
+## Catálogos oficiais e guias internos
+
+O catálogo [MITRE: táticas, técnicas, mitigação e detecção](MITRE-CATALOGO-DE-TATICAS-MITIGACOES-E-DETECCOES.md) vincula diretamente aos índices completos Enterprise, Mobile e ICS, aos 15 objetivos táticos Enterprise, às listas de detecções e análises, campanhas, grupos e programas de software.
+
+O índice [OWASP: riscos e controles proativos](OWASP-CATALOGOS-PROATIVOS-E-CASOS.md) aponta para Web Top 10:2025, API, Mobile, CI/CD, Serverless, Data, Privacy, LLM, aplicações com agentes, ASVS, WSTG, MASVS e SAMM.
+
+A política de confiança em chaves toma como referência os [encontros e assinaturas do Debian](https://www.debian.org/events/keysigning). Para registro de domínios, a fonte é o [catálogo EPP da ICANN](https://www.icann.org/resources/pages/epp-status-codes-2014-06-16-en). Esses projetos não são parceiros ou certificadores do Rondoscópio.

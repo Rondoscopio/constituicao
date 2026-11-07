@@ -59,3 +59,13 @@ Consulte os demais arquivos deste diretório para classificar fontes jurídicas,
 - [Incidente eMudhra, outubro de 2026](https://blog.mozilla.org/security/2026/10/20/protecting-firefox-users-following-the-compromise-of-emudhra-intermediate-certificates/): exemplo documentado de falha na cadeia de confiança de certificados, sem atribuição de espionagem específica.
 
 A lista detalhada, com aplicações e limites, consta de [Referenciais de Segurança](../seguranca/REFERENCIAIS-DE-SEGURANCA.md).
+
+## Referências de identidade criptográfica e domínios
+
+- [Debian, cerimônias de assinatura de chaves](https://www.debian.org/events/keysigning): verificação presencial de identidade e impressão digital da chave pública antes da certificação de confiança, sem compartilhamento de chave privada.
+- [Debian, processo de identificação de novos membros](https://www.debian.org/devel/join/nm-step2): modelo de confiança institucional em chaves OpenPGP.
+- [ICANN, status EPP](https://www.icann.org/resources/pages/epp-status-codes-2014-06-16-en): definição de clientHold, serverHold, bloqueios e estados de registro.
+- [MITRE ATT&CK](https://attack.mitre.org/): táticas, técnicas, procedimentos, mitigação, detecção e relatos de atuação observada.
+- [OWASP Developer Guide](https://devguide.owasp.org/en/02-foundations/05-top-ten/): famílias de Top 10 e recursos para desenvolvimento proativo e verificação.
+
+As adaptações propostas encontram-se nos documentos de segurança. A presença na lista não significa certificação ou endosso.
