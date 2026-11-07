@@ -25,7 +25,8 @@ RUN mkdir -p /opt/quality \
       @biomejs/biome@2.1.2 @ast-grep/cli@0.39.0 \
       knip@5.61.0 jscpd@4.0.5 \
       vitest@3.2.4 fast-check@4.3.0 \
-      typescript@5.9.3 @typescript-eslint/parser@8.46.0
+      typescript@5.9.3 @typescript-eslint/parser@8.46.0 \
+    && npm rebuild --prefix /opt/quality @ast-grep/cli
 COPY tooling/eslint.config.mjs /opt/quality/eslint.config.mjs
 COPY tooling/tests/gerador.test.mjs /opt/quality/tests/gerador.test.mjs
 ENV PATH="/opt/quality/node_modules/.bin:${PATH}"
