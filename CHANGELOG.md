@@ -2,6 +2,9 @@
 
 ## 2026-11-07
 
+- Incluídos modelos de decreto institucional, ordem de serviço, nota técnica, emenda constitucional institucional e ato declaratório, completando a biblioteca de espécies normativas propostas.
+
+
 - Integrados modelos específicos de resolução, portaria, instrução normativa, parecer de conformidade e avaliação protegida de cooperação institucional.
 - Acrescentadas minutas sobre cooperação com autoridades diante de riscos objetivos de corrupção ou captura institucional, sem acusações por origem ou parentesco, e sobre resiliência a pressão jurídica e política por meios legais.
 - Preservada a revisão paralela que ampliou os documentos do repositório, evitando substituição de contribuições recentes e duplicação de normas de finalidade.

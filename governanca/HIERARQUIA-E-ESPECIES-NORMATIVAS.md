@@ -77,3 +77,9 @@ Os instrumentos de [resolução](../modelos/MODELO-DE-RESOLUCAO.md), [portaria](
 O [parecer de conformidade](../modelos/MODELO-DE-PARECER-DE-CONFORMIDADE.md) registra as objeções e a possibilidade de contraditório antes de decisões sobre limites à reforma. A assinatura do parecer não atribui a seu autor poder pessoal de veto ou de aprovação.
 
 Esses documentos são apenas modelos e não evidenciam existência de órgãos ou decisões formalmente aprovadas.
+
+## Modelos complementares das espécies previstas
+
+A execução e o controle poderão valer-se de modelos de [decreto institucional](../modelos/MODELO-DE-DECRETO-INSTITUCIONAL.md), [ordem de serviço](../modelos/MODELO-DE-ORDEM-DE-SERVICO.md), [nota técnica](../modelos/MODELO-DE-NOTA-TECNICA.md), [emenda constitucional institucional](../modelos/MODELO-DE-EMENDA-CONSTITUCIONAL-INSTITUCIONAL.md) e [ato declaratório](../modelos/MODELO-DE-ATO-DECLARATORIO.md).
+
+Os modelos não conferem validade jurídica ou institucional sem competência, procedimento e aprovação verificáveis.

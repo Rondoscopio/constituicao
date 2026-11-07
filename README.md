@@ -34,6 +34,10 @@ A hierarquia normativa possui agora modelos independentes de [resolução](model
 
 Em segurança, complementam as regras de [cooperação com instituições e riscos de captura](seguranca/COOPERACAO-INSTITUCIONAL-E-RISCOS-DE-CAPTURA.md) e de [resiliência a ameaças jurídicas e políticas](seguranca/AMEACAS-JURIDICAS-POLITICAS-E-RESILIENCIA.md). O [modelo de análise de cooperação](modelos/MODELO-DE-ANALISE-DE-COOPERACAO.md) orienta avaliações caso a caso, sem autorizar descumprimento de obrigações legais.
 
+## Modelos das demais espécies de atos
+
+Complementam a documentação os modelos de [decreto institucional](modelos/MODELO-DE-DECRETO-INSTITUCIONAL.md), [ordem de serviço](modelos/MODELO-DE-ORDEM-DE-SERVICO.md), [nota técnica](modelos/MODELO-DE-NOTA-TECNICA.md), [emenda constitucional institucional](modelos/MODELO-DE-EMENDA-CONSTITUCIONAL-INSTITUCIONAL.md) e [ato declaratório](modelos/MODELO-DE-ATO-DECLARATORIO.md). Nenhum deles é considerado ato em vigor.
+
 ## Como começar
 
 Leia a [Constituição Institucional](CONSTITUICAO.md), depois a [Carta Fundadora](CARTA-FUNDADORA.md), depois a [Carta de Princípios](principios/CARTA-DE-PRINCIPIOS.md) e a [Metodologia de Investigação](metodologia/METODOLOGIA-DE-INVESTIGACAO.md). Para entender os limites do projeto, consulte [Escopo e limites](identidade/ESCOPO-E-LIMITES.md).
