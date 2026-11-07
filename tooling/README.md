@@ -77,3 +77,24 @@ docker compose run --build --rm --volume "./:/workspace:rw" docs node scripts/ge
 ```
 
 Isso modifica somente os dois artefatos versionados na sua cópia de trabalho.
+
+## CI e ruleset
+
+O workflow único de integração contínua é `.github/workflows/ci.yml`.
+A matriz `quality` executa cada stage obrigatório definido no `Dockerfile`
+por meio do Docker Compose. O job final, chamado exatamente **`gate`**,
+tem `needs: [quality]` e `if: always()` para falhar também quando a
+matriz falha ou é ignorada. O próprio `gate` não roda um analisador no
+host: ele somente agrega o resultado fornecido pelo GitHub Actions.
+Todos os analisadores continuam dentro dos contêineres.
+
+No **GitHub → Settings → Rules → Rulesets**, edite ou crie um ruleset
+para a branch `main`, habilite **Require status checks to pass** e
+selecione **`gate`** como required check, preferencialmente com a origem
+GitHub Actions. Não selecione cada instância da matriz: os nomes das
+ferramentas podem mudar sem afetar a configuração do ruleset.
+
+O contexto `gate` só aparece para seleção quando o novo workflow tiver
+sido executado pelo GitHub. A exigência efetiva também depende das
+permissões e da ativação do ruleset. O workflow independente
+`scorecard.yml` é agendado e, portanto, não compõe o gate do PR.
