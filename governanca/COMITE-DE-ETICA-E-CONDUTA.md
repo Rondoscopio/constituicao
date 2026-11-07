@@ -77,3 +77,13 @@ VI - recomendação de exclusão, obedecida a lei e o estatuto aplicável, quand
 - [Python Software Foundation, Procedimentos de Aplicação do Código de Conduta](https://policies.python.org/python.org/code-of-conduct/Enforcement-Procedures/).
 - [Wikimedia, Diretrizes de Aplicação do Código Universal de Conduta](https://foundation.wikimedia.org/wiki/Policy:Universal_Code_of_Conduct/Enforcement_guidelines).
 - [Código Civil brasileiro, arts. 57 a 59](https://www.planalto.gov.br/ccivil_03/leis/2002/l10406compilada.htm).
+
+## Prevenção da captura do próprio Comitê
+
+**Art. 18.** Os integrantes não poderão ser substituídos de forma oportunista durante julgamento de pessoa que possua poder sobre suas nomeações.
+
+**Art. 19.** Conflito de interesses, vínculo familiar ou dependência financeira relevante serão avaliados antes do acesso às provas, preservada a privacidade.
+
+**Art. 20.** Em temas que envolvam dirigentes, o Comitê poderá recomendar revisão independente externa quando inexistir composição não impedida suficiente, sem alegar autoridade jurídica que não possua.
+
+**Art. 21.** Acusações de discriminação, assédio e retaliação serão apuradas por condutas verificáveis, com tratamento simétrico de denunciantes e denunciados e prioridade à segurança.

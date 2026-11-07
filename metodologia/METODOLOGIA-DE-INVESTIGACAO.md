@@ -21,3 +21,11 @@ A redação deve separar o que foi comprovado do que permanece incerto. Suspeita
 Toda análise deverá permitir a consulta das fontes publicáveis, registrar versões e oferecer contestação. Fatos novos e decisões posteriores podem exigir atualização, correção ou retirada fundamentada.
 
 A metodologia deve incluir uma trilha auditável, mas não pode expor informações que coloquem fontes e denunciantes em risco.
+
+## Independência e riscos de instrumentalização
+
+A pauta deverá ser definida por relevância e possibilidade de apuração, antes de conhecer a conclusão. Serão documentadas hipóteses alternativas, contraprovas, identidades verificadas e conflitos de interesses.
+
+Informações remetidas por órgão policial, inteligência estatal ou participante privado não serão aceitas como prova apenas pela reputação da origem. O projeto avaliará motivações e riscos de comprometimento sem presumir conspiração.
+
+Consulte [Investigação de Autoridades](../editorial/INVESTIGACAO-DE-AUTORIDADES-E-PODERES.md) e [Cooperação Segura](../denuncias/COOPERACAO-SEGURA-COM-AUTORIDADES.md).

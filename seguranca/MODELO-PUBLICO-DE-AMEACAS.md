@@ -68,3 +68,11 @@ O modelo de ameaças deverá também acompanhar possíveis conflitos de lealdade
 O ciclo de inteligência de ameaças buscará evidências e medidas preventivas, detectivas e de resposta. A atividade de contrainteligência será estritamente defensiva e não envolverá vigilância clandestina.
 
 Consulte [Dupla lealdade](DUPLA-LEALDADE-E-RISCOS-INTERNOS.md), [Backdoors](BACKDOORS-E-CADEIA-DE-CONFIANCA.md), [Status EPP](DOMINIOS-REGISTRO-E-STATUS-EPP.md) e [Inteligência de ameaças](INTELIGENCIA-DE-AMEACAS-E-CONTRAINTELIGENCIA.md).
+
+## Captura normativa e institucional
+
+O modelo de ameaças deverá cobrir captura por votação manipulada, mudanças de competências, concentração de ativos, supressão do direito de defesa e abuso de emergência institucional.
+
+A resposta priorizará independência entre funções, registros verificáveis de decisões críticas, controles de acesso e revisão normativa. Não haverá vigilância íntima de colaboradores para inferir lealdade.
+
+A suspeita de espionagem ou captura de órgão público exige prova concreta, revisão jurídica e prudência de divulgação.

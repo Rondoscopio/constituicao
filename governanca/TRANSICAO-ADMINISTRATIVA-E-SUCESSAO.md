@@ -68,3 +68,13 @@ Parágrafo único. O Rondoscópio não anunciará continuidade garantida nem pro
 **Art. 12.** Não poderá ser exigido sacrifício físico, renúncia a direitos ou exposição de informações pessoais em nome da preservação simbólica da iniciativa.
 
 **Art. 13.** A continuidade da missão deverá ser buscada preferencialmente por conhecimento documentado, pluralidade de responsáveis, métodos reproduzíveis e separação de deveres.
+
+## Continuidade institucional testável
+
+**Art. 14.** A transferência de competências dependerá de testes de recuperação, inventário de ativos, checagem de licenças e confirmação de que outro integrante habilitado pode efetivamente exercer a função.
+
+**Art. 15.** O projeto manterá plano de redução gradual do ponto único de falha representado pelo administrador inicial, respeitando segurança e escolha voluntária dos sucessores.
+
+**Art. 16.** Documentos essenciais à continuidade deverão ser versionados em formato aberto quando apropriado, com preservação de assinaturas, hashes e proveniência.
+
+**Art. 17.** A estratégia de replicação não autoriza dispersão pública de fontes sigilosas nem pressupõe que cópias em outros países estejam isentas de obrigações legais.

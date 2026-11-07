@@ -2,6 +2,12 @@
 
 ## 2026-11-07
 
+- Elaboradas garantias de identidade inspiradas no art. 60, § 4º, da Constituição de 1988 e na prevenção de captura por procedimentos formalmente regulares.
+- Criadas hierarquia de atos internos e procedimento de revisão de compatibilidade, com ECI, resoluções, decretos institucionais, instruções normativas, portarias, ordens de serviço e notas técnicas.
+- Incluídas políticas de sátira responsável, investigação de autoridades e redes de poder, cooperação legal com autoridades, proteção frente a assédio judicial e interpretação por finalidade da LGPD.
+- Ampliadas minutas de governança, metodologia, segurança, transparência e direitos e registrada a necessidade de continuar a revisão do acervo.
+
+
 - Criada a proposta de Constituição Institucional, sem nomes pessoais, que define a lealdade à missão e aos direitos em lugar de fidelidade ao fundador.
 - Estabelecida a função ADM individual provisória, com mecanismos futuros de separação de competências, assembleia, secretaria, comitês independentes, eleição, impedimento e destituição.
 - Criados regimentos de papéis e permissões, Comitê de Ética e Conduta, Processo de Destituição e Defesa, Prevenção contra Captura Institucional e Transição Administrativa e Sucessão.

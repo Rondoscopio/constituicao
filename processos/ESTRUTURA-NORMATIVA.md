@@ -66,3 +66,11 @@ Referências internas deverão identificar artigos ou documentos nominalmente, e
 Não renumerar dispositivos sem revisar todas as remissões. Mudanças substanciais devem registrar o motivo e não podem ser aplicadas retroativamente sem previsão e fundamentação adequadas.
 
 Na escrita, priorizar ordem direta, clareza e precisão. A técnica legislativa não exige linguagem artificial ou excesso de solemnidade.
+
+## Espécies normativas do Rondoscópio
+
+A [hierarquia de atos](../governanca/HIERARQUIA-E-ESPECIES-NORMATIVAS.md) diferencia a emenda constitucional institucional, resolução colegiada, decreto institucional, instrução normativa, portaria, ordem de serviço, nota técnica e ato declaratório.
+
+O nome do ato não confere competência. Um decreto interno não tem natureza de decreto estatal, e uma portaria não pode criar sanções ou suprimir direitos reservados a normas superiores.
+
+Os documentos não precisam usar solenidade artificial. A técnica legislativa será utilizada para precisão, referências estáveis e divisão clara de deveres e responsabilidades.

@@ -24,3 +24,11 @@ As propostas de [Constituição Institucional](CONSTITUICAO.md) e [Código de Co
 Lealdade à missão não equivale a lealdade a dirigentes. Não haverá acesso obrigatório a informações privadas de colaboradores nem proibição de discordância política legítima.
 
 O [Comitê de Ética e Conduta](governanca/COMITE-DE-ETICA-E-CONDUTA.md) e os demais órgãos previstos ainda dependem de instalação efetiva. Não existem canais internos de recurso independentes enquanto a equipe for individual.
+
+## Emendas e prevenção de mudanças abusivas
+
+Reformas constitucionais, revisões de direitos de membros, alterações de quórum e nomeações de órgãos deverão respeitar os limites estabelecidos em [Constituição Institucional](CONSTITUICAO.md) e [Cláusulas de Identidade](governanca/CLAUSULAS-DE-IDENTIDADE-E-LIMITES-A-REFORMA.md).
+
+Propostas poderão ser criticadas por sua finalidade, efeitos e contexto, inclusive quando apresentadas como melhorias técnicas. Não se admitirá retaliação contra proponentes ou opositores de boa-fé.
+
+A discussão não torna automaticamente aprovada a proposta, e o GitHub não é canal para publicar provas confidenciais, dados pessoais ou denúncias sensíveis.

@@ -15,3 +15,15 @@ A pessoa que possua conflito de interesse em denúncia, eleição, destituição
 Comitês não deverão compartilhar detalhes sigilosos do caso com pessoas impedidas. A simples relação pessoal ou divergência política não comprova intenção de infiltração ou abuso.
 
 Consulte [Constituição Institucional](../CONSTITUICAO.md) e [Comitê de Ética e Conduta](COMITE-DE-ETICA-E-CONDUTA.md).
+
+## Controle de interferências externas
+
+**Art. 1º** Relações entre colaboradores e órgãos investigados não produzirão presunção de ilícito, mas deverão ser declaradas quando afetarem decisões concretas.
+
+**Art. 2º** Pessoas que tenham interesse financeiro, familiar ou profissional relevante em pauta, contrato, nomeação ou julgamento deverão abster-se da etapa afetada conforme o procedimento aplicável.
+
+**Art. 3º** Uma pessoa não poderá decidir sozinha sobre sua própria declaração, recurso ou impedimento quando houver instância independente disponível.
+
+**Art. 4º** A proteção contra dupla lealdade deverá utilizar acesso mínimo e segregação de funções, não vigilância generalizada de relações pessoais.
+
+**Art. 5º** Conflitos relevantes com autoridades ou parceiros deverão ser documentados, inclusive quando o destinatário de denúncia possuir participação no fato apurado.

@@ -30,3 +30,15 @@
 **Art. 9º** A formação do colegiado implicará revisão documentada dos poderes e permissões técnicas para corresponder à distribuição constitucional das competências.
 
 Consulte [Constituição Institucional](../CONSTITUICAO.md), [Proteção contra Captura](PROTECAO-CONTRA-CAPTURA-INSTITUCIONAL.md) e [Alteração dos Fundamentos](ALTERACAO-DOS-FUNDAMENTOS.md).
+
+## Registro e legitimidade de decisões
+
+**Art. 10.** A decisão institucional será acompanhada de competência, lista de pessoas habilitadas, documentos de base, proposta, votos, impedimentos e versão aprovada, preservados os dados pessoais estritamente necessários.
+
+**Art. 11.** Declaração de urgência não autoriza edição de normas com hierarquia inferior em substituição a deliberação constitucional ou estatutária.
+
+**Art. 12.** Quando a deliberação afetar pessoas determinadas, estas terão mecanismo para apresentar elementos de defesa, sem poder determinar o resultado.
+
+**Art. 13.** As divergências relevantes deverão ser preservadas sem converter exposição de voto em perseguição pessoal.
+
+Consulte [Hierarquia de Atos](HIERARQUIA-E-ESPECIES-NORMATIVAS.md).

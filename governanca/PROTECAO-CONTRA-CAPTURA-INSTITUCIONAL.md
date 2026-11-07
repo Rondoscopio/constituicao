@@ -57,3 +57,15 @@ VIII - alegação falsa de estado de emergência para concentrar poderes.
 - [Constituição do Debian](https://www.debian.org/devel/constitution).
 - [Wikimedia Universal Code of Conduct](https://foundation.wikimedia.org/wiki/Policy:Universal_Code_of_Conduct/Enforcement_guidelines).
 - [Código Civil brasileiro, arts. 54, 57 e 59](https://www.planalto.gov.br/ccivil_03/leis/2002/l10406compilada.htm).
+
+## Protocolo de alerta institucional
+
+**Art. 13.** Serão documentados sinais verificáveis de captura, incluindo concessões de privilégio sem justificação, alteração de listas eleitorais, intimidação de revisores, decisões editoriais impostas e criação de regras excepcionais dirigidas a pessoas.
+
+**Art. 14.** A detecção de risco não autoriza presumir conspiração, restringir opiniões de candidatos ou impedir por tempo indefinido a renovação legítima da liderança.
+
+**Art. 15.** Propostas que alterem os mecanismos destinados a fiscalizar a administração deverão receber revisão adicional por pessoas não afetadas e prazo público adequado.
+
+**Art. 16.** Em crise de controle técnico, a preservação de fontes, de registros e de ativos precederá a conveniência de qualquer facção institucional.
+
+Consulte [Cláusulas de Identidade](CLAUSULAS-DE-IDENTIDADE-E-LIMITES-A-REFORMA.md) e [Controle Interno de Compatibilidade](PROCEDIMENTO-DE-CONTROLE-DE-CONSTITUCIONALIDADE-INTERNA.md).

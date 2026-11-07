@@ -1,6 +1,6 @@
 # Carta Fundadora do Rondoscópio
 
-> **Situação:** minuta para discussão pública. **Versão:** 0.6. **Data:** 2026-11-07.
+> **Situação:** minuta para discussão pública. **Versão:** 0.7. **Data:** 2026-11-07.
 > **Natureza:** documento institucional proposto, sem vigência formal até aprovação pela instância competente.
 
 
@@ -207,3 +207,22 @@ Os compromissos são detalhados em [Proteção ambiental](principios/PROTECAO-AM
 Parágrafo único. A vontade de proteger a missão não autoriza impor riscos físicos, jurídicos ou pessoais desproporcionais aos colaboradores.
 
 Consulte a [Constituição Institucional](CONSTITUICAO.md), o [Comitê de Ética e Conduta](governanca/COMITE-DE-ETICA-E-CONDUTA.md) e o [Processo de Destituição e Defesa](governanca/PROCESSO-DE-DESTITUICAO-E-DEFESA.md).
+
+## CAPÍTULO XI
+### DAS GARANTIAS DE IDENTIDADE E DA PROTEÇÃO CONTRA CAPTURA
+
+**Art. 35.** O Rondoscópio reconhece a Constituição Federal de 1988 como referência democrática relevante, sem a considerar perfeita ou acima de crítica e aperfeiçoamento.
+
+**Art. 36.** A organização deverá preservar direitos humanos, independência editorial, proteção de fontes, rigor na apuração, contraditório e limitação dos poderes contra reformas internas destinadas a suprimi-los.
+
+**Art. 37.** A legitimidade de uma deliberação não será aferida apenas pelo cumprimento de quórum, mas também pelo respeito à finalidade institucional, à ausência de coação e à preservação de garantias.
+
+**Art. 38.** Instruções normativas, portarias, resoluções e decretos institucionais não poderão ser utilizados para alterar a finalidade, suprimir direitos ou concentrar poderes em violação à Constituição interna.
+
+**Art. 39.** A fiscalização abrangerá autoridades e instituições de todos os poderes, inclusive órgãos de inteligência e controle, sem presumir autoria criminosa ou comprometimento institucional pela mera posição que ocupem.
+
+**Art. 40.** O Rondoscópio poderá cooperar com autoridades por meios legais e com cautela proporcional ao risco de exposição de fontes, sem se tornar instrumento encoberto de órgãos públicos ou particulares.
+
+**Art. 41.** A crítica política, jurídica e institucional deverá ser livre, responsável e ancorada em fatos verificáveis, observados direitos de personalidade, proteção de dados e possibilidade de resposta.
+
+O detalhamento normativo está na [Constituição Institucional](CONSTITUICAO.md), nas [Cláusulas de Identidade](governanca/CLAUSULAS-DE-IDENTIDADE-E-LIMITES-A-REFORMA.md) e nos instrumentos complementares de governança e investigação.

@@ -22,3 +22,17 @@ O objetivo desta lista é identificar experiências que podem orientar a constru
 | Achados e Pedidos | Histórico de acesso à informação |
 
 Antes de adaptar código, dados ou conteúdos, confirmar licença, situação atual do projeto e proveniência de cada componente.
+
+## Lições efetivamente consideradas e limitações
+
+**The Intercept.** Estudar a capacidade de investigar instituições poderosas, preservar fontes e buscar respostas dos envolvidos. Não adotar procedimentos de vazamento ou publicação sem revisão legal e editorial.
+
+**Agência Lupa.** Registrar afirmações, contexto, trilhas de consulta e documentação suficiente para que o público examine as checagens. A metodologia é referência de transparência, não selo concedido ao Rondoscópio.
+
+**OCCRP e ICIJ.** Distinguir colaboração de centralização editorial, investigar relações entre dinheiro e poder e registrar conflitos de financiamento. A segurança de cada cooperação deve ser avaliada.
+
+**ProPublica.** Manter correção de erros, independência e responsabilização editorial, inclusive diante de materiais que contrariem a pauta.
+
+**Anonymous.** Estudar descentralização e proteção de pseudônimos como referências históricas e culturais, rejeitando invasões, DDoS, doxxing e qualquer conduta ilegal. Não há associação institucional nem representação autorizada.
+
+A adaptação concreta consta de [Lições de Movimentos Cívicos e Jornalismo](LICOES-DE-MOVIMENTOS-CIVICOS-E-JORNALISMO.md).

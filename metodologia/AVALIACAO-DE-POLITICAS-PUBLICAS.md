@@ -15,3 +15,11 @@ As políticas de mitigação, adaptação e reparação de desigualdades histór
 O consenso científico sobre a existência e as causas do aquecimento global não torna todas as medidas climáticas igualmente eficazes. Do mesmo modo, o reconhecimento de desigualdades históricas não torna automaticamente eficaz qualquer política apresentada como reparatória.
 
 Consulte [Avaliação de políticas climáticas e reparatórias](AVALIACAO-DE-POLITICAS-CLIMATICAS-E-REPARATORIAS.md).
+
+## Compromissos e resultados
+
+A defesa institucional de democracia, direitos humanos, proteção ambiental e igualdade não implica aprovação automática de políticas que invoquem esses valores.
+
+As análises deverão examinar custo, implantação, efeitos observados, hipóteses alternativas e experiências de êxito e fracasso. Resultado contrário à preferência inicial não será suprimido.
+
+O projeto diferenciará julgamento ético, interpretação jurídica e conclusão empírica.

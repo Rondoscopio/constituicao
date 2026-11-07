@@ -132,3 +132,14 @@ Parágrafo único. A publicidade dos resultados deverá respeitar privacidade, n
 - [Aleatoriedade, entropia e geração de segredos](ALEATORIEDADE-ENTROPIA-E-GERACAO-DE-SEGREDOS.md).
 - [Criptografia simétrica e assimétrica](CRIPTOGRAFIA-SIMETRICA-E-ASSIMETRICA.md).
 - [Criptografia pós-quântica](CRIPTOGRAFIA-POS-QUANTICA.md).
+
+## CAPÍTULO VII
+### DA CONTINUIDADE E DA RESILIÊNCIA INSTITUCIONAL
+
+**Art. 25.** A proteção compreenderá abuso de normas, infiltração em cadeia decisória, perda de domínios, comprometimento de conta administrativa e ataques técnicos ou jurídicos.
+
+**Art. 26.** Respostas defensivas não autorizarão invasão de terceiros ou espionagem clandestina.
+
+**Art. 27.** Testes de continuidade verificarão recuperação de credenciais, provedores e publicação, sem replicação indiscriminada de dados de fontes.
+
+Consulte [Proteção contra Captura](../governanca/PROTECAO-CONTRA-CAPTURA-INSTITUCIONAL.md).

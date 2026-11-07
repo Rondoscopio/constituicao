@@ -110,3 +110,13 @@ VI - membros de governança e revisores de conduta.
 | Colaborador | Não | Somente tarefa delegada | Não | Não por padrão | Não por padrão |
 
 Os poderes reais dependerão de nomeação, aprovação normativa e configuração técnica. Não serão fingidas instâncias colegiadas antes da sua constituição.
+
+## Separação entre representação e infraestrutura
+
+**Art. 17.** Nenhuma atribuição formal de cargo será considerada efetiva enquanto inexistirem acesso legítimo, aceitação de responsabilidade e capacidade operacional proporcional.
+
+**Art. 18.** A pessoa com poderes de propriedade técnica sobre repositório ou registrador deverá prestar contas de alterações críticas e executar decisões institucionais válidas nos limites da lei e dos termos do serviço.
+
+**Art. 19.** Delegação de acesso a fontes será independente de capacidade de administrar hospedagem, domínios e bancos de dados.
+
+**Art. 20.** Revogações deverão proteger a continuidade e evitar indisponibilidade deliberada como instrumento de disputa política interna.

@@ -1,15 +1,23 @@
 # Manifesto do Rondoscópio
 
-> **Situação:** minuta para discussão pública. **Versão:** 0.1. **Data:** 2026-11-07.
+> **Situação:** minuta para discussão pública. **Versão:** 0.2. **Data:** 2026-11-07.
 
-Em Rondônia, como em qualquer lugar, decisões públicas afetam a vida de quem nunca entrou em um gabinete. Uma licitação define o equipamento que chega ao hospital. Um orçamento determina o funcionamento de uma escola. Uma lei pode alterar o uso da terra. Um prazo descumprido pode impedir o exercício de um direito.
+Em Rondônia, uma decisão pública pode alterar a vida de milhares de pessoas sem que seus motivos sejam conhecidos fora de uma repartição. Uma licitação influencia o atendimento de um hospital. Um contrato determina o destino de recursos de uma escola. Um ato sobre terras e florestas pode afetar comunidades por gerações. Essas escolhas precisam ser compreensíveis, documentadas e contestáveis.
 
-Essas decisões deixam documentos. Muitas vezes os documentos estão dispersos, são difíceis de encontrar ou aparecem sem explicação do seu contexto. A sociedade não deveria depender de rumores para saber o que acontece com o dinheiro público e com os serviços que utiliza.
+Os registros existem, mas nem sempre são acessíveis. Há informações espalhadas entre diários oficiais, portais de transparência, processos, planilhas e documentos técnicos. O Rondoscópio nasce para aproximar esses registros da sociedade, preservar seu contexto, acompanhar o que muda e investigar o que não foi explicado.
 
-O Rondoscópio pretende pesquisar esses registros e torná-los compreensíveis. Queremos acompanhar decisões, reunir a história de seus antecedentes, investigar relações documentadas e observar resultados. Também queremos ensinar como os poderes funcionam e como cada cidadão pode exigir informações e providências.
+Não queremos encontrar um crime em cada contrato ou um culpado em cada atraso. Queremos saber o que aconteceu. Se houve uma obrigação descumprida, é necessário demonstrá-la. Se houve benefício privado irregular, é preciso identificar a decisão, o vínculo e as evidências. Se uma acusação não se sustenta, ela deve ser abandonada, inclusive quando atinge alguém com quem discordamos.
 
-Não esperamos encontrar irregularidade em toda decisão. Também não aceitaremos que um ato seja considerado correto apenas por ter sido publicado no diário oficial. Será preciso examinar documentos, regras, dados e explicações.
+A organização defenderá a vida, a democracia, a laicidade, a dignidade, a igualdade de direitos, a proteção da natureza e a redução das desigualdades históricas. Repudia a tortura, a ditadura, o tráfico ilícito, a violência criminosa e a perseguição. A defesa desses valores não permite manipular fatos. Uma política que promete justiça também precisa ser examinada quanto a seus resultados.
 
-A crítica pode ser firme sem humilhar pessoas. A investigação pode ser independente sem ser arbitrária. Nenhuma hipótese deve estar protegida contra evidências que a contrariem.
+A Constituição de 1988 é uma das nossas referências, mas não é perfeita. Documentos humanos podem ser corrigidos. Ao mesmo tempo, as garantias que impedem abusos não podem ser sacrificadas em nome de uma mudança supostamente conveniente. O Rondoscópio precisa ter mecanismos para se proteger de quem queira utilizar seus próprios procedimentos para destruir sua finalidade.
 
-O Rondoscópio começará pequeno e deverá ser julgado pelo trabalho que conseguir demonstrar, não por suas promessas. Convidamos pessoas a acompanhar, questionar e contribuir com responsabilidade.
+A fiscalização deve alcançar inclusive quem fiscaliza. Poderemos examinar atos do Executivo, do Legislativo, da Justiça, da polícia, de órgãos de controle e de serviços de inteligência. Não partiremos da premissa de que estejam comprometidos. Também não consideraremos sua autoridade suficiente para afastar uma investigação documentada.
+
+A crítica pública pode ser contundente, irônica e incômoda. O argumento absurdo de uma autoridade não precisa ser tratado com reverência. Mas o fato que sustenta a crítica deve ser verdadeiro, e a liberdade de expressão não justifica perseguir familiares, divulgar dados íntimos ou transformar uma suspeita em condenação.
+
+A segurança das fontes não pode ser prometida apenas no papel. Ela depende de infraestrutura, procedimentos, pessoas confiáveis e capacidade de reagir a ataques. O mesmo vale para a independência da organização. Uma assinatura em uma carta de princípios não impede a captura de um projeto se os recursos, as contas e as decisões permanecerem concentrados nas mãos de uma pessoa.
+
+Nenhum fundador deve ser proprietário moral do Rondoscópio. O projeto deverá continuar mesmo quando seus primeiros integrantes não puderem atuar. A autoridade virá de funções e regras legítimas, não da proximidade com quem começou.
+
+Queremos produzir conhecimento que permita aos cidadãos verificar o que afirmamos, contestar nossos erros e agir pelos meios legais. Se o Rondoscópio não aceitar sobre si o mesmo escrutínio que dirige ao poder público, terá perdido sua razão de existir.

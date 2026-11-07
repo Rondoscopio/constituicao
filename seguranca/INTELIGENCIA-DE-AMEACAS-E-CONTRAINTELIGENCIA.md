@@ -85,3 +85,14 @@ VII - avaliação periódica dos efeitos das medidas adotadas.
 **Art. 12.** A atividade de contrainteligência será limitada à defesa. Não incluirá invasão de terceiros, espionagem de relacionamentos, perseguição de colaboradores ou atribuições públicas sem evidência.
 
 Consulte [Detecção contínua e antecipação defensiva](DETECCAO-CONTINUA-E-ANTECIPACAO-DEFENSIVA.md).
+
+## CAPÍTULO VI
+### DA INDEPENDÊNCIA E DA COOPERAÇÃO
+
+**Art. 13.** Material compartilhado por órgãos estatais, empresas e fontes anônimas será verificado quanto a origem, integridade e possível manipulação.
+
+**Art. 14.** A inteligência de ameaças não poderá funcionar como colaboração clandestina para perseguir pessoas ou entidades.
+
+**Art. 15.** A atribuição de ataque a agência de inteligência, governo ou grupo criminoso dependerá de provas adequadas e revisão técnica e jurídica.
+
+**Art. 16.** A prevenção não autoriza operações ofensivas ou monitoramento indiscriminado da vida pessoal.

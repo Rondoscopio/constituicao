@@ -36,3 +36,13 @@ Parágrafo único. A publicação de minuta ou de proposta em pull request não 
 **Art. 8º** Emendas não produzirão efeito retroativo para suprimir direitos de defesa ou influenciar processo de destituição já instaurado.
 
 Consulte [Constituição Institucional](../CONSTITUICAO.md) e [Proteção contra Captura](PROTECAO-CONTRA-CAPTURA-INSTITUCIONAL.md).
+
+## Proteção material das garantias
+
+**Art. 9º** A legalidade formal de uma emenda interna não afasta o exame de seus efeitos sobre independência editorial, proteção de fontes, defesa, eleições e limitação do poder.
+
+**Art. 10.** Não poderá ser apresentada como aprimoramento administrativo a transferência irrestrita de competências de fiscalização para a própria administração fiscalizada.
+
+**Art. 11.** A verificação de compatibilidade deverá considerar emendas simultâneas, alterações encadeadas e eventual redução indireta das garantias centrais.
+
+O conjunto protegido e os limites jurídicos estão em [Cláusulas de Identidade](CLAUSULAS-DE-IDENTIDADE-E-LIMITES-A-REFORMA.md).

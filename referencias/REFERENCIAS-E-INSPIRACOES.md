@@ -140,3 +140,22 @@ A inspiração resultou nas minutas de [Termo de Adesão e Compromisso Instituci
 A influência desses projetos é metodológica. Seus órgãos, nomes e procedimentos não foram copiados integralmente nem implicam parceria ou endosso.
 
 As adaptações estão em [Constituição Institucional](../CONSTITUICAO.md), [Regimento de Papéis](../governanca/REGIMENTO-DE-PAPEIS-E-PERMISSOES.md), [Comitê de Ética](../governanca/COMITE-DE-ETICA-E-CONDUTA.md), [Destituição e Defesa](../governanca/PROCESSO-DE-DESTITUICAO-E-DEFESA.md), [Prevenção de Captura](../governanca/PROTECAO-CONTRA-CAPTURA-INSTITUCIONAL.md) e [Transição Administrativa](../governanca/TRANSICAO-ADMINISTRATIVA-E-SUCESSAO.md).
+
+## Garantias institucionais, controle do poder e preservação da finalidade
+
+- [Constituição Federal de 1988](https://www2.camara.leg.br/atividade-legislativa/legislacao/constituicao1988), com destaque para art. 60, § 4º, e o princípio de que certas garantias não podem ser abolidas por emendas.
+- [Museu Memorial do Holocausto dos EUA, Lei de Plenos Poderes de 1933](https://encyclopedia.ushmm.org/content/en/article/the-enabling-act): referência histórica de apropriação de procedimentos formais acompanhada de intimidação e repressão política. Não significa que toda reforma institucional seja comparável ao nazismo.
+- [Código Civil, arts. 54, 57, 59, 60 e 61](https://www.planalto.gov.br/ccivil_03/leis/2002/l10406compilada.htm): competências de associação, defesa e recurso, alteração estatutária, convocação e dissolução.
+- [Constituição do Debian](https://www.debian.org/devel/constitution): funções institucionais, destituição e limites de competências.
+- [Lei Complementar nº 95/1998](https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp95.htm): técnica de redação, organização e consolidação normativa.
+
+## Jornalismo, proteção e atuação legal
+
+- [The Intercept, Editorial Policies and Procedures](https://theintercept.imgix.net/policies/): proteção de fontes, confirmação documental e contraditório.
+- [Lupa, Como fazemos nossas checagens](https://www.agencialupa.org/noticias/2015/10/15/como-fazemos-nossas-checagens/): transparência e reconstituição da trilha de verificação.
+- [OCCRP, Funding and Editorial Policies](https://www.occrp.org/en/frequently-asked-questions-on-occrps-funding-and-editorial-policies): separação de financiadores e redação e apuração de corrupção.
+- [Abraji, Monitor de Assédio Judicial](https://assediojudicial.abraji.org.br/sobre/): análise da intimidação pelo uso de processos judiciais.
+- [STF, ADIs 7055 e 6792](https://portal.stf.jus.br/noticias/verNoticiaDetalhe.asp?idConteudo=539357): referência jurisprudencial de assédio judicial contra jornalistas.
+- [LGPD, art. 4º, II, a](https://www2.camara.leg.br/legin/fed/lei/2018/lei-13709-14-agosto-2018-787077-normaatualizada-pl.html): especificidade da exclusão do tratamento exclusivamente jornalístico.
+
+As inspirações são discriminadas por aplicação em [Lições de Movimentos Cívicos e Jornalismo](LICOES-DE-MOVIMENTOS-CIVICOS-E-JORNALISMO.md). Anonymous é tratado como fenômeno descentralizado, sem endosso de ataques ilícitos.

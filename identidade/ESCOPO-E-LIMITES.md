@@ -11,3 +11,11 @@ Fora do escopo estão vigilância clandestina de pessoas, invasão de sistemas, 
 A ausência de cobertura de determinado município, órgão, período ou fonte deve ser indicada. Não se inferirá ausência de atuação a partir de uma base incompleta.
 
 A redação deste arquivo não comprova que todos os serviços mencionados já existam. O portal de fontes protegidas, em especial, dependerá de avaliação de ameaças, segurança e capacidade operacional.
+
+## Instituições submetidas a escrutínio
+
+A organização poderá acompanhar administração pública, polícia, Justiça, órgãos de inteligência e fiscalização e particulares envolvidos em decisões de interesse público. Nenhum poder será imune à crítica baseada em evidências.
+
+O Rondoscópio não exercerá função policial nem realizará vigilância clandestina, invasões, interceptações ou investigações ilegais. O risco de infiltração será tratado por medidas de proteção, não por acusação generalizada.
+
+A crítica jurídica legítima não constitui prova de ativismo abusivo ou corrupção.

@@ -7,3 +7,11 @@ Arquivos selecionados terão identificador, origem, datas relevantes, formato, h
 Quando possível, preservar versões originais separadas das cópias para busca e visualização. Testes de integridade e recuperação devem ser executados regularmente.
 
 O armazenamento externo ou descentralizado será reservado a conteúdo cuja distribuição pública já tenha sido aprovada.
+
+## Integridade e direitos
+
+Registros conservarão proveniência, data, versão, hash e diferenciação entre documento original e derivados.
+
+A preservação histórica não impede correção, contextualização ou restrição de acesso público a informações pessoais quando cabível.
+
+Espelhos públicos serão reservados a materiais com publicação legitimamente autorizada.

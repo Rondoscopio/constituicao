@@ -9,3 +9,11 @@ Respostas automatizadas devem apresentar documentos e trechos verificáveis. Cit
 Modelos serão avaliados quanto a erros, vieses, deriva e exposição de dados. Informações confidenciais não devem ser enviadas a serviços externos sem avaliação contratual, jurídica e técnica.
 
 O sistema deverá registrar versão do modelo e parâmetros relevantes para reproduzir ou explicar análises, respeitando a proteção de fontes e informações privadas.
+
+## Proteção contra manipulação automatizada
+
+Páginas, documentos e relatos externos serão tratados como dados potencialmente adversariais, inclusive quando contiverem instruções dirigidas a modelos, agentes e mecanismos de busca.
+
+A IA não poderá publicar acusações, identificar supostos criminosos, divulgar relatórios sigilosos ou encaminhar denúncias sem validação humana e autorização.
+
+As conclusões deverão vincular-se a registros originais, com correção e auditoria de falhas de citação ou classificação.

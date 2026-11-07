@@ -89,3 +89,16 @@ Parágrafo único. Quando houver estrutura institucional, o recurso contra decis
 **Art. 15.** Os procedimentos operacionais de revisão, segurança e divulgação de documentos serão estabelecidos em normas complementares.
 
 **Art. 16.** A presente Política não produzirá efeitos institucionais antes de sua aprovação pela instância competente.
+
+## CAPÍTULO VII
+### DA CRÍTICA PÚBLICA E DA NÃO INSTRUMENTALIZAÇÃO
+
+**Art. 17.** O Rondoscópio poderá produzir análises e conteúdos de opinião, inclusive sátira de decisões públicas, desde que material factual, interpretação e humor permaneçam distinguíveis.
+
+**Art. 18.** A gravidade do ato investigado não autoriza fabricar frases, transformar suspeitos em condenados ou promover perseguição a familiares.
+
+**Art. 19.** O setor editorial deverá registrar tentativas de interferência de administradores, financiadores e autoridades, com processo de revisão que não exponha fontes indevidamente.
+
+**Art. 20.** A seleção de pautas será explicável por critérios de interesse público, gravidade, verificabilidade e capacidade, não pela finalidade de humilhar adversários.
+
+Consulte [Crítica Pública e Sátira](CRITICA-PUBLICA-SATIRA-E-RESPONSABILIDADE.md).

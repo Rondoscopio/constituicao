@@ -65,3 +65,13 @@ III - órgão fiscalizador formalmente autorizado por norma válida, mediante re
 **Art. 17.** Serão vedadas retaliações a testemunhas e integrantes que participem legitimamente da apuração.
 
 **Art. 18.** Não havendo órgão colegiado efetivamente instalado, não será simulado impeachment. O caso deverá ser tratado por medidas legais e técnicas disponíveis, registradas com transparência compatível com a segurança.
+
+## Garantias contra o uso retaliatório do processo
+
+**Art. 19.** Não será admitida alteração de quórum, número de eleitores, composição de comitê ou prazo de defesa com efeito sobre procedimento em curso para favorecer acusação ou defesa.
+
+**Art. 20.** A proteção de testemunha não dispensa avaliação da confiabilidade da prova. O resumo de imputações deverá permitir defesa efetiva sem revelar identidade protegida desnecessariamente.
+
+**Art. 21.** A destituição de função não se confundirá com exclusão de associação civil. Cada decisão seguirá competência, procedimento e direito de recurso apropriados.
+
+**Art. 22.** A defesa não poderá ser condicionada à renúncia a direitos legais ou ao compromisso de não procurar órgãos externos competentes.

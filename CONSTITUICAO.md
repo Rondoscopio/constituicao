@@ -1,6 +1,6 @@
 # Constituição Institucional do Rondoscópio
 
-> **Situação:** minuta de constituição interna para discussão. **Versão:** 0.1. **Data:** 2026-11-07.
+> **Situação:** minuta de constituição interna para discussão. **Versão:** 0.2. **Data:** 2026-11-07.
 > **Eficácia:** proposta sem aprovação institucional ou efeitos jurídicos de estatuto social. O Rondoscópio encontra-se em formação.
 
 ## Preâmbulo
@@ -8,6 +8,8 @@
 A existência do Rondoscópio não deve depender da vontade, da presença ou da reputação de uma pessoa. A organização é proposta para servir ao interesse público, à verdade verificável, à memória, à justiça e aos direitos humanos. Sua continuidade dependerá de regras que permitam distribuir responsabilidades, limitar o poder, prevenir abusos e substituir dirigentes.
 
 Nenhuma pessoa terá direito permanente ao comando em razão de ter iniciado o projeto. O exercício de autoridade será funcional, temporário quando cabível, documentado e sujeito a contestação. Os integrantes terão o direito de discordar, questionar decisões e exigir prestação de contas. O compromisso de adesão será com os princípios institucionais, não com a personalidade de qualquer administrador.
+
+A Constituição Federal de 1988 é uma inspiração relevante, mas não um documento perfeito ou imune a mudanças e críticas. Da mesma forma, esta Constituição interna deverá permitir aperfeiçoamentos sem perder suas garantias fundamentais.
 
 Esta Constituição distingue a situação provisória, em que a operação pode depender de um único administrador, da estrutura colegiada pretendida para o futuro. Não se presume a existência de órgãos, cargos ocupados ou mecanismos de fiscalização que ainda não tenham sido implementados.
 
@@ -261,7 +263,7 @@ Parágrafo único. Informações protegidas poderão restringir a publicidade ex
 **Art. 35.** Nenhuma pessoa poderá ser obrigada a assumir riscos físicos, jurídicos ou financeiros pessoais além de responsabilidades expressamente aceitas e legalmente válidas. A proteção das pessoas deverá prevalecer sobre objetivos de exposição pública.
 
 ## TÍTULO VIII
-### DAS DISPOSIÇÕES TRANSITÓRIAS E FINAIS
+### DA CONTINUIDADE E DAS DISPOSIÇÕES TRANSITÓRIAS
 
 **Art. 36.** Enquanto a organização estiver sob administração individual, a função ADM poderá exercer atos operacionais necessários à manutenção, admitir colaboradores e elaborar políticas em caráter provisório.
 
@@ -275,7 +277,82 @@ Parágrafo único. Informações protegidas poderão restringir a publicidade ex
 
 **Art. 38.** As normas complementares poderão detalhar esta Constituição, mas não criar prerrogativas pessoais, reduzir garantias constitutivas ou transformar compromisso com a missão em dever de fidelidade a dirigentes.
 
+
+## TÍTULO IX
+### DAS GARANTIAS INSTITUCIONAIS PROTEGIDAS E DA ORDEM NORMATIVA
+
+**Art. 39.** A Constituição Federal de 1988 é referência de dignidade, participação, limitação do poder e proteção de direitos, especialmente o seu art. 60, § 4º, sem prejuízo de críticas a imperfeições e da necessidade de aperfeiçoamento das instituições.
+
+§ 1º A adaptação da lógica de cláusulas pétreas não confere natureza constitucional estatal a este documento.
+
+§ 2º A organização não substituirá pelo presente texto o estatuto civil exigido para uma eventual associação registrada.
+
+**Art. 40.** São garantias de identidade institucional protegidas contra supressão direta ou indireta:
+
+I - independência perante governos, partidos, candidatos, financiadores, grupos econômicos e organizações criminosas;
+
+II - defesa da vida, dignidade, direitos humanos, democracia e igualdade, e oposição à tortura, à ditadura, à violência e à discriminação;
+
+III - verificação de fatos, consideração de contraprovas, publicação de correções, direito de resposta e memória documental;
+
+IV - proteção proporcional das fontes, vítimas, pessoas investigadas e informações sensíveis;
+
+V - limitação dos poderes, fiscalização interna, ampla defesa, contraditório, recurso e possibilidade de destituição;
+
+VI - rejeição a violência ilegal, invasão, coação, apropriação de ativos, falsificação de provas e perseguição de pessoas;
+
+VII - inexistência de privilégios vitalícios de fundador e de qualquer dever de fidelidade pessoal a dirigentes.
+
+**Art. 41.** Não será considerado válido, na ordem normativa interna proposta, ato tendente a abolir as garantias do art. 40, ainda que aprovado segundo rito de maioria qualificada.
+
+§ 1º A vedação alcança a supressão indireta por sucessivas mudanças de quórum, eleição, atribuições editoriais, competências de fiscalização ou regras de destituição.
+
+§ 2º A proteção não impede expansão de direitos, melhorias de método e mudança legítima de políticas de execução compatíveis com o núcleo institucional.
+
+**Art. 42.** Uma votação formalmente regular não convalida coação, fraude, exclusão ilegítima de participantes ou alteração de regras dirigida a neutralizar garantias fundamentais.
+
+**Art. 43.** Emendas substantivas deverão observar prazo público para discussão, quórum qualificado e avaliação de compatibilidade material, com proteção da participação efetiva dos membros habilitados.
+
+Parágrafo único. Regras de votação, elegibilidade, defesa e destituição não poderão ser alteradas retroativamente para influenciar processo já instaurado.
+
+**Art. 44.** Poderão ser editados, dentro da competência expressamente conferida, emendas constitucionais institucionais, resoluções, decretos institucionais, instruções normativas, portarias, ordens de serviço, notas técnicas e atos declaratórios.
+
+§ 1º Nenhum ato inferior poderá substituir deliberação de órgão superior ou inovar em restrição a direitos, criação de sanções, alteração de missão e reforma constitucional.
+
+§ 2º Decreto institucional designa ato privado de execução e não possui natureza de decreto estatal.
+
+**Art. 45.** O Rondoscópio poderá fiscalizar órgãos políticos, administrativos, policiais, judiciais, de inteligência e de controle, com independência e avaliação de provas, sem atribuir ilícito à instituição ou a seus integrantes por mera suspeita.
+
+**Art. 46.** A cooperação com autoridades dependerá de competência, legalidade, necessidade, avaliação de riscos e proteção de fontes, especialmente quando houver evidências objetivas de conflito de interesses no órgão destinatário.
+
+§ 1º A organização não realizará espionagem clandestina, ações policiais privadas ou obtenção ilícita de documentos.
+
+§ 2º A preocupação com possível infiltração não constitui prova de corrupção ou comprometimento institucional.
+
+**Art. 47.** São legítimas a crítica pública firme, a sátira e a investigação de atos de interesse coletivo, observados a precisão factual, os direitos da personalidade e os limites legais.
+
+Parágrafo único. Não se admitirão campanhas de humilhação individual, doxxing, ameaças nem apresentação de suspeitos como condenados definitivamente.
+
+**Art. 48.** A defesa cívica de direitos e a eventual litigância estratégica serão exercidas legal e pacificamente, distinguindo abuso processual demonstrável do exercício legítimo de acesso à Justiça.
+
+**Art. 49.** O tratamento de informações pessoais deverá considerar finalidade e base jurídica, incluindo a exclusão específica prevista no art. 4º, II, a, da LGPD para atividades exclusivamente jornalísticas, sem presumir imunidade de todos os serviços da organização.
+
+**Art. 50.** Quando instituído, órgão independente poderá revisar a compatibilidade de atos internos com as garantias protegidas, assegurando fundamentação, impedimentos e recursos.
+
+Parágrafo único. Enquanto houver apenas um ADM, não se alegará a existência de controle colegiado independente.
+
+**Art. 51.** A gestão de riscos deverá abranger espionagem, ataques digitais, assédio judicial, perda de domínios e contas, comprometimento de integrantes e continuidade do acervo, por medidas proporcionais e legalmente admissíveis.
+
+**Art. 52.** Nenhum integrante poderá ser obrigado a correr risco pessoal desproporcional em nome da organização, nem receberá promessa de anonimato absoluto, proteção física ou continuidade técnica inexistentes.
+
+O detalhamento consta de [Cláusulas de Identidade](governanca/CLAUSULAS-DE-IDENTIDADE-E-LIMITES-A-REFORMA.md), [Hierarquia de Atos](governanca/HIERARQUIA-E-ESPECIES-NORMATIVAS.md), [Controle de Compatibilidade Interna](governanca/PROCEDIMENTO-DE-CONTROLE-DE-CONSTITUCIONALIDADE-INTERNA.md), [Cooperação Segura](denuncias/COOPERACAO-SEGURA-COM-AUTORIDADES.md), [Crítica Pública e Sátira](editorial/CRITICA-PUBLICA-SATIRA-E-RESPONSABILIDADE.md) e [Proteção contra Assédio Judicial](direitos/PROTECAO-CONTRA-ASSEDIO-JUDICIAL-E-PERSEGUICAO.md).
+
 ## Referências e inspirações
+
+- [Constituição Federal de 1988, especialmente arts. 5º, 59 e 60](https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm).
+- [Museu Memorial do Holocausto dos EUA, Lei de Plenos Poderes de 1933](https://encyclopedia.ushmm.org/content/en/article/the-enabling-act).
+- [Código Civil, arts. 54 a 61](https://www.planalto.gov.br/ccivil_03/leis/2002/l10406compilada.htm).
+
 
 - [Constituição do Debian](https://www.debian.org/devel/constitution), em especial suas competências institucionais, resoluções e procedimentos de substituição.
 - [Python Software Foundation, procedimentos de aplicação do Código de Conduta](https://policies.python.org/python.org/code-of-conduct/Enforcement-Procedures/), incluindo conflito de interesses, análise, decisão e registro.

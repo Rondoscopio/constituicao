@@ -1,10 +1,18 @@
-# Constituição e fundamentos do Rondoscópio
+# Constituição do Rondoscópio
 
 O Rondoscópio é uma iniciativa em formação dedicada à fiscalização do poder público, à investigação documental, ao controle social e à educação cívica e histórica, com foco inicial em Rondônia e seus municípios.
 
 Este repositório reúne as propostas de Carta Fundadora, princípios, métodos, políticas editoriais, proteção de fontes, segurança, governança e referências que poderão orientar sua atuação.
 
 **Todos os documentos deste repositório estão em fase de minuta, salvo indicação expressa em contrário.** Não há estatuto vigente nem promessa de que serviços descritos estejam implementados. A aprovação futura deverá ocorrer pelo procedimento de governança que vier a ser adotado.
+
+## Limites ao poder e proteção da finalidade
+
+A [Constituição Institucional](CONSTITUICAO.md) prevê garantias protegidas contra abolição por emenda ou atos inferiores. Sua inspiração inclui a Constituição Federal de 1988, reconhecida como referência democrática importante, mas imperfeita e sujeita à crítica e à reforma.
+
+O [núcleo de identidade](governanca/CLAUSULAS-DE-IDENTIDADE-E-LIMITES-A-REFORMA.md) inclui dignidade, direitos humanos, independência, investigação responsável, defesa de fontes, contraditório e destituição de dirigentes. A [hierarquia de atos](governanca/HIERARQUIA-E-ESPECIES-NORMATIVAS.md) define emenda constitucional institucional, resolução, decreto institucional, instrução normativa, portaria, ordem de serviço e nota técnica. Nenhuma forma inferior pode alterar os princípios superiores.
+
+O [controle de compatibilidade interna](governanca/PROCEDIMENTO-DE-CONTROLE-DE-CONSTITUCIONALIDADE-INTERNA.md) e os comitês previstos só poderão funcionar após instalação real de pessoas independentes, não na fase de ADM único.
 
 ## Governança e separação de poderes
 
@@ -13,6 +21,12 @@ A [Constituição Institucional](CONSTITUICAO.md) propõe uma organização que 
 As minutas tratam de [papéis e permissões](governanca/REGIMENTO-DE-PAPEIS-E-PERMISSOES.md), [comitê de ética e conduta](governanca/COMITE-DE-ETICA-E-CONDUTA.md), [destituição e defesa](governanca/PROCESSO-DE-DESTITUICAO-E-DEFESA.md), [proteção contra captura institucional](governanca/PROTECAO-CONTRA-CAPTURA-INSTITUCIONAL.md) e [transição e sucessão](governanca/TRANSICAO-ADMINISTRATIVA-E-SUCESSAO.md).
 
 A criação de funções no texto não concede automaticamente direitos no GitHub, nos domínios ou em uma eventual pessoa jurídica. Sua implementação exigirá pessoas habilitadas, decisões registradas e controles técnicos reais.
+
+## Investigações, crítica pública e proteção jurídica
+
+As minutas incluem [investigação de autoridades e relações de poder](editorial/INVESTIGACAO-DE-AUTORIDADES-E-PODERES.md), [cooperação segura com autoridades](denuncias/COOPERACAO-SEGURA-COM-AUTORIDADES.md), [crítica pública e sátira responsável](editorial/CRITICA-PUBLICA-SATIRA-E-RESPONSABILIDADE.md), [proteção contra assédio judicial](direitos/PROTECAO-CONTRA-ASSEDIO-JUDICIAL-E-PERSEGUICAO.md) e [LGPD e jornalismo](editorial/LGPD-JORNALISMO-E-MINIMIZACAO-DE-DADOS.md).
+
+É legítimo investigar a conduta de qualquer agente público. Acusações de infiltração, corrupção, desvio de finalidade ou comprometimento de órgãos exigem provas individuais e direito de resposta. Não estão autorizadas espionagem clandestina, invasão, divulgação indevida de dados ou campanhas de humilhação de pessoas.
 
 ## Como começar
 
@@ -67,6 +81,10 @@ O procedimento inspira-se no New Member Process do Debian. Colaborações públi
 Contribuições públicas podem ser sugeridas por issues ou pull requests, desde que **não contenham denúncias sigilosas, documentos privados ou identidades de fontes**. Consulte [Como contribuir](CONTRIBUTING.md) e [Segurança](SECURITY.md).
 
 As fontes de inspiração são reconhecidas em [Referências e inspirações](referencias/REFERENCIAS-E-INSPIRACOES.md). Estudar uma organização não constitui parceria nem endosso.
+
+## Revisão dos documentos
+
+O [plano de ampliação e auditoria documental](processos/PLANO-DE-AMPLIACAO-DOCUMENTAL.md) distingue os textos efetivamente aprofundados das minutas que ainda exigem revisão. O repositório não deve exibir arquivos curtos como se fossem políticas plenamente operacionais.
 
 ## Estado do projeto
 
