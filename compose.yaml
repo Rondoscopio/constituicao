@@ -62,7 +62,7 @@ services:
     build:
       context: .
       target: semgrep
-    command: [scan, --config, /workspace/tooling/semgrep.yaml, --error, /workspace/scripts]
+    command: [semgrep, scan, --config, /workspace/tooling/semgrep.yaml, --error, /workspace/scripts]
 
   scorecard:
     <<: *quality

@@ -17,7 +17,7 @@ jobs:
     strategy:
       fail-fast: false
       matrix:
-        service: [docs, javascript, workflows, zizmor, hadolint, gitleaks, semgrep, osv, trivy]
+        service: [docs, javascript, workflows, zizmor, hadolint, gitleaks, semgrep, trivy]
     steps:
       - name: Checkout sem credenciais persistentes
         uses: actions/checkout@11bd71901bbe5b1630ceea73d27597364c9af683 # v4.2.2

@@ -15,14 +15,14 @@ orquestrador e não instala ou executa verificadores no host.
 - `docker compose run --build --rm zizmor`: auditoria estática de GitHub Actions.
 - `docker compose run --build --rm hadolint`: Dockerfile.
 - `docker compose run --build --rm gitleaks`: segredos no conteúdo atual.
-- `docker compose run --build --rm osv`: dependências com manifests/lockfiles reconhecidos.
+- `docker compose run --build --rm osv`: executar quando houver manifests/lockfiles reconhecidos.
 - `docker compose run --build --rm trivy`: vulnerabilidades, segredos e configurações incorretas.
 - `docker compose run --build --rm semgrep`: regras SAST locais, sem baixar regras remotas.
 - `docker compose run --build --rm scorecard`: pontuação OpenSSF com `GITHUB_TOKEN`.
 - `docker compose run --rm -T trivy fs --format cyclonedx --output /dev/stdout /workspace > sbom.cdx.json`: SBOM CycloneDX (depois de buildar o alvo).
 
 `just check` executa os validadores principais via Compose.
-`just security` inclui OSV e Trivy.
+`just security` inclui Trivy; OSV será habilitado como gate quando houver manifests/lockfiles.
 `just generate` cria índice e documento consolidado, mas exige montagem de escrita (veja nota abaixo).
 
 ## Aplicabilidade e limites
@@ -35,7 +35,7 @@ orquestrador e não instala ou executa verificadores no host.
 - **ast-grep** analisa padrões de JavaScript. **jscpd** é limitado aos
   scripts, excluindo textos jurídicos e arquivos gerados.
 - **Vitest + fast-check** testam o gerador sobre fixtures temporários.
-- **Knip** está instalado no alvo JS, mas não roda como gate: não há
+- **OSV-Scanner** permanece disponível, mas não é gate obrigatório enquanto não existir lockfile; sua saída 128 para “nenhuma fonte de pacotes” não é erro de vulnerabilidade.\n- **Knip** está instalado no alvo JS, mas não roda como gate: não há
   package.json/lockfile de aplicação para análise de dependências útil.
 - **Stylelint** não foi instalado, pois não há CSS ou SCSS.
 - **ShellCheck/shfmt** estão disponíveis no stage de workflows; não há

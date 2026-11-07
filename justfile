@@ -19,7 +19,6 @@ javascript:
 
 security:
     docker compose run --build --rm gitleaks
-    docker compose run --build --rm osv
     docker compose run --build --rm trivy
     docker compose run --build --rm semgrep
 
@@ -38,7 +37,7 @@ scorecard:
     docker compose run --build --rm scorecard
 
 generate:
-    docker compose run --build --rm docs node scripts/gerar_documento.mjs
+    docker compose run --build --rm --volume "./:/workspace:rw" docs node scripts/gerar_documento.mjs
 
 format-check:
     docker compose run --build --rm docs prettier --check README.md CONTRIBUTING.md SECURITY.md compose.yaml renovate.json
