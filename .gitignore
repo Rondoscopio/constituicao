@@ -1,0 +1,7 @@
+.cache/
+.local/
+node_modules/
+coverage/
+.vitest/
+*.sarif
+sbom.cdx.json
