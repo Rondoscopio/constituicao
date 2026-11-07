@@ -28,6 +28,12 @@ As minutas incluem [investigação de autoridades e relações de poder](editori
 
 É legítimo investigar a conduta de qualquer agente público. Acusações de infiltração, corrupção, desvio de finalidade ou comprometimento de órgãos exigem provas individuais e direito de resposta. Não estão autorizadas espionagem clandestina, invasão, divulgação indevida de dados ou campanhas de humilhação de pessoas.
 
+## Modelos e garantias de execução
+
+A hierarquia normativa possui agora modelos independentes de [resolução](modelos/MODELO-DE-RESOLUCAO.md), [portaria](modelos/MODELO-DE-PORTARIA.md), [instrução normativa](modelos/MODELO-DE-INSTRUCAO-NORMATIVA.md) e [parecer de conformidade](modelos/MODELO-DE-PARECER-DE-CONFORMIDADE.md). São modelos sem efeito institucional até aprovação competente.
+
+Em segurança, complementam as regras de [cooperação com instituições e riscos de captura](seguranca/COOPERACAO-INSTITUCIONAL-E-RISCOS-DE-CAPTURA.md) e de [resiliência a ameaças jurídicas e políticas](seguranca/AMEACAS-JURIDICAS-POLITICAS-E-RESILIENCIA.md). O [modelo de análise de cooperação](modelos/MODELO-DE-ANALISE-DE-COOPERACAO.md) orienta avaliações caso a caso, sem autorizar descumprimento de obrigações legais.
+
 ## Como começar
 
 Leia a [Constituição Institucional](CONSTITUICAO.md), depois a [Carta Fundadora](CARTA-FUNDADORA.md), depois a [Carta de Princípios](principios/CARTA-DE-PRINCIPIOS.md) e a [Metodologia de Investigação](metodologia/METODOLOGIA-DE-INVESTIGACAO.md). Para entender os limites do projeto, consulte [Escopo e limites](identidade/ESCOPO-E-LIMITES.md).

@@ -159,3 +159,9 @@ As adaptações estão em [Constituição Institucional](../CONSTITUICAO.md), [R
 - [LGPD, art. 4º, II, a](https://www2.camara.leg.br/legin/fed/lei/2018/lei-13709-14-agosto-2018-787077-normaatualizada-pl.html): especificidade da exclusão do tratamento exclusivamente jornalístico.
 
 As inspirações são discriminadas por aplicação em [Lições de Movimentos Cívicos e Jornalismo](LICOES-DE-MOVIMENTOS-CIVICOS-E-JORNALISMO.md). Anonymous é tratado como fenômeno descentralizado, sem endosso de ataques ilícitos.
+
+## Análise institucional e segurança de autoridades e fontes
+
+A proteção das fontes em relações com autoridades está complementada em [Cooperação institucional e riscos de captura](../seguranca/COOPERACAO-INSTITUCIONAL-E-RISCOS-DE-CAPTURA.md) e [Ameaças jurídicas, políticas e resiliência](../seguranca/AMEACAS-JURIDICAS-POLITICAS-E-RESILIENCIA.md).
+
+A referência jurídica inclui [Constituição de 1988](https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm), [Lei de Acesso à Informação](https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2011/lei/l12527.htm) e [LGPD](https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2018/lei/l13709.htm). Os documentos distinguem riscos documentados de alegações especulativas sobre comprometimento de instituições. Não se admite atribuir crimes a pessoas por parentesco, classe econômica ou origem regional.

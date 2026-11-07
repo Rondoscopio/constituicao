@@ -2,6 +2,11 @@
 
 ## 2026-11-07
 
+- Integrados modelos específicos de resolução, portaria, instrução normativa, parecer de conformidade e avaliação protegida de cooperação institucional.
+- Acrescentadas minutas sobre cooperação com autoridades diante de riscos objetivos de corrupção ou captura institucional, sem acusações por origem ou parentesco, e sobre resiliência a pressão jurídica e política por meios legais.
+- Preservada a revisão paralela que ampliou os documentos do repositório, evitando substituição de contribuições recentes e duplicação de normas de finalidade.
+
+
 - Elaboradas garantias de identidade inspiradas no art. 60, § 4º, da Constituição de 1988 e na prevenção de captura por procedimentos formalmente regulares.
 - Criadas hierarquia de atos internos e procedimento de revisão de compatibilidade, com ECI, resoluções, decretos institucionais, instruções normativas, portarias, ordens de serviço e notas técnicas.
 - Incluídas políticas de sátira responsável, investigação de autoridades e redes de poder, cooperação legal com autoridades, proteção frente a assédio judicial e interpretação por finalidade da LGPD.

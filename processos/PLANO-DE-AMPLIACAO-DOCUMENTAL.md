@@ -250,3 +250,8 @@ Os temas mais sensíveis exigem revisão jurídica e de segurança antes de prod
 As minutas ainda precisam de revisão caso a caso para evitar repetição e contradições. As decisões sobre artigos protegidos, natureza da pessoa jurídica, competências da assembleia e condições de exclusão de associados dependerão de assessoria jurídica. A implantação de sistemas que recebam denúncias e informações sensíveis dependerá de auditoria técnica e equipe responsável.
 
 A revisão não deverá produzir uniformidade artificial. Cartas, manifesto e textos educativos podem manter prosa. Regimentos, políticas e procedimentos devem usar a estrutura normativa quando essa forma melhorar a precisão.
+## Integração complementar de 7 de novembro de 2026
+
+Foram integrados modelos separados de resolução, portaria, instrução normativa, parecer de conformidade e avaliação de cooperação, bem como minutas adicionais sobre riscos institucionais de compartilhamento e resiliência a pressões jurídicas e políticas.
+
+Esses documentos ampliam a discussão, mas não representam implantação de controles, aprovação por comitê ou revisão jurídica concluída. O inventário acima foi elaborado antes dessa integração e permanece como fotografia do ciclo anterior. Novos arquivos deverão constar de revisão subsequente com identificação da data de referência.

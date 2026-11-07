@@ -69,3 +69,11 @@ V - restrições legítimas de publicidade e segurança.
 - [Constituição Federal de 1988, processo legislativo, art. 59](https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm).
 - [Lei Complementar nº 95/1998](https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp95.htm).
 - [Manual de Redação da Presidência da República](https://www4.planalto.gov.br/centrodeestudos/assuntos/manual-de-redacao-da-presidencia-da-republica).
+
+## Modelos documentais de execução
+
+Os instrumentos de [resolução](../modelos/MODELO-DE-RESOLUCAO.md), [portaria](../modelos/MODELO-DE-PORTARIA.md) e [instrução normativa](../modelos/MODELO-DE-INSTRUCAO-NORMATIVA.md) mostram como indicar competência, escopo, fundamento e vigência de cada ato.
+
+O [parecer de conformidade](../modelos/MODELO-DE-PARECER-DE-CONFORMIDADE.md) registra as objeções e a possibilidade de contraditório antes de decisões sobre limites à reforma. A assinatura do parecer não atribui a seu autor poder pessoal de veto ou de aprovação.
+
+Esses documentos são apenas modelos e não evidenciam existência de órgãos ou decisões formalmente aprovadas.
