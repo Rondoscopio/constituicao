@@ -59,7 +59,7 @@ orquestrador e não instala ou executa verificadores no host.
 
 Há **tags e digests conferidos** nas imagens, versões diretas das ferramentas e SHA
 fixo no checkout da Action. Os digests OCI, incluindo o Scorecard, estão fixados com os manifests verificados nos builds do GitHub Actions. Renovate deverá
-propor atualizações de tag e digest após revisão. As dependências npm são fixadas por `tooling/package-lock.json` e instaladas com `npm ci`. As correções de vulnerabilidades transitivas são aplicadas por `overrides` no `tooling/package.json`.\nAinda restam dependências do sistema operacional e Python, que não são um snapshot imutável.
+propor atualizações de tag e digest após revisão. As dependências npm são fixadas por `tooling/package-lock.json` e instaladas com `npm ci`. As correções de vulnerabilidades transitivas são aplicadas por `overrides` no `tooling/package.json`. O Renovate também reconhece as duas dependências de ferramentas Go declaradas em `go install`.\nAs dependências Python estão fixadas por versão em `tooling/requirements-docs.txt`. Restam os pacotes APT e os índices externos de pacotes, que não constituem snapshots imutáveis.
 
 A regra DL3008 do Hadolint está excepcionada para os pacotes Debian
 porque as versões APT só devem ser fixadas junto com snapshots imutáveis

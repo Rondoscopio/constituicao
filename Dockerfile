@@ -16,8 +16,9 @@ RUN npm ci --prefix /opt/quality --no-audit --no-fund --ignore-scripts \
 ENV PATH="/opt/quality/node_modules/.bin:${PATH}"
 
 FROM node-tools AS docs
+COPY tooling/requirements-docs.txt /opt/quality/requirements-docs.txt
 RUN python3 -m venv /opt/yaml \
-    && /opt/yaml/bin/pip install --no-cache-dir yamllint==1.38.0
+    && /opt/yaml/bin/pip install --no-cache-dir -r /opt/quality/requirements-docs.txt
 ENV PATH="/opt/yaml/bin:${PATH}"
 USER 10001:10001
 CMD ["sh", "-ec", "python3 scripts/validar_documentacao.py && node scripts/gerar_documento.mjs --check && markdownlint-cli2 && yamllint -c .yamllint.yaml .github/workflows .github/ISSUE_TEMPLATE compose.yaml"]

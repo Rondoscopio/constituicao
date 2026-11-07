@@ -20,7 +20,7 @@ jobs:
         service: [docs, javascript, workflows, zizmor, hadolint, gitleaks, semgrep, trivy, osv]
     steps:
       - name: Checkout sem credenciais persistentes
-        uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+        uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1  # v7.0.1
         with:
           persist-credentials: false
       - name: Construir stage do Dockerfile
@@ -31,8 +31,6 @@ jobs:
         env:
           SERVICE: ${{ matrix.service }}
         run: docker compose run --rm --no-deps "$SERVICE"
-
-
 
   gate:
     name: gate
