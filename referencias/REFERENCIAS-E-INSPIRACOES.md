@@ -69,3 +69,22 @@ A lista detalhada, com aplicações e limites, consta de [Referenciais de Segura
 - [OWASP Developer Guide](https://devguide.owasp.org/en/02-foundations/05-top-ten/): famílias de Top 10 e recursos para desenvolvimento proativo e verificação.
 
 As adaptações propostas encontram-se nos documentos de segurança. A presença na lista não significa certificação ou endosso.
+
+## Direitos fundamentais, combate a ilícitos e cooperação internacional
+
+- [Constituição brasileira](https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm): vida, dignidade, Estado de Direito, direitos e proibição da tortura.
+- [Convenção da ONU contra a Tortura](https://www.ohchr.org/en/instruments-mechanisms/instruments/convention-against-torture-and-other-cruel-inhuman-or-degrading): repúdio absoluto a práticas cruéis.
+- [UNODC](https://www.unodc.org/): pesquisa sobre tráfico ilícito, crime organizado e proteção de vítimas.
+- [Carta da ONU](https://www.un.org/en/about-us/un-charter/) e [natureza das resoluções](https://ask.un.org/faq/15010): cooperação e obrigações aplicáveis.
+- [OMS, Regulamento Sanitário Internacional](https://www.who.int/health-topics/international-health-regulations): saúde pública internacional.
+- [INTERPOL, regras de Red Notices](https://www.interpol.int/en/How-we-work/Notices/Red-Notices): cooperação policial e seus limites jurídicos.
+
+Os compromissos correspondentes estão detalhados em [vida e proteção contra a violência](../principios/DIREITO-A-VIDA-E-PROTECAO-CONTRA-VIOLENCIA.md), [repúdio à tortura e às ditaduras](../principios/REPUDIO-A-TORTURA-E-AUTORITARISMO.md), [criminalidade e economias ilícitas](../principios/COMBATE-A-CRIMINALIDADE-E-ECONOMIAS-ILICITAS.md), [cooperação internacional](../principios/COOPERACAO-INTERNACIONAL-E-ORGANISMOS.md) e [referências específicas](DIREITOS-HUMANOS-E-COOPERACAO-INTERNACIONAL.md).
+
+## Operação preventiva de segurança
+
+- [OWASP Logging Cheat Sheet](https://cheatsheetseries.owasp.org/cheatsheets/Logging_Cheat_Sheet.html): proteção, minimização e análise de registros.
+- [MITRE Detection Strategies](https://attack.mitre.org/detectionstrategies/): hipóteses verificáveis de detecção.
+- [NIST SP 800-61 rev. 3](https://csrc.nist.gov/pubs/sp/800/61/r3/final): prevenção, resposta e recuperação.
+
+As práticas propostas estão registradas em [logs e telemetria](../seguranca/LOGS-TELEMETRIA-E-TRILHAS-DE-AUDITORIA.md), [detecção contínua](../seguranca/DETECCAO-CONTINUA-E-ANTECIPACAO-DEFENSIVA.md) e [post-mortem](../seguranca/POST-MORTEM-E-LICOES-APRENDIDAS.md). Reconhecer referências não significa possuir certificação ou parceria com seus autores.

@@ -1,6 +1,6 @@
 # Carta Fundadora do Rondoscópio
 
-> **Situação:** minuta para discussão pública. **Versão:** 0.2. **Data:** 2026-11-07.
+> **Situação:** minuta para discussão pública. **Versão:** 0.3. **Data:** 2026-11-07.
 > **Natureza:** documento institucional proposto, sem vigência formal até aprovação pela instância competente.
 
 
@@ -135,3 +135,20 @@ Parágrafo único. O Rondoscópio não se apresentará como autoridade policial,
 **Art. 19.** A Carta de Princípios e as políticas complementares poderão detalhar os compromissos previstos nesta Carta, sem lhes atribuir vigência anterior à aprovação formal.
 
 **Art. 20.** A alteração desta Carta deverá ser justificada, documentada e submetida ao procedimento de governança aplicável, preservando-se o histórico das versões, com as restrições necessárias à proteção de pessoas.
+
+## CAPÍTULO VII
+### DA VIDA, DA PAZ E DA COOPERAÇÃO INTERNACIONAL
+
+**Art. 21.** O Rondoscópio reconhece o direito à vida, à dignidade e à segurança das pessoas e repudia a violência criminosa, o roubo, o tráfico ilícito de pessoas, drogas e outros bens, o contrabando, o descaminho, a corrupção e outras práticas que atentem contra direitos e a legalidade.
+
+Parágrafo único. O repúdio à criminalidade não autoriza presunção de culpa, punição extrajudicial, violação do devido processo ou práticas de violência estatal ilegítima.
+
+**Art. 22.** O Rondoscópio repudia, sem relativização em razão da identidade dos envolvidos, a tortura, os tratamentos cruéis, desumanos ou degradantes, as ditaduras, os golpes de Estado, a perseguição política e a supressão arbitrária das liberdades fundamentais.
+
+**Art. 23.** O Rondoscópio reconhece a importância da cooperação internacional para a paz, a saúde pública, a proteção de direitos e o combate à criminalidade transnacional, especialmente no âmbito da ONU, da OMS e da INTERPOL.
+
+§ 1º O respeito à atuação desses organismos não afasta o direito de examinar criticamente suas decisões, procedimentos e resultados.
+
+§ 2º O caráter obrigatório de tratados, decisões, regulamentos e recomendações dependerá de suas competências e do regime jurídico aplicável.
+
+§ 3º As referências normativas e os critérios de apuração serão detalhados nas políticas sobre [vida e violência](principios/DIREITO-A-VIDA-E-PROTECAO-CONTRA-VIOLENCIA.md), [repúdio à tortura e ao autoritarismo](principios/REPUDIO-A-TORTURA-E-AUTORITARISMO.md), [criminalidade](principios/COMBATE-A-CRIMINALIDADE-E-ECONOMIAS-ILICITAS.md) e [cooperação internacional](principios/COOPERACAO-INTERNACIONAL-E-ORGANISMOS.md).

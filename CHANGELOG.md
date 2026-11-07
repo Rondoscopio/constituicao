@@ -2,6 +2,10 @@
 
 ## 2026-11-07
 
+- Acrescentadas declarações normativas de proteção à vida, repúdio à tortura e às ditaduras, combate a crimes e respeito à cooperação internacional, com distinção da força jurídica de cada ato.
+- Incluídos documentos sobre logs, detecção contínua, antecipação defensiva e post-mortem de incidentes, integrados à segurança, inteligência de ameaças e aos catálogos MITRE e OWASP.
+
+
 - Inclusas políticas propostas sobre dupla lealdade, backdoors, inteligência de ameaças e contrainteligência defensiva, com catálogos integrais MITRE e OWASP por links aos índices oficiais.
 - Documentada a verificação presencial de fingerprint de chaves OpenPGP, inspirada na prática Debian, distinguindo chave pública distribuível de chave privada não compartilhável.
 - Incluídos os estados EPP clientHold e serverHold, seus efeitos sobre delegação DNS e diretrizes de resiliência de nomes de domínio.

@@ -1,9 +1,20 @@
 # Dignidade e direitos humanos
 
-> **Situação:** minuta para discussão pública. **Versão:** 0.1. **Data:** 2026-11-07.
+> **Situação:** minuta para discussão pública. **Versão:** 0.2. **Data:** 2026-11-07.
 
-A dignidade das pessoas não depende de popularidade, cargo, crença ou posição política. Ela também protege quem é objeto de investigação.
+## CAPÍTULO I
+### DAS GARANTIAS ESSENCIAIS
 
-A organização examinará violações de direitos com atenção à experiência das pessoas afetadas e à qualidade das fontes. Não divulgará informações pessoais sem necessidade e interesse público demonstrável.
+**Art. 1º** A dignidade de toda pessoa independe de popularidade, cargo, crença, situação jurídica ou orientação política.
 
-Em temas contestados, o relato dos envolvidos será considerado sem dispensar provas independentes.
+**Art. 2º** O Rondoscópio defende os direitos à vida, à integridade física e psíquica, à liberdade, à igualdade, à privacidade e à proteção contra tratamentos cruéis, desumanos e degradantes.
+
+**Art. 3º** É repudiada a tortura praticada por particulares ou agentes do Estado, inclusive contra pessoas presas, acusadas de crimes ou consideradas inimigas políticas.
+
+**Art. 4º** A documentação de violações de direitos deverá distinguir alegações, investigações, decisões e fatos comprovados, com proteção de vítimas e direito de manifestação das pessoas acusadas.
+
+## Referências complementares
+
+- [Direito à vida e proteção contra a violência](DIREITO-A-VIDA-E-PROTECAO-CONTRA-VIOLENCIA.md).
+- [Repúdio à tortura, às ditaduras e ao autoritarismo](REPUDIO-A-TORTURA-E-AUTORITARISMO.md).
+- [Constituição Federal](https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm).

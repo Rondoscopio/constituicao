@@ -1,6 +1,6 @@
 # Carta de Princípios do Rondoscópio
 
-> **Situação:** minuta para discussão pública. **Versão:** 0.2. **Data:** 2026-11-07.
+> **Situação:** minuta para discussão pública. **Versão:** 0.3. **Data:** 2026-11-07.
 > **Natureza:** documento institucional proposto, sem vigência formal até aprovação pela instância competente.
 
 
@@ -132,8 +132,25 @@ Parágrafo único. Nenhuma denúncia será divulgada automaticamente em razão d
 § 2º Conceitos psicológicos ou discursivos, como DARVO e gaslighting, não deverão ser utilizados como diagnósticos clínicos ou prova autossuficiente de dolo.
 
 ## CAPÍTULO VIII
+### DA VIDA, DA PAZ, DA LEGALIDADE E DA COOPERAÇÃO
+
+**Art. 23.** O Rondoscópio defende o direito à vida, à integridade e à segurança e repudia a violência criminosa, o tráfico ilícito, o roubo, o contrabando, o descaminho e a exploração de pessoas.
+
+§ 1º O combate às infrações deverá respeitar o devido processo, a proporcionalidade e as garantias de vítimas e acusados.
+
+§ 2º A classificação de condutas como crime depende dos elementos da legislação aplicável e não poderá resultar apenas de denúncias ou inferências estatísticas.
+
+**Art. 24.** A organização repudia a tortura, os tratamentos desumanos e degradantes, os desaparecimentos forçados, os golpes de Estado e os regimes ditatoriais, independentemente da orientação política ou da identidade de seus responsáveis.
+
+**Art. 25.** O Rondoscópio reconhece a relevância da ONU, OMS e INTERPOL e da cooperação internacional lícita, sem atribuir caráter obrigatório indistintamente a todas as suas manifestações.
+
+Parágrafo único. A natureza jurídica de obrigações internacionais, recomendações técnicas e alertas de cooperação policial deverá ser examinada conforme seus instrumentos e competências.
+
+**Art. 26.** A avaliação de políticas públicas e de cooperação internacional deverá fundamentar-se em evidências, resguardar os direitos das pessoas envolvidas e admitir a crítica fundamentada às próprias organizações multilaterais.
+
+## CAPÍTULO IX
 ### DAS DISPOSIÇÕES FINAIS
 
-**Art. 23.** A aplicação destes princípios será detalhada em procedimentos editoriais, metodológicos, de segurança e de governança.
+**Art. 27.** A aplicação destes princípios será detalhada em procedimentos editoriais, metodológicos, de segurança e de governança.
 
-**Art. 24.** A aprovação, a alteração e a entrada em vigência desta Carta dependerão de procedimento institucional competente e de registro público, preservada a confidencialidade legítima.
+**Art. 28.** A aprovação, a alteração e a entrada em vigência desta Carta dependerão de procedimento institucional competente e de registro público, preservada a confidencialidade legítima.

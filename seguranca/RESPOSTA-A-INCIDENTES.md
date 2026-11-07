@@ -1,6 +1,6 @@
 # Resposta a incidentes
 
-> **Situação:** minuta para discussão pública. **Versão:** 0.2. **Data:** 2026-11-07.
+> **Situação:** minuta para discussão pública. **Versão:** 0.3. **Data:** 2026-11-07.
 > **Natureza:** política institucional proposta. Não comprova controles implementados.
 
 ## CAPÍTULO I
@@ -41,3 +41,26 @@ VI - revisão dos procedimentos e prevenção de recorrência.
 **Art. 6º** Os contatos, funções, exercícios, caminhos de escalonamento e acessos de emergência serão definidos em documentos operacionais protegidos antes do lançamento de serviços sensíveis.
 
 **Art. 7º** O plano será revisto após incidentes relevantes e exercícios de recuperação.
+
+## CAPÍTULO IV
+### DOS REGISTROS E DAS EVIDÊNCIAS
+
+**Art. 8º** A resposta deverá utilizar registros técnicos necessários e proporcionais à investigação do incidente, protegendo logs contra adulteração e acesso indevido.
+
+**Art. 9º** A preservação de evidências digitais não deverá resultar em divulgação injustificada de dados de fontes, colaboradores ou terceiros.
+
+## CAPÍTULO V
+### DA REVISÃO PÓS-INCIDENTE
+
+**Art. 10.** Incidentes relevantes deverão ser examinados em revisão posterior, com cronologia, impactos, causa técnica, fatores organizacionais, eficácia da resposta e providências futuras.
+
+**Art. 11.** O relatório pós-incidente deverá separar fatos observados de hipóteses, identificar lacunas de detecção e preservar dados confidenciais.
+
+**Art. 12.** As medidas corretivas deverão possuir responsáveis e critérios de verificação, sem considerar encerrado o aprendizado apenas porque o serviço foi restaurado.
+
+## Documentos complementares
+
+- [Logs e telemetria](LOGS-TELEMETRIA-E-TRILHAS-DE-AUDITORIA.md).
+- [Post-mortem e lições aprendidas](POST-MORTEM-E-LICOES-APRENDIDAS.md).
+- [Detecção contínua e antecipação](DETECCAO-CONTINUA-E-ANTECIPACAO-DEFENSIVA.md).
+- [MITRE: detecções e mitigações](MITRE-CATALOGO-DE-TATICAS-MITIGACOES-E-DETECCOES.md).

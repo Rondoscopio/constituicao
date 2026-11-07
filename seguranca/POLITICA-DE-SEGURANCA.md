@@ -1,6 +1,6 @@
 # Política de segurança
 
-> **Situação:** minuta para discussão pública. **Versão:** 0.3. **Data:** 2026-11-07.
+> **Situação:** minuta para discussão pública. **Versão:** 0.4. **Data:** 2026-11-07.
 > **Natureza:** política institucional proposta. Não comprova controles implementados.
 
 ## CAPÍTULO I
@@ -89,3 +89,24 @@ Parágrafo único. A prática de verificação presencial adotada como referênc
 - [Inteligência de ameaças e contrainteligência defensiva](INTELIGENCIA-DE-AMEACAS-E-CONTRAINTELIGENCIA.md)
 - [MITRE: táticas, detecções e mitigações](MITRE-CATALOGO-DE-TATICAS-MITIGACOES-E-DETECCOES.md)
 - [OWASP: catálogos e controles proativos](OWASP-CATALOGOS-PROATIVOS-E-CASOS.md)
+
+## CAPÍTULO V
+### DO MONITORAMENTO, DA PREVENÇÃO E DO APRENDIZADO
+
+**Art. 17.** A organização deverá definir registros técnicos, monitoramento e trilhas de auditoria proporcionais ao risco, evitando coleta indiscriminada de dados de pessoas e fontes.
+
+**Art. 18.** O programa deverá integrar prevenção, detecção, resposta a incidentes, recuperação, revisão posterior e validação das medidas corretivas.
+
+**Art. 19.** A antecipação defensiva compreenderá identificação de exposição, priorização de vulnerabilidades, análise de hipóteses de ataque, testes autorizados e acompanhamento das técnicas e mitigações dos referenciais MITRE e OWASP.
+
+**Art. 20.** Incidentes relevantes deverão produzir registro e avaliação pós-incidente, com lições aprendidas, medidas, responsáveis e verificação de eficácia, sem atribuições de espionagem ou dolo sem evidências.
+
+Parágrafo único. A publicidade dos resultados deverá respeitar privacidade, necessidade, confidencialidade de fontes e riscos de facilitar novas explorações.
+
+## Referências operacionais propostas
+
+- [Logs, telemetria e trilhas de auditoria](LOGS-TELEMETRIA-E-TRILHAS-DE-AUDITORIA.md).
+- [Detecção contínua e antecipação defensiva](DETECCAO-CONTINUA-E-ANTECIPACAO-DEFENSIVA.md).
+- [Resposta a incidentes](RESPOSTA-A-INCIDENTES.md).
+- [Post-mortem e lições aprendidas](POST-MORTEM-E-LICOES-APRENDIDAS.md).
+- [Inteligência de ameaças e contrainteligência](INTELIGENCIA-DE-AMEACAS-E-CONTRAINTELIGENCIA.md).

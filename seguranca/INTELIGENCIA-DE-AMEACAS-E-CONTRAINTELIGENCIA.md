@@ -1,6 +1,6 @@
 # Inteligência de ameaças e contrainteligência defensiva
 
-> **Situação:** minuta para discussão pública. **Versão:** 0.1. **Data:** 2026-11-07.
+> **Situação:** minuta para discussão pública. **Versão:** 0.2. **Data:** 2026-11-07.
 > **Aplicação:** compromisso proposto, sujeito a avaliação de risco, capacidade operacional e aprovação institucional.
 
 ## CAPÍTULO I
@@ -72,3 +72,16 @@ VII - avaliação periódica dos efeitos das medidas adotadas.
 - [MITRE, mitigação Threat Intelligence Program](https://attack.mitre.org/mitigations/M1019/)
 - [CISA KEV](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
 - [FIRST EPSS](https://www.first.org/epss/)
+
+## CAPÍTULO V
+### DA CORRELAÇÃO ENTRE INTELIGÊNCIA E AÇÃO
+
+**Art. 9º** As hipóteses resultantes de inteligência de ameaças deverão ser priorizadas por riscos reais, validade das fontes e utilidade para decisões de proteção.
+
+**Art. 10.** As respostas poderão incluir atualização, segmentação, substituição de credenciais, reforço de verificação de chaves, melhoria de detecções, testes de recuperação e revisão dos acessos.
+
+**Art. 11.** Os resultados deverão ser reavaliados periodicamente por meio de testes autorizados, dados sobre incidentes e comparação com o comportamento descrito em catálogos MITRE e OWASP.
+
+**Art. 12.** A atividade de contrainteligência será limitada à defesa. Não incluirá invasão de terceiros, espionagem de relacionamentos, perseguição de colaboradores ou atribuições públicas sem evidência.
+
+Consulte [Detecção contínua e antecipação defensiva](DETECCAO-CONTINUA-E-ANTECIPACAO-DEFENSIVA.md).

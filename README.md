@@ -18,9 +18,15 @@ A [Carta Fundadora](CARTA-FUNDADORA.md), a [Carta de Princípios](principios/CAR
 
 A hierarquia é uma convenção editorial, não confere força de lei e não significa aprovação institucional das minutas.
 
+## Defesa da vida, direitos humanos e cooperação
+
+A [Carta Fundadora](CARTA-FUNDADORA.md) e a [Carta de Princípios](principios/CARTA-DE-PRINCIPIOS.md) explicitam o repúdio à tortura, às ditaduras, à violência criminosa e ao tráfico ilícito, a defesa da vida e do devido processo e o respeito à cooperação internacional por meio de ONU, OMS e INTERPOL, conforme suas competências legais. Os compromissos não convertem recomendações em obrigações jurídicas automáticas.
+
 ## Segurança e proteção de pessoas
 
 A política de segurança abrange engenharia social, infiltração, falsificação de identidade, interceptação, criptografia, vulnerabilidades, ameaças avançadas e continuidade. Comece por [Política de Segurança](seguranca/POLITICA-DE-SEGURANCA.md), [Engenharia Social e Infiltração](seguranca/ENGENHARIA-SOCIAL-E-INFILTRACAO.md) e [Referenciais de Segurança](seguranca/REFERENCIAIS-DE-SEGURANCA.md).
+
+A documentação complementar inclui [logs e telemetria](seguranca/LOGS-TELEMETRIA-E-TRILHAS-DE-AUDITORIA.md), [detecção contínua](seguranca/DETECCAO-CONTINUA-E-ANTECIPACAO-DEFENSIVA.md) e [post-mortem](seguranca/POST-MORTEM-E-LICOES-APRENDIDAS.md), com referências aos catálogos MITRE e OWASP e atenção à privacidade das fontes.
 
 Esses documentos são minutas de compromissos. Não significam que o canal de denúncias, mecanismos de criptografia ou todas as medidas técnicas estejam operacionais.
 

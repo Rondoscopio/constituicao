@@ -53,3 +53,13 @@ O catálogo [MITRE: táticas, técnicas, mitigação e detecção](MITRE-CATALOG
 O índice [OWASP: riscos e controles proativos](OWASP-CATALOGOS-PROATIVOS-E-CASOS.md) aponta para Web Top 10:2025, API, Mobile, CI/CD, Serverless, Data, Privacy, LLM, aplicações com agentes, ASVS, WSTG, MASVS e SAMM.
 
 A política de confiança em chaves toma como referência os [encontros e assinaturas do Debian](https://www.debian.org/events/keysigning). Para registro de domínios, a fonte é o [catálogo EPP da ICANN](https://www.icann.org/resources/pages/epp-status-codes-2014-06-16-en). Esses projetos não são parceiros ou certificadores do Rondoscópio.
+
+## Operação, resposta e aprendizado
+
+- [MITRE ATT&CK: matrizes](https://attack.mitre.org/matrices/), [técnicas](https://attack.mitre.org/techniques/), [mitigações](https://attack.mitre.org/mitigations/), [detecção](https://attack.mitre.org/detectionstrategies/) e [analytics](https://attack.mitre.org/analytics/): índices completos e atualizáveis.
+- [OWASP Proactive Controls](https://top10proactive.owasp.org/), [Cheat Sheet Series](https://cheatsheetseries.owasp.org/), [ASVS](https://asvs.owasp.org/), [WSTG](https://owasp.org/www-project-web-security-testing-guide/) e [SAMM](https://owaspsamm.org/): prevenção, verificação e evolução de maturidade.
+- [OWASP Logging Cheat Sheet](https://cheatsheetseries.owasp.org/cheatsheets/Logging_Cheat_Sheet.html): projeto seguro de eventos e logs.
+- [NIST SP 800-61 rev. 3](https://csrc.nist.gov/pubs/sp/800/61/r3/final): gestão e resposta a incidentes.
+- [CISA, Cybersecurity Incident and Vulnerability Response Playbooks](https://www.cisa.gov/resources-tools/resources/federal-government-cybersecurity-incident-and-vulnerability-response-playbooks): referência de playbooks.
+
+A ligação entre catálogos e controles deverá ser feita por cenários de risco, com evidência de implementação e testes. Nem todas as técnicas e mitigações são aplicáveis a todas as instalações.
