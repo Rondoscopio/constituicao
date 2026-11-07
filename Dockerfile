@@ -1,4 +1,4 @@
-# syntax=docker/dockerfile:1.7
+# syntax=docker/dockerfile:1.7@sha256:a57df69d0ea827fb7266491f2813635de6f17269be881f696fbfdf2d83dda33e
 # Toolchain de qualidade: cada alvo é uma imagem independente.
 # Imagens fixadas por digests conferidos nos builds do GitHub Actions.
 FROM node:26.13.0-bookworm-slim@sha256:add5c17c14752c54d2f3d519ec46a3815684d41c33f198bcb09fb998f7dcbf68 AS base
@@ -8,11 +8,6 @@ RUN apt-get update \
     && rm -rf /var/lib/apt/lists/*
 RUN useradd --create-home --uid 10001 --shell /usr/sbin/nologin quality
 WORKDIR /workspace
-
-FROM base AS lockfile
-COPY tooling/package.json /opt/quality/package.json
-RUN npm install --prefix /opt/quality --package-lock-only --no-audit --no-fund --ignore-scripts
-CMD ["sh", "-ec", "echo __LOCKFILE_BEGIN__; cat /opt/quality/package-lock.json; echo __LOCKFILE_END__"]
 
 FROM base AS node-tools
 COPY tooling/package.json tooling/package-lock.json /opt/quality/
@@ -65,5 +60,5 @@ WORKDIR /workspace
 FROM semgrep/semgrep:1.184.0@sha256:cc1b68266f267878b39739373ea9985b9a78e5d64497dd875c8de100b22695ed AS semgrep
 WORKDIR /workspace
 
-FROM ghcr.io/ossf/scorecard:v5.6.0 AS scorecard
+FROM ghcr.io/ossf/scorecard:v5.6.0@sha256:c0a21a1c33a2d8819937d0a8a62e6f4189c800639abd9f0bfbe61c90c71fae90 AS scorecard
 WORKDIR /workspace
