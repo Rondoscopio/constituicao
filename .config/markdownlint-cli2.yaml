@@ -5,9 +5,10 @@ config:
   MD047: true
 globs:
   - README.md
-  - CONTRIBUTING.md
-  - SECURITY.md
+  - .github/CONTRIBUTING.md
+  - .github/SECURITY.md
+  - .github/CODE_OF_CONDUCT.md
   - "parts/**/*.md"
 ignores:
-  - CONSTITUICAO-COMPLETA.md
-  - INDICE.md
+  - docs/CONSTITUICAO-COMPLETA.md
+  - docs/INDICE.md

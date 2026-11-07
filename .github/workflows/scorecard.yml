@@ -21,4 +21,4 @@ jobs:
       - name: Scorecard pela imagem definida no Dockerfile
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        run: docker compose run --build --rm scorecard
+        run: docker compose --file .config/compose.yaml run --build --rm scorecard

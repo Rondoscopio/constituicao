@@ -1,10 +1,9 @@
 .git
 .gitignore
+.local
+.cache
 node_modules
 .vitest
 coverage
-dist
-sbom.cdx.json
-CONSTITUICAO-COMPLETA.md
-INDICE.md
 parts
+docs

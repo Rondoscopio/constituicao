@@ -1,47 +1,50 @@
+compose := "docker compose --file .config/compose.yaml"
+
 # O just apenas orquestra contêineres. Nenhum verificador roda no host.
 default: check
 
 check:
-    docker compose build docs javascript workflows zizmor hadolint gitleaks semgrep trivy osv
-    docker compose run --rm docs
-    docker compose run --rm javascript
-    docker compose run --rm workflows
-    docker compose run --rm zizmor
-    docker compose run --rm hadolint
-    docker compose run --rm gitleaks
-    docker compose run --rm semgrep
-    docker compose run --rm trivy
-    docker compose run --rm osv
+    {{compose}} build docs javascript workflows zizmor hadolint gitleaks semgrep trivy osv
+    {{compose}} run --rm docs
+    {{compose}} run --rm javascript
+    {{compose}} run --rm workflows
+    {{compose}} run --rm zizmor
+    {{compose}} run --rm hadolint
+    {{compose}} run --rm gitleaks
+    {{compose}} run --rm semgrep
+    {{compose}} run --rm trivy
+    {{compose}} run --rm osv
 
 docs:
-    docker compose run --build --rm docs
+    {{compose}} run --build --rm docs
 
 javascript:
-    docker compose run --build --rm javascript
+    {{compose}} run --build --rm javascript
 
 security:
-    docker compose run --build --rm gitleaks
-    docker compose run --build --rm trivy
-    docker compose run --build --rm osv
-    docker compose run --build --rm semgrep
+    {{compose}} run --build --rm gitleaks
+    {{compose}} run --build --rm trivy
+    {{compose}} run --build --rm osv
+    {{compose}} run --build --rm semgrep
 
 workflow:
-    docker compose run --build --rm workflows
-    docker compose run --build --rm zizmor
+    {{compose}} run --build --rm workflows
+    {{compose}} run --build --rm zizmor
 
 container:
-    docker compose run --build --rm hadolint
+    {{compose}} run --build --rm hadolint
 
 sbom:
-    docker compose build trivy
-    docker compose run --rm -T trivy fs --format cyclonedx --output /dev/stdout /workspace > sbom.cdx.json
+    mkdir -p .local
+    {{compose}} build trivy
+    {{compose}} run --rm -T trivy fs --format cyclonedx --output /dev/stdout /workspace > .local/sbom.cdx.json
 
 scorecard:
-    docker compose run --build --rm scorecard
+    {{compose}} run --build --rm scorecard
 
 generate:
-    docker compose run --build --rm --volume "./:/workspace:rw" docs node scripts/gerar_documento.mjs
+    {{compose}} run --build --rm --volume "./:/workspace:rw" docs node .config/scripts/gerar_documento.mjs
 
 format-check:
-    docker compose run --build --rm docs prettier --check README.md CONTRIBUTING.md SECURITY.md compose.yaml renovate.json
-    docker compose run --build --rm javascript biome check /workspace/scripts/gerar_documento.mjs
+    {{compose}} run --build --rm docs prettier --check README.md .github/CONTRIBUTING.md .github/SECURITY.md .config/compose.yaml .github/renovate.json
+    {{compose}} run --build --rm javascript biome check /workspace/.config/scripts/gerar_documento.mjs

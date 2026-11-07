@@ -26,11 +26,11 @@ jobs:
       - name: Construir stage do Dockerfile
         env:
           SERVICE: ${{ matrix.service }}
-        run: docker compose build "$SERVICE"
+        run: docker compose --file .config/compose.yaml build "$SERVICE"
       - name: Executar verificação no contêiner
         env:
           SERVICE: ${{ matrix.service }}
-        run: docker compose run --rm --no-deps "$SERVICE"
+        run: docker compose --file .config/compose.yaml run --rm --no-deps "$SERVICE"
 
   gate:
     name: gate
