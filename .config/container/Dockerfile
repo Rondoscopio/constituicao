@@ -10,24 +10,24 @@ RUN useradd --create-home --uid 10001 --shell /usr/sbin/nologin quality
 WORKDIR /workspace
 
 FROM base AS node-tools
-COPY tooling/package.json tooling/package-lock.json /opt/quality/
+COPY .config/package.json .config/package-lock.json /opt/quality/
 RUN npm ci --prefix /opt/quality --no-audit --no-fund --ignore-scripts \
     && npm rebuild --prefix /opt/quality @ast-grep/cli
 ENV PATH="/opt/quality/node_modules/.bin:${PATH}"
 
 FROM node-tools AS docs
-COPY tooling/requirements-docs.txt /opt/quality/requirements-docs.txt
+COPY .config/python/requirements-docs.txt /opt/quality/requirements-docs.txt
 RUN python3 -m venv /opt/yaml \
     && /opt/yaml/bin/pip install --no-cache-dir -r /opt/quality/requirements-docs.txt
 ENV PATH="/opt/yaml/bin:${PATH}"
 USER 10001:10001
-CMD ["sh", "-ec", "python3 scripts/validar_documentacao.py && node scripts/gerar_documento.mjs --check && markdownlint-cli2 && yamllint -c .yamllint.yaml .github/workflows .github/ISSUE_TEMPLATE compose.yaml"]
+CMD ["sh", "-ec", "python3 .config/scripts/validar_documentacao.py && node .config/scripts/gerar_documento.mjs --check && markdownlint-cli2 --config .config/markdownlint-cli2.yaml && yamllint -c .config/yamllint.yaml .github/workflows .github/ISSUE_TEMPLATE .config/compose.yaml"]
 
 FROM node-tools AS javascript
-COPY tooling/eslint.config.mjs /opt/quality/eslint.config.mjs
-COPY tooling/tests/gerador.test.mjs /opt/quality/tests/gerador.test.mjs
+COPY .config/eslint.config.mjs /opt/quality/eslint.config.mjs
+COPY .config/tests/gerador.test.mjs /opt/quality/tests/gerador.test.mjs
 USER 10001:10001
-CMD ["sh", "-ec", "eslint -c /opt/quality/eslint.config.mjs scripts/gerar_documento.mjs && ast-grep scan --config sgconfig.yml scripts && jscpd --min-lines 8 --min-tokens 60 --threshold 20 --ignore 'parts/**,CONSTITUICAO-COMPLETA.md,INDICE.md' scripts && cd /opt/quality && vitest run --root /opt/quality"]
+CMD ["sh", "-ec", "eslint -c /opt/quality/eslint.config.mjs .config/scripts/gerar_documento.mjs && ast-grep scan --config .config/sgconfig.yml .config/scripts && jscpd --min-lines 8 --min-tokens 60 --threshold 20 --ignore 'parts/**,docs/CONSTITUICAO-COMPLETA.md,docs/INDICE.md' .config/scripts && cd /opt/quality && vitest run --root /opt/quality"]
 
 FROM koalaman/shellcheck:v0.11.0@sha256:61862eba1fcf09a484ebcc6feea46f1782532571a34ed51fedf90dd25f925a8d AS shellcheck-bin
 

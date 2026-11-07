@@ -2,7 +2,7 @@ import { readFileSync, writeFileSync, readdirSync, existsSync } from "node:fs";
 import { dirname, join, resolve } from "node:path";
 import { fileURLToPath } from "node:url";
 
-const root = resolve(dirname(fileURLToPath(import.meta.url)), "..");
+const root = resolve(dirname(fileURLToPath(import.meta.url)), "../..");
 const base = join(root, "parts");
 const documents = [];
 for (const section of readdirSync(base, { withFileTypes: true }).filter(x => x.isDirectory()).map(x => x.name).sort()) {
@@ -23,10 +23,10 @@ function buildOutputs(docs){
  const byPath=new Map(list.map(x=>[x.path,x]));const byGroup=new Map();
  for(const d of list){const id=anchor(d.path),grp=id.slice(6,8);if(!byGroup.has(grp))byGroup.set(grp,[]);byGroup.get(grp).push(d);}
  const title=d=>(d.content.match(/^#\s+(.+)$/m)||[])[1]||d.path.split("/").at(-1);
- const nav=[];for(const [g,items] of byGroup){nav.push("## "+g+" — "+(labels[g]||g));for(const d of items)nav.push("- ["+anchor(d.path).replace("parte-","").replace("-", ".")+" — "+title(d)+"]("+d.path+")");nav.push("");}
+ const nav=[];for(const [g,items] of byGroup){nav.push("## "+g+" — "+(labels[g]||g));for(const d of items)nav.push("- ["+anchor(d.path).replace("parte-","").replace("-", ".")+" — "+title(d)+"](../"+d.path+")");nav.push("");}
  const index="# Índice de leitura — Rondoscópio\n\n> Gerado automaticamente a partir dos arquivos numerados em `parts/`. Não edite este arquivo manualmente.\n\n[Leia também a versão unificada](CONSTITUICAO-COMPLETA.md).\n\n"+nav.join("\n").trimEnd()+"\n";
  const toc=[];for(const [g,items] of byGroup){toc.push("### "+g+" — "+(labels[g]||g));for(const d of items)toc.push("- ["+anchor(d.path).replace("parte-","").replace("-", ".")+" — "+title(d)+"](#"+anchor(d.path)+")");toc.push("");}
- let full="# Constituição do Rondoscópio — edição completa\n\n> Documento gerado automaticamente a partir das partes numeradas. As minutas não equivalem a normas aprovadas nem a serviços operacionais. Para propor mudanças, edite os arquivos correspondentes em `parts/` e execute `node scripts/gerar_documento.mjs`.\n\n## Sumário\n\n"+toc.join("\n").trimEnd()+"\n\n---\n";
+ let full="# Constituição do Rondoscópio — edição completa\n\n> Documento gerado automaticamente a partir das partes numeradas. As minutas não equivalem a normas aprovadas nem a serviços operacionais. Para propor mudanças, edite os arquivos correspondentes em `parts/` e execute `just generate`.\n\n## Sumário\n\n"+toc.join("\n").trimEnd()+"\n\n---\n";
  for(const d of list){
   const id=anchor(d.path), number=id.slice(6).replace("-", "."), h=title(d);
   let body=d.content.replace(/^#\s+[^\n]*\r?\n?/,"").trim();
@@ -37,7 +37,7 @@ function buildOutputs(docs){
    const path=pathOnly?norm(d.path.split("/").slice(0,-1).join("/")+"/"+pathOnly):d.path;
    if(byPath.has(path))return start+"#"+anchor(path)+end;
    if(!pathOnly)return start+"#"+id+end;
-   return start+path+(frag?"#"+frag:"")+end;
+   return start+"../"+path+(frag?"#"+frag:"")+end;
   });
   let inFence=false;let codeMarker="";const lines=[];
   for(const ln of body.split(/\r?\n/)){
@@ -46,7 +46,7 @@ function buildOutputs(docs){
    const mh=!inFence&&ln.match(/^(#{1,6})\s+(.+)$/);
    if(mh){lines.push("#".repeat(Math.min(6,mh[1].length+2))+" "+mh[2]);}else lines.push(ln);
   }
-  full+="\n<a id=\""+id+"\"></a>\n\n## "+number+" — "+h+"\n\n*Parte de origem: ["+d.path+"]("+d.path+")*\n\n"+lines.join("\n").trim()+"\n\n---\n";
+  full+="\n<a id=\""+id+"\"></a>\n\n## "+number+" — "+h+"\n\n*Parte de origem: ["+d.path+"](../"+d.path+")*\n\n"+lines.join("\n").trim()+"\n\n---\n";
  }
  return {index,full:full.trimEnd()+"\n"};
 }
@@ -54,7 +54,7 @@ function buildOutputs(docs){
 const { index, full } = buildOutputs(documents);
 let stale = false;
 for (const [filename, content] of [["INDICE.md", index], ["CONSTITUICAO-COMPLETA.md", full]]) {
-  const target = join(root, filename);
+  const target = join(root, "docs", filename);
   if (process.argv.includes("--check")) {
     if (!existsSync(target) || readFileSync(target, "utf8") !== content) {
       console.error("Documento desatualizado: " + filename);

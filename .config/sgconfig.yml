@@ -1,2 +1,2 @@
 ruleDirs:
-  - tooling/ast-grep
+  - .config/ast-grep
