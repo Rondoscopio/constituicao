@@ -2,6 +2,11 @@
 
 ## 2026-11-07
 
+- Criadas minutas de Termo de Adesão e Compromisso Institucional, Processo de Ingresso e Modelo de Declaração de Adesão, inspiradas no Debian New Member Process.
+- Diferenciadas colaboração pública e adesão formal; previstas assinaturas verificáveis, proteção de dados, direitos dos participantes, tratamento de conflitos e revisão de acessos, sem exigir lealdade pessoal.
+- Adoção formal pendente de aprovação e avaliação jurídica.
+
+
 - Incluídas propostas de reconhecimento da influência humana no aquecimento global, defesa da conservação da natureza, mitigação e adaptação climáticas e enfrentamento da negação infundada das evidências científicas.
 - Incluído o compromisso de apoiar políticas de reparação de desigualdades históricas e ações afirmativas legítimas, com análise de eficácia, direitos, proporcionalidade e consequências distributivas.
 - Atualizadas a Carta Fundadora, a Carta de Princípios, os Valores, os princípios de proteção ambiental, igualdade e justiça social, com metodologia específica de avaliação de políticas climáticas e reparatórias.

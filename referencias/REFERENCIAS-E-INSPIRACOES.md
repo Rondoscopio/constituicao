@@ -118,3 +118,13 @@ Consulte [FIDO2/WebAuthn](../seguranca/AUTENTICACAO-FIDO2-WEBAUTHN-E-CHAVES-FISI
 - [Declaração Universal dos Direitos Humanos](https://www.un.org/en/about-us/universal-declaration-of-human-rights): igual dignidade e direitos fundamentais.
 
 Essas referências fundamentam estudos e compromissos de [enfrentamento das mudanças climáticas](../principios/ENFRENTAMENTO-DAS-MUDANCAS-CLIMATICAS.md), [reparação de desigualdades históricas](../principios/REPARACAO-DE-DESIGUALDADES-HISTORICAS.md) e [avaliação de políticas](../metodologia/AVALIACAO-DE-POLITICAS-CLIMATICAS-E-REPARATORIAS.md). O Rondoscópio não possui parceria ou endosso automático dos autores.
+
+
+## Processo de ingresso e compromisso de colaboradores
+
+- [Debian New Members Corner](https://www.debian.org/devel/join/newmaint): histórico de contribuições, avaliação de funções, verificação de identidade e ingresso formal de colaboradores com responsabilidades.
+- [Debian New Member Process: declaração de compromissos](https://nm.debian.org/process/1572/sc_dmup/): aceite explícito e assinado dos documentos institucionais aplicáveis à atuação no projeto.
+- [Debian New Member Applicant Checklist](https://wiki.debian.org/DebianDeveloper/JoinTheProject/NewMemberCheckList): etapas de intenção, avaliação, declaração, identidade e recomendação.
+- [Debian Social Contract](https://www.debian.org/social_contract.pt.html): compromissos públicos organizacionais, distintos da declaração individual de ingresso.
+
+A inspiração resultou nas minutas de [Termo de Adesão e Compromisso Institucional](../participacao/TERMO-DE-ADESAO-E-COMPROMISSO-INSTITUCIONAL.md), [Processo de Ingresso](../participacao/PROCESSO-DE-INGRESSO.md) e [Declaração de Adesão](../modelos/DECLARACAO-DE-ADESAO.md). O Debian não participa da elaboração, revisão ou aprovação desses documentos.

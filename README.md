@@ -48,6 +48,12 @@ As minutas de segurança incluem [FIDO2/WebAuthn e chaves físicas](seguranca/AU
 
 Os fundamentos de segurança foram ampliados para contemplar [cerimônias OpenPGP de verificação de chaves](seguranca/CONFIANCA-OPENPGP-E-CERIMONIA-DE-CHAVES.md), [riscos de suspensão de domínios por clientHold e serverHold](seguranca/DOMINIOS-REGISTRO-E-STATUS-EPP.md), [riscos internos e dupla lealdade](seguranca/DUPLA-LEALDADE-E-RISCOS-INTERNOS.md) e [catálogos MITRE](seguranca/MITRE-CATALOGO-DE-TATICAS-MITIGACOES-E-DETECCOES.md) e [OWASP](seguranca/OWASP-CATALOGOS-PROATIVOS-E-CASOS.md). As políticas são propostas, não comprovações de segurança operacional.
 
+## Como ingressar e assumir compromissos
+
+A proposta de ingresso formal de colaboradores é organizada em [Termo de Adesão e Compromisso Institucional](participacao/TERMO-DE-ADESAO-E-COMPROMISSO-INSTITUCIONAL.md), [Processo de Ingresso](participacao/PROCESSO-DE-INGRESSO.md) e [Modelo de Declaração de Adesão](modelos/DECLARACAO-DE-ADESAO.md).
+
+O procedimento inspira-se no New Member Process do Debian. Colaborações públicas continuam abertas sem necessidade de adesão formal. Funções com acesso a dados sensíveis dependerão de verificação, aprovação e compromissos adicionais. Nenhum desses instrumentos está em vigor antes da aprovação.
+
 ## Contribuições e referências
 
 Contribuições públicas podem ser sugeridas por issues ou pull requests, desde que **não contenham denúncias sigilosas, documentos privados ou identidades de fontes**. Consulte [Como contribuir](CONTRIBUTING.md) e [Segurança](SECURITY.md).
