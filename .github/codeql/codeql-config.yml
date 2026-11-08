@@ -1,0 +1,11 @@
+# Opcional no setup padrão: requer a propriedade
+# github-codeql-config-file = ./.github/codeql/codeql-config.yml.
+# O gerador também está em src/, visível no setup padrão sem propriedade.
+name: Rondoscópio CodeQL
+
+paths:
+  - src/**
+  - .tools/scripts/**
+  - .tools/tests/**
+  - .config/eslint.config.mjs
+  - .github/workflows/**

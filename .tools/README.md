@@ -1,7 +1,7 @@
 # Qualidade, scanners e cadeia de suprimentos
 
 Este repositório contém **documentação e dois scripts**; não é um produto web.
-O `.config/container/Dockerfile` define os alvos independentes `docs`, `javascript`,
+O `.tools/container/Dockerfile` define os alvos independentes `docs`, `javascript`,
 `workflows`, `zizmor`, `hadolint`, `gitleaks`, `osv`,
 `trivy`, `semgrep` e `scorecard`. O Compose é o contrato comum
 entre desenvolvimento local e GitHub Actions. `just` é só um
@@ -15,7 +15,7 @@ orquestrador e não instala ou executa verificadores no host.
 - `docker compose --file .config/compose.yaml run --build --rm zizmor`: auditoria estática de GitHub Actions.
 - `docker compose --file .config/compose.yaml run --build --rm hadolint`: Dockerfile.
 - `docker compose --file .config/compose.yaml run --build --rm gitleaks`: segredos no conteúdo atual.
-- `docker compose --file .config/compose.yaml run --build --rm osv`: audita as dependências com base no lockfile npm de tooling/.
+- `docker compose --file .config/compose.yaml run --build --rm osv`: audita as dependências com base no lockfile npm de `.tools/`.
 - `docker compose --file .config/compose.yaml run --build --rm trivy`: vulnerabilidades, segredos e configurações incorretas.
 - `docker compose --file .config/compose.yaml run --build --rm semgrep`: regras SAST locais, sem baixar regras remotas.
 - `docker compose --file .config/compose.yaml run --build --rm scorecard`: pontuação OpenSSF com `GITHUB_TOKEN`.
@@ -35,7 +35,7 @@ orquestrador e não instala ou executa verificadores no host.
 - **ast-grep** analisa padrões de JavaScript. Seu postinstall, necessário para instalar o binário nativo, é executado isoladamente com npm rebuild. **jscpd** é limitado aos
   scripts, excluindo textos jurídicos e arquivos gerados.
 - **Vitest + fast-check** testam o gerador sobre fixtures temporários.
-- **OSV-Scanner** agora é obrigatório no CI e lê o lockfile criado em `.config/`.
+- **OSV-Scanner** agora é obrigatório no CI e lê o lockfile criado em `.tools/`.
 - **Knip** está instalado no alvo JS, mas não roda como gate: o manifesto de
   tooling é de ferramentas CLI, não descreve dependências da aplicação.
 - **Stylelint** não foi instalado, pois não há CSS ou SCSS.
@@ -59,7 +59,7 @@ orquestrador e não instala ou executa verificadores no host.
 
 Há **tags e digests conferidos** nas imagens, versões diretas das ferramentas e SHA
 fixo no checkout da Action. Os digests OCI, incluindo o Scorecard, estão fixados com os manifests verificados nos builds do GitHub Actions. Renovate deverá
-propor atualizações de tag e digest após revisão. As dependências npm são fixadas por `.config/package-lock.json` e instaladas com `npm ci`. As correções de vulnerabilidades transitivas são aplicadas por `overrides` no `.config/package.json`. O Renovate também reconhece as duas dependências de ferramentas Go declaradas em `go install`.\nAs dependências Python estão fixadas por versão em `.config/python/requirements-docs.txt`. Restam os pacotes APT e os índices externos de pacotes, que não constituem snapshots imutáveis.
+propor atualizações de tag e digest após revisão. As dependências npm são fixadas por `.tools/package-lock.json` e instaladas com `npm ci`. As correções de vulnerabilidades transitivas são aplicadas por `overrides` no `.tools/package.json`. O Renovate também reconhece as duas dependências de ferramentas Go declaradas em `go install`.\nAs dependências Python estão fixadas por versão em `.tools/python/requirements-docs.txt`. Restam os pacotes APT e os índices externos de pacotes, que não constituem snapshots imutáveis.
 
 A regra DL3008 do Hadolint está excepcionada para os pacotes Debian
 porque as versões APT só devem ser fixadas junto com snapshots imutáveis
@@ -72,7 +72,7 @@ Por padrão a montagem é `read-only`, ideal para o CI.
 Para gerar arquivos, execute explicitamente:
 
 ```sh
-docker compose --file .config/compose.yaml run --build --rm --volume "./:/workspace:rw" docs node .config/scripts/gerar_documento.mjs
+docker compose --file .config/compose.yaml run --build --rm --volume "./:/workspace:rw" docs node src/gerar_documento.mjs
 ```
 
 Isso modifica somente os dois artefatos versionados na sua cópia de trabalho.
@@ -80,7 +80,7 @@ Isso modifica somente os dois artefatos versionados na sua cópia de trabalho.
 ## CI e ruleset
 
 O workflow único de integração contínua é `.github/workflows/ci.yml`.
-A matriz `quality` executa cada stage obrigatório definido no `.config/container/Dockerfile`
+A matriz `quality` executa cada stage obrigatório definido no `.tools/container/Dockerfile`
 por meio do Docker Compose. O job final, chamado exatamente **`gate`**,
 tem `needs: [quality]` e `if: always()` para falhar também quando a
 matriz falha ou é ignorada. O próprio `gate` não roda um analisador no
@@ -97,3 +97,19 @@ O contexto `gate` só aparece para seleção quando o novo workflow tiver
 sido executado pelo GitHub. A exigência efetiva também depende das
 permissões e da ativação do ruleset. O workflow independente
 `scorecard.yml` é agendado e, portanto, não compõe o gate do PR.
+
+## Organização dos arquivos
+
+As regras e configurações declarativas ficam em `.config/`, incluindo Docker Compose, ESLint, Semgrep, ast-grep, Markdownlint e os demais linters. Os scripts executáveis, testes, dependências e imagens Docker ficam em `.tools/`. O `CODEOWNERS` fica na raiz, um dos locais reconhecidos automaticamente pelo GitHub.
+
+## CodeQL e integração com as regras da main
+
+O gerador fica em `src/gerar_documento.mjs`, um caminho visível ao
+CodeQL default setup. Esse diretório contém o código-fonte real, não um
+arquivo substituto criado apenas para satisfazer a análise. Os scripts
+auxiliares, testes, dependências e imagem Docker continuam em `.tools/`.
+
+O arquivo opcional `.github/codeql/codeql-config.yml` permite ampliar a
+cobertura quando a propriedade de repositório `github-codeql-config-file`
+estiver configurada; a proteção obrigatória do branch não depende dela para
+analisar o código-fonte do gerador em `src/`.

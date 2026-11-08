@@ -16,14 +16,14 @@ import { join } from "node:path";
 function withFixture(title, callback) {
   const root = mkdtempSync(join(tmpdir(), "rondoscopio-test-"));
   try {
-    mkdirSync(join(root, ".config", "scripts"), { recursive: true });
+    mkdirSync(join(root, "src"));
     mkdirSync(join(root, "docs"));
     mkdirSync(join(root, "parts", "00-abertura"), { recursive: true });
     mkdirSync(join(root, "parts", "01-identidade"), { recursive: true });
-    copyFileSync("/workspace/.config/scripts/gerar_documento.mjs", join(root, ".config", "scripts", "gerar_documento.mjs"));
+    copyFileSync("/workspace/src/gerar_documento.mjs", join(root, "src", "gerar_documento.mjs"));
     writeFileSync(join(root, "parts", "00-abertura", "001-intro.md"), "# " + title + "\n\nIntrodução.\n");
     writeFileSync(join(root, "parts", "01-identidade", "001-identidade.md"), "# Identidade\n\n[Leia a introdução](../00-abertura/001-intro.md).\n");
-    const run = (...args) => spawnSync(process.execPath, [join(root, ".config", "scripts", "gerar_documento.mjs"), ...args], { cwd: root, encoding: "utf8" });
+    const run = (...args) => spawnSync(process.execPath, [join(root, "src", "gerar_documento.mjs"), ...args], { cwd: root, encoding: "utf8" });
     return callback({ root, run });
   } finally {
     rmSync(root, { recursive: true, force: true });

@@ -2,7 +2,7 @@
 
 **Comece pelo [Índice de leitura](docs/INDICE.md) ou pela [Constituição completa](docs/CONSTITUICAO-COMPLETA.md).**
 
-A fonte editável dos documentos fica exclusivamente em [parts/](parts/00-abertura/001-constituicao.md), com pastas e arquivos numerados. Não edite diretamente a edição consolidada. As configurações e os scripts ficam em `.config/`, os documentos gerados em `docs/` e os arquivos comunitários em `.github/`.
+A fonte editável dos documentos fica exclusivamente em [parts/](parts/00-abertura/001-constituicao.md), com pastas e arquivos numerados. Não edite diretamente a edição consolidada. As configurações declarativas ficam em `.config/`, as ferramentas auxiliares e os testes em `.tools/`, o código-fonte do gerador em `src/`, os documentos gerados em `docs/` e os arquivos comunitários em `.github/`.
 
 O Rondoscópio é uma iniciativa em formação dedicada à fiscalização do poder público, à investigação documental, ao controle social e à educação cívica e histórica, com foco inicial em Rondônia e seus municípios.
 
@@ -94,7 +94,7 @@ O procedimento inspira-se no New Member Process do Debian. Colaborações públi
 
 Contribuições públicas podem ser sugeridas por issues ou pull requests, desde que **não contenham denúncias sigilosas, documentos privados ou identidades de fontes**. Consulte [Como contribuir](.github/CONTRIBUTING.md) e [Segurança](.github/SECURITY.md).
 
-As fontes de inspiração são reconhecidas em [Referências e inspirações](parts/14-referencias/001-referencias-e-inspiracoes.md). Estudar uma organização não constitui parceria nem endosso.
+As referências constam de [Referências e inspirações](parts/14-referencias/001-referencias-e-inspiracoes.md) e do [Reconhecimento histórico e memória das referências](parts/14-referencias/012-reconhecimento-historico-e-memoria-das-referencias.md). Registrar contribuições, críticas e consequências históricas não significa adesão, endosso, parceria ou concordância.
 
 ## Revisão dos documentos
 
@@ -106,7 +106,8 @@ O Rondoscópio ainda está em constituição. O lançamento de serviços de den�
 
 ## Desenvolvimento e estrutura
 
-- [Configurações e scripts](.config/README.md)
+- [Ferramentas e scripts](.tools/README.md)
+- [Configurações do CI e ferramentas](.config/compose.yaml)
 - [Histórico](docs/CHANGELOG.md)
 - [Código de Conduta](.github/CODE_OF_CONDUCT.md)
 - [CI](.github/workflows/ci.yml)
