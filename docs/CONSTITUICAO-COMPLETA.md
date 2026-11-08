@@ -220,6 +220,7 @@
 - [14.009 — Organizações e projetos semelhantes](#parte-14-009)
 - [14.010 — Referenciais internacionais](#parte-14-010)
 - [14.011 — Software livre e dados abertos](#parte-14-011)
+- [14.012 — Reconhecimento histórico e memória das referências](#parte-14-012)
 
 ### 15 — Modelos
 - [15.001 — [Título]](#parte-15-001)
