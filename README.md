@@ -94,7 +94,7 @@ O procedimento inspira-se no New Member Process do Debian. Colaborações públi
 
 Contribuições públicas podem ser sugeridas por issues ou pull requests, desde que **não contenham denúncias sigilosas, documentos privados ou identidades de fontes**. Consulte [Como contribuir](.github/CONTRIBUTING.md) e [Segurança](.github/SECURITY.md).
 
-As fontes de inspiração são reconhecidas em [Referências e inspirações](parts/14-referencias/001-referencias-e-inspiracoes.md). Estudar uma organização não constitui parceria nem endosso.
+As referências constam de [Referências e inspirações](parts/14-referencias/001-referencias-e-inspiracoes.md) e do [Reconhecimento histórico e memória das referências](parts/14-referencias/012-reconhecimento-historico-e-memoria-das-referencias.md). Registrar contribuições, críticas e consequências históricas não significa adesão, endosso, parceria ou concordância.
 
 ## Revisão dos documentos
 
