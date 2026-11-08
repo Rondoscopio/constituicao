@@ -17,6 +17,7 @@
 - [01.005 — Objetivos](../parts/01-identidade/005-objetivos.md)
 - [01.006 — Escopo e limites](../parts/01-identidade/006-escopo-e-limites.md)
 - [01.007 — Identidade visual](../parts/01-identidade/007-identidade-visual.md)
+- [01.008 — Áreas de atuação e objetivos de fiscalização](../parts/01-identidade/008-areas-de-atuacao-e-objetivos-de-fiscalizacao.md)
 
 ## 02 — Princípios
 - [02.001 — Carta de Princípios do Rondoscópio](../parts/02-principios/001-carta-de-principios.md)
@@ -103,6 +104,7 @@
 - [05.019 — Orçamento, emendas e transferências](../parts/05-metodologia/019-orcamento-emendas-e-transferencias.md)
 - [05.020 — Processos judiciais e sanções](../parts/05-metodologia/020-processos-judiciais-e-sancoes.md)
 - [05.021 — Uso de inteligência artificial](../parts/05-metodologia/021-uso-de-inteligencia-artificial.md)
+- [05.022 — Catálogo de metas, indicadores e referenciais de fiscalização](../parts/05-metodologia/022-catalogo-de-metas-e-indicadores.md)
 
 ## 06 — Direitos
 - [06.001 — Fundamentação constitucional](../parts/06-direitos/001-fundamentacao-constitucional.md)

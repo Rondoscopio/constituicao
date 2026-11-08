@@ -26,6 +26,12 @@ As minutas tratam de [papéis e permissões](parts/03-governanca/004-regimento-d
 
 A criação de funções no texto não concede automaticamente direitos no GitHub, nos domínios ou em uma eventual pessoa jurídica. Sua implementação exigirá pessoas habilitadas, decisões registradas e controles técnicos reais.
 
+## Objetivos de fiscalização, metas e referenciais
+
+O escopo detalhado está em [Áreas de atuação e objetivos de fiscalização](parts/01-identidade/008-areas-de-atuacao-e-objetivos-de-fiscalizacao.md). As metas da ONU, os referenciais europeus, as áreas de alto risco do GAO, a estrutura de desempenho público e as dimensões do IEGM integram o [Catálogo de metas, indicadores e referenciais de fiscalização](parts/05-metodologia/022-catalogo-de-metas-e-indicadores.md).
+
+Essas minutas complementam os [Objetivos institucionais](parts/01-identidade/005-objetivos.md), os [Indicadores e séries históricas](parts/05-metodologia/011-indicadores-e-series-historicas.md) e os [Referenciais internacionais](parts/14-referencias/010-referenciais-internacionais.md). Não representam sistemas já implementados.
+
 ## Investigações, crítica pública e proteção jurídica
 
 As minutas incluem [investigação de autoridades e relações de poder](parts/04-editorial/012-investigacao-de-autoridades-e-poderes.md), [cooperação segura com autoridades](parts/08-denuncias/009-cooperacao-segura-com-autoridades.md), [crítica pública e sátira responsável](parts/04-editorial/008-critica-publica-satira-e-responsabilidade.md), [proteção contra assédio judicial](parts/06-direitos/007-protecao-contra-assedio-judicial-e-perseguicao.md) e [LGPD e jornalismo](parts/04-editorial/013-lgpd-jornalismo-e-minimizacao-de-dados.md).
