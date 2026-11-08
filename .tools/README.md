@@ -102,14 +102,24 @@ permissões e da ativação do ruleset. O workflow independente
 
 As regras e configurações declarativas ficam em `.config/`, incluindo Docker Compose, ESLint, Semgrep, ast-grep, Markdownlint e os demais linters. Os scripts executáveis, testes, dependências e imagens Docker ficam em `.tools/`. O `CODEOWNERS` fica na raiz, um dos locais reconhecidos automaticamente pelo GitHub.
 
-## CodeQL e integração com as regras da main
+## CodeQL: análise de código em diretórios ocultos
 
-O gerador fica em `src/gerar_documento.mjs`, um caminho visível ao
-CodeQL default setup. Esse diretório contém o código-fonte real, não um
-arquivo substituto criado apenas para satisfazer a análise. Os scripts
-auxiliares, testes, dependências e imagem Docker continuam em `.tools/`.
+O gerador permanece em `.tools/scripts/gerar_documento.mjs`. Sua localização
+reflete a organização documental do projeto: a raiz não precisa conter `src/`.
 
-O arquivo opcional `.github/codeql/codeql-config.yml` permite ampliar a
-cobertura quando a propriedade de repositório `github-codeql-config-file`
-estiver configurada; a proteção obrigatória do branch não depende dela para
-analisar o código-fonte do gerador em `src/`.
+O CodeQL em modo **default setup** pode não descobrir arquivos JavaScript em
+pastas ocultas. Para analisar o código real e manter a proteção da `main`,
+o repositório precisa aplicar a configuração versionada em
+`.github/codeql/codeql-config.yml` por meio da propriedade personalizada
+`github-codeql-config-file` com o valor
+`./.github/codeql/codeql-config.yml`.
+
+Essa propriedade é configurada no GitHub, nas propriedades personalizadas
+da organização/repositório. Apenas adicionar o arquivo YAML **não** ativa
+automaticamente a configuração. O acesso administrativo do GitHub é necessário
+para definir a propriedade; o fluxo de CI deste repositório não deve
+contornar o CodeQL ou simular uma análise.
+
+Após aplicar a propriedade, um novo CodeQL deve analisar JavaScript/TypeScript
+e Python com sucesso e ser aceito pelo ruleset antes do merge. O `gate`
+do CI Docker continua independente dessa verificação.

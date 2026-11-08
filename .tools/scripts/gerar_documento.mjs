@@ -2,7 +2,7 @@ import { readFileSync, writeFileSync, readdirSync, existsSync } from "node:fs";
 import { dirname, join, resolve } from "node:path";
 import { fileURLToPath } from "node:url";
 
-const root = resolve(dirname(fileURLToPath(import.meta.url)), "..");
+const root = resolve(dirname(fileURLToPath(import.meta.url)), "../..");
 const base = join(root, "parts");
 const documents = [];
 for (const section of readdirSync(base, { withFileTypes: true }).filter(x => x.isDirectory()).map(x => x.name).sort()) {

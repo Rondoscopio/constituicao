@@ -43,8 +43,8 @@ scorecard:
     {{compose}} run --build --rm scorecard
 
 generate:
-    {{compose}} run --build --rm --volume "./:/workspace:rw" docs node src/gerar_documento.mjs
+    {{compose}} run --build --rm --volume "./:/workspace:rw" docs node .tools/scripts/gerar_documento.mjs
 
 format-check:
     {{compose}} run --build --rm docs prettier --check README.md .github/CONTRIBUTING.md .github/SECURITY.md .config/compose.yaml .github/renovate.json
-    {{compose}} run --build --rm javascript biome check /workspace/src/gerar_documento.mjs
+    {{compose}} run --build --rm javascript biome check /workspace/.tools/scripts/gerar_documento.mjs
