@@ -72,7 +72,7 @@ Por padrão a montagem é `read-only`, ideal para o CI.
 Para gerar arquivos, execute explicitamente:
 
 ```sh
-docker compose --file .config/compose.yaml run --build --rm --volume "./:/workspace:rw" docs node .tools/scripts/gerar_documento.mjs
+docker compose --file .config/compose.yaml run --build --rm --volume "./:/workspace:rw" docs node src/gerar_documento.mjs
 ```
 
 Isso modifica somente os dois artefatos versionados na sua cópia de trabalho.
@@ -104,13 +104,12 @@ As regras e configurações declarativas ficam em `.config/`, incluindo Docker C
 
 ## CodeQL e integração com as regras da main
 
-O setup padrão do CodeQL pode não detectar o código JavaScript em `.tools/`,
-resultando em uma análise sem arquivos e impedindo o merge exigido pelo ruleset.
-Para manter a verificação real sem desabilitar a proteção, há uma configuração em
-`.github/codeql/codeql-config.yml`, que inclui expressamente esses diretórios.
+O gerador fica em `src/gerar_documento.mjs`, um caminho visível ao
+CodeQL default setup. Esse diretório contém o código-fonte real, não um
+arquivo substituto criado apenas para satisfazer a análise. Os scripts
+auxiliares, testes, dependências e imagem Docker continuam em `.tools/`.
 
-Um administrador da organização deve configurar a propriedade personalizada
-`github-codeql-config-file` (tipo texto) com o valor
-`./.github/codeql/codeql-config.yml` para este repositório. Essa propriedade
-é necessária para o GitHub aplicar o arquivo ao CodeQL em modo padrão.
-Validar o resultado no Code Scanning antes do merge.
+O arquivo opcional `.github/codeql/codeql-config.yml` permite ampliar a
+cobertura quando a propriedade de repositório `github-codeql-config-file`
+estiver configurada; a proteção obrigatória do branch não depende dela para
+analisar o código-fonte do gerador em `src/`.

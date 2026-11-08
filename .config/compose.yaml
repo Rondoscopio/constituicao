@@ -71,7 +71,7 @@ services:
       context: ..
       dockerfile: .tools/container/Dockerfile
       target: semgrep
-    command: [semgrep, scan, --config, /workspace/.config/semgrep.yaml, --error, /workspace/.tools/scripts]
+    command: [semgrep, scan, --config, /workspace/.config/semgrep.yaml, --error, /workspace/src, /workspace/.tools/scripts]
 
   scorecard:
     <<: *quality

@@ -1,11 +1,10 @@
-# Aplicar ao CodeQL default setup pela propriedade do repositório:
-# github-codeql-config-file = ./.github/codeql/codeql-config.yml
-#
-# A análise automática precisa incluir explicitamente os arquivos-fonte
-# preservados em diretórios ocultos, como .tools/.
+# Opcional no setup padrão: requer a propriedade
+# github-codeql-config-file = ./.github/codeql/codeql-config.yml.
+# O gerador também está em src/, visível no setup padrão sem propriedade.
 name: Rondoscópio CodeQL
 
 paths:
+  - src/**
   - .tools/scripts/**
   - .tools/tests/**
   - .config/eslint.config.mjs
