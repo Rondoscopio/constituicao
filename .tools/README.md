@@ -101,3 +101,16 @@ permissões e da ativação do ruleset. O workflow independente
 ## Organização dos arquivos
 
 As regras e configurações declarativas ficam em `.config/`, incluindo Docker Compose, ESLint, Semgrep, ast-grep, Markdownlint e os demais linters. Os scripts executáveis, testes, dependências e imagens Docker ficam em `.tools/`. O `CODEOWNERS` fica na raiz, um dos locais reconhecidos automaticamente pelo GitHub.
+
+## CodeQL e integração com as regras da main
+
+O setup padrão do CodeQL pode não detectar o código JavaScript em `.tools/`,
+resultando em uma análise sem arquivos e impedindo o merge exigido pelo ruleset.
+Para manter a verificação real sem desabilitar a proteção, há uma configuração em
+`.github/codeql/codeql-config.yml`, que inclui expressamente esses diretórios.
+
+Um administrador da organização deve configurar a propriedade personalizada
+`github-codeql-config-file` (tipo texto) com o valor
+`./.github/codeql/codeql-config.yml` para este repositório. Essa propriedade
+é necessária para o GitHub aplicar o arquivo ao CodeQL em modo padrão.
+Validar o resultado no Code Scanning antes do merge.
