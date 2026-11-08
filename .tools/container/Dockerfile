@@ -21,13 +21,13 @@ RUN python3 -m venv /opt/yaml \
     && /opt/yaml/bin/pip install --no-cache-dir -r /opt/quality/requirements-docs.txt
 ENV PATH="/opt/yaml/bin:${PATH}"
 USER 10001:10001
-CMD ["sh", "-ec", "python3 .tools/scripts/validar_documentacao.py && node src/gerar_documento.mjs --check && markdownlint-cli2 --config .config/markdownlint-cli2.yaml && yamllint -c .config/yamllint.yaml .github/workflows .github/ISSUE_TEMPLATE .config/compose.yaml"]
+CMD ["sh", "-ec", "python3 .tools/scripts/validar_documentacao.py && node .tools/scripts/gerar_documento.mjs --check && markdownlint-cli2 --config .config/markdownlint-cli2.yaml && yamllint -c .config/yamllint.yaml .github/workflows .github/ISSUE_TEMPLATE .config/compose.yaml"]
 
 FROM node-tools AS javascript
 COPY .config/eslint.config.mjs /opt/quality/eslint.config.mjs
 COPY .tools/tests/gerador.test.mjs /opt/quality/tests/gerador.test.mjs
 USER 10001:10001
-CMD ["sh", "-ec", "eslint -c /opt/quality/eslint.config.mjs src/gerar_documento.mjs && ast-grep scan --config .config/sgconfig.yml src && jscpd --min-lines 8 --min-tokens 60 --threshold 20 --ignore 'parts/**,docs/CONSTITUICAO-COMPLETA.md,docs/INDICE.md' src && cd /opt/quality && vitest run --root /opt/quality"]
+CMD ["sh", "-ec", "eslint -c /opt/quality/eslint.config.mjs .tools/scripts/gerar_documento.mjs && ast-grep scan --config .config/sgconfig.yml .tools/scripts && jscpd --min-lines 8 --min-tokens 60 --threshold 20 --ignore 'parts/**,docs/CONSTITUICAO-COMPLETA.md,docs/INDICE.md' .tools/scripts && cd /opt/quality && vitest run --root /opt/quality"]
 
 FROM koalaman/shellcheck:v0.11.0@sha256:61862eba1fcf09a484ebcc6feea46f1782532571a34ed51fedf90dd25f925a8d AS shellcheck-bin
 
