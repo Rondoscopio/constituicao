@@ -22,7 +22,7 @@
     {
       "customType": "regex",
       "managerFilePatterns": [
-        "/^\\.config/container/Dockerfile$/"
+        "/^\\.tools/container/Dockerfile$/"
       ],
       "matchStrings": [
         "GOBIN=/out go install (?<depName>github\\.com/rhysd/actionlint)/cmd/actionlint@(?<currentValue>v[^\\s\\\\]+)"
@@ -32,7 +32,7 @@
     {
       "customType": "regex",
       "managerFilePatterns": [
-        "/^\\.config/container/Dockerfile$/"
+        "/^\\.tools/container/Dockerfile$/"
       ],
       "matchStrings": [
         "GOBIN=/out go install (?<depName>mvdan\\.cc/sh/v3)/cmd/shfmt@(?<currentValue>v[^\\s\\\\]+)"
