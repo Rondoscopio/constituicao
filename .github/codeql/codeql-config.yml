@@ -1,10 +1,10 @@
-# Aplicar ao CodeQL default setup com a propriedade de repositório:
+# Aplicado ao CodeQL default setup pela custom property:
 # github-codeql-config-file = ./.github/codeql/codeql-config.yml
-# Não é suficiente apenas adicionar este arquivo ao Git.
 name: Rondoscópio CodeQL
 
+# Incluir diretórios completos, não globs de arquivos.
+# Isso permite analisar os scripts em .tools/ sem modificar a raiz.
 paths:
-  - .tools/scripts/**
-  - .tools/tests/**
-  - .config/eslint.config.mjs
-  - .github/workflows/**
+  - ".tools"
+  - ".config"
+  - ".github/workflows"
