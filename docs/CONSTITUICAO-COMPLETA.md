@@ -1,6 +1,6 @@
 # Constituição do Rondoscópio — edição completa
 
-> Documento gerado automaticamente a partir das partes numeradas. As minutas não equivalem a normas aprovadas nem a serviços operacionais. Para propor mudanças, edite os arquivos correspondentes em `parts/` e execute `node scripts/gerar_documento.mjs`.
+> Documento gerado automaticamente a partir das partes numeradas. As minutas não equivalem a normas aprovadas nem a serviços operacionais. Para propor mudanças, edite os arquivos correspondentes em `parts/` e execute `just generate`.
 
 ## Sumário
 
@@ -248,7 +248,7 @@
 
 ## 00.001 — Constituição Institucional do Rondoscópio
 
-*Parte de origem: [parts/00-abertura/001-constituicao.md](parts/00-abertura/001-constituicao.md)*
+*Parte de origem: [parts/00-abertura/001-constituicao.md](../parts/00-abertura/001-constituicao.md)*
 
 > **Situação:** minuta de constituição interna para discussão. **Versão:** 0.2. **Data:** 2026-11-07.
 > **Eficácia:** proposta sem aprovação institucional ou efeitos jurídicos de estatuto social. O Rondoscópio encontra-se em formação.
@@ -617,7 +617,7 @@ As referências são inspirações, não representam endosso ou parceria das org
 
 ## 00.002 — Carta Fundadora do Rondoscópio
 
-*Parte de origem: [parts/00-abertura/002-carta-fundadora.md](parts/00-abertura/002-carta-fundadora.md)*
+*Parte de origem: [parts/00-abertura/002-carta-fundadora.md](../parts/00-abertura/002-carta-fundadora.md)*
 
 > **Situação:** minuta para discussão pública. **Versão:** 0.7. **Data:** 2026-11-07.
 > **Natureza:** documento institucional proposto, sem vigência formal até aprovação pela instância competente.
@@ -852,7 +852,7 @@ O detalhamento normativo está na [Constituição Institucional](#parte-00-001),
 
 ## 00.003 — Manifesto do Rondoscópio
 
-*Parte de origem: [parts/00-abertura/003-manifesto.md](parts/00-abertura/003-manifesto.md)*
+*Parte de origem: [parts/00-abertura/003-manifesto.md](../parts/00-abertura/003-manifesto.md)*
 
 > **Situação:** minuta para discussão pública. **Versão:** 0.2. **Data:** 2026-11-07.
 
@@ -882,7 +882,7 @@ Queremos produzir conhecimento que permita aos cidadãos verificar o que afirmam
 
 ## 01.001 — Propósito
 
-*Parte de origem: [parts/01-identidade/001-proposito.md](parts/01-identidade/001-proposito.md)*
+*Parte de origem: [parts/01-identidade/001-proposito.md](../parts/01-identidade/001-proposito.md)*
 
 > **Situação:** minuta para discussão pública. **Versão:** 0.1. **Data:** 2026-11-07.
 
@@ -906,7 +906,7 @@ A organização deverá recusar tentativas de transformá-la em instrumento de f
 
 ## 01.002 — Missão
 
-*Parte de origem: [parts/01-identidade/002-missao.md](parts/01-identidade/002-missao.md)*
+*Parte de origem: [parts/01-identidade/002-missao.md](../parts/01-identidade/002-missao.md)*
 
 > **Situação:** minuta para discussão pública. **Versão:** 0.1. **Data:** 2026-11-07.
 
@@ -930,7 +930,7 @@ O projeto deverá avaliar se as atividades efetivas permanecem coerentes com a m
 
 ## 01.003 — Visão
 
-*Parte de origem: [parts/01-identidade/003-visao.md](parts/01-identidade/003-visao.md)*
+*Parte de origem: [parts/01-identidade/003-visao.md](../parts/01-identidade/003-visao.md)*
 
 > **Situação:** minuta para discussão pública. **Versão:** 0.1. **Data:** 2026-11-07.
 
@@ -952,7 +952,7 @@ O desenvolvimento será gradual e transparente quanto às funcionalidades ainda 
 
 ## 01.004 — Valores
 
-*Parte de origem: [parts/01-identidade/004-valores.md](parts/01-identidade/004-valores.md)*
+*Parte de origem: [parts/01-identidade/004-valores.md](../parts/01-identidade/004-valores.md)*
 
 > **Situação:** minuta para discussão pública. **Versão:** 0.3. **Data:** 2026-11-07.
 
@@ -1002,7 +1002,7 @@ Os valores poderão ser aprofundados mediante debate e evidência, sem que mudan
 
 ## 01.005 — Objetivos
 
-*Parte de origem: [parts/01-identidade/005-objetivos.md](parts/01-identidade/005-objetivos.md)*
+*Parte de origem: [parts/01-identidade/005-objetivos.md](../parts/01-identidade/005-objetivos.md)*
 
 > **Situação:** minuta para discussão pública. **Versão:** 0.1. **Data:** 2026-11-07.
 
@@ -1041,7 +1041,7 @@ Novas áreas de atuação serão admitidas quando compatíveis com a identidade 
 
 ## 01.006 — Escopo e limites
 
-*Parte de origem: [parts/01-identidade/006-escopo-e-limites.md](parts/01-identidade/006-escopo-e-limites.md)*
+*Parte de origem: [parts/01-identidade/006-escopo-e-limites.md](../parts/01-identidade/006-escopo-e-limites.md)*
 
 > **Situação:** minuta para discussão pública. **Versão:** 0.1. **Data:** 2026-11-07.
 
@@ -1069,7 +1069,7 @@ A crítica jurídica legítima não constitui prova de ativismo abusivo ou corru
 
 ## 01.007 — Identidade visual
 
-*Parte de origem: [parts/01-identidade/007-identidade-visual.md](parts/01-identidade/007-identidade-visual.md)*
+*Parte de origem: [parts/01-identidade/007-identidade-visual.md](../parts/01-identidade/007-identidade-visual.md)*
 
 > **Situação:** minuta para discussão pública. **Versão:** 0.1. **Data:** 2026-11-07.
 
@@ -1093,7 +1093,7 @@ A marca não será utilizada para personificar ou atacar indivíduos, nem para i
 
 ## 02.001 — Carta de Princípios do Rondoscópio
 
-*Parte de origem: [parts/02-principios/001-carta-de-principios.md](parts/02-principios/001-carta-de-principios.md)*
+*Parte de origem: [parts/02-principios/001-carta-de-principios.md](../parts/02-principios/001-carta-de-principios.md)*
 
 > **Situação:** minuta para discussão pública. **Versão:** 0.5. **Data:** 2026-11-07.
 > **Natureza:** documento institucional proposto, sem vigência formal até aprovação pela instância competente.
@@ -1301,7 +1301,7 @@ Parágrafo único. A atuação cívica deverá ser transparente e compatível co
 
 ## 02.002 — Dignidade e direitos humanos
 
-*Parte de origem: [parts/02-principios/002-dignidade-e-direitos-humanos.md](parts/02-principios/002-dignidade-e-direitos-humanos.md)*
+*Parte de origem: [parts/02-principios/002-dignidade-e-direitos-humanos.md](../parts/02-principios/002-dignidade-e-direitos-humanos.md)*
 
 > **Situação:** minuta para discussão pública. **Versão:** 0.3. **Data:** 2026-11-07.
 
@@ -1346,7 +1346,7 @@ Consulte [Igualdade e não discriminação](#parte-02-007) e [Ética, moral e re
 
 ## 02.003 — Direito à vida e proteção contra a violência
 
-*Parte de origem: [parts/02-principios/003-direito-a-vida-e-protecao-contra-violencia.md](parts/02-principios/003-direito-a-vida-e-protecao-contra-violencia.md)*
+*Parte de origem: [parts/02-principios/003-direito-a-vida-e-protecao-contra-violencia.md](../parts/02-principios/003-direito-a-vida-e-protecao-contra-violencia.md)*
 
 > **Situação:** minuta para discussão pública. **Versão:** 0.1. **Data:** 2026-11-07.
 > **Natureza:** diretriz proposta, sem vigência institucional até aprovação competente.
@@ -1397,7 +1397,7 @@ V - cuidado com a divulgação de detalhes que coloquem pessoas em risco ou faci
 
 ## 02.004 — Democracia e Estado de Direito
 
-*Parte de origem: [parts/02-principios/004-democracia-e-estado-de-direito.md](parts/02-principios/004-democracia-e-estado-de-direito.md)*
+*Parte de origem: [parts/02-principios/004-democracia-e-estado-de-direito.md](../parts/02-principios/004-democracia-e-estado-de-direito.md)*
 
 > **Situação:** minuta para discussão pública. **Versão:** 0.2. **Data:** 2026-11-07.
 
@@ -1429,7 +1429,7 @@ Consulte [Repúdio à tortura e ao autoritarismo](#parte-02-005).
 
 ## 02.005 — Repúdio à tortura, às ditaduras e ao autoritarismo
 
-*Parte de origem: [parts/02-principios/005-repudio-a-tortura-e-autoritarismo.md](parts/02-principios/005-repudio-a-tortura-e-autoritarismo.md)*
+*Parte de origem: [parts/02-principios/005-repudio-a-tortura-e-autoritarismo.md](../parts/02-principios/005-repudio-a-tortura-e-autoritarismo.md)*
 
 > **Situação:** minuta para discussão pública. **Versão:** 0.1. **Data:** 2026-11-07.
 > **Natureza:** diretriz proposta, sem vigência institucional até aprovação competente.
@@ -1475,7 +1475,7 @@ Parágrafo único. Nenhuma hipótese de emergência, interesse público, seguran
 
 ## 02.006 — Liberdades fundamentais
 
-*Parte de origem: [parts/02-principios/006-liberdades-fundamentais.md](parts/02-principios/006-liberdades-fundamentais.md)*
+*Parte de origem: [parts/02-principios/006-liberdades-fundamentais.md](../parts/02-principios/006-liberdades-fundamentais.md)*
 
 > **Situação:** minuta para discussão pública. **Versão:** 0.1. **Data:** 2026-11-07.
 
@@ -1497,7 +1497,7 @@ A proteção contra capture e campanhas coordenadas não poderá converter diver
 
 ## 02.007 — Igualdade e não discriminação
 
-*Parte de origem: [parts/02-principios/007-igualdade-e-nao-discriminacao.md](parts/02-principios/007-igualdade-e-nao-discriminacao.md)*
+*Parte de origem: [parts/02-principios/007-igualdade-e-nao-discriminacao.md](../parts/02-principios/007-igualdade-e-nao-discriminacao.md)*
 
 > **Situação:** minuta para discussão pública. **Versão:** 0.3. **Data:** 2026-11-07.
 
@@ -1566,7 +1566,7 @@ Consulte [Reparação de desigualdades históricas](#parte-02-011).
 
 ## 02.008 — Ética, moral e responsabilidade
 
-*Parte de origem: [parts/02-principios/008-etica-moral-e-responsabilidade.md](parts/02-principios/008-etica-moral-e-responsabilidade.md)*
+*Parte de origem: [parts/02-principios/008-etica-moral-e-responsabilidade.md](../parts/02-principios/008-etica-moral-e-responsabilidade.md)*
 
 > **Situação:** minuta para discussão pública. **Versão:** 0.1. **Data:** 2026-11-07.
 > **Natureza:** compromisso institucional proposto, sem força estatutária até aprovação.
@@ -1650,7 +1650,7 @@ VII - idade, deficiência, estado de saúde ou outras características pessoais 
 
 ## 02.009 — Compromisso com um mundo justo, saudável e digno
 
-*Parte de origem: [parts/02-principios/009-compromisso-com-um-mundo-justo-e-saudavel.md](parts/02-principios/009-compromisso-com-um-mundo-justo-e-saudavel.md)*
+*Parte de origem: [parts/02-principios/009-compromisso-com-um-mundo-justo-e-saudavel.md](../parts/02-principios/009-compromisso-com-um-mundo-justo-e-saudavel.md)*
 
 > **Situação:** minuta para discussão pública. **Versão:** 0.1. **Data:** 2026-11-07.
 > **Natureza:** compromisso institucional proposto, sem força estatutária até aprovação.
@@ -1704,7 +1704,7 @@ VI - redução de barreiras de acesso à informação e a direitos, inclusive ec
 
 ## 02.010 — Justiça social e econômica
 
-*Parte de origem: [parts/02-principios/010-justica-social-e-economica.md](parts/02-principios/010-justica-social-e-economica.md)*
+*Parte de origem: [parts/02-principios/010-justica-social-e-economica.md](../parts/02-principios/010-justica-social-e-economica.md)*
 
 > **Situação:** minuta para discussão pública. **Versão:** 0.2. **Data:** 2026-11-07.
 
@@ -1750,7 +1750,7 @@ Consulte [Reparação de desigualdades históricas](#parte-02-011) e [Enfrentame
 
 ## 02.011 — Reparação de desigualdades históricas e promoção da igualdade material
 
-*Parte de origem: [parts/02-principios/011-reparacao-de-desigualdades-historicas.md](parts/02-principios/011-reparacao-de-desigualdades-historicas.md)*
+*Parte de origem: [parts/02-principios/011-reparacao-de-desigualdades-historicas.md](../parts/02-principios/011-reparacao-de-desigualdades-historicas.md)*
 
 > **Situação:** minuta para discussão pública. **Versão:** 0.1. **Data:** 2026-11-07.
 > **Natureza:** compromisso institucional proposto, sujeito a revisão e aprovação.
@@ -1840,7 +1840,7 @@ VI - outras medidas proporcionais, com base jurídica e evidências de necessida
 
 ## 02.012 — Proteção ambiental
 
-*Parte de origem: [parts/02-principios/012-protecao-ambiental.md](parts/02-principios/012-protecao-ambiental.md)*
+*Parte de origem: [parts/02-principios/012-protecao-ambiental.md](../parts/02-principios/012-protecao-ambiental.md)*
 
 > **Situação:** minuta para discussão pública. **Versão:** 0.2. **Data:** 2026-11-07.
 
@@ -1905,7 +1905,7 @@ Consulte [Enfrentamento das mudanças climáticas](#parte-02-013) e [Avaliação
 
 ## 02.013 — Enfrentamento das mudanças climáticas e integridade científica
 
-*Parte de origem: [parts/02-principios/013-enfrentamento-das-mudancas-climaticas.md](parts/02-principios/013-enfrentamento-das-mudancas-climaticas.md)*
+*Parte de origem: [parts/02-principios/013-enfrentamento-das-mudancas-climaticas.md](../parts/02-principios/013-enfrentamento-das-mudancas-climaticas.md)*
 
 > **Situação:** minuta para discussão pública. **Versão:** 0.1. **Data:** 2026-11-07.
 > **Natureza:** compromisso institucional proposto, sujeito a revisão e aprovação.
@@ -1981,7 +1981,7 @@ V - medidas de transição econômica e social, considerando distribuição dos 
 
 ## 02.014 — Rigor científico e epistemológico
 
-*Parte de origem: [parts/02-principios/014-rigor-cientifico-e-epistemologico.md](parts/02-principios/014-rigor-cientifico-e-epistemologico.md)*
+*Parte de origem: [parts/02-principios/014-rigor-cientifico-e-epistemologico.md](../parts/02-principios/014-rigor-cientifico-e-epistemologico.md)*
 
 > **Situação:** minuta para discussão pública. **Versão:** 0.2. **Data:** 2026-11-07.
 
@@ -2013,7 +2013,7 @@ A ciência climática será apresentada com seus consensos robustos e incertezas
 
 ## 02.015 — Criminalidade, tráfico ilícito, contrabando e descaminho
 
-*Parte de origem: [parts/02-principios/015-combate-a-criminalidade-e-economias-ilicitas.md](parts/02-principios/015-combate-a-criminalidade-e-economias-ilicitas.md)*
+*Parte de origem: [parts/02-principios/015-combate-a-criminalidade-e-economias-ilicitas.md](../parts/02-principios/015-combate-a-criminalidade-e-economias-ilicitas.md)*
 
 > **Situação:** minuta para discussão pública. **Versão:** 0.1. **Data:** 2026-11-07.
 > **Natureza:** diretriz proposta, sem vigência institucional até aprovação competente.
@@ -2070,7 +2070,7 @@ Parágrafo único. As categorias legais não são intercambiáveis. O tráfico d
 
 ## 02.016 — Cooperação internacional e respeito aos organismos multilaterais
 
-*Parte de origem: [parts/02-principios/016-cooperacao-internacional-e-organismos.md](parts/02-principios/016-cooperacao-internacional-e-organismos.md)*
+*Parte de origem: [parts/02-principios/016-cooperacao-internacional-e-organismos.md](../parts/02-principios/016-cooperacao-internacional-e-organismos.md)*
 
 > **Situação:** minuta para discussão pública. **Versão:** 0.1. **Data:** 2026-11-07.
 > **Natureza:** diretriz proposta, sem vigência institucional até aprovação competente.
@@ -2129,7 +2129,7 @@ IV - de outros organismos e acordos internacionais relevantes para segurança, m
 
 ## 02.017 — Direitos sexuais e reprodutivos
 
-*Parte de origem: [parts/02-principios/017-direitos-sexuais-e-reprodutivos.md](parts/02-principios/017-direitos-sexuais-e-reprodutivos.md)*
+*Parte de origem: [parts/02-principios/017-direitos-sexuais-e-reprodutivos.md](../parts/02-principios/017-direitos-sexuais-e-reprodutivos.md)*
 
 > **Situação:** minuta para discussão pública. **Versão:** 0.1. **Data:** 2026-11-07.
 
@@ -2151,7 +2151,7 @@ O compromisso com igualdade não autoriza exposição de saúde, sexualidade, hi
 
 ## 02.018 — Função social da propriedade
 
-*Parte de origem: [parts/02-principios/018-funcao-social-da-propriedade.md](parts/02-principios/018-funcao-social-da-propriedade.md)*
+*Parte de origem: [parts/02-principios/018-funcao-social-da-propriedade.md](../parts/02-principios/018-funcao-social-da-propriedade.md)*
 
 > **Situação:** minuta para discussão pública. **Versão:** 0.1. **Data:** 2026-11-07.
 
@@ -2173,7 +2173,7 @@ A concentração fundiária e a transmissão patrimonial poderão justificar inv
 
 ## 02.019 — Independência e imparcialidade
 
-*Parte de origem: [parts/02-principios/019-independencia-e-imparcialidade.md](parts/02-principios/019-independencia-e-imparcialidade.md)*
+*Parte de origem: [parts/02-principios/019-independencia-e-imparcialidade.md](../parts/02-principios/019-independencia-e-imparcialidade.md)*
 
 > **Situação:** minuta para discussão pública. **Versão:** 0.1. **Data:** 2026-11-07.
 
@@ -2195,7 +2195,7 @@ Nenhuma pessoa será obrigada a aceitar pauta ou conclusão por ordem de adminis
 
 ## 02.020 — Laicidade e liberdade religiosa
 
-*Parte de origem: [parts/02-principios/020-laicidade-e-liberdade-religiosa.md](parts/02-principios/020-laicidade-e-liberdade-religiosa.md)*
+*Parte de origem: [parts/02-principios/020-laicidade-e-liberdade-religiosa.md](../parts/02-principios/020-laicidade-e-liberdade-religiosa.md)*
 
 > **Situação:** minuta para discussão pública. **Versão:** 0.1. **Data:** 2026-11-07.
 
@@ -2217,7 +2217,7 @@ A crítica a políticas públicas fundamentadas em crenças religiosas deverá e
 
 ## 02.021 — Memória e direito à informação
 
-*Parte de origem: [parts/02-principios/021-memoria-e-direito-a-informacao.md](parts/02-principios/021-memoria-e-direito-a-informacao.md)*
+*Parte de origem: [parts/02-principios/021-memoria-e-direito-a-informacao.md](../parts/02-principios/021-memoria-e-direito-a-informacao.md)*
 
 > **Situação:** minuta para discussão pública. **Versão:** 0.1. **Data:** 2026-11-07.
 
@@ -2239,7 +2239,7 @@ A instituição buscará conciliar integridade histórica, acesso à informaçã
 
 ## 02.022 — Prudência e resistência à manipulação
 
-*Parte de origem: [parts/02-principios/022-prudencia-e-resistencia-a-manipulacao.md](parts/02-principios/022-prudencia-e-resistencia-a-manipulacao.md)*
+*Parte de origem: [parts/02-principios/022-prudencia-e-resistencia-a-manipulacao.md](../parts/02-principios/022-prudencia-e-resistencia-a-manipulacao.md)*
 
 > **Situação:** minuta para discussão pública. **Versão:** 0.1. **Data:** 2026-11-07.
 
@@ -2261,7 +2261,7 @@ Suspeitas de operação coordenada ou espionagem deverão ser verificadas por pr
 
 ## 03.001 — Modelo institucional
 
-*Parte de origem: [parts/03-governanca/001-modelo-institucional.md](parts/03-governanca/001-modelo-institucional.md)*
+*Parte de origem: [parts/03-governanca/001-modelo-institucional.md](../parts/03-governanca/001-modelo-institucional.md)*
 
 > **Situação:** minuta para discussão pública. **Versão:** 0.1. **Data:** 2026-11-07.
 
@@ -2292,7 +2292,7 @@ A Constituição interna é referência de princípios e competências, mas não
 
 ## 03.002 — Estrutura organizacional
 
-*Parte de origem: [parts/03-governanca/002-estrutura-organizacional.md](parts/03-governanca/002-estrutura-organizacional.md)*
+*Parte de origem: [parts/03-governanca/002-estrutura-organizacional.md](../parts/03-governanca/002-estrutura-organizacional.md)*
 
 > **Situação:** minuta para discussão pública. **Versão:** 0.2. **Data:** 2026-11-07.
 
@@ -2322,7 +2322,7 @@ A composição dos órgãos deverá considerar impedimentos e risco de captura p
 
 ## 03.003 — Competências e responsabilidades
 
-*Parte de origem: [parts/03-governanca/003-competencias-e-responsabilidades.md](parts/03-governanca/003-competencias-e-responsabilidades.md)*
+*Parte de origem: [parts/03-governanca/003-competencias-e-responsabilidades.md](../parts/03-governanca/003-competencias-e-responsabilidades.md)*
 
 > **Situação:** minuta para discussão pública. **Versão:** 0.2. **Data:** 2026-11-07.
 
@@ -2352,7 +2352,7 @@ Funções de segurança não autorizam acesso irrestrito a fontes apenas pela po
 
 ## 03.004 — Regimento de papéis, poderes e permissões
 
-*Parte de origem: [parts/03-governanca/004-regimento-de-papeis-e-permissoes.md](parts/03-governanca/004-regimento-de-papeis-e-permissoes.md)*
+*Parte de origem: [parts/03-governanca/004-regimento-de-papeis-e-permissoes.md](../parts/03-governanca/004-regimento-de-papeis-e-permissoes.md)*
 
 > **Situação:** minuta para discussão pública. **Versão:** 0.1. **Data:** 2026-11-07.
 > **Aplicação:** função ou órgão previsto. A existência normativa de uma função não comprova sua instalação.
@@ -2481,7 +2481,7 @@ Os poderes reais dependerão de nomeação, aprovação normativa e configuraç�
 
 ## 03.005 — Código de Conduta do Rondoscópio
 
-*Parte de origem: [parts/03-governanca/005-codigo-de-conduta.md](parts/03-governanca/005-codigo-de-conduta.md)*
+*Parte de origem: [parts/03-governanca/005-codigo-de-conduta.md](../parts/03-governanca/005-codigo-de-conduta.md)*
 
 > **Situação:** minuta para discussão pública. **Versão:** 0.2. **Data:** 2026-11-07.
 
@@ -2535,7 +2535,7 @@ A aplicação do código deverá distinguir opinião política, conduta discrimi
 
 ## 03.006 — Comitê de Ética e Conduta
 
-*Parte de origem: [parts/03-governanca/006-comite-de-etica-e-conduta.md](parts/03-governanca/006-comite-de-etica-e-conduta.md)*
+*Parte de origem: [parts/03-governanca/006-comite-de-etica-e-conduta.md](../parts/03-governanca/006-comite-de-etica-e-conduta.md)*
 
 > **Situação:** minuta para discussão pública. **Versão:** 0.1. **Data:** 2026-11-07.
 > **Aplicação:** função ou órgão previsto. A existência normativa de uma função não comprova sua instalação.
@@ -2631,7 +2631,7 @@ VI - recomendação de exclusão, obedecida a lei e o estatuto aplicável, quand
 
 ## 03.007 — Tomada de decisões
 
-*Parte de origem: [parts/03-governanca/007-tomada-de-decisoes.md](parts/03-governanca/007-tomada-de-decisoes.md)*
+*Parte de origem: [parts/03-governanca/007-tomada-de-decisoes.md](../parts/03-governanca/007-tomada-de-decisoes.md)*
 
 > **Situação:** minuta para discussão pública. **Versão:** 0.2. **Data:** 2026-11-07.
 
@@ -2682,7 +2682,7 @@ Consulte [Hierarquia de Atos](#parte-03-010).
 
 ## 03.008 — Cláusulas de identidade e limites materiais à reforma
 
-*Parte de origem: [parts/03-governanca/008-clausulas-de-identidade-e-limites-a-reforma.md](parts/03-governanca/008-clausulas-de-identidade-e-limites-a-reforma.md)*
+*Parte de origem: [parts/03-governanca/008-clausulas-de-identidade-e-limites-a-reforma.md](../parts/03-governanca/008-clausulas-de-identidade-e-limites-a-reforma.md)*
 
 > **Situação:** minuta para discussão pública. **Versão:** 0.1. **Data:** 2026-11-07.
 > **Aplicabilidade:** proposta de norma interna, não equivale a lei ou estatuto registrado.
@@ -2773,7 +2773,7 @@ Parágrafo único. A regra é compromisso de identidade, sujeito a direitos civi
 
 ## 03.009 — Alteração dos fundamentos
 
-*Parte de origem: [parts/03-governanca/009-alteracao-dos-fundamentos.md](parts/03-governanca/009-alteracao-dos-fundamentos.md)*
+*Parte de origem: [parts/03-governanca/009-alteracao-dos-fundamentos.md](../parts/03-governanca/009-alteracao-dos-fundamentos.md)*
 
 > **Situação:** minuta para discussão pública. **Versão:** 0.3. **Data:** 2026-11-07.
 
@@ -2828,7 +2828,7 @@ O conjunto protegido e os limites jurídicos estão em [Cláusulas de Identidade
 
 ## 03.010 — Hierarquia e espécies de atos normativos internos
 
-*Parte de origem: [parts/03-governanca/010-hierarquia-e-especies-normativas.md](parts/03-governanca/010-hierarquia-e-especies-normativas.md)*
+*Parte de origem: [parts/03-governanca/010-hierarquia-e-especies-normativas.md](../parts/03-governanca/010-hierarquia-e-especies-normativas.md)*
 
 > **Situação:** minuta para discussão pública. **Versão:** 0.1. **Data:** 2026-11-07.
 > **Aplicabilidade:** proposta de norma interna, não equivale a lei ou estatuto registrado.
@@ -2920,7 +2920,7 @@ Os modelos não conferem validade jurídica ou institucional sem competência, p
 
 ## 03.011 — Controle de constitucionalidade interna e revisão de atos
 
-*Parte de origem: [parts/03-governanca/011-procedimento-de-controle-de-constitucionalidade-interna.md](parts/03-governanca/011-procedimento-de-controle-de-constitucionalidade-interna.md)*
+*Parte de origem: [parts/03-governanca/011-procedimento-de-controle-de-constitucionalidade-interna.md](../parts/03-governanca/011-procedimento-de-controle-de-constitucionalidade-interna.md)*
 
 > **Situação:** minuta para discussão pública. **Versão:** 0.1. **Data:** 2026-11-07.
 > **Aplicabilidade:** proposta de norma interna, não equivale a lei ou estatuto registrado.
@@ -2979,7 +2979,7 @@ VI - exposição indevida de fontes e dados pessoais.
 
 ## 03.012 — Proteção contra golpes internos e captura institucional
 
-*Parte de origem: [parts/03-governanca/012-protecao-contra-captura-institucional.md](parts/03-governanca/012-protecao-contra-captura-institucional.md)*
+*Parte de origem: [parts/03-governanca/012-protecao-contra-captura-institucional.md](../parts/03-governanca/012-protecao-contra-captura-institucional.md)*
 
 > **Situação:** minuta para discussão pública. **Versão:** 0.1. **Data:** 2026-11-07.
 > **Aplicação:** função ou órgão previsto. A existência normativa de uma função não comprova sua instalação.
@@ -3057,7 +3057,7 @@ Consulte [Cláusulas de Identidade](#parte-03-008) e [Controle Interno de Compat
 
 ## 03.013 — Processo de destituição, impeachment e direito de defesa
 
-*Parte de origem: [parts/03-governanca/013-processo-de-destituicao-e-defesa.md](parts/03-governanca/013-processo-de-destituicao-e-defesa.md)*
+*Parte de origem: [parts/03-governanca/013-processo-de-destituicao-e-defesa.md](../parts/03-governanca/013-processo-de-destituicao-e-defesa.md)*
 
 > **Situação:** minuta para discussão pública. **Versão:** 0.1. **Data:** 2026-11-07.
 > **Aplicação:** função ou órgão previsto. A existência normativa de uma função não comprova sua instalação.
@@ -3141,7 +3141,7 @@ III - órgão fiscalizador formalmente autorizado por norma válida, mediante re
 
 ## 03.014 — Conflitos de interesses
 
-*Parte de origem: [parts/03-governanca/014-conflitos-de-interesses.md](parts/03-governanca/014-conflitos-de-interesses.md)*
+*Parte de origem: [parts/03-governanca/014-conflitos-de-interesses.md](../parts/03-governanca/014-conflitos-de-interesses.md)*
 
 > **Situação:** minuta para discussão pública. **Versão:** 0.2. **Data:** 2026-11-07.
 
@@ -3177,7 +3177,7 @@ Consulte [Constituição Institucional](#parte-00-001) e [Comitê de Ética e Co
 
 ## 03.015 — Transição da administração provisória e sucessão
 
-*Parte de origem: [parts/03-governanca/015-transicao-administrativa-e-sucessao.md](parts/03-governanca/015-transicao-administrativa-e-sucessao.md)*
+*Parte de origem: [parts/03-governanca/015-transicao-administrativa-e-sucessao.md](../parts/03-governanca/015-transicao-administrativa-e-sucessao.md)*
 
 > **Situação:** minuta para discussão pública. **Versão:** 0.1. **Data:** 2026-11-07.
 > **Aplicação:** função ou órgão previsto. A existência normativa de uma função não comprova sua instalação.
@@ -3264,7 +3264,7 @@ Parágrafo único. O Rondoscópio não anunciará continuidade garantida nem pro
 
 ## 03.016 — Sucessão e continuidade
 
-*Parte de origem: [parts/03-governanca/016-sucessao-e-continuidade.md](parts/03-governanca/016-sucessao-e-continuidade.md)*
+*Parte de origem: [parts/03-governanca/016-sucessao-e-continuidade.md](../parts/03-governanca/016-sucessao-e-continuidade.md)*
 
 > **Situação:** minuta para discussão pública. **Versão:** 0.2. **Data:** 2026-11-07.
 
@@ -3294,7 +3294,7 @@ A designação de sucessores não poderá ocorrer automaticamente por parentesco
 
 ## 03.017 — Estatuto social — documento futuro
 
-*Parte de origem: [parts/03-governanca/017-estatuto-social.md](parts/03-governanca/017-estatuto-social.md)*
+*Parte de origem: [parts/03-governanca/017-estatuto-social.md](../parts/03-governanca/017-estatuto-social.md)*
 
 > **Situação:** minuta para discussão pública. **Versão:** 0.2. **Data:** 2026-11-07.
 
@@ -3326,7 +3326,7 @@ O termo fundador não poderá reservar poder vitalício nem converter recursos d
 
 ## 03.018 — Gestão de riscos
 
-*Parte de origem: [parts/03-governanca/018-gestao-de-riscos.md](parts/03-governanca/018-gestao-de-riscos.md)*
+*Parte de origem: [parts/03-governanca/018-gestao-de-riscos.md](../parts/03-governanca/018-gestao-de-riscos.md)*
 
 > **Situação:** minuta para discussão pública. **Versão:** 0.1. **Data:** 2026-11-07.
 
@@ -3350,7 +3350,7 @@ A organização deverá revisar riscos após admissão de dirigentes, mudança d
 
 ## 03.019 — Política de financiamento
 
-*Parte de origem: [parts/03-governanca/019-politica-de-financiamento.md](parts/03-governanca/019-politica-de-financiamento.md)*
+*Parte de origem: [parts/03-governanca/019-politica-de-financiamento.md](../parts/03-governanca/019-politica-de-financiamento.md)*
 
 > **Situação:** minuta para discussão pública. **Versão:** 0.1. **Data:** 2026-11-07.
 
@@ -3380,7 +3380,7 @@ Referência: [OCCRP, transparência de financiadores e independência editorial]
 
 ## 03.020 — Prestação de contas
 
-*Parte de origem: [parts/03-governanca/020-prestacao-de-contas.md](parts/03-governanca/020-prestacao-de-contas.md)*
+*Parte de origem: [parts/03-governanca/020-prestacao-de-contas.md](../parts/03-governanca/020-prestacao-de-contas.md)*
 
 > **Situação:** minuta para discussão pública. **Versão:** 0.1. **Data:** 2026-11-07.
 
@@ -3404,7 +3404,7 @@ Os relatórios deverão permitir comparar compromissos, recursos utilizados e re
 
 ## 04.001 — Política Editorial do Rondoscópio
 
-*Parte de origem: [parts/04-editorial/001-politica-editorial.md](parts/04-editorial/001-politica-editorial.md)*
+*Parte de origem: [parts/04-editorial/001-politica-editorial.md](../parts/04-editorial/001-politica-editorial.md)*
 
 > **Situação:** minuta para discussão pública. **Versão:** 0.2. **Data:** 2026-11-07.
 > **Natureza:** documento institucional proposto, sem vigência formal até aprovação pela instância competente.
@@ -3515,7 +3515,7 @@ Consulte [Crítica Pública e Sátira](#parte-04-008).
 
 ## 04.002 — Independência editorial
 
-*Parte de origem: [parts/04-editorial/002-independencia-editorial.md](parts/04-editorial/002-independencia-editorial.md)*
+*Parte de origem: [parts/04-editorial/002-independencia-editorial.md](../parts/04-editorial/002-independencia-editorial.md)*
 
 > **Situação:** minuta para discussão pública. **Versão:** 0.1. **Data:** 2026-11-07.
 
@@ -3539,7 +3539,7 @@ A referência de separação entre doações e decisões editoriais pode ser est
 
 ## 04.003 — Revisão e publicação
 
-*Parte de origem: [parts/04-editorial/003-revisao-e-publicacao.md](parts/04-editorial/003-revisao-e-publicacao.md)*
+*Parte de origem: [parts/04-editorial/003-revisao-e-publicacao.md](../parts/04-editorial/003-revisao-e-publicacao.md)*
 
 > **Situação:** minuta para discussão pública. **Versão:** 0.1. **Data:** 2026-11-07.
 
@@ -3567,7 +3567,7 @@ Documentos recebidos não serão reproduzidos integralmente quando puderem expor
 
 ## 04.004 — Presunção de inocência
 
-*Parte de origem: [parts/04-editorial/004-presuncao-de-inocencia.md](parts/04-editorial/004-presuncao-de-inocencia.md)*
+*Parte de origem: [parts/04-editorial/004-presuncao-de-inocencia.md](../parts/04-editorial/004-presuncao-de-inocencia.md)*
 
 > **Situação:** minuta para discussão pública. **Versão:** 0.1. **Data:** 2026-11-07.
 
@@ -3591,7 +3591,7 @@ A crítica contundente à conduta documentada é compatível com a presunção d
 
 ## 04.005 — Direito de resposta
 
-*Parte de origem: [parts/04-editorial/005-direito-de-resposta.md](parts/04-editorial/005-direito-de-resposta.md)*
+*Parte de origem: [parts/04-editorial/005-direito-de-resposta.md](../parts/04-editorial/005-direito-de-resposta.md)*
 
 > **Situação:** minuta para discussão pública. **Versão:** 0.1. **Data:** 2026-11-07.
 
@@ -3617,7 +3617,7 @@ Em relatos de corrupção sistêmica, deverá ser buscada manifestação da inst
 
 ## 04.006 — Contestações e recursos
 
-*Parte de origem: [parts/04-editorial/006-contestacoes-e-recursos.md](parts/04-editorial/006-contestacoes-e-recursos.md)*
+*Parte de origem: [parts/04-editorial/006-contestacoes-e-recursos.md](../parts/04-editorial/006-contestacoes-e-recursos.md)*
 
 > **Situação:** minuta para discussão pública. **Versão:** 0.1. **Data:** 2026-11-07.
 
@@ -3639,7 +3639,7 @@ Solicitações de correção serão avaliadas pelo mérito, não pela popularida
 
 ## 04.007 — Correções e retratações
 
-*Parte de origem: [parts/04-editorial/007-correcoes-e-retratacoes.md](parts/04-editorial/007-correcoes-e-retratacoes.md)*
+*Parte de origem: [parts/04-editorial/007-correcoes-e-retratacoes.md](../parts/04-editorial/007-correcoes-e-retratacoes.md)*
 
 > **Situação:** minuta para discussão pública. **Versão:** 0.1. **Data:** 2026-11-07.
 
@@ -3665,7 +3665,7 @@ Pedidos de correção formulados por inimigos políticos terão avaliação pelo
 
 ## 04.008 — Crítica pública, sátira e responsabilidade
 
-*Parte de origem: [parts/04-editorial/008-critica-publica-satira-e-responsabilidade.md](parts/04-editorial/008-critica-publica-satira-e-responsabilidade.md)*
+*Parte de origem: [parts/04-editorial/008-critica-publica-satira-e-responsabilidade.md](../parts/04-editorial/008-critica-publica-satira-e-responsabilidade.md)*
 
 > **Situação:** minuta para discussão pública. **Versão:** 0.1. **Data:** 2026-11-07.
 > **Natureza:** referência de atuação legal, editorial e de segurança. Nenhum serviço é considerado implementado apenas pela existência do texto.
@@ -3712,7 +3712,7 @@ Pedidos de correção formulados por inimigos políticos terão avaliação pelo
 
 ## 04.009 — Arquivamento e retirada de conteúdo
 
-*Parte de origem: [parts/04-editorial/009-arquivamento-e-retirada-de-conteudo.md](parts/04-editorial/009-arquivamento-e-retirada-de-conteudo.md)*
+*Parte de origem: [parts/04-editorial/009-arquivamento-e-retirada-de-conteudo.md](../parts/04-editorial/009-arquivamento-e-retirada-de-conteudo.md)*
 
 > **Situação:** minuta para discussão pública. **Versão:** 0.1. **Data:** 2026-11-07.
 
@@ -3734,7 +3734,7 @@ Decisões de remoção deverão documentar motivo, versão, alcance, possibilida
 
 ## 04.010 — Estilo de redação
 
-*Parte de origem: [parts/04-editorial/010-estilo-de-redacao.md](parts/04-editorial/010-estilo-de-redacao.md)*
+*Parte de origem: [parts/04-editorial/010-estilo-de-redacao.md](../parts/04-editorial/010-estilo-de-redacao.md)*
 
 > **Situação:** minuta para discussão pública. **Versão:** 0.2. **Data:** 2026-11-07.
 
@@ -3768,7 +3768,7 @@ Evitar expressões vagas que imputem crimes, qualificações clínicas sem base 
 
 ## 04.011 — Interesse público e privacidade
 
-*Parte de origem: [parts/04-editorial/011-interesse-publico-e-privacidade.md](parts/04-editorial/011-interesse-publico-e-privacidade.md)*
+*Parte de origem: [parts/04-editorial/011-interesse-publico-e-privacidade.md](../parts/04-editorial/011-interesse-publico-e-privacidade.md)*
 
 > **Situação:** minuta para discussão pública. **Versão:** 0.1. **Data:** 2026-11-07.
 
@@ -3790,7 +3790,7 @@ Relações familiares ou dados de saúde e intimidade de autoridades só serão 
 
 ## 04.012 — Fiscalização de autoridades, instituições e estruturas de poder
 
-*Parte de origem: [parts/04-editorial/012-investigacao-de-autoridades-e-poderes.md](parts/04-editorial/012-investigacao-de-autoridades-e-poderes.md)*
+*Parte de origem: [parts/04-editorial/012-investigacao-de-autoridades-e-poderes.md](../parts/04-editorial/012-investigacao-de-autoridades-e-poderes.md)*
 
 > **Situação:** minuta para discussão pública. **Versão:** 0.1. **Data:** 2026-11-07.
 > **Natureza:** referência de atuação legal, editorial e de segurança. Nenhum serviço é considerado implementado apenas pela existência do texto.
@@ -3848,7 +3848,7 @@ VI - omissões de fiscalização diante de obrigações e avisos comprovados.
 
 ## 04.013 — LGPD, jornalismo e minimização de dados
 
-*Parte de origem: [parts/04-editorial/013-lgpd-jornalismo-e-minimizacao-de-dados.md](parts/04-editorial/013-lgpd-jornalismo-e-minimizacao-de-dados.md)*
+*Parte de origem: [parts/04-editorial/013-lgpd-jornalismo-e-minimizacao-de-dados.md](../parts/04-editorial/013-lgpd-jornalismo-e-minimizacao-de-dados.md)*
 
 > **Situação:** minuta para discussão pública. **Versão:** 0.1. **Data:** 2026-11-07.
 > **Natureza:** referência de atuação legal, editorial e de segurança. Nenhum serviço é considerado implementado apenas pela existência do texto.
@@ -3899,7 +3899,7 @@ VI - canal para contestação de identidade, correção, atualização e retirad
 
 ## 04.014 — Proteção de pessoas vulneráveis
 
-*Parte de origem: [parts/04-editorial/014-protecao-de-pessoas-vulneraveis.md](parts/04-editorial/014-protecao-de-pessoas-vulneraveis.md)*
+*Parte de origem: [parts/04-editorial/014-protecao-de-pessoas-vulneraveis.md](../parts/04-editorial/014-protecao-de-pessoas-vulneraveis.md)*
 
 > **Situação:** minuta para discussão pública. **Versão:** 0.1. **Data:** 2026-11-07.
 
@@ -3923,7 +3923,7 @@ A instituição deverá registrar justificativa de uso de imagens, depoimentos e
 
 ## 04.015 — Transparência editorial
 
-*Parte de origem: [parts/04-editorial/015-transparencia-editorial.md](parts/04-editorial/015-transparencia-editorial.md)*
+*Parte de origem: [parts/04-editorial/015-transparencia-editorial.md](../parts/04-editorial/015-transparencia-editorial.md)*
 
 > **Situação:** minuta para discussão pública. **Versão:** 0.1. **Data:** 2026-11-07.
 
@@ -3947,7 +3947,7 @@ As decisões institucionais sobre o que divulgar deverão poder ser contestadas.
 
 ## 05.001 — Metodologia de investigação
 
-*Parte de origem: [parts/05-metodologia/001-metodologia-de-investigacao.md](parts/05-metodologia/001-metodologia-de-investigacao.md)*
+*Parte de origem: [parts/05-metodologia/001-metodologia-de-investigacao.md](../parts/05-metodologia/001-metodologia-de-investigacao.md)*
 
 > **Situação:** minuta para discussão pública. **Versão:** 0.1. **Data:** 2026-11-07.
 
@@ -3985,7 +3985,7 @@ Consulte [Investigação de Autoridades](#parte-04-012) e [Cooperação Segura](
 
 ## 05.002 — Fontes e proveniência
 
-*Parte de origem: [parts/05-metodologia/002-fontes-e-proveniencia.md](parts/05-metodologia/002-fontes-e-proveniencia.md)*
+*Parte de origem: [parts/05-metodologia/002-fontes-e-proveniencia.md](../parts/05-metodologia/002-fontes-e-proveniencia.md)*
 
 > **Situação:** minuta para discussão pública. **Versão:** 0.1. **Data:** 2026-11-07.
 
@@ -4009,7 +4009,7 @@ Quando a publicação integral for inviável por segurança, explicar de forma p
 
 ## 05.003 — Critérios de evidência
 
-*Parte de origem: [parts/05-metodologia/003-criterios-de-evidencia.md](parts/05-metodologia/003-criterios-de-evidencia.md)*
+*Parte de origem: [parts/05-metodologia/003-criterios-de-evidencia.md](../parts/05-metodologia/003-criterios-de-evidencia.md)*
 
 > **Situação:** minuta para discussão pública. **Versão:** 0.1. **Data:** 2026-11-07.
 
@@ -4031,7 +4031,7 @@ Vínculo familiar, proximidade política e sucessão patrimonial são questões 
 
 ## 05.004 — Verificação de fatos
 
-*Parte de origem: [parts/05-metodologia/004-verificacao-de-fatos.md](parts/05-metodologia/004-verificacao-de-fatos.md)*
+*Parte de origem: [parts/05-metodologia/004-verificacao-de-fatos.md](../parts/05-metodologia/004-verificacao-de-fatos.md)*
 
 > **Situação:** minuta para discussão pública. **Versão:** 0.1. **Data:** 2026-11-07.
 
@@ -4055,7 +4055,7 @@ Erro factual não comprova intenção de mentir. Atribuições de dolo exigem ev
 
 ## 05.005 — Limitações e incertezas
 
-*Parte de origem: [parts/05-metodologia/005-limitacoes-e-incertezas.md](parts/05-metodologia/005-limitacoes-e-incertezas.md)*
+*Parte de origem: [parts/05-metodologia/005-limitacoes-e-incertezas.md](../parts/05-metodologia/005-limitacoes-e-incertezas.md)*
 
 > **Situação:** minuta para discussão pública. **Versão:** 0.1. **Data:** 2026-11-07.
 
@@ -4079,7 +4079,7 @@ Mesmo afirmações de fontes oficiais ou especializadas permanecerão abertas a 
 
 ## 05.006 — Análise de desinformação
 
-*Parte de origem: [parts/05-metodologia/006-analise-de-desinformacao.md](parts/05-metodologia/006-analise-de-desinformacao.md)*
+*Parte de origem: [parts/05-metodologia/006-analise-de-desinformacao.md](../parts/05-metodologia/006-analise-de-desinformacao.md)*
 
 > **Situação:** minuta para discussão pública. **Versão:** 0.1. **Data:** 2026-11-07.
 
@@ -4103,7 +4103,7 @@ Checagens deverão evitar amplificar material falso em títulos e imagens.
 
 ## 05.007 — Avaliação de políticas climáticas e reparatórias
 
-*Parte de origem: [parts/05-metodologia/007-avaliacao-de-politicas-climaticas-e-reparatorias.md](parts/05-metodologia/007-avaliacao-de-politicas-climaticas-e-reparatorias.md)*
+*Parte de origem: [parts/05-metodologia/007-avaliacao-de-politicas-climaticas-e-reparatorias.md](../parts/05-metodologia/007-avaliacao-de-politicas-climaticas-e-reparatorias.md)*
 
 > **Situação:** minuta para discussão pública. **Versão:** 0.1. **Data:** 2026-11-07.
 > **Natureza:** compromisso institucional proposto, sujeito a revisão e aprovação.
@@ -4203,7 +4203,7 @@ Divergência sobre meios e resultados não significa necessariamente negação d
 
 ## 05.008 — Avaliação de políticas públicas
 
-*Parte de origem: [parts/05-metodologia/008-avaliacao-de-politicas-publicas.md](parts/05-metodologia/008-avaliacao-de-politicas-publicas.md)*
+*Parte de origem: [parts/05-metodologia/008-avaliacao-de-politicas-publicas.md](../parts/05-metodologia/008-avaliacao-de-politicas-publicas.md)*
 
 > **Situação:** minuta para discussão pública. **Versão:** 0.2. **Data:** 2026-11-07.
 
@@ -4235,7 +4235,7 @@ O projeto diferenciará julgamento ético, interpretação jurídica e conclusã
 
 ## 05.009 — Detecção de anomalias
 
-*Parte de origem: [parts/05-metodologia/009-deteccao-de-anomalias.md](parts/05-metodologia/009-deteccao-de-anomalias.md)*
+*Parte de origem: [parts/05-metodologia/009-deteccao-de-anomalias.md](../parts/05-metodologia/009-deteccao-de-anomalias.md)*
 
 > **Situação:** minuta para discussão pública. **Versão:** 0.1. **Data:** 2026-11-07.
 
@@ -4259,7 +4259,7 @@ Alertas poderão orientar prioridades de apuração, mas nunca serão convertido
 
 ## 05.010 — Identificação de entidades
 
-*Parte de origem: [parts/05-metodologia/010-identificacao-de-entidades.md](parts/05-metodologia/010-identificacao-de-entidades.md)*
+*Parte de origem: [parts/05-metodologia/010-identificacao-de-entidades.md](../parts/05-metodologia/010-identificacao-de-entidades.md)*
 
 > **Situação:** minuta para discussão pública. **Versão:** 0.1. **Data:** 2026-11-07.
 
@@ -4283,7 +4283,7 @@ Identificações corrigidas deverão ser propagadas às visualizações, buscas 
 
 ## 05.011 — Indicadores e séries históricas
 
-*Parte de origem: [parts/05-metodologia/011-indicadores-e-series-historicas.md](parts/05-metodologia/011-indicadores-e-series-historicas.md)*
+*Parte de origem: [parts/05-metodologia/011-indicadores-e-series-historicas.md](../parts/05-metodologia/011-indicadores-e-series-historicas.md)*
 
 > **Situação:** minuta para discussão pública. **Versão:** 0.1. **Data:** 2026-11-07.
 
@@ -4307,7 +4307,7 @@ Visualizações deverão permitir acessar fontes originais e distinguir valor ob
 
 ## 05.012 — Investigação de atos e omissões
 
-*Parte de origem: [parts/05-metodologia/012-investigacao-de-atos-e-omissoes.md](parts/05-metodologia/012-investigacao-de-atos-e-omissoes.md)*
+*Parte de origem: [parts/05-metodologia/012-investigacao-de-atos-e-omissoes.md](../parts/05-metodologia/012-investigacao-de-atos-e-omissoes.md)*
 
 > **Situação:** minuta para discussão pública. **Versão:** 0.1. **Data:** 2026-11-07.
 
@@ -4333,7 +4333,7 @@ A apuração de eventual interferência identificará competências, cronologia,
 
 ## 05.013 — Apuração de criminalidade e cooperação internacional
 
-*Parte de origem: [parts/05-metodologia/013-investigacao-de-criminalidade-e-cooperacao-internacional.md](parts/05-metodologia/013-investigacao-de-criminalidade-e-cooperacao-internacional.md)*
+*Parte de origem: [parts/05-metodologia/013-investigacao-de-criminalidade-e-cooperacao-internacional.md](../parts/05-metodologia/013-investigacao-de-criminalidade-e-cooperacao-internacional.md)*
 
 > **Situação:** minuta para discussão pública. **Versão:** 0.1. **Data:** 2026-11-07.
 > **Natureza:** diretriz proposta, sem vigência institucional até aprovação competente.
@@ -4387,7 +4387,7 @@ O eventual comprometimento de autoridade será tratado como hipótese dependente
 
 ## 05.014 — Investigação de interesses e relações
 
-*Parte de origem: [parts/05-metodologia/014-investigacao-de-interesses-e-relacoes.md](parts/05-metodologia/014-investigacao-de-interesses-e-relacoes.md)*
+*Parte de origem: [parts/05-metodologia/014-investigacao-de-interesses-e-relacoes.md](../parts/05-metodologia/014-investigacao-de-interesses-e-relacoes.md)*
 
 > **Situação:** minuta para discussão pública. **Versão:** 0.1. **Data:** 2026-11-07.
 
@@ -4411,7 +4411,7 @@ A hipótese de captura de órgão de controle ou de Justiça deverá ser relacio
 
 ## 05.015 — Investigação fundiária e ambiental
 
-*Parte de origem: [parts/05-metodologia/015-investigacao-fundiaria-e-ambiental.md](parts/05-metodologia/015-investigacao-fundiaria-e-ambiental.md)*
+*Parte de origem: [parts/05-metodologia/015-investigacao-fundiaria-e-ambiental.md](../parts/05-metodologia/015-investigacao-fundiaria-e-ambiental.md)*
 
 > **Situação:** minuta para discussão pública. **Versão:** 0.1. **Data:** 2026-11-07.
 
@@ -4435,7 +4435,7 @@ Imagens de satélite serão associadas a data, resolução e limitações, sem c
 
 ## 05.016 — Licitações, contratos e preços
 
-*Parte de origem: [parts/05-metodologia/016-licitacoes-contratos-e-precos.md](parts/05-metodologia/016-licitacoes-contratos-e-precos.md)*
+*Parte de origem: [parts/05-metodologia/016-licitacoes-contratos-e-precos.md](../parts/05-metodologia/016-licitacoes-contratos-e-precos.md)*
 
 > **Situação:** minuta para discussão pública. **Versão:** 0.1. **Data:** 2026-11-07.
 
@@ -4461,7 +4461,7 @@ A análise deverá distinguir contrato assinado, empenho, pagamento, entrega e r
 
 ## 05.017 — Monitoramento de discursos
 
-*Parte de origem: [parts/05-metodologia/017-monitoramento-de-discursos.md](parts/05-metodologia/017-monitoramento-de-discursos.md)*
+*Parte de origem: [parts/05-metodologia/017-monitoramento-de-discursos.md](../parts/05-metodologia/017-monitoramento-de-discursos.md)*
 
 > **Situação:** minuta para discussão pública. **Versão:** 0.1. **Data:** 2026-11-07.
 
@@ -4485,7 +4485,7 @@ Opiniões controversas poderão ser criticadas com firmeza, mas a descrição de
 
 ## 05.018 — Monitoramento de serviços públicos
 
-*Parte de origem: [parts/05-metodologia/018-monitoramento-de-servicos-publicos.md](parts/05-metodologia/018-monitoramento-de-servicos-publicos.md)*
+*Parte de origem: [parts/05-metodologia/018-monitoramento-de-servicos-publicos.md](../parts/05-metodologia/018-monitoramento-de-servicos-publicos.md)*
 
 > **Situação:** minuta para discussão pública. **Versão:** 0.1. **Data:** 2026-11-07.
 
@@ -4509,7 +4509,7 @@ A comparação histórica apresentará cobertura geográfica, horários, sensore
 
 ## 05.019 — Orçamento, emendas e transferências
 
-*Parte de origem: [parts/05-metodologia/019-orcamento-emendas-e-transferencias.md](parts/05-metodologia/019-orcamento-emendas-e-transferencias.md)*
+*Parte de origem: [parts/05-metodologia/019-orcamento-emendas-e-transferencias.md](../parts/05-metodologia/019-orcamento-emendas-e-transferencias.md)*
 
 > **Situação:** minuta para discussão pública. **Versão:** 0.1. **Data:** 2026-11-07.
 
@@ -4533,7 +4533,7 @@ Uma transferência para determinada entidade não prova favorecimento sem evidê
 
 ## 05.020 — Processos judiciais e sanções
 
-*Parte de origem: [parts/05-metodologia/020-processos-judiciais-e-sancoes.md](parts/05-metodologia/020-processos-judiciais-e-sancoes.md)*
+*Parte de origem: [parts/05-metodologia/020-processos-judiciais-e-sancoes.md](../parts/05-metodologia/020-processos-judiciais-e-sancoes.md)*
 
 > **Situação:** minuta para discussão pública. **Versão:** 0.1. **Data:** 2026-11-07.
 
@@ -4559,7 +4559,7 @@ Discordar de decisão judicial não implica acusar o julgador de corrupção sem
 
 ## 05.021 — Uso de inteligência artificial
 
-*Parte de origem: [parts/05-metodologia/021-uso-de-inteligencia-artificial.md](parts/05-metodologia/021-uso-de-inteligencia-artificial.md)*
+*Parte de origem: [parts/05-metodologia/021-uso-de-inteligencia-artificial.md](../parts/05-metodologia/021-uso-de-inteligencia-artificial.md)*
 
 > **Situação:** minuta para discussão pública. **Versão:** 0.1. **Data:** 2026-11-07.
 
@@ -4585,7 +4585,7 @@ As conclusões deverão vincular-se a registros originais, com correção e audi
 
 ## 06.001 — Fundamentação constitucional
 
-*Parte de origem: [parts/06-direitos/001-fundamentacao-constitucional.md](parts/06-direitos/001-fundamentacao-constitucional.md)*
+*Parte de origem: [parts/06-direitos/001-fundamentacao-constitucional.md](../parts/06-direitos/001-fundamentacao-constitucional.md)*
 
 > **Situação:** minuta para discussão pública. **Versão:** 0.1. **Data:** 2026-11-07.
 
@@ -4607,7 +4607,7 @@ O art. 60, § 4º, inspira a ideia de preservar garantias estruturantes. Sua ada
 
 ## 06.002 — Liberdade de expressão e imprensa
 
-*Parte de origem: [parts/06-direitos/002-liberdade-de-expressao-e-imprensa.md](parts/06-direitos/002-liberdade-de-expressao-e-imprensa.md)*
+*Parte de origem: [parts/06-direitos/002-liberdade-de-expressao-e-imprensa.md](../parts/06-direitos/002-liberdade-de-expressao-e-imprensa.md)*
 
 > **Situação:** minuta para discussão pública. **Versão:** 0.1. **Data:** 2026-11-07.
 
@@ -4631,7 +4631,7 @@ A reação a censura ou assédio judicial deverá ocorrer por meios legais. Não
 
 ## 06.003 — Proteção de dados pessoais
 
-*Parte de origem: [parts/06-direitos/003-protecao-de-dados-pessoais.md](parts/06-direitos/003-protecao-de-dados-pessoais.md)*
+*Parte de origem: [parts/06-direitos/003-protecao-de-dados-pessoais.md](../parts/06-direitos/003-protecao-de-dados-pessoais.md)*
 
 > **Situação:** minuta para discussão pública. **Versão:** 0.1. **Data:** 2026-11-07.
 
@@ -4655,7 +4655,7 @@ Consulte [LGPD, Jornalismo e Minimização](#parte-04-013).
 
 ## 06.004 — Canais de apoio e proteção
 
-*Parte de origem: [parts/06-direitos/004-canais-de-apoio-e-protecao.md](parts/06-direitos/004-canais-de-apoio-e-protecao.md)*
+*Parte de origem: [parts/06-direitos/004-canais-de-apoio-e-protecao.md](../parts/06-direitos/004-canais-de-apoio-e-protecao.md)*
 
 > **Situação:** minuta para discussão pública. **Versão:** 0.1. **Data:** 2026-11-07.
 
@@ -4677,7 +4677,7 @@ A existência de programa de assistência a jornalistas ou defensores de direito
 
 ## 06.005 — Direito de petição e informação
 
-*Parte de origem: [parts/06-direitos/005-direito-de-peticao-e-informacao.md](parts/06-direitos/005-direito-de-peticao-e-informacao.md)*
+*Parte de origem: [parts/06-direitos/005-direito-de-peticao-e-informacao.md](../parts/06-direitos/005-direito-de-peticao-e-informacao.md)*
 
 > **Situação:** minuta para discussão pública. **Versão:** 0.1. **Data:** 2026-11-07.
 
@@ -4699,7 +4699,7 @@ O registro de um pedido sem resposta não prova, por si só, ocultação deliber
 
 ## 06.006 — Prevenção a assédio judicial
 
-*Parte de origem: [parts/06-direitos/006-prevencao-a-assedio-judicial.md](parts/06-direitos/006-prevencao-a-assedio-judicial.md)*
+*Parte de origem: [parts/06-direitos/006-prevencao-a-assedio-judicial.md](../parts/06-direitos/006-prevencao-a-assedio-judicial.md)*
 
 > **Situação:** minuta para discussão pública. **Versão:** 0.1. **Data:** 2026-11-07.
 
@@ -4723,7 +4723,7 @@ Referências: [STF](https://portal.stf.jus.br/noticias/verNoticiaDetalhe.asp?idC
 
 ## 06.007 — Proteção contra assédio judicial e perseguição
 
-*Parte de origem: [parts/06-direitos/007-protecao-contra-assedio-judicial-e-perseguicao.md](parts/06-direitos/007-protecao-contra-assedio-judicial-e-perseguicao.md)*
+*Parte de origem: [parts/06-direitos/007-protecao-contra-assedio-judicial-e-perseguicao.md](../parts/06-direitos/007-protecao-contra-assedio-judicial-e-perseguicao.md)*
 
 > **Situação:** minuta para discussão pública. **Versão:** 0.1. **Data:** 2026-11-07.
 > **Natureza:** referência de atuação legal, editorial e de segurança. Nenhum serviço é considerado implementado apenas pela existência do texto.
@@ -4772,7 +4772,7 @@ VI - documentar as limitações institucionais de atendimento e proteção jurí
 
 ## 06.008 — Proteção de denunciantes
 
-*Parte de origem: [parts/06-direitos/008-protecao-de-denunciantes.md](parts/06-direitos/008-protecao-de-denunciantes.md)*
+*Parte de origem: [parts/06-direitos/008-protecao-de-denunciantes.md](../parts/06-direitos/008-protecao-de-denunciantes.md)*
 
 > **Situação:** minuta para discussão pública. **Versão:** 0.1. **Data:** 2026-11-07.
 
@@ -4794,7 +4794,7 @@ A comunicação com órgãos externos não será automática, sobretudo quando h
 
 ## 06.009 — Proteção jurídica de comunicadores
 
-*Parte de origem: [parts/06-direitos/009-protecao-juridica-de-comunicadores.md](parts/06-direitos/009-protecao-juridica-de-comunicadores.md)*
+*Parte de origem: [parts/06-direitos/009-protecao-juridica-de-comunicadores.md](../parts/06-direitos/009-protecao-juridica-de-comunicadores.md)*
 
 > **Situação:** minuta para discussão pública. **Versão:** 0.1. **Data:** 2026-11-07.
 
@@ -4818,7 +4818,7 @@ A [Abraji](https://www.abraji.org.br/projetos/programa-de-protecao-legal-para-jo
 
 ## 07.001 — Política de segurança
 
-*Parte de origem: [parts/07-seguranca/001-politica-de-seguranca.md](parts/07-seguranca/001-politica-de-seguranca.md)*
+*Parte de origem: [parts/07-seguranca/001-politica-de-seguranca.md](../parts/07-seguranca/001-politica-de-seguranca.md)*
 
 > **Situação:** minuta para discussão pública. **Versão:** 0.5. **Data:** 2026-11-07.
 > **Natureza:** política institucional proposta. Não comprova controles implementados.
@@ -4970,7 +4970,7 @@ Consulte [Proteção contra Captura](#parte-03-012).
 
 ## 07.002 — Modelo público de ameaças
 
-*Parte de origem: [parts/07-seguranca/002-modelo-publico-de-ameacas.md](parts/07-seguranca/002-modelo-publico-de-ameacas.md)*
+*Parte de origem: [parts/07-seguranca/002-modelo-publico-de-ameacas.md](../parts/07-seguranca/002-modelo-publico-de-ameacas.md)*
 
 > **Situação:** minuta para discussão pública. **Versão:** 0.3. **Data:** 2026-11-07.
 > **Natureza:** política institucional proposta. Não comprova controles implementados.
@@ -5055,7 +5055,7 @@ A suspeita de espionagem ou captura de órgão público exige prova concreta, re
 
 ## 07.003 — Classificação das informações
 
-*Parte de origem: [parts/07-seguranca/003-classificacao-das-informacoes.md](parts/07-seguranca/003-classificacao-das-informacoes.md)*
+*Parte de origem: [parts/07-seguranca/003-classificacao-das-informacoes.md](../parts/07-seguranca/003-classificacao-das-informacoes.md)*
 
 > **Situação:** minuta para discussão pública. **Versão:** 0.1. **Data:** 2026-11-07.
 
@@ -5079,7 +5079,7 @@ A passagem de documento confidencial a publicação dependerá de revisão edito
 
 ## 07.004 — Engenharia social, infiltração e confiança
 
-*Parte de origem: [parts/07-seguranca/004-engenharia-social-e-infiltracao.md](parts/07-seguranca/004-engenharia-social-e-infiltracao.md)*
+*Parte de origem: [parts/07-seguranca/004-engenharia-social-e-infiltracao.md](../parts/07-seguranca/004-engenharia-social-e-infiltracao.md)*
 
 > **Situação:** minuta para discussão pública. **Versão:** 0.1. **Data:** 2026-11-07.
 > **Natureza:** referência normativa e metodológica de segurança, sem alegação de controles já implementados.
@@ -5155,7 +5155,7 @@ Treinamentos sobre engenharia social não deverão estimular desconfiança gener
 
 ## 07.005 — Dupla lealdade e riscos internos
 
-*Parte de origem: [parts/07-seguranca/005-dupla-lealdade-e-riscos-internos.md](parts/07-seguranca/005-dupla-lealdade-e-riscos-internos.md)*
+*Parte de origem: [parts/07-seguranca/005-dupla-lealdade-e-riscos-internos.md](../parts/07-seguranca/005-dupla-lealdade-e-riscos-internos.md)*
 
 > **Situação:** minuta. **Data:** 2026-11-07. **Atualização:** consultar catálogos oficiais, pois suas entradas e versões mudam.
 
@@ -5225,7 +5225,7 @@ Condutas concretas serão avaliadas com contraditório e proteção de denuncian
 
 ## 07.006 — Portas dos fundos e cadeia de confiança
 
-*Parte de origem: [parts/07-seguranca/006-backdoors-e-cadeia-de-confianca.md](parts/07-seguranca/006-backdoors-e-cadeia-de-confianca.md)*
+*Parte de origem: [parts/07-seguranca/006-backdoors-e-cadeia-de-confianca.md](../parts/07-seguranca/006-backdoors-e-cadeia-de-confianca.md)*
 
 > **Situação:** minuta. **Data:** 2026-11-07. **Atualização:** consultar catálogos oficiais, pois suas entradas e versões mudam.
 
@@ -5289,7 +5289,7 @@ Assinaturas digitais de artefatos demonstram vinculação à chave, mas não com
 
 ## 07.007 — Criptografia e gestão de chaves
 
-*Parte de origem: [parts/07-seguranca/007-criptografia-e-gestao-de-chaves.md](parts/07-seguranca/007-criptografia-e-gestao-de-chaves.md)*
+*Parte de origem: [parts/07-seguranca/007-criptografia-e-gestao-de-chaves.md](../parts/07-seguranca/007-criptografia-e-gestao-de-chaves.md)*
 
 > **Situação:** minuta para discussão pública. **Versão:** 0.4. **Data:** 2026-11-07.
 > **Natureza:** política institucional proposta. Não comprova controles implementados.
@@ -5404,7 +5404,7 @@ O plano de substituição de algoritmos contemplará validação de versões his
 
 ## 07.008 — Confiança em chaves OpenPGP e cerimônia de verificação
 
-*Parte de origem: [parts/07-seguranca/008-confianca-openpgp-e-cerimonia-de-chaves.md](parts/07-seguranca/008-confianca-openpgp-e-cerimonia-de-chaves.md)*
+*Parte de origem: [parts/07-seguranca/008-confianca-openpgp-e-cerimonia-de-chaves.md](../parts/07-seguranca/008-confianca-openpgp-e-cerimonia-de-chaves.md)*
 
 > **Situação:** minuta para discussão pública. **Versão:** 0.2. **Data:** 2026-11-07.
 > **Aplicação:** compromisso proposto, sujeito a avaliação de risco, capacidade operacional e aprovação institucional.
@@ -5493,7 +5493,7 @@ Mudanças inesperadas de chave de publicação institucional deverão receber co
 
 ## 07.009 — Autenticação FIDO2, WebAuthn e chaves físicas
 
-*Parte de origem: [parts/07-seguranca/009-autenticacao-fido2-webauthn-e-chaves-fisicas.md](parts/07-seguranca/009-autenticacao-fido2-webauthn-e-chaves-fisicas.md)*
+*Parte de origem: [parts/07-seguranca/009-autenticacao-fido2-webauthn-e-chaves-fisicas.md](../parts/07-seguranca/009-autenticacao-fido2-webauthn-e-chaves-fisicas.md)*
 
 > **Situação:** minuta para discussão pública. **Versão:** 0.1. **Data:** 2026-11-07.
 > **Natureza:** proposta institucional. Não representa implantação ou certificação de controles.
@@ -5588,7 +5588,7 @@ A credencial WebAuthn e a chave OpenPGP são objetos distintos, mesmo quando sup
 
 ## 07.010 — Criptografia simétrica e assimétrica
 
-*Parte de origem: [parts/07-seguranca/010-criptografia-simetrica-e-assimetrica.md](parts/07-seguranca/010-criptografia-simetrica-e-assimetrica.md)*
+*Parte de origem: [parts/07-seguranca/010-criptografia-simetrica-e-assimetrica.md](../parts/07-seguranca/010-criptografia-simetrica-e-assimetrica.md)*
 
 > **Situação:** minuta para discussão pública. **Versão:** 0.1. **Data:** 2026-11-07.
 > **Natureza:** proposta institucional. Não representa implantação ou certificação de controles.
@@ -5655,7 +5655,7 @@ A recuperação de material cifrado exigirá planejamento de chaves e prazos sem
 
 ## 07.011 — Criptografia pós-quântica e agilidade criptográfica
 
-*Parte de origem: [parts/07-seguranca/011-criptografia-pos-quantica.md](parts/07-seguranca/011-criptografia-pos-quantica.md)*
+*Parte de origem: [parts/07-seguranca/011-criptografia-pos-quantica.md](../parts/07-seguranca/011-criptografia-pos-quantica.md)*
 
 > **Situação:** minuta para discussão pública. **Versão:** 0.1. **Data:** 2026-11-07.
 > **Natureza:** proposta institucional. Não representa implantação ou certificação de controles.
@@ -5740,7 +5740,7 @@ Sistemas FIDO2, OpenPGP e esquemas clássicos de assinatura deverão ser avaliad
 
 ## 07.012 — Aleatoriedade, entropia e geração de segredos
 
-*Parte de origem: [parts/07-seguranca/012-aleatoriedade-entropia-e-geracao-de-segredos.md](parts/07-seguranca/012-aleatoriedade-entropia-e-geracao-de-segredos.md)*
+*Parte de origem: [parts/07-seguranca/012-aleatoriedade-entropia-e-geracao-de-segredos.md](../parts/07-seguranca/012-aleatoriedade-entropia-e-geracao-de-segredos.md)*
 
 > **Situação:** minuta para discussão pública. **Versão:** 0.1. **Data:** 2026-11-07.
 > **Natureza:** proposta institucional. Não representa implantação ou certificação de controles.
@@ -5811,7 +5811,7 @@ A escolha de biblioteca e fonte de entropia deverá observar suporte, atualizaç
 
 ## 07.013 — Ameaças jurídicas e políticas, intimidação e resiliência
 
-*Parte de origem: [parts/07-seguranca/013-ameacas-juridicas-politicas-e-resiliencia.md](parts/07-seguranca/013-ameacas-juridicas-politicas-e-resiliencia.md)*
+*Parte de origem: [parts/07-seguranca/013-ameacas-juridicas-politicas-e-resiliencia.md](../parts/07-seguranca/013-ameacas-juridicas-politicas-e-resiliencia.md)*
 
 > **Situação:** minuta para discussão pública. **Versão:** 0.1. **Data:** 2026-11-07.
 > **Condição:** não aprovada e sem eficácia institucional. Aplicação condicionada à futura forma jurídica, à lei e a controles efetivamente implementados.
@@ -5863,7 +5863,7 @@ VI - redução da dependência de uma única pessoa, prestador ou domínio.
 
 ## 07.014 — Autenticidade, spoofing e interceptação
 
-*Parte de origem: [parts/07-seguranca/014-autenticidade-interceptacao-e-spoofing.md](parts/07-seguranca/014-autenticidade-interceptacao-e-spoofing.md)*
+*Parte de origem: [parts/07-seguranca/014-autenticidade-interceptacao-e-spoofing.md](../parts/07-seguranca/014-autenticidade-interceptacao-e-spoofing.md)*
 
 > **Situação:** minuta para discussão pública. **Versão:** 0.1. **Data:** 2026-11-07.
 > **Natureza:** referência normativa e metodológica de segurança, sem alegação de controles já implementados.
@@ -5941,7 +5941,7 @@ O caso eMudhra deverá ser citado como risco documentado envolvendo certificados
 
 ## 07.015 — Backups e recuperação
 
-*Parte de origem: [parts/07-seguranca/015-backups-e-recuperacao.md](parts/07-seguranca/015-backups-e-recuperacao.md)*
+*Parte de origem: [parts/07-seguranca/015-backups-e-recuperacao.md](../parts/07-seguranca/015-backups-e-recuperacao.md)*
 
 > **Situação:** minuta para discussão pública. **Versão:** 0.1. **Data:** 2026-11-07.
 
@@ -5965,7 +5965,7 @@ O espelhamento público de material confidencial não é substituto de backup se
 
 ## 07.016 — Continuidade operacional
 
-*Parte de origem: [parts/07-seguranca/016-continuidade-operacional.md](parts/07-seguranca/016-continuidade-operacional.md)*
+*Parte de origem: [parts/07-seguranca/016-continuidade-operacional.md](../parts/07-seguranca/016-continuidade-operacional.md)*
 
 > **Situação:** minuta para discussão pública. **Versão:** 0.1. **Data:** 2026-11-07.
 
@@ -5989,7 +5989,7 @@ O projeto não anunciará continuidade garantida enquanto depender de uma única
 
 ## 07.017 — Cooperação institucional, inteligência e risco de captura de autoridades
 
-*Parte de origem: [parts/07-seguranca/017-cooperacao-institucional-e-riscos-de-captura.md](parts/07-seguranca/017-cooperacao-institucional-e-riscos-de-captura.md)*
+*Parte de origem: [parts/07-seguranca/017-cooperacao-institucional-e-riscos-de-captura.md](../parts/07-seguranca/017-cooperacao-institucional-e-riscos-de-captura.md)*
 
 > **Situação:** minuta para discussão pública. **Versão:** 0.1. **Data:** 2026-11-07.
 > **Condição:** não aprovada e sem eficácia institucional. Aplicação condicionada à futura forma jurídica, à lei e a controles efetivamente implementados.
@@ -6071,7 +6071,7 @@ V - medidas técnicas destinadas a frustrar determinações legais válidas.
 
 ## 07.018 — Detecção contínua, antecipação defensiva e validação
 
-*Parte de origem: [parts/07-seguranca/018-deteccao-continua-e-antecipacao-defensiva.md](parts/07-seguranca/018-deteccao-continua-e-antecipacao-defensiva.md)*
+*Parte de origem: [parts/07-seguranca/018-deteccao-continua-e-antecipacao-defensiva.md](../parts/07-seguranca/018-deteccao-continua-e-antecipacao-defensiva.md)*
 
 > **Situação:** minuta para discussão pública. **Versão:** 0.1. **Data:** 2026-11-07.
 > **Natureza:** política proposta. A documentação operacional e os segredos permanecerão em ambiente protegido.
@@ -6150,7 +6150,7 @@ Os resultados alimentarão correção de configuração, gestão de vulnerabilid
 
 ## 07.019 — Proteção de domínios, registros e estados EPP
 
-*Parte de origem: [parts/07-seguranca/019-dominios-registro-e-status-epp.md](parts/07-seguranca/019-dominios-registro-e-status-epp.md)*
+*Parte de origem: [parts/07-seguranca/019-dominios-registro-e-status-epp.md](../parts/07-seguranca/019-dominios-registro-e-status-epp.md)*
 
 > **Situação:** minuta para discussão pública. **Versão:** 0.1. **Data:** 2026-11-07.
 > **Aplicação:** compromisso proposto, sujeito a avaliação de risco, capacidade operacional e aprovação institucional.
@@ -6235,7 +6235,7 @@ O projeto não utilizará infraestrutura alternativa como justificativa para des
 
 ## 07.020 — Envenenamento de cache e resolução de nomes
 
-*Parte de origem: [parts/07-seguranca/020-envenenamento-de-cache-e-dns.md](parts/07-seguranca/020-envenenamento-de-cache-e-dns.md)*
+*Parte de origem: [parts/07-seguranca/020-envenenamento-de-cache-e-dns.md](../parts/07-seguranca/020-envenenamento-de-cache-e-dns.md)*
 
 > **Situação:** minuta para discussão pública. **Versão:** 0.1. **Data:** 2026-11-07.
 > **Natureza:** referência normativa e metodológica de segurança, sem alegação de controles já implementados.
@@ -6290,7 +6290,7 @@ A prova de um comportamento anômalo requer logs e contexto; não se presumirá 
 
 ## 07.021 — Espionagem e ameaças tecnicamente sofisticadas
 
-*Parte de origem: [parts/07-seguranca/021-espionagem-e-ameacas-avancadas.md](parts/07-seguranca/021-espionagem-e-ameacas-avancadas.md)*
+*Parte de origem: [parts/07-seguranca/021-espionagem-e-ameacas-avancadas.md](../parts/07-seguranca/021-espionagem-e-ameacas-avancadas.md)*
 
 > **Situação:** minuta para discussão pública. **Versão:** 0.1. **Data:** 2026-11-07.
 > **Natureza:** referência normativa e metodológica de segurança, sem alegação de controles já implementados.
@@ -6352,7 +6352,7 @@ A prioridade permanecerá a proteção proporcional: controle de endpoints, mini
 
 ## 07.022 — Gestão de vulnerabilidades
 
-*Parte de origem: [parts/07-seguranca/022-gestao-de-vulnerabilidades.md](parts/07-seguranca/022-gestao-de-vulnerabilidades.md)*
+*Parte de origem: [parts/07-seguranca/022-gestao-de-vulnerabilidades.md](../parts/07-seguranca/022-gestao-de-vulnerabilidades.md)*
 
 > **Situação:** minuta para discussão pública. **Versão:** 0.2. **Data:** 2026-11-07.
 > **Natureza:** política institucional proposta. Não comprova controles implementados.
@@ -6423,7 +6423,7 @@ As medidas poderão incluir atualização, isolamento, desativação, revisão d
 
 ## 07.023 — Inteligência de ameaças e contrainteligência defensiva
 
-*Parte de origem: [parts/07-seguranca/023-inteligencia-de-ameacas-e-contrainteligencia.md](parts/07-seguranca/023-inteligencia-de-ameacas-e-contrainteligencia.md)*
+*Parte de origem: [parts/07-seguranca/023-inteligencia-de-ameacas-e-contrainteligencia.md](../parts/07-seguranca/023-inteligencia-de-ameacas-e-contrainteligencia.md)*
 
 > **Situação:** minuta para discussão pública. **Versão:** 0.2. **Data:** 2026-11-07.
 > **Aplicação:** compromisso proposto, sujeito a avaliação de risco, capacidade operacional e aprovação institucional.
@@ -6528,7 +6528,7 @@ Consulte [Detecção contínua e antecipação defensiva](#parte-07-018).
 
 ## 07.024 — Logs, telemetria e trilhas de auditoria
 
-*Parte de origem: [parts/07-seguranca/024-logs-telemetria-e-trilhas-de-auditoria.md](parts/07-seguranca/024-logs-telemetria-e-trilhas-de-auditoria.md)*
+*Parte de origem: [parts/07-seguranca/024-logs-telemetria-e-trilhas-de-auditoria.md](../parts/07-seguranca/024-logs-telemetria-e-trilhas-de-auditoria.md)*
 
 > **Situação:** minuta para discussão pública. **Versão:** 0.1. **Data:** 2026-11-07.
 > **Natureza:** política proposta. A documentação operacional e os segredos permanecerão em ambiente protegido.
@@ -6599,7 +6599,7 @@ A preservação de logs respeitará privacidade, minimização e proteção de f
 
 ## 07.025 — MITRE: catálogo de táticas, técnicas, mitigação e detecção
 
-*Parte de origem: [parts/07-seguranca/025-mitre-catalogo-de-taticas-mitigacoes-e-deteccoes.md](parts/07-seguranca/025-mitre-catalogo-de-taticas-mitigacoes-e-deteccoes.md)*
+*Parte de origem: [parts/07-seguranca/025-mitre-catalogo-de-taticas-mitigacoes-e-deteccoes.md](../parts/07-seguranca/025-mitre-catalogo-de-taticas-mitigacoes-e-deteccoes.md)*
 
 > **Situação:** minuta. **Data:** 2026-11-07. **Atualização:** consultar catálogos oficiais, pois suas entradas e versões mudam.
 
@@ -6694,7 +6694,7 @@ O mapeamento de ATT&CK não substitui análise de riscos humanos, institucionais
 
 ## 07.026 — OWASP: catálogos, cenários e controles proativos
 
-*Parte de origem: [parts/07-seguranca/026-owasp-catalogos-proativos-e-casos.md](parts/07-seguranca/026-owasp-catalogos-proativos-e-casos.md)*
+*Parte de origem: [parts/07-seguranca/026-owasp-catalogos-proativos-e-casos.md](../parts/07-seguranca/026-owasp-catalogos-proativos-e-casos.md)*
 
 > **Situação:** minuta. **Data:** 2026-11-07. **Atualização:** consultar catálogos oficiais, pois suas entradas e versões mudam.
 
@@ -6768,7 +6768,7 @@ Toda implantação terá escopo e versão identificáveis, além de registro de 
 
 ## 07.027 — Pós-incidente, post-mortem e lições aprendidas
 
-*Parte de origem: [parts/07-seguranca/027-post-mortem-e-licoes-aprendidas.md](parts/07-seguranca/027-post-mortem-e-licoes-aprendidas.md)*
+*Parte de origem: [parts/07-seguranca/027-post-mortem-e-licoes-aprendidas.md](../parts/07-seguranca/027-post-mortem-e-licoes-aprendidas.md)*
 
 > **Situação:** minuta para discussão pública. **Versão:** 0.1. **Data:** 2026-11-07.
 > **Natureza:** política proposta. A documentação operacional e os segredos permanecerão em ambiente protegido.
@@ -6834,7 +6834,7 @@ Resumos públicos protegerão fontes, dados pessoais e detalhes que possibilitem
 
 ## 07.028 — Preservação e espelhamento
 
-*Parte de origem: [parts/07-seguranca/028-preservacao-e-espelhamento.md](parts/07-seguranca/028-preservacao-e-espelhamento.md)*
+*Parte de origem: [parts/07-seguranca/028-preservacao-e-espelhamento.md](../parts/07-seguranca/028-preservacao-e-espelhamento.md)*
 
 > **Situação:** minuta para discussão pública. **Versão:** 0.1. **Data:** 2026-11-07.
 
@@ -6858,7 +6858,7 @@ Backups confidenciais, acervo interno e espelhos públicos terão segregação e
 
 ## 07.029 — Referenciais técnicos e normativos de segurança
 
-*Parte de origem: [parts/07-seguranca/029-referenciais-de-seguranca.md](parts/07-seguranca/029-referenciais-de-seguranca.md)*
+*Parte de origem: [parts/07-seguranca/029-referenciais-de-seguranca.md](../parts/07-seguranca/029-referenciais-de-seguranca.md)*
 
 > **Situação:** minuta para discussão pública. **Versão:** 0.1. **Data:** 2026-11-07.
 > **Natureza:** referência normativa e metodológica de segurança, sem alegação de controles já implementados.
@@ -6951,7 +6951,7 @@ Os referenciais externos serão atualizados conforme mudanças documentadas, sem
 
 ## 07.030 — Resposta a incidentes
 
-*Parte de origem: [parts/07-seguranca/030-resposta-a-incidentes.md](parts/07-seguranca/030-resposta-a-incidentes.md)*
+*Parte de origem: [parts/07-seguranca/030-resposta-a-incidentes.md](../parts/07-seguranca/030-resposta-a-incidentes.md)*
 
 > **Situação:** minuta para discussão pública. **Versão:** 0.3. **Data:** 2026-11-07.
 > **Natureza:** política institucional proposta. Não comprova controles implementados.
@@ -7032,7 +7032,7 @@ Incidentes que exponham fontes exigirão prioridade de proteção, acompanhament
 
 ## 07.031 — Segregação de sistemas e dados
 
-*Parte de origem: [parts/07-seguranca/031-segregacao-de-sistemas-e-dados.md](parts/07-seguranca/031-segregacao-de-sistemas-e-dados.md)*
+*Parte de origem: [parts/07-seguranca/031-segregacao-de-sistemas-e-dados.md](../parts/07-seguranca/031-segregacao-de-sistemas-e-dados.md)*
 
 > **Situação:** minuta para discussão pública. **Versão:** 0.1. **Data:** 2026-11-07.
 
@@ -7056,7 +7056,7 @@ As fronteiras técnicas precisam ser testadas periodicamente, inclusive em alter
 
 ## 07.032 — Segurança de aplicações e cadeia de suprimentos
 
-*Parte de origem: [parts/07-seguranca/032-seguranca-de-aplicacoes-e-cadeia-de-suprimentos.md](parts/07-seguranca/032-seguranca-de-aplicacoes-e-cadeia-de-suprimentos.md)*
+*Parte de origem: [parts/07-seguranca/032-seguranca-de-aplicacoes-e-cadeia-de-suprimentos.md](../parts/07-seguranca/032-seguranca-de-aplicacoes-e-cadeia-de-suprimentos.md)*
 
 > **Situação:** minuta para discussão pública. **Versão:** 0.1. **Data:** 2026-11-07.
 > **Natureza:** referência normativa e metodológica de segurança, sem alegação de controles já implementados.
@@ -7136,7 +7136,7 @@ A inserção de backdoors e o abuso de credenciais administrativas serão tratad
 
 ## 07.033 — Segurança dos colaboradores
 
-*Parte de origem: [parts/07-seguranca/033-seguranca-dos-colaboradores.md](parts/07-seguranca/033-seguranca-dos-colaboradores.md)*
+*Parte de origem: [parts/07-seguranca/033-seguranca-dos-colaboradores.md](../parts/07-seguranca/033-seguranca-dos-colaboradores.md)*
 
 > **Situação:** minuta para discussão pública. **Versão:** 0.2. **Data:** 2026-11-07.
 > **Natureza:** política institucional proposta. Não comprova controles implementados.
@@ -7196,7 +7196,7 @@ A crítica à direção institucional não será classificada como ameaça de se
 
 ## 08.001 — Política de recebimento
 
-*Parte de origem: [parts/08-denuncias/001-politica-de-recebimento.md](parts/08-denuncias/001-politica-de-recebimento.md)*
+*Parte de origem: [parts/08-denuncias/001-politica-de-recebimento.md](../parts/08-denuncias/001-politica-de-recebimento.md)*
 
 > **Situação:** minuta para discussão pública. **Versão:** 0.1. **Data:** 2026-11-07.
 
@@ -7220,7 +7220,7 @@ Consulte [Cooperação Segura](#parte-08-009).
 
 ## 08.002 — Rede de fontes protegidas
 
-*Parte de origem: [parts/08-denuncias/002-rede-de-fontes-protegidas.md](parts/08-denuncias/002-rede-de-fontes-protegidas.md)*
+*Parte de origem: [parts/08-denuncias/002-rede-de-fontes-protegidas.md](../parts/08-denuncias/002-rede-de-fontes-protegidas.md)*
 
 > **Situação:** minuta para discussão pública. **Versão:** 0.1. **Data:** 2026-11-07.
 
@@ -7244,7 +7244,7 @@ A continuidade de contato deverá ser oferecida apenas quando houver capacidade 
 
 ## 08.003 — Anonimato e pseudonimato
 
-*Parte de origem: [parts/08-denuncias/003-anonimato-e-pseudonimato.md](parts/08-denuncias/003-anonimato-e-pseudonimato.md)*
+*Parte de origem: [parts/08-denuncias/003-anonimato-e-pseudonimato.md](../parts/08-denuncias/003-anonimato-e-pseudonimato.md)*
 
 > **Situação:** minuta para discussão pública. **Versão:** 0.1. **Data:** 2026-11-07.
 
@@ -7268,7 +7268,7 @@ Os mecanismos de comunicação não poderão ser anunciados como garantia de ano
 
 ## 08.004 — Comunicação segura
 
-*Parte de origem: [parts/08-denuncias/004-comunicacao-segura.md](parts/08-denuncias/004-comunicacao-segura.md)*
+*Parte de origem: [parts/08-denuncias/004-comunicacao-segura.md](../parts/08-denuncias/004-comunicacao-segura.md)*
 
 > **Situação:** minuta para discussão pública. **Versão:** 0.1. **Data:** 2026-11-07.
 
@@ -7292,7 +7292,7 @@ O armazenamento e a leitura de anexos deverão ocorrer em ambiente protegido, co
 
 ## 08.005 — Confidencialidade e sigilo
 
-*Parte de origem: [parts/08-denuncias/005-confidencialidade-e-sigilo.md](parts/08-denuncias/005-confidencialidade-e-sigilo.md)*
+*Parte de origem: [parts/08-denuncias/005-confidencialidade-e-sigilo.md](../parts/08-denuncias/005-confidencialidade-e-sigilo.md)*
 
 > **Situação:** minuta para discussão pública. **Versão:** 0.1. **Data:** 2026-11-07.
 
@@ -7316,7 +7316,7 @@ Em caso de risco de comprometimento de um destinatário institucional, serão av
 
 ## 08.006 — Triagem e verificação
 
-*Parte de origem: [parts/08-denuncias/006-triagem-e-verificacao.md](parts/08-denuncias/006-triagem-e-verificacao.md)*
+*Parte de origem: [parts/08-denuncias/006-triagem-e-verificacao.md](../parts/08-denuncias/006-triagem-e-verificacao.md)*
 
 > **Situação:** minuta para discussão pública. **Versão:** 0.1. **Data:** 2026-11-07.
 
@@ -7340,7 +7340,7 @@ O recebimento não constitui homologação da denúncia. Recusas e arquivamentos
 
 ## 08.007 — Tratamento de evidências recebidas
 
-*Parte de origem: [parts/08-denuncias/007-tratamento-de-evidencias.md](parts/08-denuncias/007-tratamento-de-evidencias.md)*
+*Parte de origem: [parts/08-denuncias/007-tratamento-de-evidencias.md](../parts/08-denuncias/007-tratamento-de-evidencias.md)*
 
 > **Situação:** minuta para discussão pública. **Versão:** 0.1. **Data:** 2026-11-07.
 
@@ -7364,7 +7364,7 @@ Os arquivos deverão ser lidos por procedimentos capazes de reduzir riscos de ma
 
 ## 08.008 — Encaminhamento a autoridades
 
-*Parte de origem: [parts/08-denuncias/008-encaminhamento-a-autoridades.md](parts/08-denuncias/008-encaminhamento-a-autoridades.md)*
+*Parte de origem: [parts/08-denuncias/008-encaminhamento-a-autoridades.md](../parts/08-denuncias/008-encaminhamento-a-autoridades.md)*
 
 > **Situação:** minuta para discussão pública. **Versão:** 0.1. **Data:** 2026-11-07.
 
@@ -7388,7 +7388,7 @@ Não serão concedidos a autoridades acesso indiscriminado ao banco de relatos o
 
 ## 08.009 — Cooperação segura com autoridades e preservação de independência
 
-*Parte de origem: [parts/08-denuncias/009-cooperacao-segura-com-autoridades.md](parts/08-denuncias/009-cooperacao-segura-com-autoridades.md)*
+*Parte de origem: [parts/08-denuncias/009-cooperacao-segura-com-autoridades.md](../parts/08-denuncias/009-cooperacao-segura-com-autoridades.md)*
 
 > **Situação:** minuta para discussão pública. **Versão:** 0.1. **Data:** 2026-11-07.
 > **Natureza:** referência de atuação legal, editorial e de segurança. Nenhum serviço é considerado implementado apenas pela existência do texto.
@@ -7458,7 +7458,7 @@ VI - orientação à fonte sobre consequências previsíveis e limites da confid
 
 ## 08.010 — Proteção contra retaliações
 
-*Parte de origem: [parts/08-denuncias/010-protecao-contra-retaliacoes.md](parts/08-denuncias/010-protecao-contra-retaliacoes.md)*
+*Parte de origem: [parts/08-denuncias/010-protecao-contra-retaliacoes.md](../parts/08-denuncias/010-protecao-contra-retaliacoes.md)*
 
 > **Situação:** minuta para discussão pública. **Versão:** 0.1. **Data:** 2026-11-07.
 
@@ -7482,7 +7482,7 @@ A proteção consistirá em reduzir exposição, buscar assistência jurídica e
 
 ## 08.011 — Retenção e exclusão
 
-*Parte de origem: [parts/08-denuncias/011-retencao-e-exclusao.md](parts/08-denuncias/011-retencao-e-exclusao.md)*
+*Parte de origem: [parts/08-denuncias/011-retencao-e-exclusao.md](../parts/08-denuncias/011-retencao-e-exclusao.md)*
 
 > **Situação:** minuta para discussão pública. **Versão:** 0.1. **Data:** 2026-11-07.
 
@@ -7506,7 +7506,7 @@ Conteúdo confidencial não será distribuído em redes públicas ou espelhos de
 
 ## 09.001 — Participação cidadã
 
-*Parte de origem: [parts/09-participacao/001-participacao-cidada.md](parts/09-participacao/001-participacao-cidada.md)*
+*Parte de origem: [parts/09-participacao/001-participacao-cidada.md](../parts/09-participacao/001-participacao-cidada.md)*
 
 > **Situação:** minuta para discussão pública. **Versão:** 0.1. **Data:** 2026-11-07.
 
@@ -7530,7 +7530,7 @@ A identidade de quem discorda ou propõe destituição interna não poderá ser 
 
 ## 09.002 — Controle social
 
-*Parte de origem: [parts/09-participacao/002-controle-social.md](parts/09-participacao/002-controle-social.md)*
+*Parte de origem: [parts/09-participacao/002-controle-social.md](../parts/09-participacao/002-controle-social.md)*
 
 > **Situação:** minuta para discussão pública. **Versão:** 0.1. **Data:** 2026-11-07.
 
@@ -7554,7 +7554,7 @@ Quando a reclamação se referir a suposto comprometimento do próprio órgão d
 
 ## 09.003 — Colaboração e voluntariado
 
-*Parte de origem: [parts/09-participacao/003-colaboracao-e-voluntariado.md](parts/09-participacao/003-colaboracao-e-voluntariado.md)*
+*Parte de origem: [parts/09-participacao/003-colaboracao-e-voluntariado.md](../parts/09-participacao/003-colaboracao-e-voluntariado.md)*
 
 > **Situação:** minuta para discussão pública. **Versão:** 0.2. **Data:** 2026-11-07.
 
@@ -7588,7 +7588,7 @@ O acesso administrativo será delegado gradualmente e poderá ser revisto de for
 
 ## 09.004 — Termo de Adesão e Compromisso Institucional
 
-*Parte de origem: [parts/09-participacao/004-termo-de-adesao-e-compromisso-institucional.md](parts/09-participacao/004-termo-de-adesao-e-compromisso-institucional.md)*
+*Parte de origem: [parts/09-participacao/004-termo-de-adesao-e-compromisso-institucional.md](../parts/09-participacao/004-termo-de-adesao-e-compromisso-institucional.md)*
 
 > **Situação:** minuta para discussão pública. **Versão:** 0.2. **Data:** 2026-11-07.
 > **Natureza:** proposta de termo institucional, sem efeito vinculante automático ou admissão de membros antes de aprovação e aceitação válida.
@@ -7764,7 +7764,7 @@ Nenhuma pessoa perderá automaticamente direitos de participação por formular 
 
 ## 09.005 — Processo de ingresso e habilitação de colaboradores
 
-*Parte de origem: [parts/09-participacao/005-processo-de-ingresso.md](parts/09-participacao/005-processo-de-ingresso.md)*
+*Parte de origem: [parts/09-participacao/005-processo-de-ingresso.md](../parts/09-participacao/005-processo-de-ingresso.md)*
 
 > **Situação:** minuta para discussão pública. **Versão:** 0.2. **Data:** 2026-11-07.
 > **Natureza:** proposta de termo institucional, sem efeito vinculante automático ou admissão de membros antes de aprovação e aceitação válida.
@@ -7878,7 +7878,7 @@ O sistema de habilitação eleitoral não poderá ser alterado retroativamente p
 
 ## 09.006 — Manifestações e reclamações
 
-*Parte de origem: [parts/09-participacao/006-manifestacoes-e-reclamacoes.md](parts/09-participacao/006-manifestacoes-e-reclamacoes.md)*
+*Parte de origem: [parts/09-participacao/006-manifestacoes-e-reclamacoes.md](../parts/09-participacao/006-manifestacoes-e-reclamacoes.md)*
 
 > **Situação:** minuta para discussão pública. **Versão:** 0.1. **Data:** 2026-11-07.
 
@@ -7902,7 +7902,7 @@ Não será prometida capacidade de resolver demanda que depende de autoridade ex
 
 ## 09.007 — Pedidos de acesso à informação
 
-*Parte de origem: [parts/09-participacao/007-pedidos-de-acesso-a-informacao.md](parts/09-participacao/007-pedidos-de-acesso-a-informacao.md)*
+*Parte de origem: [parts/09-participacao/007-pedidos-de-acesso-a-informacao.md](../parts/09-participacao/007-pedidos-de-acesso-a-informacao.md)*
 
 > **Situação:** minuta para discussão pública. **Versão:** 0.1. **Data:** 2026-11-07.
 
@@ -7926,7 +7926,7 @@ Respostas que contenham dados pessoais ou localização de pessoas vulneráveis 
 
 ## 09.008 — Proteção contra instrumentalização
 
-*Parte de origem: [parts/09-participacao/008-protecao-contra-instrumentalizacao.md](parts/09-participacao/008-protecao-contra-instrumentalizacao.md)*
+*Parte de origem: [parts/09-participacao/008-protecao-contra-instrumentalizacao.md](../parts/09-participacao/008-protecao-contra-instrumentalizacao.md)*
 
 > **Situação:** minuta para discussão pública. **Versão:** 0.1. **Data:** 2026-11-07.
 
@@ -7950,7 +7950,7 @@ Denúncias fabricadas, dados manipulados e pressão para publicar sem verificaç
 
 ## 10.001 — Política de memória
 
-*Parte de origem: [parts/10-memoria/001-politica-de-memoria.md](parts/10-memoria/001-politica-de-memoria.md)*
+*Parte de origem: [parts/10-memoria/001-politica-de-memoria.md](../parts/10-memoria/001-politica-de-memoria.md)*
 
 > **Situação:** minuta para discussão pública. **Versão:** 0.1. **Data:** 2026-11-07.
 
@@ -7974,7 +7974,7 @@ Pedidos de correção, anonimização e restrição de acesso deverão ser consi
 
 ## 10.002 — Preservação documental
 
-*Parte de origem: [parts/10-memoria/002-preservacao-documental.md](parts/10-memoria/002-preservacao-documental.md)*
+*Parte de origem: [parts/10-memoria/002-preservacao-documental.md](../parts/10-memoria/002-preservacao-documental.md)*
 
 > **Situação:** minuta para discussão pública. **Versão:** 0.1. **Data:** 2026-11-07.
 
@@ -7998,7 +7998,7 @@ Espelhos públicos serão reservados a materiais com publicação legitimamente 
 
 ## 10.003 — Critérios historiográficos
 
-*Parte de origem: [parts/10-memoria/003-criterios-historiograficos.md](parts/10-memoria/003-criterios-historiograficos.md)*
+*Parte de origem: [parts/10-memoria/003-criterios-historiograficos.md](../parts/10-memoria/003-criterios-historiograficos.md)*
 
 > **Situação:** minuta para discussão pública. **Versão:** 0.1. **Data:** 2026-11-07.
 
@@ -8022,7 +8022,7 @@ Narrativas sobre violência estatal, golpe, ditadura ou corrupção devem aprese
 
 ## 10.004 — Direitos e licenças do acervo
 
-*Parte de origem: [parts/10-memoria/004-direitos-e-licencas-do-acervo.md](parts/10-memoria/004-direitos-e-licencas-do-acervo.md)*
+*Parte de origem: [parts/10-memoria/004-direitos-e-licencas-do-acervo.md](../parts/10-memoria/004-direitos-e-licencas-do-acervo.md)*
 
 > **Situação:** minuta para discussão pública. **Versão:** 0.1. **Data:** 2026-11-07.
 
@@ -8046,7 +8046,7 @@ O uso de assinaturas, hashes e espelhos não elimina responsabilidades quanto a 
 
 ## 10.005 — Patrimônio cultural e histórico
 
-*Parte de origem: [parts/10-memoria/005-patrimonio-cultural-e-historico.md](parts/10-memoria/005-patrimonio-cultural-e-historico.md)*
+*Parte de origem: [parts/10-memoria/005-patrimonio-cultural-e-historico.md](../parts/10-memoria/005-patrimonio-cultural-e-historico.md)*
 
 > **Situação:** minuta para discussão pública. **Versão:** 0.1. **Data:** 2026-11-07.
 
@@ -8070,7 +8070,7 @@ Tradições, documentos e saberes de comunidades precisam de reconhecimento de p
 
 ## 10.006 — Tratamento de testemunhos
 
-*Parte de origem: [parts/10-memoria/006-tratamento-de-testemunhos.md](parts/10-memoria/006-tratamento-de-testemunhos.md)*
+*Parte de origem: [parts/10-memoria/006-tratamento-de-testemunhos.md](../parts/10-memoria/006-tratamento-de-testemunhos.md)*
 
 > **Situação:** minuta para discussão pública. **Versão:** 0.1. **Data:** 2026-11-07.
 
@@ -8094,7 +8094,7 @@ Quando um depoimento imputar ilícito a pessoa identificada, será buscada verif
 
 ## 11.001 — Compromisso educacional
 
-*Parte de origem: [parts/11-educacao/001-compromisso-educacional.md](parts/11-educacao/001-compromisso-educacional.md)*
+*Parte de origem: [parts/11-educacao/001-compromisso-educacional.md](../parts/11-educacao/001-compromisso-educacional.md)*
 
 > **Situação:** minuta para discussão pública. **Versão:** 0.1. **Data:** 2026-11-07.
 
@@ -8118,7 +8118,7 @@ Exemplos de casos públicos distinguirão pessoas efetivamente envolvidas de per
 
 ## 11.002 — Educação cívica e constitucional
 
-*Parte de origem: [parts/11-educacao/002-educacao-civica-e-constitucional.md](parts/11-educacao/002-educacao-civica-e-constitucional.md)*
+*Parte de origem: [parts/11-educacao/002-educacao-civica-e-constitucional.md](../parts/11-educacao/002-educacao-civica-e-constitucional.md)*
 
 > **Situação:** minuta para discussão pública. **Versão:** 0.1. **Data:** 2026-11-07.
 
@@ -8142,7 +8142,7 @@ Serão examinados riscos de captura institucional por procedimentos legais utili
 
 ## 11.003 — Educação histórica
 
-*Parte de origem: [parts/11-educacao/003-educacao-historica.md](parts/11-educacao/003-educacao-historica.md)*
+*Parte de origem: [parts/11-educacao/003-educacao-historica.md](../parts/11-educacao/003-educacao-historica.md)*
 
 > **Situação:** minuta para discussão pública. **Versão:** 0.1. **Data:** 2026-11-07.
 
@@ -8168,7 +8168,7 @@ Referência: [Museu Memorial do Holocausto, Ascensão dos Nazistas](https://ency
 
 ## 11.004 — Educação científica
 
-*Parte de origem: [parts/11-educacao/004-educacao-cientifica.md](parts/11-educacao/004-educacao-cientifica.md)*
+*Parte de origem: [parts/11-educacao/004-educacao-cientifica.md](../parts/11-educacao/004-educacao-cientifica.md)*
 
 > **Situação:** minuta para discussão pública. **Versão:** 0.1. **Data:** 2026-11-07.
 
@@ -8192,7 +8192,7 @@ O ensino não buscará substituir dogmas religiosos por obediência dogmática a
 
 ## 11.005 — Educação midiática
 
-*Parte de origem: [parts/11-educacao/005-educacao-midiatica.md](parts/11-educacao/005-educacao-midiatica.md)*
+*Parte de origem: [parts/11-educacao/005-educacao-midiatica.md](../parts/11-educacao/005-educacao-midiatica.md)*
 
 > **Situação:** minuta para discussão pública. **Versão:** 0.1. **Data:** 2026-11-07.
 
@@ -8216,7 +8216,7 @@ O Rondoscópio também ensinará a criticar sua própria apresentação dos fato
 
 ## 11.006 — Critérios didáticos
 
-*Parte de origem: [parts/11-educacao/006-criterios-didaticos.md](parts/11-educacao/006-criterios-didaticos.md)*
+*Parte de origem: [parts/11-educacao/006-criterios-didaticos.md](../parts/11-educacao/006-criterios-didaticos.md)*
 
 > **Situação:** minuta para discussão pública. **Versão:** 0.1. **Data:** 2026-11-07.
 
@@ -8240,7 +8240,7 @@ A educação permitirá discordância fundamentada e atualização de conclusõe
 
 ## 11.007 — Educação em direitos humanos
 
-*Parte de origem: [parts/11-educacao/007-educacao-em-direitos-humanos.md](parts/11-educacao/007-educacao-em-direitos-humanos.md)*
+*Parte de origem: [parts/11-educacao/007-educacao-em-direitos-humanos.md](../parts/11-educacao/007-educacao-em-direitos-humanos.md)*
 
 > **Situação:** minuta para discussão pública. **Versão:** 0.1. **Data:** 2026-11-07.
 
@@ -8264,7 +8264,7 @@ A defesa dos direitos humanos deverá ser vinculada a procedimentos e responsabi
 
 ## 11.008 — Educação em privacidade digital
 
-*Parte de origem: [parts/11-educacao/008-educacao-em-privacidade-digital.md](parts/11-educacao/008-educacao-em-privacidade-digital.md)*
+*Parte de origem: [parts/11-educacao/008-educacao-em-privacidade-digital.md](../parts/11-educacao/008-educacao-em-privacidade-digital.md)*
 
 > **Situação:** minuta para discussão pública. **Versão:** 0.1. **Data:** 2026-11-07.
 
@@ -8288,7 +8288,7 @@ A orientação não incentivará obtenção ilícita de dados ou invasão de sis
 
 ## 12.001 — Compromissos de transparência
 
-*Parte de origem: [parts/12-transparencia/001-compromissos-de-transparencia.md](parts/12-transparencia/001-compromissos-de-transparencia.md)*
+*Parte de origem: [parts/12-transparencia/001-compromissos-de-transparencia.md](../parts/12-transparencia/001-compromissos-de-transparencia.md)*
 
 > **Situação:** minuta para discussão pública. **Versão:** 0.1. **Data:** 2026-11-07.
 
@@ -8310,7 +8310,7 @@ A publicidade não impõe divulgação de credenciais, identidades de denunciant
 
 ## 12.002 — Publicidade das decisões
 
-*Parte de origem: [parts/12-transparencia/002-publicidade-das-decisoes.md](parts/12-transparencia/002-publicidade-das-decisoes.md)*
+*Parte de origem: [parts/12-transparencia/002-publicidade-das-decisoes.md](../parts/12-transparencia/002-publicidade-das-decisoes.md)*
 
 > **Situação:** minuta para discussão pública. **Versão:** 0.1. **Data:** 2026-11-07.
 
@@ -8332,7 +8332,7 @@ Atos inferiores não poderão ser apresentados como emendas constitucionais ou d
 
 ## 12.003 — Transparência financeira
 
-*Parte de origem: [parts/12-transparencia/003-transparencia-financeira.md](parts/12-transparencia/003-transparencia-financeira.md)*
+*Parte de origem: [parts/12-transparencia/003-transparencia-financeira.md](../parts/12-transparencia/003-transparencia-financeira.md)*
 
 > **Situação:** minuta para discussão pública. **Versão:** 0.1. **Data:** 2026-11-07.
 
@@ -8354,7 +8354,7 @@ A divulgação de valores deverá ter período, natureza e método suficientes p
 
 ## 12.004 — Divulgação de conflitos
 
-*Parte de origem: [parts/12-transparencia/004-divulgacao-de-conflitos.md](parts/12-transparencia/004-divulgacao-de-conflitos.md)*
+*Parte de origem: [parts/12-transparencia/004-divulgacao-de-conflitos.md](../parts/12-transparencia/004-divulgacao-de-conflitos.md)*
 
 > **Situação:** minuta para discussão pública. **Versão:** 0.1. **Data:** 2026-11-07.
 
@@ -8376,7 +8376,7 @@ Uma declaração não elimina o conflito. Poderão ser necessárias revisão ind
 
 ## 12.005 — Indicadores da organização
 
-*Parte de origem: [parts/12-transparencia/005-indicadores-da-organizacao.md](parts/12-transparencia/005-indicadores-da-organizacao.md)*
+*Parte de origem: [parts/12-transparencia/005-indicadores-da-organizacao.md](../parts/12-transparencia/005-indicadores-da-organizacao.md)*
 
 > **Situação:** minuta para discussão pública. **Versão:** 0.1. **Data:** 2026-11-07.
 
@@ -8400,7 +8400,7 @@ O acompanhamento deverá servir para corrigir falhas e não para monitorar a vid
 
 ## 12.006 — Relatórios de atividades
 
-*Parte de origem: [parts/12-transparencia/006-relatorios-de-atividades.md](parts/12-transparencia/006-relatorios-de-atividades.md)*
+*Parte de origem: [parts/12-transparencia/006-relatorios-de-atividades.md](../parts/12-transparencia/006-relatorios-de-atividades.md)*
 
 > **Situação:** minuta para discussão pública. **Versão:** 0.1. **Data:** 2026-11-07.
 
@@ -8422,7 +8422,7 @@ Relatórios poderão explicar obstáculos de acesso à informação, decisões d
 
 ## 13.001 — Estrutura e técnica de redação normativa
 
-*Parte de origem: [parts/13-processos/001-estrutura-normativa.md](parts/13-processos/001-estrutura-normativa.md)*
+*Parte de origem: [parts/13-processos/001-estrutura-normativa.md](../parts/13-processos/001-estrutura-normativa.md)*
 
 > **Situação:** proposta de padrão editorial para os documentos constitutivos e normativos do Rondoscópio. **Versão:** 0.1. **Data:** 2026-11-07.
 
@@ -8505,7 +8505,7 @@ Os documentos não precisam usar solenidade artificial. A técnica legislativa s
 
 ## 13.002 — Ciclo de vida dos documentos
 
-*Parte de origem: [parts/13-processos/002-ciclo-de-vida-dos-documentos.md](parts/13-processos/002-ciclo-de-vida-dos-documentos.md)*
+*Parte de origem: [parts/13-processos/002-ciclo-de-vida-dos-documentos.md](../parts/13-processos/002-ciclo-de-vida-dos-documentos.md)*
 
 > **Situação:** minuta para discussão pública. **Versão:** 0.1. **Data:** 2026-11-07.
 
@@ -8529,7 +8529,7 @@ Versões históricas deverão ser preservadas quando possível, sem expor dados 
 
 ## 13.003 — Propostas de alteração
 
-*Parte de origem: [parts/13-processos/003-propostas-de-alteracao.md](parts/13-processos/003-propostas-de-alteracao.md)*
+*Parte de origem: [parts/13-processos/003-propostas-de-alteracao.md](../parts/13-processos/003-propostas-de-alteracao.md)*
 
 > **Situação:** minuta para discussão pública. **Versão:** 0.1. **Data:** 2026-11-07.
 
@@ -8553,7 +8553,7 @@ Quando houver risco jurídico ou de segurança, a revisão deverá incluir espec
 
 ## 13.004 — Revisão e aprovação dos documentos
 
-*Parte de origem: [parts/13-processos/004-revisao-e-aprovacao.md](parts/13-processos/004-revisao-e-aprovacao.md)*
+*Parte de origem: [parts/13-processos/004-revisao-e-aprovacao.md](../parts/13-processos/004-revisao-e-aprovacao.md)*
 
 > **Situação:** minuta para discussão pública. **Versão:** 0.2. **Data:** 2026-11-07.
 
@@ -8606,7 +8606,7 @@ A simples aceitação de pull request não constituirá aprovação jurídica ou
 
 ## 13.005 — Versionamento e vigência
 
-*Parte de origem: [parts/13-processos/005-versionamento-e-vigencia.md](parts/13-processos/005-versionamento-e-vigencia.md)*
+*Parte de origem: [parts/13-processos/005-versionamento-e-vigencia.md](../parts/13-processos/005-versionamento-e-vigencia.md)*
 
 > **Situação:** minuta para discussão pública. **Versão:** 0.1. **Data:** 2026-11-07.
 
@@ -8630,7 +8630,7 @@ Não haverá vigência retroativa para retirar direitos de defesa ou manipular p
 
 ## 13.006 — Plano de ampliação e auditoria documental
 
-*Parte de origem: [parts/13-processos/006-plano-de-ampliacao-documental.md](parts/13-processos/006-plano-de-ampliacao-documental.md)*
+*Parte de origem: [parts/13-processos/006-plano-de-ampliacao-documental.md](../parts/13-processos/006-plano-de-ampliacao-documental.md)*
 
 > **Situação:** registro de minutas para revisão. **Data:** 2026-11-07.
 > **Critério:** comparação entre o início desta revisão e a composição das alterações paralelas. A ampliação textual não equivale a aprovação nem implantação.
@@ -8889,7 +8889,7 @@ A validação automática de links e numeração ajuda a detectar problemas estr
 
 ## 13.007 — Registro de decisões
 
-*Parte de origem: [parts/13-processos/007-registro-de-decisoes.md](parts/13-processos/007-registro-de-decisoes.md)*
+*Parte de origem: [parts/13-processos/007-registro-de-decisoes.md](../parts/13-processos/007-registro-de-decisoes.md)*
 
 > **Situação:** minuta para discussão pública. **Versão:** 0.1. **Data:** 2026-11-07.
 
@@ -8913,7 +8913,7 @@ A ausência de comitê ou assembleia instalada será informada quando a decisão
 
 ## 14.001 — Referências e inspirações
 
-*Parte de origem: [parts/14-referencias/001-referencias-e-inspiracoes.md](parts/14-referencias/001-referencias-e-inspiracoes.md)*
+*Parte de origem: [parts/14-referencias/001-referencias-e-inspiracoes.md](../parts/14-referencias/001-referencias-e-inspiracoes.md)*
 
 > **Situação:** minuta para discussão pública. **Versão:** 0.1. **Data:** 2026-11-07.
 
@@ -9087,7 +9087,7 @@ A referência jurídica inclui [Constituição de 1988](https://www.planalto.gov
 
 ## 14.002 — Lições de movimentos cívicos, redes e jornalismo investigativo
 
-*Parte de origem: [parts/14-referencias/002-licoes-de-movimentos-civicos-e-jornalismo.md](parts/14-referencias/002-licoes-de-movimentos-civicos-e-jornalismo.md)*
+*Parte de origem: [parts/14-referencias/002-licoes-de-movimentos-civicos-e-jornalismo.md](../parts/14-referencias/002-licoes-de-movimentos-civicos-e-jornalismo.md)*
 
 > **Situação:** minuta para discussão pública. **Versão:** 0.1. **Data:** 2026-11-07.
 > **Natureza:** referência de atuação legal, editorial e de segurança. Nenhum serviço é considerado implementado apenas pela existência do texto.
@@ -9128,7 +9128,7 @@ As inspirações deverão ser registradas por contribuição efetiva, documento 
 
 ## 14.003 — Normas e legislação
 
-*Parte de origem: [parts/14-referencias/003-normas-e-legislacao.md](parts/14-referencias/003-normas-e-legislacao.md)*
+*Parte de origem: [parts/14-referencias/003-normas-e-legislacao.md](../parts/14-referencias/003-normas-e-legislacao.md)*
 
 > **Situação:** minuta para discussão pública. **Versão:** 0.1. **Data:** 2026-11-07.
 
@@ -9168,7 +9168,7 @@ Não tratar essas fontes como parecer específico sobre a futura pessoa jurídic
 
 ## 14.004 — Atribuições e licenças
 
-*Parte de origem: [parts/14-referencias/004-atribuicoes-e-licencas.md](parts/14-referencias/004-atribuicoes-e-licencas.md)*
+*Parte de origem: [parts/14-referencias/004-atribuicoes-e-licencas.md](../parts/14-referencias/004-atribuicoes-e-licencas.md)*
 
 > **Situação:** minuta para discussão pública. **Versão:** 0.1. **Data:** 2026-11-07.
 
@@ -9194,7 +9194,7 @@ A ausência de licença expressa não será interpretada como domínio público.
 
 ## 14.005 — Bibliografia
 
-*Parte de origem: [parts/14-referencias/005-bibliografia.md](parts/14-referencias/005-bibliografia.md)*
+*Parte de origem: [parts/14-referencias/005-bibliografia.md](../parts/14-referencias/005-bibliografia.md)*
 
 > **Situação:** minuta para discussão pública. **Versão:** 0.1. **Data:** 2026-11-07.
 
@@ -9222,7 +9222,7 @@ Bibliografia sobre desigualdades históricas, coronelismo e clientelismo deverá
 
 ## 14.006 — Direitos humanos, criminalidade e cooperação internacional
 
-*Parte de origem: [parts/14-referencias/006-direitos-humanos-e-cooperacao-internacional.md](parts/14-referencias/006-direitos-humanos-e-cooperacao-internacional.md)*
+*Parte de origem: [parts/14-referencias/006-direitos-humanos-e-cooperacao-internacional.md](../parts/14-referencias/006-direitos-humanos-e-cooperacao-internacional.md)*
 
 > **Situação:** minuta para discussão pública. **Versão:** 0.1. **Data:** 2026-11-07.
 > **Natureza:** diretriz proposta, sem vigência institucional até aprovação competente.
@@ -9267,7 +9267,7 @@ O Rondoscópio poderá cooperar com autoridades sem abdicar da independência ed
 
 ## 14.007 — Manifestos e cartas
 
-*Parte de origem: [parts/14-referencias/007-manifestos-e-cartas.md](parts/14-referencias/007-manifestos-e-cartas.md)*
+*Parte de origem: [parts/14-referencias/007-manifestos-e-cartas.md](../parts/14-referencias/007-manifestos-e-cartas.md)*
 
 > **Situação:** minuta para discussão pública. **Versão:** 0.1. **Data:** 2026-11-07.
 
@@ -9299,7 +9299,7 @@ A experiência da República de Weimar e da ascensão do nazismo deve ser estuda
 
 ## 14.008 — Metodologias e códigos éticos
 
-*Parte de origem: [parts/14-referencias/008-metodologias-e-codigos-eticos.md](parts/14-referencias/008-metodologias-e-codigos-eticos.md)*
+*Parte de origem: [parts/14-referencias/008-metodologias-e-codigos-eticos.md](../parts/14-referencias/008-metodologias-e-codigos-eticos.md)*
 
 > **Situação:** minuta para discussão pública. **Versão:** 0.1. **Data:** 2026-11-07.
 
@@ -9335,7 +9335,7 @@ Nenhum desses procedimentos será simplesmente copiado. O Rondoscópio deverá r
 
 ## 14.009 — Organizações e projetos semelhantes
 
-*Parte de origem: [parts/14-referencias/009-organizacoes-e-projetos.md](parts/14-referencias/009-organizacoes-e-projetos.md)*
+*Parte de origem: [parts/14-referencias/009-organizacoes-e-projetos.md](../parts/14-referencias/009-organizacoes-e-projetos.md)*
 
 > **Situação:** minuta para discussão pública. **Versão:** 0.1. **Data:** 2026-11-07.
 
@@ -9380,7 +9380,7 @@ A adaptação concreta consta de [Lições de Movimentos Cívicos e Jornalismo](
 
 ## 14.010 — Referenciais internacionais
 
-*Parte de origem: [parts/14-referencias/010-referenciais-internacionais.md](parts/14-referencias/010-referenciais-internacionais.md)*
+*Parte de origem: [parts/14-referencias/010-referenciais-internacionais.md](../parts/14-referencias/010-referenciais-internacionais.md)*
 
 > **Situação:** minuta para discussão pública. **Versão:** 0.1. **Data:** 2026-11-07.
 
@@ -9414,7 +9414,7 @@ A influência de princípios internacionais não significa parceria ou represent
 
 ## 14.011 — Software livre e dados abertos
 
-*Parte de origem: [parts/14-referencias/011-software-livre-e-dados-abertos.md](parts/14-referencias/011-software-livre-e-dados-abertos.md)*
+*Parte de origem: [parts/14-referencias/011-software-livre-e-dados-abertos.md](../parts/14-referencias/011-software-livre-e-dados-abertos.md)*
 
 > **Situação:** minuta para discussão pública. **Versão:** 0.1. **Data:** 2026-11-07.
 
@@ -9440,7 +9440,7 @@ A descentralização do acesso a informações públicas deverá respeitar direi
 
 ## 15.001 — [Título]
 
-*Parte de origem: [parts/15-modelos/001-modelo-de-documento.md](parts/15-modelos/001-modelo-de-documento.md)*
+*Parte de origem: [parts/15-modelos/001-modelo-de-documento.md](../parts/15-modelos/001-modelo-de-documento.md)*
 
 > **Situação:** proposta / em revisão / aprovado / vigente / substituído.
 > **Versão:** 0.1. **Data:** AAAA-MM-DD.
@@ -9480,7 +9480,7 @@ Quando houver risco de conflito com a Constituição interna, indique os disposi
 
 ## 15.002 — [Título do documento normativo]
 
-*Parte de origem: [parts/15-modelos/002-modelo-de-ato-normativo.md](parts/15-modelos/002-modelo-de-ato-normativo.md)*
+*Parte de origem: [parts/15-modelos/002-modelo-de-ato-normativo.md](../parts/15-modelos/002-modelo-de-ato-normativo.md)*
 
 > **Situação:** minuta para discussão. **Versão:** 0.1. **Data:** AAAA-MM-DD.
 > **Natureza:** documento institucional sujeito a aprovação.
@@ -9546,7 +9546,7 @@ Consulte [Hierarquia e Espécies Normativas](#parte-03-010).
 
 ## 15.003 — Modelo de ato institucional numerado
 
-*Parte de origem: [parts/15-modelos/003-modelo-de-ato-institucional.md](parts/15-modelos/003-modelo-de-ato-institucional.md)*
+*Parte de origem: [parts/15-modelos/003-modelo-de-ato-institucional.md](../parts/15-modelos/003-modelo-de-ato-institucional.md)*
 
 > **Situação:** minuta para discussão pública. **Versão:** 0.1. **Data:** 2026-11-07.
 > **Aplicabilidade:** proposta de norma interna, não equivale a lei ou estatuto registrado.
@@ -9599,7 +9599,7 @@ Indique normas superiores, fatos e critérios considerados. Ato interno não pod
 
 ## 15.004 — Modelo de declaração pessoal de adesão
 
-*Parte de origem: [parts/15-modelos/004-declaracao-de-adesao.md](parts/15-modelos/004-declaracao-de-adesao.md)*
+*Parte de origem: [parts/15-modelos/004-declaracao-de-adesao.md](../parts/15-modelos/004-declaracao-de-adesao.md)*
 
 > **Situação:** minuta para discussão pública. **Versão:** 0.2. **Data:** 2026-11-07.
 > **Natureza:** proposta de termo institucional, sem efeito vinculante automático ou admissão de membros antes de aprovação e aceitação válida.
@@ -9655,7 +9655,7 @@ Para funções sensíveis, a identidade e a chave pública deverão ser verifica
 
 ## 15.005 — Avaliação de compartilhamento com autoridade ou instituição parceira
 
-*Parte de origem: [parts/15-modelos/005-modelo-de-analise-de-cooperacao.md](parts/15-modelos/005-modelo-de-analise-de-cooperacao.md)*
+*Parte de origem: [parts/15-modelos/005-modelo-de-analise-de-cooperacao.md](../parts/15-modelos/005-modelo-de-analise-de-cooperacao.md)*
 
 > **Situação:** modelo interno de avaliação. Não inserir dados de fontes ou segredos em repositório público.
 
@@ -9695,7 +9695,7 @@ Não presumir corrupção ou infiltração por vínculos familiares, opinião po
 
 ## 15.006 — Ato Declaratório nº [número]/[ano]
 
-*Parte de origem: [parts/15-modelos/006-modelo-de-ato-declaratorio.md](parts/15-modelos/006-modelo-de-ato-declaratorio.md)*
+*Parte de origem: [parts/15-modelos/006-modelo-de-ato-declaratorio.md](../parts/15-modelos/006-modelo-de-ato-declaratorio.md)*
 
 > **Situação:** modelo de declaração de fato institucional, sem vigência própria.
 
@@ -9723,7 +9723,7 @@ Não utilizar ato declaratório para afirmar que órgão ainda não instalado to
 
 ## 15.007 — [Atividade ou sistema]
 
-*Parte de origem: [parts/15-modelos/007-modelo-de-avaliacao-de-risco.md](parts/15-modelos/007-modelo-de-avaliacao-de-risco.md)*
+*Parte de origem: [parts/15-modelos/007-modelo-de-avaliacao-de-risco.md](../parts/15-modelos/007-modelo-de-avaliacao-de-risco.md)*
 
 > **Uso:** documento interno quando contiver informações sensíveis.
 
@@ -9763,7 +9763,7 @@ Registre evidências e limitações, não apenas probabilidades subjetivas.
 
 ## 15.008 — Decreto Institucional nº [número]/[ano]
 
-*Parte de origem: [parts/15-modelos/008-modelo-de-decreto-institucional.md](parts/15-modelos/008-modelo-de-decreto-institucional.md)*
+*Parte de origem: [parts/15-modelos/008-modelo-de-decreto-institucional.md](../parts/15-modelos/008-modelo-de-decreto-institucional.md)*
 
 > **Situação:** modelo sem vigência ou força de decreto estatal.
 > **Emissor:** Administração ou outra função expressamente competente.
@@ -9799,7 +9799,7 @@ A escolha da palavra decreto não concede poder público, nem permite alterar a 
 
 ## 15.009 — Proposta de Emenda Constitucional Institucional nº [identificador]
 
-*Parte de origem: [parts/15-modelos/009-modelo-de-emenda-constitucional-institucional.md](parts/15-modelos/009-modelo-de-emenda-constitucional-institucional.md)*
+*Parte de origem: [parts/15-modelos/009-modelo-de-emenda-constitucional-institucional.md](../parts/15-modelos/009-modelo-de-emenda-constitucional-institucional.md)*
 
 > **Situação:** modelo de proposta, sem aprovação.
 > **Autor ou proponentes habilitados:** [registrar conforme regras de governança].
@@ -9837,7 +9837,7 @@ A verificação não deve ser feita exclusivamente por quem apresenta a proposta
 
 ## 15.010 — Instrução Normativa nº [número]/[ano]
 
-*Parte de origem: [parts/15-modelos/010-modelo-de-instrucao-normativa.md](parts/15-modelos/010-modelo-de-instrucao-normativa.md)*
+*Parte de origem: [parts/15-modelos/010-modelo-de-instrucao-normativa.md](../parts/15-modelos/010-modelo-de-instrucao-normativa.md)*
 
 > **Situação:** modelo ilustrativo, sem vigência.
 > **Instância técnica:** [função ou comitê].
@@ -9877,7 +9877,7 @@ III - [limite e exceções definidos na política superior].
 
 ## 15.011 — [Título da investigação]
 
-*Parte de origem: [parts/15-modelos/011-modelo-de-investigacao.md](parts/15-modelos/011-modelo-de-investigacao.md)*
+*Parte de origem: [parts/15-modelos/011-modelo-de-investigacao.md](../parts/15-modelos/011-modelo-de-investigacao.md)*
 
 > **Situação:** apuração interna, não publicar automaticamente.
 
@@ -9925,7 +9925,7 @@ Registre a decisão de publicar com fundamentos e direitos de resposta pertinent
 
 ## 15.012 — Nota Técnica nº [número]/[ano]
 
-*Parte de origem: [parts/15-modelos/012-modelo-de-nota-tecnica.md](parts/15-modelos/012-modelo-de-nota-tecnica.md)*
+*Parte de origem: [parts/15-modelos/012-modelo-de-nota-tecnica.md](../parts/15-modelos/012-modelo-de-nota-tecnica.md)*
 
 > **Situação:** modelo de estudo e recomendação, sem efeito normativo automático.
 
@@ -9961,7 +9961,7 @@ A nota não cria deveres, culpa, competência administrativa ou decisão obrigat
 
 ## 15.013 — Ordem de Serviço nº [número]/[ano]
 
-*Parte de origem: [parts/15-modelos/013-modelo-de-ordem-de-servico.md](parts/15-modelos/013-modelo-de-ordem-de-servico.md)*
+*Parte de origem: [parts/15-modelos/013-modelo-de-ordem-de-servico.md](../parts/15-modelos/013-modelo-de-ordem-de-servico.md)*
 
 > **Situação:** modelo, sem aprovação ou vigência.
 > **Responsável pela emissão:** [função habilitada].
@@ -9995,7 +9995,7 @@ III - tratamento de riscos e comunicação de impedimentos.
 
 ## 15.014 — Parecer de conformidade constitucional interna
 
-*Parte de origem: [parts/15-modelos/014-modelo-de-parecer-de-conformidade.md](parts/15-modelos/014-modelo-de-parecer-de-conformidade.md)*
+*Parte de origem: [parts/15-modelos/014-modelo-de-parecer-de-conformidade.md](../parts/15-modelos/014-modelo-de-parecer-de-conformidade.md)*
 
 > **Situação:** modelo ilustrativo, sem validade decisória isolada.
 > **Assunto:** [proposta ou ato concreto].
@@ -10034,7 +10034,7 @@ A conclusão não constitui veto absoluto da pessoa que assina. A validade depen
 
 ## 15.015 — Portaria nº [número]/[ano]
 
-*Parte de origem: [parts/15-modelos/015-modelo-de-portaria.md](parts/15-modelos/015-modelo-de-portaria.md)*
+*Parte de origem: [parts/15-modelos/015-modelo-de-portaria.md](../parts/15-modelos/015-modelo-de-portaria.md)*
 
 > **Situação:** modelo ilustrativo, sem vigência.
 > **Autoridade emissora:** [cargo e instância que efetivamente existem].
@@ -10074,7 +10074,7 @@ III - [dever de prestação de contas e substituição].
 
 ## 15.016 — [Nome da referência]
 
-*Parte de origem: [parts/15-modelos/016-modelo-de-referencia.md](parts/15-modelos/016-modelo-de-referencia.md)*
+*Parte de origem: [parts/15-modelos/016-modelo-de-referencia.md](../parts/15-modelos/016-modelo-de-referencia.md)*
 
 - **Tipo:** manifesto / organização / software / metodologia / norma / artigo.
 - **Fonte primária:** [URL].
@@ -10099,7 +10099,7 @@ Quando houver material protegido por licença, explique a licença e como a atri
 
 ## 15.017 — [Relatório de atividades]
 
-*Parte de origem: [parts/15-modelos/017-modelo-de-relatorio.md](parts/15-modelos/017-modelo-de-relatorio.md)*
+*Parte de origem: [parts/15-modelos/017-modelo-de-relatorio.md](../parts/15-modelos/017-modelo-de-relatorio.md)*
 
 #### Período e abrangência
 
@@ -10135,7 +10135,7 @@ Indique quais políticas e mecanismos previstos já foram implementados e quais 
 
 ## 15.018 — Resolução nº [número]/[ano]
 
-*Parte de origem: [parts/15-modelos/018-modelo-de-resolucao.md](parts/15-modelos/018-modelo-de-resolucao.md)*
+*Parte de origem: [parts/15-modelos/018-modelo-de-resolucao.md](../parts/15-modelos/018-modelo-de-resolucao.md)*
 
 > **Situação:** modelo ilustrativo, sem vigência.
 > **Instância proponente:** [órgão competente].
@@ -10178,7 +10178,7 @@ A [instância competente], após deliberação registrada em [referência da dec
 
 ## 15.019 — [Publicação objeto de correção]
 
-*Parte de origem: [parts/15-modelos/019-modelo-de-retificacao.md](parts/15-modelos/019-modelo-de-retificacao.md)*
+*Parte de origem: [parts/15-modelos/019-modelo-de-retificacao.md](../parts/15-modelos/019-modelo-de-retificacao.md)*
 
 > **Situação:** proposta de retificação, não publicar sem revisão.
 

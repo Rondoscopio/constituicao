@@ -1,73 +1,83 @@
 x-quality: &quality
   volumes:
-    - ./:/workspace:ro
+    - ../:/workspace:ro
   working_dir: /workspace
 
 services:
   docs:
     <<: *quality
     build:
-      context: .
+      context: ..
+      dockerfile: .config/container/Dockerfile
       target: docs
 
   javascript:
     <<: *quality
     build:
-      context: .
+      context: ..
+      dockerfile: .config/container/Dockerfile
       target: javascript
 
   workflows:
     <<: *quality
     build:
-      context: .
+      context: ..
+      dockerfile: .config/container/Dockerfile
       target: workflows
 
   zizmor:
     <<: *quality
     build:
-      context: .
+      context: ..
+      dockerfile: .config/container/Dockerfile
       target: zizmor
     command: [--offline, .github/workflows]
 
   hadolint:
     <<: *quality
     build:
-      context: .
+      context: ..
+      dockerfile: .config/container/Dockerfile
       target: hadolint
-    command: [/bin/hadolint, Dockerfile]
+    command: [/bin/hadolint, --config, .config/hadolint.yaml, .config/container/Dockerfile]
 
   gitleaks:
     <<: *quality
     build:
-      context: .
+      context: ..
+      dockerfile: .config/container/Dockerfile
       target: gitleaks
-    command: [dir, /workspace, --redact]
+    command: [dir, /workspace, --redact, --config, /workspace/.config/gitleaks.toml]
 
   osv:
     <<: *quality
     build:
-      context: .
+      context: ..
+      dockerfile: .config/container/Dockerfile
       target: osv
     command: [scan, source, --recursive, /workspace]
 
   trivy:
     <<: *quality
     build:
-      context: .
+      context: ..
+      dockerfile: .config/container/Dockerfile
       target: trivy
     command: [fs, --scanners, "vuln,secret,misconfig", --severity, "HIGH,CRITICAL", --exit-code, "1", /workspace]
 
   semgrep:
     <<: *quality
     build:
-      context: .
+      context: ..
+      dockerfile: .config/container/Dockerfile
       target: semgrep
-    command: [semgrep, scan, --config, /workspace/tooling/semgrep.yaml, --error, /workspace/scripts]
+    command: [semgrep, scan, --config, /workspace/.config/semgrep.yaml, --error, /workspace/.config/scripts]
 
   scorecard:
     <<: *quality
     build:
-      context: .
+      context: ..
+      dockerfile: .config/container/Dockerfile
       target: scorecard
     environment:
       GITHUB_AUTH_TOKEN: ${GITHUB_TOKEN:-}

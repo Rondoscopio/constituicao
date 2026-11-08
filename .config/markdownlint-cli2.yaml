@@ -1,0 +1,14 @@
+config:
+  default: false
+  MD009: true
+  MD010: true
+  MD047: true
+globs:
+  - README.md
+  - .github/CONTRIBUTING.md
+  - .github/SECURITY.md
+  - .github/CODE_OF_CONDUCT.md
+  - "parts/**/*.md"
+ignores:
+  - docs/CONSTITUICAO-COMPLETA.md
+  - docs/INDICE.md

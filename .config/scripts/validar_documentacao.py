@@ -5,7 +5,7 @@ import re
 import sys
 from urllib.parse import unquote
 
-ROOT = Path(__file__).resolve().parent.parent
+ROOT = Path(__file__).resolve().parents[2]
 PARTS = ROOT / "parts"
 LINK = re.compile(r"!?\[[^\]\n]*\]\(([^)\n]+)\)")
 EXTERNAL = re.compile(r"^(?:[a-z][a-z0-9+.-]*:|//)", re.I)
@@ -26,7 +26,7 @@ else:
         if sequence != list(range(1, len(sequence) + 1)):
             errors.append(f"Sequência não consecutiva: {section.relative_to(ROOT)}")
 for file in ROOT.rglob("*.md"):
-    if ".git" in file.parts:
+    if any(part in {".git", ".cache", ".local", "node_modules"} for part in file.parts):
         continue
     text = file.read_text(encoding="utf-8")
     for match in LINK.finditer(text):
