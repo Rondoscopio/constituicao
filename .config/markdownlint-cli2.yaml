@@ -5,6 +5,7 @@ config:
   MD047: true
 globs:
   - README.md
+  - .tools/README.md
   - .github/CONTRIBUTING.md
   - .github/SECURITY.md
   - .github/CODE_OF_CONDUCT.md

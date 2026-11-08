@@ -2,7 +2,7 @@
 
 **Comece pelo [Índice de leitura](docs/INDICE.md) ou pela [Constituição completa](docs/CONSTITUICAO-COMPLETA.md).**
 
-A fonte editável dos documentos fica exclusivamente em [parts/](parts/00-abertura/001-constituicao.md), com pastas e arquivos numerados. Não edite diretamente a edição consolidada. As configurações e os scripts ficam em `.config/`, os documentos gerados em `docs/` e os arquivos comunitários em `.github/`.
+A fonte editável dos documentos fica exclusivamente em [parts/](parts/00-abertura/001-constituicao.md), com pastas e arquivos numerados. Não edite diretamente a edição consolidada. As configurações declarativas ficam em `.config/`, as ferramentas e os scripts em `.tools/`, os documentos gerados em `docs/` e os arquivos comunitários em `.github/`.
 
 O Rondoscópio é uma iniciativa em formação dedicada à fiscalização do poder público, à investigação documental, ao controle social e à educação cívica e histórica, com foco inicial em Rondônia e seus municípios.
 
@@ -106,7 +106,8 @@ O Rondoscópio ainda está em constituição. O lançamento de serviços de den�
 
 ## Desenvolvimento e estrutura
 
-- [Configurações e scripts](.config/README.md)
+- [Ferramentas e scripts](.tools/README.md)
+- [Configurações do CI e ferramentas](.config/compose.yaml)
 - [Histórico](docs/CHANGELOG.md)
 - [Código de Conduta](.github/CODE_OF_CONDUCT.md)
 - [CI](.github/workflows/ci.yml)

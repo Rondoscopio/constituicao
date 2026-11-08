@@ -40,4 +40,4 @@ Os documentos normativos, editoriais e complementares vivem em `parts/NN-secao/N
 
 Execute `just generate` para regenerar `docs/INDICE.md` e `docs/CONSTITUICAO-COMPLETA.md`; execute `docker compose --file .config/compose.yaml run --rm docs` e `just docs` antes de solicitar revisão.
 
-As mudanças de caminho realizadas nesta reorganização estão em [Mapa de caminhos anteriores](../.config/scripts/legacy-paths.json). Renomear um arquivo numerado exige atualizar os links que apontam para ele.
+As mudanças de caminho realizadas nesta reorganização estão em [Mapa de caminhos anteriores](../.tools/scripts/legacy-paths.json). Renomear um arquivo numerado exige atualizar os links que apontam para ele.
