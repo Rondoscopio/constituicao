@@ -1,6 +1,6 @@
 # Áreas de atuação e objetivos de fiscalização
 
-> **Situação:** minuta para discussão pública. **Versão:** 0.1. **Data:** 2026-11-08.
+> **Situação:** minuta para discussão pública. **Versão:** 0.2. **Data:** 2026-11-09.
 
 Este documento detalha o escopo dos [objetivos institucionais](005-objetivos.md) do Rondoscópio, com foco inicial em Rondônia. Reúne as áreas planejadas de fiscalização, educação cívica, direitos humanos, transparência e pesquisa. Os objetivos não pressupõem sistemas ou serviços já implementados.
 
@@ -21,6 +21,7 @@ Consulte o [Catálogo de metas, indicadores e referenciais de fiscalização](..
 - **Executivo:** acompanhar atos administrativos, orçamento, contratos, serviços públicos, programas, decisões e resultados.
 - **Legislativo:** acompanhar assembleias e câmaras municipais, comparecimento às sessões, votações, discursos, comissões, despesas e atividade dos parlamentares.
 - **Judiciário:** apresentar informações públicas sobre gestão, orçamento, despesas, atos administrativos, produtividade e transparência, respeitados os limites legais de acesso e a independência judicial.
+- **Pagamentos extraordinários na Justiça:** monitorar subsídios, auxílios, verbas indenizatórias, gratificações, vantagens eventuais, pagamentos retroativos e acumulados a magistrados, membros do Ministério Público e servidores, quando houver dados públicos. Investigar padrões de remuneração total acima do teto constitucional ou do subsídio de referência, a base legal e a classificação das rubricas, sem presumir fraude ou intenção de contornar o teto.
 - **Processo legislativo:** acompanhar projetos de lei apresentados, aprovados, rejeitados, arquivados e em tramitação, incluindo autoria, emendas, votações, sanções e vetos.
 - **Órgãos de controle:** acompanhar fiscalizações, recomendações, auditorias e decisões públicas de instituições de controle, com atenção às suas competências e ao andamento dos procedimentos.
 - **Atos e decisões com efeitos econômicos ou sociais:** examinar efeitos documentados de leis, regulamentos, decisões administrativas e decisões judiciais públicas sobre direitos, serviços, concorrência e distribuição de benefícios, respeitando as competências de cada poder.
@@ -36,6 +37,7 @@ Consulte o [Catálogo de metas, indicadores e referenciais de fiscalização](..
 - **Vínculos e possíveis favorecimentos:** examinar relações pessoais, familiares, profissionais, societárias ou políticas entre agentes públicos e beneficiários de decisões, incluindo amigos e pessoas com negócios relacionados, somente quando houver documentação pertinente e interesse público demonstrável. Investigar critérios, alternativas, processo decisório e tratamento dado a outros interessados, sem presumir favorecimento ilícito por existir um vínculo.
 - **Conflitos de interesses e captura de decisões:** analisar situações em que interesses privados possam influenciar atos estatais, mudanças regulatórias, concessões de benefícios ou contratações, distinguindo evidências verificadas, hipóteses e conclusões.
 - **Padrões atípicos:** divulgar análises revisadas sobre concentração de pagamentos, recorrência de fornecedores, preços fora do padrão e outras situações que mereçam apuração, sem tratar anomalias como provas de ilícito.
+- **Despesas com pessoal e benefícios:** acompanhar folhas de pagamento, indenizações, adicionais, auxílios, férias, décimo terceiro e parcelas retroativas nos três poderes e órgãos autônomos, distinguindo remuneração pessoal, reembolsos por despesas comprovadas e custos operacionais de gabinetes e mandatos.
 
 ## Políticas públicas, metas e omissões
 
@@ -54,6 +56,7 @@ Consulte o [Catálogo de metas, indicadores e referenciais de fiscalização](..
 
 - **Indicadores socioeconômicos:** acompanhar renda, emprego, educação, saúde, saneamento, pobreza, desenvolvimento humano e qualidade de vida.
 - **Desigualdade de renda:** apresentar índices como o Gini de renda, distribuição dos rendimentos, pobreza, extrema pobreza e concentração de renda.
+- **Distância entre remuneração parlamentar e renda da população:** comparar subsídios e remuneração pessoal efetivamente recebida por integrantes da Assembleia Legislativa e das Câmaras Municipais com a média e a mediana dos rendimentos do trabalho da população de Rondônia e das localidades comparáveis. Calcular quantas vezes uma remuneração supera cada referência, inclusive quando a razão atingir 15 vezes ou mais, somente com dados confirmados. Apresentar a moda apenas quando estatisticamente justificável, indicando os critérios de agrupamento dos rendimentos.
 - **Desenvolvimento humano:** acompanhar IDH e IDHM, respeitando o período, a metodologia e a disponibilidade de cada indicador.
 - **Concentração fundiária:** analisar a distribuição da propriedade e da posse da terra, a estrutura dos estabelecimentos agropecuários e medidas como o Gini fundiário quando houver dados adequados.
 - **Desigualdades territoriais e sociais:** comparar municípios, bairros, áreas urbanas e rurais e grupos populacionais, com atenção às diferenças de acesso a direitos, serviços e oportunidades.
