@@ -1,6 +1,6 @@
 # Valores
 
-> **Situação:** minuta para discussão pública. **Versão:** 0.3. **Data:** 2026-11-07.
+> **Situação:** minuta para discussão pública. **Versão:** 0.4. **Data:** 2026-11-09.
 
 **Independência.** Investigações e publicações não devem ser subordinadas a governos, partidos, empresas ou financiadores.
 
@@ -33,6 +33,68 @@
 **Responsabilidade climática.** Reconhecemos as evidências científicas do aquecimento global causado por atividades humanas e defendemos medidas fundamentadas de mitigação, adaptação e combate à desinformação climática.
 
 **Reparação histórica.** A promoção da igualdade material exige reconhecer e enfrentar consequências persistentes de injustiças históricas, mediante políticas legítimas, transparentes e avaliáveis.
+
+## Valores sociais, democráticos e progressistas
+
+Estes valores exprimem compromissos públicos, não vinculação partidária nem antecipação dos resultados das investigações.
+
+**Igualdade substantiva.** Reduzir desigualdades reais de renda, patrimônio, oportunidades e poder.
+
+**Justiça social.** Corrigir desvantagens estruturais e garantir condições dignas de existência.
+
+**Liberdade individual.** Proteger autonomia pessoal, consciência, expressão e escolhas de vida, respeitados os direitos de terceiros.
+
+**Democracia pluralista.** Defender eleições livres, alternância de poder, oposição legítima e independência institucional.
+
+**Solidariedade.** Reconhecer o bem-estar coletivo como responsabilidade compartilhada.
+
+**Universalismo.** Garantir direitos e serviços essenciais a todos, independentemente da condição econômica.
+
+**Equidade.** Reconhecer obstáculos e necessidades diferentes para promover oportunidades efetivamente iguais.
+
+**Redistribuição econômica.** Reconhecer tributação progressiva, serviços públicos e políticas sociais como instrumentos legítimos de redução de desigualdades, cuja efetividade deve ser avaliada.
+
+**Estado de bem-estar social.** Defender saúde, educação, previdência, proteção social e moradia digna.
+
+**Trabalho digno.** Defender direitos trabalhistas, negociação coletiva, saúde, segurança e remuneração justa.
+
+**Democracia econômica.** Ampliar a participação de trabalhadores e cidadãos em decisões econômicas.
+
+**Antirracismo.** Combater discriminação racial e desigualdades históricas e institucionais.
+
+**Igualdade de gênero.** Enfrentar desigualdades, violência e discriminação contra mulheres e pessoas de diferentes identidades de gênero.
+
+**Direitos LGBTQIA+.** Defender igualdade jurídica, liberdade de identidade e expressão e proteção contra discriminação e violência.
+
+**Laicidade do Estado.** Preservar neutralidade religiosa estatal e liberdade de crença e não crença.
+
+**Justiça ambiental.** Proteger o meio ambiente e enfrentar a distribuição desigual dos danos ambientais.
+
+**Sustentabilidade.** Conciliar desenvolvimento econômico, conservação ambiental e responsabilidade intergeracional.
+
+**Humanismo.** Priorizar dignidade, bem-estar e desenvolvimento humano.
+
+**Internacionalismo.** Promover cooperação internacional, paz, direitos humanos e desenvolvimento compartilhado.
+
+**Conhecimento e ciência.** Valorizar educação, pesquisa, evidências e decisões públicas fundamentadas.
+
+## Propostas de transformação democrática
+
+**Democratização da propriedade.** Reconhecer cooperativas, participação acionária de trabalhadores e outras modalidades legais de propriedade coletiva ou compartilhada.
+
+**Desmercantilização de direitos essenciais.** Reduzir a dependência do poder aquisitivo individual para acessar saúde, educação, habitação e proteção social.
+
+**Justiça distributiva e reparatória.** Enfrentar desigualdades contemporâneas e consequências persistentes de injustiças históricas.
+
+**Democracia participativa.** Incentivar conselhos, deliberações públicas e participação na elaboração e fiscalização dos orçamentos.
+
+**Justiça intergeracional.** Considerar direitos e condições de vida das gerações futuras.
+
+**Transição ecológica justa.** Transformar atividades prejudiciais ao ambiente sem abandonar trabalhadores e comunidades afetadas.
+
+**Combate à concentração de poder.** Investigar tanto o poder econômico excessivo de grupos privados quanto a concentração de poder estatal e o autoritarismo, distinguindo fatos comprovados de hipóteses.
+
+Os compromissos expressam princípios de finalidade pública, não a conclusão antecipada de uma investigação. Políticas e condutas deverão ser avaliadas por evidências, resultados, direitos e procedimentos verificáveis.
 
 ## Valores e garantias de continuidade
 

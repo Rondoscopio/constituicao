@@ -1,6 +1,6 @@
 # Proteção ambiental
 
-> **Situação:** minuta para discussão pública. **Versão:** 0.2. **Data:** 2026-11-07.
+> **Situação:** minuta para discussão pública. **Versão:** 0.3. **Data:** 2026-11-09.
 
 ## CAPÍTULO I
 ### DOS COMPROMISSOS AMBIENTAIS
@@ -49,6 +49,35 @@ Parágrafo único. A organização avaliará criticamente políticas, tecnologia
 - [MapBiomas Brasil](https://brasil.mapbiomas.org/).
 
 Consulte [Enfrentamento das mudanças climáticas](013-enfrentamento-das-mudancas-climaticas.md) e [Avaliação de políticas climáticas e reparatórias](../05-metodologia/007-avaliacao-de-politicas-climaticas-e-reparatorias.md).
+
+## CAPÍTULO IV
+### DA FISCALIZAÇÃO AMBIENTAL, DO GARIMPO ILEGAL E DOS POVOS INDÍGENAS
+
+**Art. 11.** O Rondoscópio reconhece a importância do Instituto Brasileiro do Meio Ambiente e dos Recursos Naturais Renováveis (IBAMA), dos órgãos ambientais estaduais e municipais e das demais instituições competentes para a proteção ambiental e o cumprimento da legislação.
+
+Parágrafo único. A valorização dessas instituições inclui condições adequadas para fiscalização, recursos, transparência e prestação de contas, sem afastar o exame crítico de seus próprios atos e omissões.
+
+**Art. 12.** A organização se opõe ao garimpo ilegal e a outras formas de mineração em violação às normas ambientais, sanitárias e aos direitos territoriais.
+
+**Art. 13.** O acompanhamento poderá considerar:
+
+I - poluição de rios e contaminação por mercúrio e outros agentes tóxicos;
+
+II - assoreamento, desmatamento, danos à biodiversidade e degradação de áreas protegidas;
+
+III - invasão de terras indígenas, ameaças, assassinatos e outras violências contra povos indígenas e comunidades tradicionais;
+
+IV - suspeitas documentadas de vínculos entre garimpo ilegal, narcotráfico, tráfico de armas, lavagem de dinheiro, corrupção, trabalho forçado e organizações criminosas;
+
+V - orçamentos, recursos, resultados, autos de infração, embargos e omissões dos órgãos competentes;
+
+VI - impactos sobre a saúde pública, água potável, segurança alimentar e modos de vida tradicionais.
+
+§ 1º A coexistência de atividades ilegais na mesma região não comprova, por si só, associação entre elas ou culpa de uma pessoa.
+
+§ 2º Acusações criminais dependem de evidência específica, respeito às competências institucionais e ao devido processo legal.
+
+**Art. 14.** A organização poderá oferecer informação pública e encaminhar denúncias fundamentadas às autoridades competentes, sem realizar ações policiais ou fiscalização coercitiva privada.
 
 ## DISPOSIÇÕES COMPLEMENTARES
 ### DA PREVENÇÃO E DA PROVA

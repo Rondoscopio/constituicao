@@ -957,7 +957,7 @@ O desenvolvimento será gradual e transparente quanto às funcionalidades ainda 
 
 *Parte de origem: [parts/01-identidade/004-valores.md](../parts/01-identidade/004-valores.md)*
 
-> **Situação:** minuta para discussão pública. **Versão:** 0.3. **Data:** 2026-11-07.
+> **Situação:** minuta para discussão pública. **Versão:** 0.4. **Data:** 2026-11-09.
 
 **Independência.** Investigações e publicações não devem ser subordinadas a governos, partidos, empresas ou financiadores.
 
@@ -990,6 +990,68 @@ O desenvolvimento será gradual e transparente quanto às funcionalidades ainda 
 **Responsabilidade climática.** Reconhecemos as evidências científicas do aquecimento global causado por atividades humanas e defendemos medidas fundamentadas de mitigação, adaptação e combate à desinformação climática.
 
 **Reparação histórica.** A promoção da igualdade material exige reconhecer e enfrentar consequências persistentes de injustiças históricas, mediante políticas legítimas, transparentes e avaliáveis.
+
+#### Valores sociais, democráticos e progressistas
+
+Estes valores exprimem compromissos públicos, não vinculação partidária nem antecipação dos resultados das investigações.
+
+**Igualdade substantiva.** Reduzir desigualdades reais de renda, patrimônio, oportunidades e poder.
+
+**Justiça social.** Corrigir desvantagens estruturais e garantir condições dignas de existência.
+
+**Liberdade individual.** Proteger autonomia pessoal, consciência, expressão e escolhas de vida, respeitados os direitos de terceiros.
+
+**Democracia pluralista.** Defender eleições livres, alternância de poder, oposição legítima e independência institucional.
+
+**Solidariedade.** Reconhecer o bem-estar coletivo como responsabilidade compartilhada.
+
+**Universalismo.** Garantir direitos e serviços essenciais a todos, independentemente da condição econômica.
+
+**Equidade.** Reconhecer obstáculos e necessidades diferentes para promover oportunidades efetivamente iguais.
+
+**Redistribuição econômica.** Reconhecer tributação progressiva, serviços públicos e políticas sociais como instrumentos legítimos de redução de desigualdades, cuja efetividade deve ser avaliada.
+
+**Estado de bem-estar social.** Defender saúde, educação, previdência, proteção social e moradia digna.
+
+**Trabalho digno.** Defender direitos trabalhistas, negociação coletiva, saúde, segurança e remuneração justa.
+
+**Democracia econômica.** Ampliar a participação de trabalhadores e cidadãos em decisões econômicas.
+
+**Antirracismo.** Combater discriminação racial e desigualdades históricas e institucionais.
+
+**Igualdade de gênero.** Enfrentar desigualdades, violência e discriminação contra mulheres e pessoas de diferentes identidades de gênero.
+
+**Direitos LGBTQIA+.** Defender igualdade jurídica, liberdade de identidade e expressão e proteção contra discriminação e violência.
+
+**Laicidade do Estado.** Preservar neutralidade religiosa estatal e liberdade de crença e não crença.
+
+**Justiça ambiental.** Proteger o meio ambiente e enfrentar a distribuição desigual dos danos ambientais.
+
+**Sustentabilidade.** Conciliar desenvolvimento econômico, conservação ambiental e responsabilidade intergeracional.
+
+**Humanismo.** Priorizar dignidade, bem-estar e desenvolvimento humano.
+
+**Internacionalismo.** Promover cooperação internacional, paz, direitos humanos e desenvolvimento compartilhado.
+
+**Conhecimento e ciência.** Valorizar educação, pesquisa, evidências e decisões públicas fundamentadas.
+
+#### Propostas de transformação democrática
+
+**Democratização da propriedade.** Reconhecer cooperativas, participação acionária de trabalhadores e outras modalidades legais de propriedade coletiva ou compartilhada.
+
+**Desmercantilização de direitos essenciais.** Reduzir a dependência do poder aquisitivo individual para acessar saúde, educação, habitação e proteção social.
+
+**Justiça distributiva e reparatória.** Enfrentar desigualdades contemporâneas e consequências persistentes de injustiças históricas.
+
+**Democracia participativa.** Incentivar conselhos, deliberações públicas e participação na elaboração e fiscalização dos orçamentos.
+
+**Justiça intergeracional.** Considerar direitos e condições de vida das gerações futuras.
+
+**Transição ecológica justa.** Transformar atividades prejudiciais ao ambiente sem abandonar trabalhadores e comunidades afetadas.
+
+**Combate à concentração de poder.** Investigar tanto o poder econômico excessivo de grupos privados quanto a concentração de poder estatal e o autoritarismo, distinguindo fatos comprovados de hipóteses.
+
+Os compromissos expressam princípios de finalidade pública, não a conclusão antecipada de uma investigação. Políticas e condutas deverão ser avaliadas por evidências, resultados, direitos e procedimentos verificáveis.
 
 #### Valores e garantias de continuidade
 
@@ -1850,7 +1912,7 @@ VI - redução de barreiras de acesso à informação e a direitos, inclusive ec
 
 *Parte de origem: [parts/02-principios/010-justica-social-e-economica.md](../parts/02-principios/010-justica-social-e-economica.md)*
 
-> **Situação:** minuta para discussão pública. **Versão:** 0.2. **Data:** 2026-11-07.
+> **Situação:** minuta para discussão pública. **Versão:** 0.3. **Data:** 2026-11-09.
 
 #### CAPÍTULO I
 ##### DA IGUALDADE MATERIAL E DAS CONDIÇÕES DE VIDA
@@ -1880,6 +1942,34 @@ VI - redução de barreiras de acesso à informação e a direitos, inclusive ec
 Parágrafo único. A proteção do meio ambiente e o combate a desigualdades podem reforçar-se mutuamente, mas os efeitos concretos de cada medida precisam ser avaliados.
 
 Consulte [Reparação de desigualdades históricas](#parte-02-011) e [Enfrentamento das mudanças climáticas](#parte-02-013).
+
+#### CAPÍTULO IV
+##### DOS DIREITOS SOCIAIS E DA DEMOCRACIA ECONÔMICA
+
+**Art. 9º** O Rondoscópio defende acesso efetivo a saúde, educação, moradia, previdência e proteção social, sem dependência exclusiva do poder aquisitivo individual.
+
+**Art. 10.** O projeto poderá examinar progressividade tributária, concentração patrimonial, benefícios fiscais e efeitos distributivos de gastos e serviços públicos.
+
+**Art. 11.** A proteção ao trabalho digno inclui direitos trabalhistas, negociação coletiva, remuneração justa, saúde e segurança do trabalho.
+
+**Art. 12.** A democracia econômica compreende a possibilidade de cooperativas, participação dos trabalhadores na gestão, propriedade compartilhada e outros modelos econômicos lícitos.
+
+Parágrafo único. A natureza pública, privada, cooperativa ou coletiva de uma organização não constitui, isoladamente, prova de justiça, eficiência ou ilegalidade.
+
+**Art. 13.** Políticas de universalismo, equidade, igualdade substantiva, combate ao racismo e à discriminação de gênero e contra pessoas LGBTQIA+ serão examinadas em suas condições reais de acesso, impactos e resultados.
+
+**Art. 14.** A participação cidadã em conselhos, deliberações e orçamentos poderá integrar o acompanhamento do controle social, sem prejuízo da representação democrática.
+
+**Art. 15.** A investigação da concentração de poder econômico ou estatal distinguirá assimetrias documentadas, condutas abusivas e eventuais ilícitos, sem presumir ilegalidade pela dimensão de um agente econômico.
+
+#### CAPÍTULO V
+##### DA JUSTIÇA INTERGERACIONAL
+
+**Art. 16.** O desenvolvimento sustentável deverá considerar efeitos sobre gerações futuras e sobre a distribuição territorial e social de custos e benefícios.
+
+**Art. 17.** A transição ecológica justa exige considerar alternativas de renda, qualificação, direitos trabalhistas e participação das comunidades afetadas.
+
+**Art. 18.** A posição institucional em defesa da justiça social não autoriza favorecer partidos ou governos, ocultar contraprovas ou substituir investigação por conclusão preconcebida.
 
 #### DISPOSIÇÕES COMPLEMENTARES
 ##### DA RESPONSABILIDADE NO DIAGNÓSTICO
@@ -1986,7 +2076,7 @@ VI - outras medidas proporcionais, com base jurídica e evidências de necessida
 
 *Parte de origem: [parts/02-principios/012-protecao-ambiental.md](../parts/02-principios/012-protecao-ambiental.md)*
 
-> **Situação:** minuta para discussão pública. **Versão:** 0.2. **Data:** 2026-11-07.
+> **Situação:** minuta para discussão pública. **Versão:** 0.3. **Data:** 2026-11-09.
 
 #### CAPÍTULO I
 ##### DOS COMPROMISSOS AMBIENTAIS
@@ -2035,6 +2125,35 @@ Parágrafo único. A organização avaliará criticamente políticas, tecnologia
 - [MapBiomas Brasil](https://brasil.mapbiomas.org/).
 
 Consulte [Enfrentamento das mudanças climáticas](#parte-02-013) e [Avaliação de políticas climáticas e reparatórias](#parte-05-007).
+
+#### CAPÍTULO IV
+##### DA FISCALIZAÇÃO AMBIENTAL, DO GARIMPO ILEGAL E DOS POVOS INDÍGENAS
+
+**Art. 11.** O Rondoscópio reconhece a importância do Instituto Brasileiro do Meio Ambiente e dos Recursos Naturais Renováveis (IBAMA), dos órgãos ambientais estaduais e municipais e das demais instituições competentes para a proteção ambiental e o cumprimento da legislação.
+
+Parágrafo único. A valorização dessas instituições inclui condições adequadas para fiscalização, recursos, transparência e prestação de contas, sem afastar o exame crítico de seus próprios atos e omissões.
+
+**Art. 12.** A organização se opõe ao garimpo ilegal e a outras formas de mineração em violação às normas ambientais, sanitárias e aos direitos territoriais.
+
+**Art. 13.** O acompanhamento poderá considerar:
+
+I - poluição de rios e contaminação por mercúrio e outros agentes tóxicos;
+
+II - assoreamento, desmatamento, danos à biodiversidade e degradação de áreas protegidas;
+
+III - invasão de terras indígenas, ameaças, assassinatos e outras violências contra povos indígenas e comunidades tradicionais;
+
+IV - suspeitas documentadas de vínculos entre garimpo ilegal, narcotráfico, tráfico de armas, lavagem de dinheiro, corrupção, trabalho forçado e organizações criminosas;
+
+V - orçamentos, recursos, resultados, autos de infração, embargos e omissões dos órgãos competentes;
+
+VI - impactos sobre a saúde pública, água potável, segurança alimentar e modos de vida tradicionais.
+
+§ 1º A coexistência de atividades ilegais na mesma região não comprova, por si só, associação entre elas ou culpa de uma pessoa.
+
+§ 2º Acusações criminais dependem de evidência específica, respeito às competências institucionais e ao devido processo legal.
+
+**Art. 14.** A organização poderá oferecer informação pública e encaminhar denúncias fundamentadas às autoridades competentes, sem realizar ações policiais ou fiscalização coercitiva privada.
 
 #### DISPOSIÇÕES COMPLEMENTARES
 ##### DA PREVENÇÃO E DA PROVA
@@ -2159,7 +2278,7 @@ A ciência climática será apresentada com seus consensos robustos e incertezas
 
 *Parte de origem: [parts/02-principios/015-combate-a-criminalidade-e-economias-ilicitas.md](../parts/02-principios/015-combate-a-criminalidade-e-economias-ilicitas.md)*
 
-> **Situação:** minuta para discussão pública. **Versão:** 0.1. **Data:** 2026-11-07.
+> **Situação:** minuta para discussão pública. **Versão:** 0.2. **Data:** 2026-11-09.
 > **Natureza:** diretriz proposta, sem vigência institucional até aprovação competente.
 
 #### CAPÍTULO I
@@ -2200,6 +2319,15 @@ Parágrafo único. As categorias legais não são intercambiáveis. O tráfico d
 - [Lei nº 11.343/2006, política de drogas](https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2006/lei/l11343.htm).
 - [Lei nº 13.344/2016, prevenção e repressão ao tráfico de pessoas](https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2016/lei/l13344.htm).
 - [UNODC, crime organizado](https://www.unodc.org/).
+
+#### CAPÍTULO III
+##### DA MINERAÇÃO ILÍCITA E DE CRIMES ASSOCIADOS
+
+**Art. 8º** O acompanhamento de economias ilícitas poderá abranger o financiamento, a logística e a circulação de recursos do garimpo ilegal, inclusive suspeitas documentadas de narcotráfico, lavagem de dinheiro, corrupção, invasões territoriais e violência contra povos indígenas.
+
+Parágrafo único. Não será presumida conexão criminosa com base apenas na localização, na profissão, no parentesco ou em atividade minerária lícita.
+
+**Art. 9º** O projeto poderá acompanhar a atuação e as omissões documentadas de instituições ambientais, policiais, ministeriais e judiciais, respeitados os sigilos legais, a presunção de inocência e a competência das autoridades.
 
 #### DISPOSIÇÕES COMPLEMENTARES
 ##### DA APURAÇÃO SEM VIGILÂNCIA PRIVADA

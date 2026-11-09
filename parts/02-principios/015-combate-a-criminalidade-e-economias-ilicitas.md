@@ -1,6 +1,6 @@
 # Criminalidade, tráfico ilícito, contrabando e descaminho
 
-> **Situação:** minuta para discussão pública. **Versão:** 0.1. **Data:** 2026-11-07.
+> **Situação:** minuta para discussão pública. **Versão:** 0.2. **Data:** 2026-11-09.
 > **Natureza:** diretriz proposta, sem vigência institucional até aprovação competente.
 
 ## CAPÍTULO I
@@ -41,6 +41,15 @@ Parágrafo único. As categorias legais não são intercambiáveis. O tráfico d
 - [Lei nº 11.343/2006, política de drogas](https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2006/lei/l11343.htm).
 - [Lei nº 13.344/2016, prevenção e repressão ao tráfico de pessoas](https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2016/lei/l13344.htm).
 - [UNODC, crime organizado](https://www.unodc.org/).
+
+## CAPÍTULO III
+### DA MINERAÇÃO ILÍCITA E DE CRIMES ASSOCIADOS
+
+**Art. 8º** O acompanhamento de economias ilícitas poderá abranger o financiamento, a logística e a circulação de recursos do garimpo ilegal, inclusive suspeitas documentadas de narcotráfico, lavagem de dinheiro, corrupção, invasões territoriais e violência contra povos indígenas.
+
+Parágrafo único. Não será presumida conexão criminosa com base apenas na localização, na profissão, no parentesco ou em atividade minerária lícita.
+
+**Art. 9º** O projeto poderá acompanhar a atuação e as omissões documentadas de instituições ambientais, policiais, ministeriais e judiciais, respeitados os sigilos legais, a presunção de inocência e a competência das autoridades.
 
 ## DISPOSIÇÕES COMPLEMENTARES
 ### DA APURAÇÃO SEM VIGILÂNCIA PRIVADA
