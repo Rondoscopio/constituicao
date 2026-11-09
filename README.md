@@ -18,6 +18,10 @@ O [núcleo de identidade](parts/03-governanca/008-clausulas-de-identidade-e-limi
 
 O [controle de compatibilidade interna](parts/03-governanca/011-procedimento-de-controle-de-constitucionalidade-interna.md) e os comitês previstos só poderão funcionar após instalação real de pessoas independentes, não na fase de ADM único.
 
+## Valores progressistas e independência na apuração
+
+O Rondoscópio declara inspiração na esquerda democrática, no humanismo e na social-democracia. Defende serviços públicos universais, educação pública gratuita e de qualidade, SUS universal e gratuito no atendimento, industrialização sustentável, redução das desigualdades sociais, raciais e de renda e proteção ambiental. Esses compromissos não significam filiação partidária nem favorecimento na apuração. Consulte o [Compromisso social-democrata, serviços públicos e desenvolvimento sustentável](parts/02-principios/023-compromisso-social-democrata-e-servicos-publicos.md) e a política de [Independência e imparcialidade](parts/02-principios/019-independencia-e-imparcialidade.md).
+
 ## Governança e separação de poderes
 
 A [Constituição Institucional](parts/00-abertura/001-constituicao.md) propõe uma organização que continua além de qualquer pessoa, sem privilégios permanentes de fundador. A função [ADM](parts/03-governanca/004-regimento-de-papeis-e-permissoes.md) é ocupada provisoriamente por uma pessoa nesta fase; os comitês e a assembleia ainda não estão instalados.

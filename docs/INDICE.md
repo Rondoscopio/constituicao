@@ -42,6 +42,7 @@
 - [02.020 — Laicidade e liberdade religiosa](../parts/02-principios/020-laicidade-e-liberdade-religiosa.md)
 - [02.021 — Memória e direito à informação](../parts/02-principios/021-memoria-e-direito-a-informacao.md)
 - [02.022 — Prudência e resistência à manipulação](../parts/02-principios/022-prudencia-e-resistencia-a-manipulacao.md)
+- [02.023 — Compromisso social-democrata, serviços públicos e desenvolvimento sustentável](../parts/02-principios/023-compromisso-social-democrata-e-servicos-publicos.md)
 
 ## 03 — Governança
 - [03.001 — Modelo institucional](../parts/03-governanca/001-modelo-institucional.md)

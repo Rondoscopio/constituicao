@@ -42,6 +42,7 @@
 - [02.020 — Laicidade e liberdade religiosa](#parte-02-020)
 - [02.021 — Memória e direito à informação](#parte-02-021)
 - [02.022 — Prudência e resistência à manipulação](#parte-02-022)
+- [02.023 — Compromisso social-democrata, serviços públicos e desenvolvimento sustentável](#parte-02-023)
 
 ### 03 — Governança
 - [03.001 — Modelo institucional](#parte-03-001)
@@ -957,7 +958,7 @@ O desenvolvimento será gradual e transparente quanto às funcionalidades ainda 
 
 *Parte de origem: [parts/01-identidade/004-valores.md](../parts/01-identidade/004-valores.md)*
 
-> **Situação:** minuta para discussão pública. **Versão:** 0.4. **Data:** 2026-11-09.
+> **Situação:** minuta para discussão pública. **Versão:** 0.5. **Data:** 2026-11-09.
 
 **Independência.** Investigações e publicações não devem ser subordinadas a governos, partidos, empresas ou financiadores.
 
@@ -990,6 +991,12 @@ O desenvolvimento será gradual e transparente quanto às funcionalidades ainda 
 **Responsabilidade climática.** Reconhecemos as evidências científicas do aquecimento global causado por atividades humanas e defendemos medidas fundamentadas de mitigação, adaptação e combate à desinformação climática.
 
 **Reparação histórica.** A promoção da igualdade material exige reconhecer e enfrentar consequências persistentes de injustiças históricas, mediante políticas legítimas, transparentes e avaliáveis.
+
+#### Compromisso com a esquerda democrática
+
+O Rondoscópio orienta sua finalidade pública por valores humanistas, progressistas e social-democratas: democracia pluralista, justiça social, igualdade substantiva, serviços públicos universais e direitos fundamentais. Defende a educação pública gratuita e de qualidade, o SUS universal e gratuito no atendimento, a valorização dos profissionais dos serviços públicos, a industrialização sustentável, o trabalho digno, o combate às desigualdades sociais, raciais e de renda e a proteção do meio ambiente.
+
+Essa identidade não significa filiação partidária. A organização deverá apurar fatos e avaliar políticas de qualquer orientação com os mesmos critérios, sem ocultar resultados contrários aos seus valores. Consulte o [Compromisso social-democrata, serviços públicos e desenvolvimento sustentável](#parte-02-023).
 
 #### Valores sociais, democráticos e progressistas
 
@@ -1069,7 +1076,7 @@ Os valores poderão ser aprofundados mediante debate e evidência, sem que mudan
 
 *Parte de origem: [parts/01-identidade/005-objetivos.md](../parts/01-identidade/005-objetivos.md)*
 
-> **Situação:** minuta para discussão pública. **Versão:** 0.1. **Data:** 2026-11-07.
+> **Situação:** minuta para discussão pública. **Versão:** 0.2. **Data:** 2026-11-09.
 
 #### Objetivo geral
 
@@ -1087,6 +1094,11 @@ Fortalecer o controle social, a educação cívica e a memória pública por mei
 8. Oferecer, quando tecnicamente e juridicamente viável, canais protegidos para colaboração e relatos.
 9. Divulgar dados e metodologias reutilizáveis quando legalmente permitidos.
 10. Estabelecer direito de resposta, prestação de contas institucional e mecanismos de correção.
+11. Acompanhar o acesso e a qualidade da educação pública gratuita, inclusive permanência, valorização profissional, financiamento e desigualdades territoriais.
+12. Fiscalizar acesso universal e gratuito no atendimento do SUS, filas, insumos, financiamento, cobertura e qualidade da saúde pública.
+13. Investigar desigualdades sociais, raciais, patrimoniais e de renda, bem como o alcance efetivo de políticas distributivas e reparatórias.
+14. Analisar industrialização sustentável, emprego, inovação, agregação de valor à produção regional e efeitos de políticas de desenvolvimento.
+15. Monitorar conservação ambiental, fiscalização, poluição, mudanças climáticas e impactos sobre comunidades e povos indígenas.
 
 #### Limites
 
@@ -2447,13 +2459,21 @@ A concentração fundiária e a transmissão patrimonial poderão justificar inv
 
 *Parte de origem: [parts/02-principios/019-independencia-e-imparcialidade.md](../parts/02-principios/019-independencia-e-imparcialidade.md)*
 
-> **Situação:** minuta para discussão pública. **Versão:** 0.1. **Data:** 2026-11-07.
+> **Situação:** minuta para discussão pública. **Versão:** 0.2. **Data:** 2026-11-09.
 
 A pauta será definida por relevância pública, evidências disponíveis e riscos reais, não por preferências partidárias de colaboradores ou apoiadores.
 
 As equipes devem declarar conflitos relevantes antes de assumir apurações. O vínculo com o objeto investigado pode exigir declaração pública, revisão adicional ou afastamento da decisão editorial.
 
 A imparcialidade é metodológica. Não significa neutralidade diante de direitos fundamentais ou necessidade de conceder igual espaço a afirmações sem sustentação documental.
+
+#### Da identidade de valores e da imparcialidade
+
+O Rondoscópio poderá assumir explicitamente inspiração na esquerda democrática, na social-democracia e no humanismo, defendendo serviços públicos universais, educação pública gratuita, saúde pública, industrialização sustentável, direitos trabalhistas, igualdade e conservação ambiental.
+
+Essa posição orienta a finalidade e a escolha de temas de interesse público, mas não determina antecipadamente as respostas. A instituição deverá investigar governos, partidos, empresas e autoridades de qualquer orientação, inclusive quando aliados ou simpatizantes de suas posições.
+
+As conclusões deverão permanecer abertas à evidência, à crítica, à correção e ao direito de resposta. Valores declarados não dispensam provas nem autorizam tratar como fatos preferências políticas.
 
 #### Da independência frente ao próprio projeto
 
@@ -2526,6 +2546,103 @@ A organização evitará transformar diagnósticos psiquiátricos em rótulos de
 Riscos reais de infiltração e engenharia social exigem controles técnicos e regras de acesso, não vigilância indiscriminada de amizades ou convicções.
 
 Suspeitas de operação coordenada ou espionagem deverão ser verificadas por provas, sem converter discordância crítica em sinal de conspiração.
+
+---
+
+<a id="parte-02-023"></a>
+
+## 02.023 — Compromisso social-democrata, serviços públicos e desenvolvimento sustentável
+
+*Parte de origem: [parts/02-principios/023-compromisso-social-democrata-e-servicos-publicos.md](../parts/02-principios/023-compromisso-social-democrata-e-servicos-publicos.md)*
+
+> **Situação:** minuta para discussão pública. **Versão:** 0.1. **Data:** 2026-11-09.
+> **Natureza:** declaração de valores e finalidades institucionais, não filiação partidária, programa eleitoral ou conclusão antecipada de investigação.
+
+#### CAPÍTULO I
+##### DA IDENTIDADE E DA ISENÇÃO METODOLÓGICA
+
+**Art. 1º** O Rondoscópio assume publicamente compromissos humanistas, progressistas e inspirados na esquerda democrática e na social-democracia, especialmente a defesa da dignidade humana, da liberdade, da igualdade substantiva, da justiça social, da democracia pluralista e da sustentabilidade ambiental.
+
+§ 1º O compromisso com esses valores não constitui filiação ou vinculação a partido, governo, candidatura ou movimento eleitoral.
+
+§ 2º O projeto preservará a liberdade de crítica, o contraditório, o direito de resposta e a disposição de rever interpretações e conclusões.
+
+**Art. 2º** A isenção do Rondoscópio é metodológica e editorial. Significa investigar e avaliar com critérios verificáveis, sem privilégios para autoridades ou grupos politicamente próximos de seus valores.
+
+Parágrafo único. A defesa de serviços públicos e direitos sociais não autoriza presumir que uma política seja eficaz, lícita ou justa apenas porque se apresenta como progressista, nem que seus críticos ajam de má-fé.
+
+#### CAPÍTULO II
+##### DOS SERVIÇOS PÚBLICOS E DOS DIREITOS SOCIAIS
+
+**Art. 3º** O Rondoscópio defende serviços públicos universais, acessíveis, contínuos, financiados de forma responsável, transparentes e capazes de reduzir desigualdades territoriais, sociais, econômicas e raciais.
+
+§ 1º São compromissos a qualidade do atendimento, a valorização de profissionais, a infraestrutura adequada, a capacidade técnica, a prevenção de desperdícios e o combate à corrupção.
+
+§ 2º A defesa do serviço público não afasta o controle de gastos, a avaliação de desempenho, a transparência ou a investigação de falhas e abusos.
+
+**Art. 4º** A organização defende o Sistema Único de Saúde (SUS) como política pública de acesso universal, integral, equitativo e gratuito no ponto de atendimento, sustentada por financiamento público, proteção social e gestão responsável.
+
+§ 1º A fiscalização poderá examinar atenção básica, vacinação, vigilância epidemiológica, assistência farmacêutica, saúde mental, urgências, filas, infraestrutura, condições de trabalho, compras, contratos, cobertura territorial e qualidade assistencial.
+
+§ 2º A gratuidade no atendimento não significa ausência de custos. A transparência sobre financiamento, despesas e resultados é parte do compromisso com a sustentabilidade do sistema.
+
+**Art. 5º** A organização defende a educação pública, gratuita, laica, inclusiva e de qualidade, da educação infantil ao ensino superior, incluindo educação profissional e tecnológica, pesquisa, extensão e oportunidades de aprendizagem ao longo da vida.
+
+§ 1º A valorização da educação abrange profissionais, carreira, formação, remuneração adequada, infraestrutura, permanência estudantil, acessibilidade, liberdade acadêmica e condições efetivas de aprendizagem.
+
+§ 2º Poderão ser acompanhados acesso a vagas, alfabetização, evasão, desempenho, financiamento, alimentação, transporte escolar, bibliotecas, laboratórios, conectividade e desigualdades entre territórios e grupos sociais.
+
+**Art. 6º** O projeto reconhece a importância de saneamento básico, abastecimento de água, mobilidade, habitação, assistência social, cultura e ciência como componentes de uma vida digna.
+
+Parágrafo único. Modelos de prestação direta, regulação, contratação ou cooperação deverão ser avaliados pelas obrigações legais, pelos resultados, pela equidade de acesso e pela prestação de contas, sem imunidade a críticas por sua natureza pública ou privada.
+
+#### CAPÍTULO III
+##### DA INDUSTRIALIZAÇÃO, DO DESENVOLVIMENTO E DO TRABALHO
+
+**Art. 7º** O Rondoscópio reconhece o papel da industrialização sustentável, do desenvolvimento científico e tecnológico e da diversificação produtiva na ampliação de empregos dignos, da capacidade econômica e da autonomia de desenvolvimento do país e de Rondônia.
+
+**Art. 8º** O projeto considera legítimas políticas de fortalecimento da indústria nacional, inovação, infraestrutura, pesquisa aplicada, formação técnica, agregação de valor à produção regional e desenvolvimento de pequenas e médias empresas.
+
+§ 1º O interesse público em incentivos, subsídios, crédito ou compras governamentais dependerá de regras claras, transparência, critérios de elegibilidade e avaliação de custos, benefícios e efeitos distributivos.
+
+§ 2º Incentivos econômicos não justificam favorecimento privado, desrespeito a direitos trabalhistas ou flexibilização ilegal da proteção ambiental.
+
+**Art. 9º** O desenvolvimento econômico defendido pelo Rondoscópio deve respeitar trabalho digno, negociação coletiva, proteção social, redução de desigualdades, sustentabilidade fiscal e responsabilidade ambiental.
+
+Parágrafo único. A diversificação produtiva será examinada também quanto à dependência excessiva de setores primários, à infraestrutura, à formação profissional e à distribuição territorial de oportunidades.
+
+#### CAPÍTULO IV
+##### DA IGUALDADE E DA PROTEÇÃO AMBIENTAL
+
+**Art. 10.** O Rondoscópio se compromete com o enfrentamento da desigualdade social, racial, territorial, patrimonial e de renda e com a redução de obstáculos estruturais ao exercício efetivo de direitos.
+
+§ 1º Esse compromisso compreende a legitimidade de políticas redistributivas, tributação progressiva, ações afirmativas e reparação de desigualdades históricas, sempre sujeitas à análise de legalidade, proporcionalidade, resultados e efeitos não previstos.
+
+§ 2º Serão observados os impactos sobre povos indígenas, comunidades tradicionais, população negra, mulheres, pessoas LGBTQIA+, pessoas com deficiência e outros grupos em situação de vulnerabilidade, sem atribuir culpa individual por identidade ou origem.
+
+**Art. 11.** O desenvolvimento econômico não poderá ser tratado como justificativa automática para desmatamento ilegal, contaminação dos rios, degradação da biodiversidade ou violação de direitos territoriais.
+
+**Art. 12.** O Rondoscópio valoriza a conservação e recuperação de florestas, águas e ecossistemas, a fiscalização ambiental competente, a proteção dos povos indígenas e a transição ecológica justa, com oportunidades de renda e trabalho para as comunidades envolvidas.
+
+#### CAPÍTULO V
+##### DA FISCALIZAÇÃO E DA PRESTAÇÃO DE CONTAS
+
+**Art. 13.** A fiscalização de políticas de saúde, educação, serviços públicos, indústria, trabalho, redistribuição e meio ambiente adotará indicadores verificáveis, comparação territorial e temporal, exame de orçamento, execução e entregas, avaliação de efeitos e divulgação das limitações dos dados.
+
+**Art. 14.** Governos e administrações de qualquer orientação política, assim como organizações privadas e seus beneficiários, estarão sujeitos a padrões equivalentes de apuração quando houver interesse público.
+
+**Art. 15.** Nenhuma investigação poderá ser suprimida, manipulada ou direcionada para proteger uma política, entidade ou pessoa identificada com os valores desta Carta.
+
+Parágrafo único. O Rondoscópio distinguirá de forma explícita seus compromissos normativos, os fatos verificados, as hipóteses investigativas e as conclusões sobre políticas públicas.
+
+#### Referências internas
+
+- [Valores](#parte-01-004).
+- [Objetivos institucionais](#parte-01-005).
+- [Justiça social e econômica](#parte-02-010).
+- [Proteção ambiental](#parte-02-012).
+- [Independência e imparcialidade](#parte-02-019).
+- [Avaliação de políticas públicas](#parte-05-008).
 
 ---
 
