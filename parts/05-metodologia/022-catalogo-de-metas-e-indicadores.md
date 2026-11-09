@@ -1,6 +1,6 @@
 # Catálogo de metas, indicadores e referenciais de fiscalização
 
-> **Situação:** minuta para discussão pública. **Versão:** 0.1. **Data:** 2026-11-08.
+> **Situação:** minuta para discussão pública. **Versão:** 0.2. **Data:** 2026-11-09.
 
 Este catálogo reúne referências de metas, indicadores e políticas públicas, complementando os [Objetivos institucionais](../01-identidade/005-objetivos.md), as [Áreas de atuação](../01-identidade/008-areas-de-atuacao-e-objetivos-de-fiscalizacao.md) e a [metodologia de indicadores e séries históricas](011-indicadores-e-series-historicas.md).
 
@@ -503,6 +503,38 @@ O IEGM reúne indicadores compostos e questões que variam por edição. As sete
 
 O [TCE-RO](https://www.tce.ro.gov.br/) também inclui o levantamento do IEGM dos **52 municípios de Rondônia** em suas atividades de controle. O [TCU](https://portal.tcu.gov.br/governanca/governanca-publica) oferece referências de governança, diagnóstico, formulação, implementação, monitoramento e avaliação de políticas públicas. As recomendações e determinações pertinentes serão acompanhadas como obrigações e compromissos conforme sua natureza jurídica.
 
+
+## Metas de fiscalização de remuneração pública e desigualdade de renda
+
+Estas metas são propostas de acompanhamento do Rondoscópio, não constatações de irregularidades ou metas numéricas impostas aos órgãos observados.
+
+### Verbas indenizatórias, adicionais e possíveis pagamentos extrateto
+
+**Objetivo:** identificar e explicar, especialmente no Judiciário e no Ministério Público, a composição das remunerações públicas, os pagamentos que ultrapassem o teto constitucional de referência e a eventual utilização de rubricas indenizatórias, auxílios ou parcelas retroativas para produzir remunerações excepcionalmente elevadas. A apuração deverá verificar a legalidade, a finalidade e o tratamento normativo de cada parcela, sem pressupor que o pagamento tenha sido concedido para burlar o teto.
+
+- **Composição da remuneração:** total mensal e anual, subsídio, parcelas remuneratórias, indenizatórias, eventuais e retroativas, décimo terceiro, férias, descontos e valores efetivamente recebidos, quando publicados.
+- **Pagamentos acima do teto de referência:** quantidade e proporção de contracheques com total pago superior ao teto aplicável, acompanhadas da indicação de parcelas sujeitas ou não ao limite legal, sem classificar automaticamente o total como ilícito.
+- **Peso das verbas adicionais:** participação de auxílios, indenizações, gratificações e retroativos no total pago, por rubrica, órgão, carreira e período.
+- **Pagamentos excepcionais:** frequência, concentração em determinados meses e distribuição de pagamentos retroativos ou acumulados; identificação da decisão, resolução, lei ou ato que os fundamenta.
+- **Mudança de rubricas:** alteração de nomes, valores, classificação jurídica e frequência de rubricas; confronto com regras vigentes no período, decisões dos tribunais superiores e determinações dos órgãos de controle.
+- **Transparência e completude:** meses ausentes, contracheques parciais, rubricas genéricas ou sem descrição, informações inconsistentes e disponibilidade de bases reutilizáveis, com pedidos de esclarecimento pelos canais legais.
+
+**Fontes de referência:** [Painel de Remuneração dos Magistrados do CNJ](https://www.cnj.jus.br/transparencia-cnj/remuneracao-dos-magistrados/), [Resolução CNJ nº 215/2015](https://atos.cnj.jus.br/atos/detalhar/2236), [Resolução Conjunta CNJ/CNMP nº 14/2026](https://atos.cnj.jus.br/atos/detalhar/6863), portais de transparência, folhas de pagamento e atos normativos específicos dos órgãos acompanhados. A interpretação deverá respeitar as decisões judiciais e as regras vigentes em cada competência de pagamento.
+
+### Disparidade entre remuneração de representantes e renda da população
+
+**Objetivo:** tornar compreensível a distância entre as remunerações pessoais dos integrantes do Legislativo estadual e municipal e os rendimentos da população, com comparações reproduzíveis, séries históricas e distinção entre pagamento pessoal e custos do mandato.
+
+- **Múltiplos do rendimento médio e mediano:** razão entre subsídio ou remuneração pessoal do parlamentar e média ou mediana dos rendimentos do trabalho da população ocupada, no mesmo período e território comparável.
+- **Moda dos rendimentos:** razão em relação ao rendimento mais frequente apenas quando uma distribuição de dados e uma metodologia explícita permitirem calculá-lo; evitar tomar faixas salariais arbitrárias ou salário mínimo como moda estimada.
+- **Exibição inteligível:** publicar frases como "a remuneração corresponde a 15 vezes o rendimento médio" somente após confirmar os dois valores e expor o cálculo, a data e o universo pesquisado. O número 15 é apenas exemplo de apresentação, não resultado antecipado.
+- **Distribuição e posição relativa:** percentis, mediana, média, amplitude e distribuição de rendimentos; comparações por município, estado, país e, quando relevante, entre carreiras públicas, respeitando amostragem e disponibilidade.
+- **Remuneração e custos do mandato:** comparar separadamente subsídio, benefícios pessoais e custo institucional por parlamentar; não somar cotas de gabinete, assessorias, diárias com prestação de contas ou despesas de funcionamento aos rendimentos privados do agente.
+- **Evolução e contexto:** acompanhar reajustes dos subsídios e evolução real dos rendimentos da população ao longo do tempo, com correção monetária, alterações nas normas remuneratórias e advertências sobre dados incompletos.
+
+**Fontes de referência:** [PNAD Contínua do IBGE](https://www.ibge.gov.br/estatisticas/sociais/trabalho/17270-pnad-continua.html), [dados de rendimento domiciliar per capita por UF do IBGE](https://agenciadenoticias.ibge.gov.br/agencia-sala-de-imprensa/2013-agencia-de-noticias/releases/45942-ibge-divulga-rendimento-domiciliar-per-capita-2025-para-brasil-e-unidades-da-federacao), portais de transparência da Assembleia Legislativa de Rondônia e das Câmaras Municipais, leis de subsídios e demonstrativos oficiais de remuneração.
+
+A publicação deverá diferenciar média, mediana, moda, salário mínimo, rendimento habitual do trabalho e renda domiciliar per capita. A comparação de grandezas diferentes pode ser útil para contexto social, mas não deve ser apresentada como se as medidas fossem equivalentes.
 
 ## Fontes e referenciais de pesquisa
 
