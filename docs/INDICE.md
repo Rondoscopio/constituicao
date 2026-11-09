@@ -194,6 +194,8 @@
 - [11.007 — Educação em direitos humanos](../parts/11-educacao/007-educacao-em-direitos-humanos.md)
 - [11.008 — Educação em privacidade digital](../parts/11-educacao/008-educacao-em-privacidade-digital.md)
 - [11.009 — Pensamento crítico, pós-verdade, empatia e memória histórica](../parts/11-educacao/009-pensamento-critico-pos-verdade-e-memoria.md)
+- [11.010 — Roteiro de investigação e educação inspirado no Meteoro Brasil](../parts/11-educacao/010-roteiro-critico-meteoro-brasil.md)
+- [11.011 — Roteiro de leitura sobre pós-verdade e respostas democráticas](../parts/11-educacao/011-roteiro-pos-verdade-matthew-dancona.md)
 
 ## 12 — Transparência
 - [12.001 — Compromissos de transparência](../parts/12-transparencia/001-compromissos-de-transparencia.md)

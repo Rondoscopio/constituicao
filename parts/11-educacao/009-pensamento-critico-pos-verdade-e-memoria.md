@@ -1,6 +1,6 @@
 # Pensamento crítico, pós-verdade, empatia e memória histórica
 
-> **Situação:** minuta para discussão pública. **Versão:** 0.1. **Data:** 2026-11-09.
+> **Situação:** minuta para discussão pública. **Versão:** 0.2. **Data:** 2026-11-09.
 > **Natureza:** diretriz educacional proposta, sem vigência institucional até aprovação competente.
 
 ## CAPÍTULO I
@@ -85,6 +85,9 @@ Parágrafo único. A memória pública não justifica expor informações íntim
 **Art. 19.** Será admitida discordância fundamentada e assegurada a possibilidade de correção pública de erros.
 
 ## Referências internas
+
+- [24 temas do Meteoro Brasil para investigação e ensino](010-roteiro-critico-meteoro-brasil.md).
+- [Cinco eixos de leitura sobre pós-verdade](011-roteiro-pos-verdade-matthew-dancona.md).
 
 - [Compromisso educacional](001-compromisso-educacional.md).
 - [Educação histórica](003-educacao-historica.md).

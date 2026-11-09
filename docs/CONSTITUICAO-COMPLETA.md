@@ -194,6 +194,8 @@
 - [11.007 — Educação em direitos humanos](#parte-11-007)
 - [11.008 — Educação em privacidade digital](#parte-11-008)
 - [11.009 — Pensamento crítico, pós-verdade, empatia e memória histórica](#parte-11-009)
+- [11.010 — Roteiro de investigação e educação inspirado no Meteoro Brasil](#parte-11-010)
+- [11.011 — Roteiro de leitura sobre pós-verdade e respostas democráticas](#parte-11-011)
 
 ### 12 — Transparência
 - [12.001 — Compromissos de transparência](#parte-12-001)
@@ -9283,7 +9285,7 @@ A orientação não incentivará obtenção ilícita de dados ou invasão de sis
 
 *Parte de origem: [parts/11-educacao/009-pensamento-critico-pos-verdade-e-memoria.md](../parts/11-educacao/009-pensamento-critico-pos-verdade-e-memoria.md)*
 
-> **Situação:** minuta para discussão pública. **Versão:** 0.1. **Data:** 2026-11-09.
+> **Situação:** minuta para discussão pública. **Versão:** 0.2. **Data:** 2026-11-09.
 > **Natureza:** diretriz educacional proposta, sem vigência institucional até aprovação competente.
 
 #### CAPÍTULO I
@@ -9369,6 +9371,9 @@ Parágrafo único. A memória pública não justifica expor informações íntim
 
 #### Referências internas
 
+- [24 temas do Meteoro Brasil para investigação e ensino](#parte-11-010).
+- [Cinco eixos de leitura sobre pós-verdade](#parte-11-011).
+
 - [Compromisso educacional](#parte-11-001).
 - [Educação histórica](#parte-11-003).
 - [Educação científica](#parte-11-004).
@@ -9377,6 +9382,225 @@ Parágrafo único. A memória pública não justifica expor informações íntim
 - [Política de memória](#parte-10-001).
 - [Análise de desinformação](#parte-05-006).
 - [Prudência e resistência à manipulação](#parte-02-022).
+
+---
+
+<a id="parte-11-010"></a>
+
+## 11.010 — Roteiro de investigação e educação inspirado no Meteoro Brasil
+
+*Parte de origem: [parts/11-educacao/010-roteiro-critico-meteoro-brasil.md](../parts/11-educacao/010-roteiro-critico-meteoro-brasil.md)*
+
+> **Situação:** minuta para discussão pública. **Versão:** 0.1. **Data:** 2026-11-09.
+> **Natureza:** roteiro autoral de temas de estudo. Não reproduz o texto do livro nem incorpora automaticamente as conclusões dos autores.
+
+#### Referência e finalidade
+
+Este documento toma como ponto de partida os **24 temas apresentados no sumário da obra [Tudo o que você precisou desaprender para virar um idiota](https://www.planetadelivros.com.br/livro-tudo-o-que-voce-precisou-desaprender-para-virar-um-idiota/307931)**, do Meteoro Brasil (Planeta, 2019), identificados na fotografia fornecida para o Rondoscópio.
+
+Os enunciados originais possuem formulações deliberadamente provocativas. Abaixo eles foram **reformulados como problemas de pesquisa e educação cívica**, não como fatos automaticamente comprovados. O projeto deverá verificar cada tema com documentação primária, estudos especializados, historiografia, indicadores pertinentes e consideração de hipóteses alternativas.
+
+#### CAPÍTULO I
+##### DO MÉTODO E DAS GARANTIAS
+
+**Art. 1º** Os temas elencados deverão subsidiar materiais de educação crítica, verificação documental, história, ciência e direitos humanos.
+
+**Art. 2º** A posição do livro ou da organização não substitui comprovação. O roteiro explicitará divergências legítimas, períodos históricos, referências e incertezas pertinentes.
+
+**Art. 3º** As análises não deverão confundir crítica a ideias e políticas com ataques à dignidade de pessoas, nem usar expressões polêmicas como prova da intenção de seus adeptos.
+
+#### CAPÍTULO II
+##### DOS 24 TEMAS DE ESTUDO
+
+##### 01 — Conspirações e alegações irrefutáveis
+
+Ensinar a distinguir suspeitas investigáveis de narrativas que sempre reinterpretam contraprovas como parte da conspiração. Pedir fontes primárias, hipóteses testáveis e critérios que poderiam mudar a conclusão.
+
+##### 02 — Globalização e a narrativa do globalismo
+
+Diferenciar fenômenos reais de integração econômica, instituições internacionais e acordos públicos da tese de uma direção mundial secreta e homogênea. Verificar atores, documentos e competências.
+
+##### 03 — A chamada religião biônica mundial
+
+Examinar a origem e a circulação dessa alegação conspiratória e sua relação com discursos sobre religião e cultura. Distinguir mudanças sociais observáveis de planos secretos sem evidência.
+
+##### 04 — A narrativa do marxismo cultural
+
+Investigar a história da expressão, sua circulação na propaganda política e as alegações sobre Escola de Frankfurt, instituições culturais e conspirações anticomunistas. Examinar documentos e historiografia, inclusive relações históricas com propaganda antissemita.
+
+##### 05 — Antonio Gramsci e interpretações de sua obra
+
+Estudar textos de Gramsci, seu contexto intelectual, suas ideias sobre hegemonia e a diferença entre pesquisa da obra e caricaturas sobre um suposto plano de manipulação da sociedade.
+
+##### 06 — Direitos humanos e alegações de dominação internacional
+
+Explicar a história, os fundamentos e os mecanismos legais dos direitos humanos; distinguir tratados, obrigações, recomendações e teorias sobre uma suposta dominação global.
+
+##### 07 — A expressão politicamente correto e seus usos políticos
+
+Investigar a origem histórica da expressão e sua apropriação por diferentes correntes. Distinguir debate legítimo sobre linguagem, liberdades e discriminação de explicações simplistas.
+
+##### 08 — Boatos sobre Barack Obama e serviços secretos
+
+Utilizar alegações de recrutamento por serviços de inteligência como estudo de atribuição responsável: origem do rumor, provas exigidas, cronologia, documentos e ônus de demonstração.
+
+##### 09 — Martin Luther King Jr., anticomunismo e direitos civis
+
+Examinar a trajetória de King, suas posições sobre comunismo, capitalismo, racismo e justiça econômica, sem reduzir sua atuação a uma frase ou rótulo ideológico.
+
+##### 10 — Psicologia, hierarquias sociais e pseudociência
+
+Distinguir descrições de diferenças humanas de justificativas normativas para castas ou discriminações. Investigar abuso de testes, eugenia, racismo científico e limitações metodológicas.
+
+##### 11 — Freud e a diferença entre descrição e prescrição
+
+Examinar conceitos psicanalíticos ligados à sexualidade e relações familiares, distinguindo formulações descritivas de apoio moral a práticas abusivas. Contextualizar debates e críticas científicas.
+
+##### 12 — Estudos de gênero e retórica de ideologia de gênero
+
+Explicar o campo acadêmico dos estudos de gênero, seus métodos e divergências, e investigar como expressões políticas são usadas para caracterizar políticas públicas e direitos LGBTQIA+.
+
+##### 13 — Contribuições de pessoas LGBTQIA+
+
+Documentar contribuições de pessoas LGBTQIA+ à ciência, à saúde, à cultura e à sociedade, combatendo apagamentos históricos sem transformar slogans em afirmações universais não verificáveis.
+
+##### 14 — Drogas, história e políticas baseadas em evidências
+
+Estudar a presença histórica de substâncias psicoativas, os diferentes riscos, a prevenção, a redução de danos, o tratamento e os efeitos das políticas repressivas, com fontes sanitárias e jurídicas.
+
+##### 15 — Método científico e conhecimento revisável
+
+Ensinar hipóteses, experimentos, reprodutibilidade, revisão por pares, avaliação crítica e limites do consenso. Reconhecer conquistas científicas sem tratar cientistas como infalíveis.
+
+##### 16 — Vacinação, eficácia e segurança
+
+Explicar ensaios clínicos, vigilância de eventos adversos, eficácia, efetividade, balanço entre riscos e benefícios e atualização de recomendações. Não afirmar risco nulo para toda vacina ou toda pessoa.
+
+##### 17 — Forma da Terra e astronomia básica
+
+Apresentar observações e experimentos reproduzíveis sobre a forma da Terra, rotação e movimento orbital, distinguindo o método científico de argumentos de autoridade.
+
+##### 18 — Dependência de combustíveis fósseis
+
+Examinar reservas finitas, emissões, custos ambientais, alternativas tecnológicas e transições energéticas, incluindo seus impactos sociais, industriais e distributivos.
+
+##### 19 — Aquecimento global e evidências climáticas
+
+Diferenciar variabilidade natural do clima e aquecimento global observado, apresentar evidências e atribuição científica e avaliar medidas de mitigação e adaptação sem confundir ciência com preferência por uma política específica.
+
+##### 20 — Escravidão e desigualdades persistentes
+
+Investigar documentos históricos e indicadores sobre efeitos duradouros da escravização, do racismo e da exclusão em patrimônio, renda, terra, educação e oportunidades, sem atribuir culpa individual por ancestralidade.
+
+##### 21 — Foro de São Paulo e sua documentação pública
+
+Explicar origem, participantes, encontros e documentos públicos do Foro de São Paulo, distinguindo organização política verificável de alegações de comando oculto ou responsabilidade criminal sem prova.
+
+##### 22 — Lei Rouanet e financiamento cultural
+
+Examinar o mecanismo legal de incentivo fiscal, aprovação de projetos, captação, prestação de contas, fiscalização e resultados. Distinguir crítica fundamentada, irregularidade comprovada e generalizações.
+
+##### 23 — Pesquisa e universidades públicas
+
+Documentar produção científica, formação de pesquisadores, serviços à sociedade, financiamento, extensão e inovação das universidades públicas, com indicadores comparáveis e transparência sobre limitações.
+
+##### 24 — Paulo Freire e educação crítica
+
+Estudar a obra, a recepção e as críticas documentadas a Paulo Freire, distinguindo concepções pedagógicas, práticas de sala de aula e acusações genéricas de doutrinação não demonstradas.
+
+#### CAPÍTULO III
+##### DAS FORMAS DE VERIFICAÇÃO
+
+**Art. 4º** Para cada tema, os materiais deverão informar: afirmação examinada, fontes primárias, contexto histórico, avaliação das evidências, explicações alternativas, conclusão proporcional à prova e data da última revisão.
+
+**Art. 5º** Alegações sobre pessoas e instituições, especialmente espionagem, crimes, organizações secretas ou corrupção, exigem comprovação específica e respeito à presunção de inocência e ao direito de resposta.
+
+**Art. 6º** Estudos científicos e históricos devem distinguir consenso bem sustentado, hipóteses abertas, controvérsias documentadas e posições negacionistas ou conspiratórias sem lastro comparável.
+
+**Art. 7º** O Rondoscópio poderá divergir das conclusões da obra referenciada quando a investigação identificar erros, exageros, lacunas ou novas informações.
+
+#### Referências e relações internas
+
+- Meteoro Brasil. [*Tudo o que você precisou desaprender para virar um idiota*](https://www.planetadelivros.com.br/livro-tudo-o-que-voce-precisou-desaprender-para-virar-um-idiota/307931). Planeta, 2019.
+- [Pensamento crítico, pós-verdade, empatia e memória histórica](#parte-11-009).
+- [Roteiro de leitura sobre pós-verdade e respostas democráticas](#parte-11-011).
+- [Bibliografia](#parte-14-005).
+
+---
+
+<a id="parte-11-011"></a>
+
+## 11.011 — Roteiro de leitura sobre pós-verdade e respostas democráticas
+
+*Parte de origem: [parts/11-educacao/011-roteiro-pos-verdade-matthew-dancona.md](../parts/11-educacao/011-roteiro-pos-verdade-matthew-dancona.md)*
+
+> **Situação:** minuta para discussão pública. **Versão:** 0.1. **Data:** 2026-11-09.
+> **Natureza:** síntese temática autoral inspirada na estrutura de uma obra publicada. Não contém reprodução dos capítulos.
+
+#### Referência e objetivo
+
+O documento se inspira nos **cinco capítulos** de *Pós-verdade: A nova guerra contra os fatos em tempos de fake news*, de **Matthew d'Ancona**, edição brasileira da **Faro Editorial (2018)**. A fotografia compartilhada apresenta a contracapa, enquanto os temas dos capítulos foram conferidos na edição e nos materiais bibliográficos disponíveis.
+
+A obra discute a perda de importância social atribuída à verdade factual, a influência de emoções sobre o debate público, a desconfiança institucional, os meios digitais de circulação de falsidades e as formas de resistência. Este documento transforma essas questões em diretrizes educacionais e de investigação próprias do Rondoscópio.
+
+#### CAPÍTULO I
+##### DO ESTUDO DA PÓS-VERDADE
+
+**Art. 1º** O Rondoscópio examinará situações em que fatos verificáveis perdem influência no debate público diante de apelos emocionais, crenças identitárias e narrativas que resistem à correção.
+
+Parágrafo único. Emoções e valores fazem parte da política democrática. O problema investigativo não é sua presença, mas a falsificação de fatos, a manipulação de evidências e a recusa sistemática de prestar contas da veracidade das afirmações.
+
+#### CAPÍTULO II
+##### DOS CINCO EIXOS DE LEITURA E INVESTIGAÇÃO
+
+##### 01 — Surgimento da pós-verdade no debate político
+
+Estudar as transformações da relação entre fatos, emoções, líderes e públicos, utilizando como referências históricas os contextos do referendo do Brexit e das eleições norte-americanas de 2016 tratados pelo autor.
+
+Questões de trabalho: quando um erro factual é corrigido, como seus efeitos permanecem? Quais fatores tornam a narrativa mais persuasiva do que a evidência? Como separar análise retrospectiva de generalizações para outros países e períodos?
+
+##### 02 — Crise de confiança, produção industrial de desinformação e ambiente digital
+
+Investigar a confiança em instituições, jornalismo, ciência e governo, os incentivos da economia de atenção, a amplificação algorítmica, modelos de negócio e a circulação de boatos, fraudes e notícias falsas.
+
+Questões de trabalho: que atores e mecanismos são comprováveis? Onde há apenas indício de coordenação? A desconfiança decorre de falhas reais, propaganda ou combinação de fatores? Como prestar contas sem exigir confiança cega?
+
+##### 03 — Conspiracionismo, negação e ataques ao conhecimento
+
+Estudar narrativas conspiratórias autorreforçadoras, ataques ao método científico e tentativas de negar acontecimentos historicamente documentados, incluindo antissemitismo e negação do Holocausto, tratados na obra.
+
+Questões de trabalho: qual afirmação é testável? Que documentos e estudos podem comprová-la ou refutá-la? Que estratégias tornam a narrativa resistente a qualquer evidência contrária?
+
+##### 04 — Relativismo, ironia e disputas sobre a verdade
+
+Investigar a diferença entre crítica filosófica legítima, pluralidade interpretativa, incerteza do conhecimento e o uso retórico da ideia de que toda versão teria valor factual equivalente.
+
+Questões de trabalho: o que é interpretação e o que é dado verificável? Como reconhecer falhas de instituições sem concluir que todos os registros são inúteis? Como comunicar incertezas sem transformar a dúvida em licença para inventar fatos?
+
+##### 05 — Formas de reagir sem abandonar o pluralismo
+
+Desenvolver práticas de jornalismo responsável, correção pública, transparência de fontes, alfabetização midiática, educação científica, responsabilização proporcional e desenho cuidadoso de tecnologias informacionais.
+
+Questões de trabalho: como evitar amplificar boatos ao refutá-los? Como avaliar se uma intervenção educativa melhora a capacidade de verificação? Como combinar conhecimento, empatia e narrativa compreensível sem manipular o público?
+
+#### CAPÍTULO III
+##### DAS GARANTIAS CONTRA A PRÓPRIA PÓS-VERDADE
+
+**Art. 2º** O Rondoscópio não deverá reivindicar acesso privilegiado à verdade. Suas publicações serão verificáveis e passíveis de revisão, inclusive quando tratarem de grupos ou políticas de orientação próxima à sua identidade institucional.
+
+**Art. 3º** A correção de informação falsa deverá preservar o contexto necessário e evitar repetição sensacionalista, atribuição imprudente de autoria e exposição de pessoas sem interesse público demonstrado.
+
+**Art. 4º** A crítica à propaganda, à desinformação e ao negacionismo será acompanhada de explicação de método, evidências e incertezas, sem reduzir toda divergência de opinião a manipulação.
+
+**Art. 5º** A atividade educativa deverá fortalecer autonomia e capacidade de julgamento do público, e não adesão partidária, fidelização a dirigentes ou crença acrítica no próprio projeto.
+
+#### Referências e relações internas
+
+- Matthew d'Ancona. [*Pós-verdade: A nova guerra contra os fatos em tempos de fake news*](https://faroeditorial.com.br/produto/pos-verdade/). Faro Editorial, 2018.
+- [Amostra disponibilizada pela editora](https://faroeditorial.com.br/site2020/wp-content/uploads/2023/07/pos-verdade.pdf).
+- [Pensamento crítico, pós-verdade, empatia e memória histórica](#parte-11-009).
+- [Roteiro de investigação e educação inspirado no Meteoro Brasil](#parte-11-010).
+- [Bibliografia](#parte-14-005).
 
 ---
 
@@ -10292,7 +10516,7 @@ A ausência de licença expressa não será interpretada como domínio público.
 
 *Parte de origem: [parts/14-referencias/005-bibliografia.md](../parts/14-referencias/005-bibliografia.md)*
 
-> **Situação:** minuta para discussão pública. **Versão:** 0.1. **Data:** 2026-11-07.
+> **Situação:** minuta para discussão pública. **Versão:** 0.2. **Data:** 2026-11-09.
 
 Este documento reunirá bibliografia efetivamente utilizada em análises e políticas. A inclusão de um título significa referência bibliográfica, não concordância com todas as suas conclusões.
 
@@ -10311,6 +10535,13 @@ A pesquisa deverá registrar edições de documentos constitucionais e históric
 Na discussão sobre a Alemanha de 1933, recomenda-se consultar documentos e materiais do [Museu Memorial do Holocausto dos EUA](https://encyclopedia.ushmm.org/content/en/article/the-enabling-act), evitando a simplificação de que o nazismo chegou à ditadura por um voto livre isolado.
 
 Bibliografia sobre desigualdades históricas, coronelismo e clientelismo deverá distinguir interpretações, fontes originais e responsabilidade individual.
+
+#### Obras de divulgação e crítica da desinformação
+
+- **Meteoro Brasil.** *Tudo o que você precisou desaprender para virar um idiota*. Planeta, 2019. [Página da editora](https://www.planetadelivros.com.br/livro-tudo-o-que-voce-precisou-desaprender-para-virar-um-idiota/307931). Referência temática para os [24 tópicos de educação crítica](#parte-11-010). As teses da obra não são adotadas automaticamente pelo Rondoscópio.
+- **D'ANCONA, Matthew.** *Pós-verdade: A nova guerra contra os fatos em tempos de fake news*. Faro Editorial, 2018. [Página da editora](https://faroeditorial.com.br/produto/pos-verdade/). Referência para os [cinco eixos de investigação sobre pós-verdade](#parte-11-011). A interpretação do livro não substitui fontes primárias e pesquisa independente.
+
+A referência bibliográfica identifica inspirações de pesquisa e não autoriza reprodução integral de textos protegidos por direitos autorais.
 
 ---
 
