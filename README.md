@@ -30,6 +30,10 @@ As minutas tratam de [papéis e permissões](parts/03-governanca/004-regimento-d
 
 A criação de funções no texto não concede automaticamente direitos no GitHub, nos domínios ou em uma eventual pessoa jurídica. Sua implementação exigirá pessoas habilitadas, decisões registradas e controles técnicos reais.
 
+## Educação crítica, resistência à manipulação e memória
+
+O Rondoscópio também pretende promover pensamento científico, alfabetização midiática, empatia e memória histórica para ajudar pessoas a reconhecer desinformação, propaganda, narrativas conspiratórias infundadas, extremismo e distorções do passado. O objetivo é fortalecer sua capacidade de questionar e verificar, não impor crenças nem exigir alinhamento partidário. Consulte [Pensamento crítico, pós-verdade, empatia e memória histórica](parts/11-educacao/009-pensamento-critico-pos-verdade-e-memoria.md).
+
 ## Objetivos de fiscalização, metas e referenciais
 
 O escopo detalhado está em [Áreas de atuação e objetivos de fiscalização](parts/01-identidade/008-areas-de-atuacao-e-objetivos-de-fiscalizacao.md). As metas da ONU, os referenciais europeus, as áreas de alto risco do GAO, a estrutura de desempenho público e as dimensões do IEGM integram o [Catálogo de metas, indicadores e referenciais de fiscalização](parts/05-metodologia/022-catalogo-de-metas-e-indicadores.md).

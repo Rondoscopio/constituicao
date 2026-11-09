@@ -193,6 +193,7 @@
 - [11.006 — Critérios didáticos](../parts/11-educacao/006-criterios-didaticos.md)
 - [11.007 — Educação em direitos humanos](../parts/11-educacao/007-educacao-em-direitos-humanos.md)
 - [11.008 — Educação em privacidade digital](../parts/11-educacao/008-educacao-em-privacidade-digital.md)
+- [11.009 — Pensamento crítico, pós-verdade, empatia e memória histórica](../parts/11-educacao/009-pensamento-critico-pos-verdade-e-memoria.md)
 
 ## 12 — Transparência
 - [12.001 — Compromissos de transparência](../parts/12-transparencia/001-compromissos-de-transparencia.md)

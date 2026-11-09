@@ -193,6 +193,7 @@
 - [11.006 — Critérios didáticos](#parte-11-006)
 - [11.007 — Educação em direitos humanos](#parte-11-007)
 - [11.008 — Educação em privacidade digital](#parte-11-008)
+- [11.009 — Pensamento crítico, pós-verdade, empatia e memória histórica](#parte-11-009)
 
 ### 12 — Transparência
 - [12.001 — Compromissos de transparência](#parte-12-001)
@@ -912,13 +913,15 @@ A organização deverá recusar tentativas de transformá-la em instrumento de f
 
 *Parte de origem: [parts/01-identidade/002-missao.md](../parts/01-identidade/002-missao.md)*
 
-> **Situação:** minuta para discussão pública. **Versão:** 0.1. **Data:** 2026-11-07.
+> **Situação:** minuta para discussão pública. **Versão:** 0.2. **Data:** 2026-11-09.
 
 Coletar, preservar, verificar e relacionar informações de interesse público para apoiar a fiscalização cidadã, o jornalismo investigativo, a educação cívica e histórica e a avaliação de políticas públicas em Rondônia.
 
 A missão será cumprida por pesquisa documental, integração responsável de bases públicas, análise de indicadores, ferramentas tecnológicas, colaboração de especialistas e comunicação acessível. O uso de inteligência artificial será instrumental e sujeito a verificação humana nos assuntos sensíveis.
 
 Nossa atividade também deve orientar pessoas sobre direitos, competências das instituições, canais de participação e práticas de proteção digital.
+
+O projeto também buscará desenvolver pensamento crítico e autonomia intelectual diante de desinformação, propaganda, manipulação, extremismo e apagamento da história. Essa educação deve estimular empatia, respeito aos direitos humanos, verificação de fatos e compreensão histórica, sem doutrinação nem adesão ideológica exigida.
 
 #### Compromissos de execução
 
@@ -1076,7 +1079,7 @@ Os valores poderão ser aprofundados mediante debate e evidência, sem que mudan
 
 *Parte de origem: [parts/01-identidade/005-objetivos.md](../parts/01-identidade/005-objetivos.md)*
 
-> **Situação:** minuta para discussão pública. **Versão:** 0.2. **Data:** 2026-11-09.
+> **Situação:** minuta para discussão pública. **Versão:** 0.3. **Data:** 2026-11-09.
 
 #### Objetivo geral
 
@@ -1099,6 +1102,10 @@ Fortalecer o controle social, a educação cívica e a memória pública por mei
 13. Investigar desigualdades sociais, raciais, patrimoniais e de renda, bem como o alcance efetivo de políticas distributivas e reparatórias.
 14. Analisar industrialização sustentável, emprego, inovação, agregação de valor à produção regional e efeitos de políticas de desenvolvimento.
 15. Monitorar conservação ambiental, fiscalização, poluição, mudanças climáticas e impactos sobre comunidades e povos indígenas.
+16. Promover alfabetização midiática e pensamento crítico para reconhecer manipulação, desinformação, propaganda e narrativas conspiratórias sem evidências.
+17. Desenvolver educação sobre extremismo, desumanização, empatia, direitos humanos e convivência democrática, respeitando o pluralismo e a liberdade de consciência.
+18. Preservar e contextualizar a memória de acontecimentos históricos, regimes autoritários, violações de direitos e resistências democráticas para combater apagamentos e distorções do passado.
+19. Ensinar a verificar também as afirmações, escolhas editoriais e possíveis erros do próprio Rondoscópio.
 
 #### Limites
 
@@ -9058,13 +9065,21 @@ Quando um depoimento imputar ilícito a pessoa identificada, será buscada verif
 
 *Parte de origem: [parts/11-educacao/001-compromisso-educacional.md](../parts/11-educacao/001-compromisso-educacional.md)*
 
-> **Situação:** minuta para discussão pública. **Versão:** 0.1. **Data:** 2026-11-07.
+> **Situação:** minuta para discussão pública. **Versão:** 0.2. **Data:** 2026-11-09.
 
 O Rondoscópio pretende produzir conhecimento acessível sobre direitos, instituições, história e métodos de fiscalização.
 
 Materiais devem indicar fontes, público esperado, data de revisão e limites de aplicabilidade. A linguagem deverá ser compreensível sem simplificar a ponto de distorcer conceitos.
 
 Educação não equivale a orientação partidária. As aulas devem permitir examinar evidências, compreender posições distintas e formular perguntas próprias.
+
+#### Autonomia crítica, empatia e memória
+
+A educação pública promovida pelo Rondoscópio terá também a finalidade de ajudar pessoas a identificar manipulação, propaganda enganosa, discursos extremistas e distorções históricas. Esse compromisso inclui método científico, alfabetização midiática, direitos humanos, empatia e preservação contextualizada de fatos históricos.
+
+Seu objetivo é dar a cada pessoa instrumentos para formar juízo próprio, inclusive quando discordar das posições do projeto. Não será avaliada por fidelidade política nem concordância pessoal.
+
+Consulte [Pensamento crítico, pós-verdade, empatia e memória histórica](#parte-11-009).
 
 #### Educação como condição de fiscalização
 
@@ -9106,13 +9121,21 @@ Serão examinados riscos de captura institucional por procedimentos legais utili
 
 *Parte de origem: [parts/11-educacao/003-educacao-historica.md](../parts/11-educacao/003-educacao-historica.md)*
 
-> **Situação:** minuta para discussão pública. **Versão:** 0.1. **Data:** 2026-11-07.
+> **Situação:** minuta para discussão pública. **Versão:** 0.2. **Data:** 2026-11-09.
 
 A pesquisa abrangerá Rondônia, Amazônia, Brasil e história mundial. A formação territorial, os povos indígenas, o Vale do Guaporé, os ciclos econômicos, a Madeira-Mamoré, a migração, a ditadura e a redemocratização merecem atenção regional.
 
 A produção histórica deve diferenciar documentos originais de interpretações posteriores. Datas, atribuições e citações deverão ser conferidas.
 
 A história de povos e grupos tradicionalmente sub-representados não poderá depender apenas de narrativas oficiais. Testemunhos precisam de contexto e consentimento adequado.
+
+#### Memória contra o esquecimento
+
+O projeto ensinará a verificar acontecimentos históricos, diferenciar fontes primárias de interpretações e identificar formas de apagamento documental, propaganda e distorção de contexto. A preservação de atos públicos, discursos, políticas, violações de direitos e resistências democráticas deverá incluir cronologia, contraprovas e retificações.
+
+A educação promoverá respeito às vítimas e empatia com populações marginalizadas, sem converter sofrimento em propaganda ou culpa hereditária.
+
+Consulte [Pensamento crítico, pós-verdade, empatia e memória histórica](#parte-11-009).
 
 #### Autoritarismo e memória crítica
 
@@ -9156,13 +9179,21 @@ O ensino não buscará substituir dogmas religiosos por obediência dogmática a
 
 *Parte de origem: [parts/11-educacao/005-educacao-midiatica.md](../parts/11-educacao/005-educacao-midiatica.md)*
 
-> **Situação:** minuta para discussão pública. **Versão:** 0.1. **Data:** 2026-11-07.
+> **Situação:** minuta para discussão pública. **Versão:** 0.2. **Data:** 2026-11-09.
 
 Ensinar leitura crítica de manchetes, fontes, imagens, vídeos, gráficos e publicações em redes sociais.
 
 O uso de conceitos como propaganda, astroturfing, manipulação de contexto e operações de influência deve acompanhar exemplos verificáveis. Nem toda convergência de opiniões é coordenação.
 
 O foco será desenvolver autonomia de julgamento, não oferecer uma lista de veículos ou pessoas que mereçam obediência acrítica.
+
+#### Pós-verdade e autonomia de julgamento
+
+A formação abordará a diferença entre afirmações verificáveis e interpretações, os graus de evidência, a refutabilidade, o raciocínio motivado, o viés de confirmação e o papel de algoritmos, emoções e pertencimento de grupo na circulação de narrativas. Serão considerados conteúdos sintéticos, desinformação e negacionismo, com cuidado para não ampliar material enganoso.
+
+O público deverá ser incentivado a verificar também as próprias afirmações do Rondoscópio.
+
+Consulte [Pensamento crítico, pós-verdade, empatia e memória histórica](#parte-11-009).
 
 #### Propaganda, sátira e persuasão
 
@@ -9243,6 +9274,109 @@ O conteúdo explicará como metadados, contas de recuperação, contatos, dispos
 Serão apresentadas diferenças entre uso de Tor, criptografia de ponta a ponta, HTTPS, autenticação FIDO2 e OpenPGP. Nenhum mecanismo será apresentado como anonimato garantido.
 
 A orientação não incentivará obtenção ilícita de dados ou invasão de sistemas. Em situações de risco elevado, a pessoa deverá procurar orientação profissional e canais competentes.
+
+---
+
+<a id="parte-11-009"></a>
+
+## 11.009 — Pensamento crítico, pós-verdade, empatia e memória histórica
+
+*Parte de origem: [parts/11-educacao/009-pensamento-critico-pos-verdade-e-memoria.md](../parts/11-educacao/009-pensamento-critico-pos-verdade-e-memoria.md)*
+
+> **Situação:** minuta para discussão pública. **Versão:** 0.1. **Data:** 2026-11-09.
+> **Natureza:** diretriz educacional proposta, sem vigência institucional até aprovação competente.
+
+#### CAPÍTULO I
+##### DA AUTONOMIA CRÍTICA
+
+**Art. 1º** O Rondoscópio promoverá educação cívica e crítica para ajudar pessoas a reconhecer manipulação informacional, propaganda enganosa, extremismo, desumanização, desconhecimento de direitos e distorções ou apagamentos da memória histórica.
+
+§ 1º A finalidade é fortalecer a autonomia para formular perguntas, verificar fontes, reconhecer incertezas e rever posições diante de evidências, não determinar crenças ou comportamentos eleitorais.
+
+§ 2º A organização poderá convidar o público a despertar para a importância dos fatos, dos direitos humanos, da empatia e da história, sem tratar pessoas que discordem como inferiores, incapazes ou inimigas a converter.
+
+**Art. 2º** A educação distinguirá os compromissos éticos expressos pelo Rondoscópio de fatos verificáveis, hipóteses, interpretações, opiniões e preferências políticas.
+
+Parágrafo único. A inspiração humanista, progressista e social-democrata do projeto não torna seus argumentos imunes a crítica, contraprova ou correção.
+
+#### CAPÍTULO II
+##### DA PÓS-VERDADE, DA PROPAGANDA E DO CONHECIMENTO
+
+**Art. 3º** O ensino abordará como apelos emocionais, medo, ressentimento, repetição, identidade de grupo, descontextualização e alegações sem evidências podem influenciar crenças e decisões.
+
+**Art. 4º** A alfabetização midiática poderá abranger:
+
+I - distinção entre notícia, opinião, hipótese, publicidade, sátira, propaganda, erro e falsidade deliberada;
+
+II - identificação de fontes primárias, data, autoria, contexto, métodos, dados originais, registros arquivados e possíveis conflitos de interesse;
+
+III - reconhecimento de generalizações, falsa causalidade, ataques pessoais, falsas equivalências e inversões retóricas;
+
+IV - análise de narrativas conspiratórias, especialmente refutabilidade, adequação das evidências e exame de explicações alternativas;
+
+V - funcionamento de algoritmos de recomendação, publicidade segmentada, redes de amplificação, contas automatizadas e operações de influência, sem supor coordenação pela mera concordância entre usuários;
+
+VI - verificação de imagens, vídeos, conteúdos sintéticos e material produzido por inteligência artificial;
+
+VII - estudo de vieses cognitivos, raciocínio motivado, viés de confirmação e limitações de quem investiga.
+
+**Art. 5º** Nenhuma afirmação será considerada verdadeira apenas por sua popularidade, repetição, autoria ou força emocional, nem falsa apenas por contrariar os valores da organização.
+
+**Art. 6º** A educação científica tratará de hipóteses, refutabilidade, correlação, causalidade, graus de evidência, revisão por pares, consenso científico e incerteza, sem fabricar equivalência entre alegações de sustentação muito desigual.
+
+#### CAPÍTULO III
+##### DA PREVENÇÃO AO EXTREMISMO E DA EMPATIA
+
+**Art. 7º** Serão estudados processos de radicalização, propaganda extremista, construção de inimigos, culto à personalidade, desumanização de grupos, perseguições e justificativas para a violência política e o autoritarismo, com base em estudos e casos documentados.
+
+**Art. 8º** A educação promoverá empatia, escuta, respeito à dignidade e compreensão das consequências humanas da discriminação, da violência e da exclusão.
+
+§ 1º A empatia não exige concordância com qualquer opinião, tolerância à violência nem impunidade.
+
+§ 2º Discordância política, crença religiosa, crítica legítima e exercício de direitos não serão classificados, isoladamente, como radicalização ou extremismo.
+
+**Art. 9º** Poderão ser abordados racismo, antissemitismo, misoginia, LGBTfobia, xenofobia e discriminação contra povos indígenas e outros grupos, sem generalizar responsabilidades a comunidades inteiras.
+
+**Art. 10.** Os materiais não incentivarão assédio, humilhação pública, perseguição, exposição de dados pessoais nem supressão de direitos de pessoas que expressem posições diferentes.
+
+#### CAPÍTULO IV
+##### DA MEMÓRIA HISTÓRICA E DA PREVENÇÃO AO APAGAMENTO
+
+**Art. 11.** O projeto combaterá o esquecimento e a distorção de acontecimentos relevantes por meio de documentos preservados, cronologias verificáveis, pesquisa historiográfica e apresentação do contexto.
+
+**Art. 12.** Poderão ser estudados colonialismo, escravização, racismo, fascismo, nazismo, Holocausto, ditaduras, perseguições, violações de direitos humanos, resistências democráticas e processos de reparação.
+
+Parágrafo único. Os materiais distinguirão evidências históricas bem estabelecidas, debates historiográficos legítimos e alegações negacionistas sem base comparável.
+
+**Art. 13.** A história de Rondônia e da Amazônia considerará os povos indígenas, o processo de ocupação territorial, migrações, conflitos fundiários e ambientais, desigualdades, violações de direitos e conquistas sociais.
+
+**Art. 14.** O Rondoscópio buscará preservar e contextualizar discursos, decisões, promessas, mudanças de posição, políticas e efeitos documentados, incluindo retificações, revogações e conclusões posteriores.
+
+Parágrafo único. A memória pública não justifica expor informações íntimas sem interesse público, retirar falas de contexto ou atribuir culpa hereditária a descendentes de agentes históricos.
+
+#### CAPÍTULO V
+##### DOS FORMATOS E DAS GARANTIAS DIDÁTICAS
+
+**Art. 15.** Os materiais poderão incluir estudos de caso, linhas do tempo, guias de checagem, oficinas, análise de documentos e exercícios de comparação de evidências, com exemplos locais e internacionais.
+
+**Art. 16.** Cada material indicará, conforme sua natureza, fontes, método, público-alvo, data de revisão, limitações e graus de certeza. Exemplos fictícios serão identificados como tais.
+
+**Art. 17.** A linguagem será acessível, respeitará diferenças de escolaridade e evitará confundir desconhecimento sobre um tema com inferioridade moral ou intelectual.
+
+**Art. 18.** A qualidade educativa será avaliada pela clareza, precisão, autonomia crítica, acessibilidade e capacidade de verificação, nunca pela adesão a partido, dirigente ou posição da organização.
+
+**Art. 19.** Será admitida discordância fundamentada e assegurada a possibilidade de correção pública de erros.
+
+#### Referências internas
+
+- [Compromisso educacional](#parte-11-001).
+- [Educação histórica](#parte-11-003).
+- [Educação científica](#parte-11-004).
+- [Educação midiática](#parte-11-005).
+- [Critérios didáticos](#parte-11-006).
+- [Política de memória](#parte-10-001).
+- [Análise de desinformação](#parte-05-006).
+- [Prudência e resistência à manipulação](#parte-02-022).
 
 ---
 
