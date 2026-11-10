@@ -227,6 +227,8 @@
 - [14.010 — Referenciais internacionais](../parts/14-referencias/010-referenciais-internacionais.md)
 - [14.011 — Software livre e dados abertos](../parts/14-referencias/011-software-livre-e-dados-abertos.md)
 - [14.012 — Reconhecimento histórico e memória das referências](../parts/14-referencias/012-reconhecimento-historico-e-memoria-das-referencias.md)
+- [14.013 — Fundamentos legais da fiscalização cívica, jornalismo e preservação documental](../parts/14-referencias/013-fundamentos-legais-da-fiscalizacao-e-preservacao.md)
+- [14.014 — Jurisprudência sobre fiscalização do poder, jornalismo, informação e preservação](../parts/14-referencias/014-jurisprudencia-fiscalizacao-e-jornalismo.md)
 
 ## 15 — Modelos
 - [15.001 — [Título]](../parts/15-modelos/001-modelo-de-documento.md)
