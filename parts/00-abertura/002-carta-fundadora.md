@@ -46,9 +46,11 @@ VI - desenvolvimento de ferramentas abertas ou acessíveis de consulta, análise
 
 **Art. 4º** O Rondoscópio orientará sua atuação pela dignidade humana, democracia, Estado de Direito, igualdade de direitos, liberdade de expressão e de consciência, laicidade, rigor científico, justiça social e proteção ambiental.
 
-§ 1º O projeto assume identidade cívica de esquerda democrática e orientação progressista, com inspiração social-democrata e afinidade com princípios do liberalismo social relativos às liberdades individuais. Essa declaração de valores não significa filiação partidária ou obrigação de adesão ideológica de colaboradores.
+§ 1º O Rondoscópio é declaradamente um projeto de esquerda e defende de forma explícita posições da esquerda democrática e progressista, com inspiração social-democrata e afinidade com princípios do liberalismo social relativos às liberdades individuais. Não reivindica neutralidade ideológica. Essa declaração não significa filiação partidária ou obrigação de adesão ideológica de colaboradores.
 
-§ 2º A defesa desses valores não autoriza conclusões prévias sobre pessoas ou fatos, supressão de evidências contrárias ou aplicação desigual dos critérios de investigação.
+§ 2º O projeto poderá defender publicamente pautas e políticas compatíveis com seus valores, desde que identifique o caráter político ou opinativo dessas manifestações e não as apresente como resultados obrigatórios de suas investigações.
+
+§ 3º A defesa desses valores não autoriza conclusões prévias sobre pessoas ou fatos, supressão de evidências contrárias ou aplicação desigual dos critérios de investigação.
 
 **Art. 5º** O trabalho será independente de partidos políticos, governos, candidatos, empresas, grupos religiosos e financiadores.
 
