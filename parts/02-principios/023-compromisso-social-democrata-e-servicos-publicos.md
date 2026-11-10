@@ -6,11 +6,13 @@
 ## CAPÍTULO I
 ### DA IDENTIDADE E DA ISENÇÃO METODOLÓGICA
 
-**Art. 1º** O Rondoscópio se reconhece como projeto cívico de esquerda democrática e orientação progressista, inspirado na social-democracia e em princípios do liberalismo social, especialmente na defesa das liberdades civis, da dignidade humana, da igualdade substantiva, da justiça social, da democracia pluralista e da sustentabilidade ambiental.
+**Art. 1º** O Rondoscópio é um projeto cívico declaradamente de esquerda. Assume e defende publicamente posições políticas da esquerda democrática e progressista, com inspiração social-democrata e afinidade com princípios do liberalismo social na defesa das liberdades civis, da dignidade humana, da igualdade substantiva, da justiça social, da democracia pluralista e da sustentabilidade ambiental.
 
 § 1º Essa identidade expressa valores e finalidades institucionais, não filiação ou vinculação a partido, governo, candidatura ou movimento eleitoral. Não será exigida concordância ideológica de colaboradores, fontes ou pessoas investigadas.
 
-§ 2º O projeto preservará a liberdade de crítica, o contraditório, o direito de resposta e a disposição de rever interpretações e conclusões.
+§ 2º O Rondoscópio não reivindica neutralidade ideológica. Poderá manifestar-se em defesa de propostas, direitos e políticas públicas coerentes com seu posicionamento de esquerda, distinguindo expressamente a defesa de valores e projetos políticos dos fatos apurados e das conclusões técnicas.
+
+§ 3º O projeto preservará a liberdade de crítica, o contraditório, o direito de resposta e a disposição de rever interpretações e conclusões.
 
 **Art. 2º** A isenção do Rondoscópio é metodológica e editorial, não ausência de valores. Significa investigar e avaliar com critérios públicos, verificáveis e coerentes, sem privilégios para autoridades ou grupos politicamente próximos de seus valores.
 
