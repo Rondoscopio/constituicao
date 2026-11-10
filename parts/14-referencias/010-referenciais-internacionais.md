@@ -10,6 +10,12 @@ As orientações do [Alto Comissariado da ONU para Direitos Humanos](https://www
 
 Acordos climáticos e compromissos das conferências das partes devem ser estudados por sua natureza jurídica e pelos compromissos efetivamente assumidos. Nenhuma meta internacional será automaticamente descrita como obrigação legal municipal.
 
+## Convenção das Nações Unidas contra a Corrupção
+
+A [Convenção de Mérida, promulgada no Brasil pelo Decreto nº 5.687/2006](https://www2.camara.leg.br/legin/fed/decret/2006/decreto-5687-31-janeiro-2006-540712-publicacaooriginal-41542-pe.html), constitui instrumento internacional incorporado ao direito brasileiro. Seu art. 10 dispõe sobre transparência e acesso a informações da Administração Pública, observada a proteção da privacidade, e o art. 13 reconhece o papel da sociedade civil na prevenção e combate à corrupção e na promoção do acesso à informação.
+
+O tratado reforça o fundamento do controle social, mas suas obrigações devem ser interpretadas conforme seus próprios termos e a legislação interna. Não equivale a credencial de investigador estatal nem permite violar direitos da personalidade. Consulte os [fundamentos legais](013-fundamentos-legais-da-fiscalizacao-e-preservacao.md).
+
 ## Dignidade, saúde e igualdade
 
 - [Declaração Universal dos Direitos Humanos](https://www.un.org/en/about-us/universal-declaration-of-human-rights): respeito à dignidade e não discriminação.

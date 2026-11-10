@@ -10,18 +10,24 @@
 
 **Art. 2º** A investigação não excluirá instituição alguma em razão de prestígio, função constitucional, capacidade investigativa, força econômica ou relação anterior com a organização.
 
-Parágrafo único. A isenção de escrutínio não pressupõe que toda instituição seja corrupta ou que a hipótese de influência ilícita esteja confirmada.
+§ 1º O objeto da fiscalização individual será a atuação de agentes públicos e a participação de pessoas físicas ou jurídicas em contratos, licitações, editais, repasses e outros instrumentos envolvendo recursos públicos.
+
+§ 2º A pessoa privada sem vínculo relevante com a finalidade pública investigada não será alvo de monitoramento pessoal. Mesmo os beneficiários de recursos públicos mantêm a proteção da vida privada, da honra, da imagem e dos dados pessoais.
+
+§ 3º A condição de beneficiário final de política social ou assistencial não constitui, isoladamente, motivo para investigação nominal ou divulgação de dados pessoais, devendo a análise priorizar legalidade, execução, resultados e agentes responsáveis.
+
+§ 4º A ausência de isenção ao escrutínio não pressupõe que toda instituição seja corrupta ou que a hipótese de influência ilícita esteja confirmada.
 
 ## CAPÍTULO II
 ### DAS HIPÓTESES DE CAPTURA
 
 **Art. 3º** Poderão ser apurados, com base em fatos documentáveis:
 
-I - nomeações, impedimentos e conflitos de interesses;
+I - nomeações, impedimentos e possíveis conflitos de interesses relacionados a funções e decisões públicas;
 
-II - relações familiares, societárias e financeiras pertinentes à decisão;
+II - relações societárias, profissionais, contratuais e financeiras documentadas e pertinentes a decisões públicas, sem investigação de vínculos familiares por si mesmos;
 
-III - concentração persistente de nomeações, recursos ou contratos em redes de poder;
+III - concentração persistente de nomeações, recursos ou contratos entre agentes públicos e beneficiários de instrumentos públicos;
 
 IV - interferências indevidas em decisões judiciais, policiais, administrativas ou parlamentares;
 
@@ -31,9 +37,9 @@ VI - omissões de fiscalização diante de obrigações e avisos comprovados.
 
 **Art. 4º** A análise de coronelismo, clientelismo, patrimonialismo e reprodução histórica de elites políticas e econômicas exigirá contexto historiográfico, registros de época e distinção entre herança de vantagens sociais e responsabilidade jurídica individual.
 
-§ 1º A condição de descendente de família influente não constitui prova de crime, favorecimento ou deslealdade.
+§ 1º Relações familiares não constituem categoria de monitoramento, não justificam a coleta da vida privada e não demonstram, por si, crime, favorecimento ou deslealdade.
 
-§ 2º A eventual atuação criminosa de ancestral não será atribuída a seus familiares sem prova de participação própria.
+§ 2º A responsabilidade por condutas deve ser individualizada e comprovada. O parentesco não autoriza imputação de conduta de terceiro.
 
 ## CAPÍTULO III
 ### DOS LIMITES
