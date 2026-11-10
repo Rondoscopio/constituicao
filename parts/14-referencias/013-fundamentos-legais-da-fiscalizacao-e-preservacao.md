@@ -7,7 +7,7 @@ Este catálogo complementa [Normas e legislação](003-normas-e-legislacao.md), 
 
 ## Escopo
 
-O modelo proposto para o Observador consiste em coletar manifestações de perfis públicos de agentes eleitos, manter arquivo confidencial e criptografado, classificar posteriormente o interesse público e divulgar somente após avaliação editorial. A finalidade investigativa concentra-se na atuação pública e em potenciais conflitos de interesse, sem vigiar intimidade ou vínculos familiares sem relevância institucional. Captura, armazenamento, classificação e publicação são operações juridicamente distintas.
+O modelo proposto para o Observador consiste em coletar manifestações de perfis públicos de agentes eleitos, manter arquivo confidencial e criptografado, classificar posteriormente o interesse público e divulgar somente após avaliação editorial. A fiscalização individual dirige-se a agentes que exercem funções públicas e a pessoas físicas ou jurídicas na medida de sua participação em contratos, licitações, editais, repasses e outras relações financiadas pelo poder público. O vínculo com recursos públicos justifica o escrutínio da contratação, execução, prestação de contas e possíveis conflitos de interesse, sem transformar particulares em figuras públicas para todos os fins. A finalidade investigativa não inclui vida privada, vínculos familiares por si mesmos nem monitoramento nominal de beneficiários de políticas assistenciais sem indícios concretos de irregularidades. Captura, armazenamento, classificação e publicação são operações juridicamente distintas.
 
 ## Constituição Federal de 1988
 
