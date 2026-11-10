@@ -4,6 +4,8 @@
 
 As fontes abaixo são pontos de partida. O texto consolidado, alterações legislativas e jurisprudência deverão ser conferidos antes de cada publicação com consequências jurídicas.
 
+Para os fundamentos específicos de controle social e direitos políticos, consultar o [catálogo de fundamentos legais](013-fundamentos-legais-da-fiscalizacao-e-preservacao.md), que registra fontes do TSE, comentários doutrinários, a Lei Complementar nº 131/2009 e a Convenção das Nações Unidas contra a Corrupção.
+
 - [Constituição Federal de 1988](https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm).
 - [Lei de Acesso à Informação, Lei nº 12.527/2011](https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2011/lei/l12527.htm).
 - [Marco Civil da Internet, Lei nº 12.965/2014](https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2014/lei/l12965.htm).
