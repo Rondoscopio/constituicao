@@ -50,7 +50,9 @@ VI - desenvolvimento de ferramentas abertas ou acessíveis de consulta, análise
 
 § 2º O projeto poderá defender publicamente pautas e políticas compatíveis com seus valores, desde que identifique o caráter político ou opinativo dessas manifestações e não as apresente como resultados obrigatórios de suas investigações.
 
-§ 3º A defesa desses valores não autoriza conclusões prévias sobre pessoas ou fatos, supressão de evidências contrárias ou aplicação desigual dos critérios de investigação.
+§ 3º O Rondoscópio poderá produzir e publicar materiais jornalísticos em defesa e promoção de pautas de esquerda, distinguindo apuração factual, análise, opinião e defesa institucional de propostas.
+
+§ 4º A defesa desses valores não autoriza conclusões prévias sobre pessoas ou fatos, supressão de evidências contrárias ou aplicação desigual dos critérios de investigação.
 
 **Art. 5º** O trabalho será independente de partidos políticos, governos, candidatos, empresas, grupos religiosos e financiadores.
 
