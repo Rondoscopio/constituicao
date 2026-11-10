@@ -1,5 +1,15 @@
 # Constituição do Rondoscópio
 
+[![Projeto](https://img.shields.io/badge/Projeto-Rondosc%C3%B3pio-2563eb?style=for-the-badge&labelColor=0b1120)](https://github.com/Rondoscopio)
+[![Licença](https://img.shields.io/badge/Licen%C3%A7a-N%C3%A3o%20Definida-64748b?style=for-the-badge&labelColor=0b1120)](#license)
+
+[![Último Commit](https://img.shields.io/github/last-commit/Rondoscopio/constituicao/main?label=%C3%9Altimo%20Commit&style=flat-square&labelColor=0b1120&color=b45309&logo=git&logoColor=white)](https://github.com/Rondoscopio/constituicao/commits/main)
+[![Commits por Mês](https://img.shields.io/github/commit-activity/m/Rondoscopio/constituicao?label=Commits%20por%20M%C3%AAs&style=flat-square&labelColor=0b1120&color=b45309&logo=git&logoColor=white)](https://github.com/Rondoscopio/constituicao/graphs/commit-activity)
+[![PRs Abertas](https://img.shields.io/github/issues-pr/Rondoscopio/constituicao?label=PRs%20Abertas&style=flat-square&labelColor=0b1120&color=b45309&logo=github&logoColor=white)](https://github.com/Rondoscopio/constituicao/pulls)
+[![Issues Abertas](https://img.shields.io/github/issues/Rondoscopio/constituicao?label=Issues%20Abertas&style=flat-square&labelColor=0b1120&color=b45309&logo=github&logoColor=white)](https://github.com/Rondoscopio/constituicao/issues)
+[![Forks](https://img.shields.io/github/forks/Rondoscopio/constituicao?label=Forks&style=flat-square&labelColor=0b1120&color=b45309&logo=github&logoColor=white)](https://github.com/Rondoscopio/constituicao/forks)
+[![Feito no 🇧🇷 Brasil](https://img.shields.io/badge/Feito%20no-%F0%9F%87%A7%F0%9F%87%B7%20Brasil-009440?style=flat-square&labelColor=0b1120)](https://pt.wikipedia.org/wiki/Brasil)
+
 **Comece pelo [Índice de leitura](docs/INDICE.md) ou pela [Constituição completa](docs/CONSTITUICAO-COMPLETA.md).**
 
 A fonte editável dos documentos fica exclusivamente em [parts/](parts/00-abertura/001-constituicao.md), com pastas e arquivos numerados. Não edite diretamente a edição consolidada. As configurações declarativas ficam em `.config/`, as ferramentas, os testes e o código-fonte do gerador em `.tools/`, os documentos gerados em `docs/` e os arquivos comunitários em `.github/`.
@@ -119,3 +129,9 @@ O Rondoscópio ainda está em constituição. O lançamento de serviços de den�
 - [CI](.github/workflows/ci.yml)
 
 As ferramentas de validação rodam em contêineres. Com Docker, Docker Compose e `just`, execute `just check` para validações ou `just generate` para atualizar a Constituição consolidada. `.local/` e `.cache/` são diretórios locais ignorados pelo Git.
+
+## License
+
+Este repositório ainda não possui uma licença declarada. Os direitos de reutilização do conteúdo deverão ser definidos pela organização.
+
+---
