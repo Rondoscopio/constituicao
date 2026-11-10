@@ -1,6 +1,6 @@
 # Valores
 
-> **Situação:** minuta para discussão pública. **Versão:** 0.4. **Data:** 2026-11-09.
+> **Situação:** minuta para discussão pública. **Versão:** 0.5. **Data:** 2026-11-09.
 
 **Independência.** Investigações e publicações não devem ser subordinadas a governos, partidos, empresas ou financiadores.
 
@@ -33,6 +33,12 @@
 **Responsabilidade climática.** Reconhecemos as evidências científicas do aquecimento global causado por atividades humanas e defendemos medidas fundamentadas de mitigação, adaptação e combate à desinformação climática.
 
 **Reparação histórica.** A promoção da igualdade material exige reconhecer e enfrentar consequências persistentes de injustiças históricas, mediante políticas legítimas, transparentes e avaliáveis.
+
+## Compromisso com a esquerda democrática
+
+O Rondoscópio orienta sua finalidade pública por valores humanistas, progressistas e social-democratas: democracia pluralista, justiça social, igualdade substantiva, serviços públicos universais e direitos fundamentais. Defende a educação pública gratuita e de qualidade, o SUS universal e gratuito no atendimento, a valorização dos profissionais dos serviços públicos, a industrialização sustentável, o trabalho digno, o combate às desigualdades sociais, raciais e de renda e a proteção do meio ambiente.
+
+Essa identidade não significa filiação partidária. A organização deverá apurar fatos e avaliar políticas de qualquer orientação com os mesmos critérios, sem ocultar resultados contrários aos seus valores. Consulte o [Compromisso social-democrata, serviços públicos e desenvolvimento sustentável](../02-principios/023-compromisso-social-democrata-e-servicos-publicos.md).
 
 ## Valores sociais, democráticos e progressistas
 

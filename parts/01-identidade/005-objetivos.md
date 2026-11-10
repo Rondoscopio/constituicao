@@ -1,6 +1,6 @@
 # Objetivos
 
-> **Situação:** minuta para discussão pública. **Versão:** 0.1. **Data:** 2026-11-07.
+> **Situação:** minuta para discussão pública. **Versão:** 0.3. **Data:** 2026-11-09.
 
 ## Objetivo geral
 
@@ -18,6 +18,15 @@ Fortalecer o controle social, a educação cívica e a memória pública por mei
 8. Oferecer, quando tecnicamente e juridicamente viável, canais protegidos para colaboração e relatos.
 9. Divulgar dados e metodologias reutilizáveis quando legalmente permitidos.
 10. Estabelecer direito de resposta, prestação de contas institucional e mecanismos de correção.
+11. Acompanhar o acesso e a qualidade da educação pública gratuita, inclusive permanência, valorização profissional, financiamento e desigualdades territoriais.
+12. Fiscalizar acesso universal e gratuito no atendimento do SUS, filas, insumos, financiamento, cobertura e qualidade da saúde pública.
+13. Investigar desigualdades sociais, raciais, patrimoniais e de renda, bem como o alcance efetivo de políticas distributivas e reparatórias.
+14. Analisar industrialização sustentável, emprego, inovação, agregação de valor à produção regional e efeitos de políticas de desenvolvimento.
+15. Monitorar conservação ambiental, fiscalização, poluição, mudanças climáticas e impactos sobre comunidades e povos indígenas.
+16. Promover alfabetização midiática e pensamento crítico para reconhecer manipulação, desinformação, propaganda e narrativas conspiratórias sem evidências.
+17. Desenvolver educação sobre extremismo, desumanização, empatia, direitos humanos e convivência democrática, respeitando o pluralismo e a liberdade de consciência.
+18. Preservar e contextualizar a memória de acontecimentos históricos, regimes autoritários, violações de direitos e resistências democráticas para combater apagamentos e distorções do passado.
+19. Ensinar a verificar também as afirmações, escolhas editoriais e possíveis erros do próprio Rondoscópio.
 
 ## Limites
 

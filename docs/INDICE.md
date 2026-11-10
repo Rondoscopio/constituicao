@@ -42,6 +42,7 @@
 - [02.020 — Laicidade e liberdade religiosa](../parts/02-principios/020-laicidade-e-liberdade-religiosa.md)
 - [02.021 — Memória e direito à informação](../parts/02-principios/021-memoria-e-direito-a-informacao.md)
 - [02.022 — Prudência e resistência à manipulação](../parts/02-principios/022-prudencia-e-resistencia-a-manipulacao.md)
+- [02.023 — Compromisso social-democrata, serviços públicos e desenvolvimento sustentável](../parts/02-principios/023-compromisso-social-democrata-e-servicos-publicos.md)
 
 ## 03 — Governança
 - [03.001 — Modelo institucional](../parts/03-governanca/001-modelo-institucional.md)
@@ -192,6 +193,9 @@
 - [11.006 — Critérios didáticos](../parts/11-educacao/006-criterios-didaticos.md)
 - [11.007 — Educação em direitos humanos](../parts/11-educacao/007-educacao-em-direitos-humanos.md)
 - [11.008 — Educação em privacidade digital](../parts/11-educacao/008-educacao-em-privacidade-digital.md)
+- [11.009 — Pensamento crítico, pós-verdade, empatia e memória histórica](../parts/11-educacao/009-pensamento-critico-pos-verdade-e-memoria.md)
+- [11.010 — Roteiro de investigação e educação inspirado no Meteoro Brasil](../parts/11-educacao/010-roteiro-critico-meteoro-brasil.md)
+- [11.011 — Roteiro de leitura sobre pós-verdade e respostas democráticas](../parts/11-educacao/011-roteiro-pos-verdade-matthew-dancona.md)
 
 ## 12 — Transparência
 - [12.001 — Compromissos de transparência](../parts/12-transparencia/001-compromissos-de-transparencia.md)

@@ -42,6 +42,7 @@
 - [02.020 — Laicidade e liberdade religiosa](#parte-02-020)
 - [02.021 — Memória e direito à informação](#parte-02-021)
 - [02.022 — Prudência e resistência à manipulação](#parte-02-022)
+- [02.023 — Compromisso social-democrata, serviços públicos e desenvolvimento sustentável](#parte-02-023)
 
 ### 03 — Governança
 - [03.001 — Modelo institucional](#parte-03-001)
@@ -192,6 +193,9 @@
 - [11.006 — Critérios didáticos](#parte-11-006)
 - [11.007 — Educação em direitos humanos](#parte-11-007)
 - [11.008 — Educação em privacidade digital](#parte-11-008)
+- [11.009 — Pensamento crítico, pós-verdade, empatia e memória histórica](#parte-11-009)
+- [11.010 — Roteiro de investigação e educação inspirado no Meteoro Brasil](#parte-11-010)
+- [11.011 — Roteiro de leitura sobre pós-verdade e respostas democráticas](#parte-11-011)
 
 ### 12 — Transparência
 - [12.001 — Compromissos de transparência](#parte-12-001)
@@ -911,13 +915,15 @@ A organização deverá recusar tentativas de transformá-la em instrumento de f
 
 *Parte de origem: [parts/01-identidade/002-missao.md](../parts/01-identidade/002-missao.md)*
 
-> **Situação:** minuta para discussão pública. **Versão:** 0.1. **Data:** 2026-11-07.
+> **Situação:** minuta para discussão pública. **Versão:** 0.2. **Data:** 2026-11-09.
 
 Coletar, preservar, verificar e relacionar informações de interesse público para apoiar a fiscalização cidadã, o jornalismo investigativo, a educação cívica e histórica e a avaliação de políticas públicas em Rondônia.
 
 A missão será cumprida por pesquisa documental, integração responsável de bases públicas, análise de indicadores, ferramentas tecnológicas, colaboração de especialistas e comunicação acessível. O uso de inteligência artificial será instrumental e sujeito a verificação humana nos assuntos sensíveis.
 
 Nossa atividade também deve orientar pessoas sobre direitos, competências das instituições, canais de participação e práticas de proteção digital.
+
+O projeto também buscará desenvolver pensamento crítico e autonomia intelectual diante de desinformação, propaganda, manipulação, extremismo e apagamento da história. Essa educação deve estimular empatia, respeito aos direitos humanos, verificação de fatos e compreensão histórica, sem doutrinação nem adesão ideológica exigida.
 
 #### Compromissos de execução
 
@@ -957,7 +963,7 @@ O desenvolvimento será gradual e transparente quanto às funcionalidades ainda 
 
 *Parte de origem: [parts/01-identidade/004-valores.md](../parts/01-identidade/004-valores.md)*
 
-> **Situação:** minuta para discussão pública. **Versão:** 0.4. **Data:** 2026-11-09.
+> **Situação:** minuta para discussão pública. **Versão:** 0.5. **Data:** 2026-11-09.
 
 **Independência.** Investigações e publicações não devem ser subordinadas a governos, partidos, empresas ou financiadores.
 
@@ -990,6 +996,12 @@ O desenvolvimento será gradual e transparente quanto às funcionalidades ainda 
 **Responsabilidade climática.** Reconhecemos as evidências científicas do aquecimento global causado por atividades humanas e defendemos medidas fundamentadas de mitigação, adaptação e combate à desinformação climática.
 
 **Reparação histórica.** A promoção da igualdade material exige reconhecer e enfrentar consequências persistentes de injustiças históricas, mediante políticas legítimas, transparentes e avaliáveis.
+
+#### Compromisso com a esquerda democrática
+
+O Rondoscópio orienta sua finalidade pública por valores humanistas, progressistas e social-democratas: democracia pluralista, justiça social, igualdade substantiva, serviços públicos universais e direitos fundamentais. Defende a educação pública gratuita e de qualidade, o SUS universal e gratuito no atendimento, a valorização dos profissionais dos serviços públicos, a industrialização sustentável, o trabalho digno, o combate às desigualdades sociais, raciais e de renda e a proteção do meio ambiente.
+
+Essa identidade não significa filiação partidária. A organização deverá apurar fatos e avaliar políticas de qualquer orientação com os mesmos critérios, sem ocultar resultados contrários aos seus valores. Consulte o [Compromisso social-democrata, serviços públicos e desenvolvimento sustentável](#parte-02-023).
 
 #### Valores sociais, democráticos e progressistas
 
@@ -1069,7 +1081,7 @@ Os valores poderão ser aprofundados mediante debate e evidência, sem que mudan
 
 *Parte de origem: [parts/01-identidade/005-objetivos.md](../parts/01-identidade/005-objetivos.md)*
 
-> **Situação:** minuta para discussão pública. **Versão:** 0.1. **Data:** 2026-11-07.
+> **Situação:** minuta para discussão pública. **Versão:** 0.3. **Data:** 2026-11-09.
 
 #### Objetivo geral
 
@@ -1087,6 +1099,15 @@ Fortalecer o controle social, a educação cívica e a memória pública por mei
 8. Oferecer, quando tecnicamente e juridicamente viável, canais protegidos para colaboração e relatos.
 9. Divulgar dados e metodologias reutilizáveis quando legalmente permitidos.
 10. Estabelecer direito de resposta, prestação de contas institucional e mecanismos de correção.
+11. Acompanhar o acesso e a qualidade da educação pública gratuita, inclusive permanência, valorização profissional, financiamento e desigualdades territoriais.
+12. Fiscalizar acesso universal e gratuito no atendimento do SUS, filas, insumos, financiamento, cobertura e qualidade da saúde pública.
+13. Investigar desigualdades sociais, raciais, patrimoniais e de renda, bem como o alcance efetivo de políticas distributivas e reparatórias.
+14. Analisar industrialização sustentável, emprego, inovação, agregação de valor à produção regional e efeitos de políticas de desenvolvimento.
+15. Monitorar conservação ambiental, fiscalização, poluição, mudanças climáticas e impactos sobre comunidades e povos indígenas.
+16. Promover alfabetização midiática e pensamento crítico para reconhecer manipulação, desinformação, propaganda e narrativas conspiratórias sem evidências.
+17. Desenvolver educação sobre extremismo, desumanização, empatia, direitos humanos e convivência democrática, respeitando o pluralismo e a liberdade de consciência.
+18. Preservar e contextualizar a memória de acontecimentos históricos, regimes autoritários, violações de direitos e resistências democráticas para combater apagamentos e distorções do passado.
+19. Ensinar a verificar também as afirmações, escolhas editoriais e possíveis erros do próprio Rondoscópio.
 
 #### Limites
 
@@ -2450,13 +2471,21 @@ A concentração fundiária e a transmissão patrimonial poderão justificar inv
 
 *Parte de origem: [parts/02-principios/019-independencia-e-imparcialidade.md](../parts/02-principios/019-independencia-e-imparcialidade.md)*
 
-> **Situação:** minuta para discussão pública. **Versão:** 0.1. **Data:** 2026-11-07.
+> **Situação:** minuta para discussão pública. **Versão:** 0.2. **Data:** 2026-11-09.
 
 A pauta será definida por relevância pública, evidências disponíveis e riscos reais, não por preferências partidárias de colaboradores ou apoiadores.
 
 As equipes devem declarar conflitos relevantes antes de assumir apurações. O vínculo com o objeto investigado pode exigir declaração pública, revisão adicional ou afastamento da decisão editorial.
 
 A imparcialidade é metodológica. Não significa neutralidade diante de direitos fundamentais ou necessidade de conceder igual espaço a afirmações sem sustentação documental.
+
+#### Da identidade de valores e da imparcialidade
+
+O Rondoscópio poderá assumir explicitamente inspiração na esquerda democrática, na social-democracia e no humanismo, defendendo serviços públicos universais, educação pública gratuita, saúde pública, industrialização sustentável, direitos trabalhistas, igualdade e conservação ambiental.
+
+Essa posição orienta a finalidade e a escolha de temas de interesse público, mas não determina antecipadamente as respostas. A instituição deverá investigar governos, partidos, empresas e autoridades de qualquer orientação, inclusive quando aliados ou simpatizantes de suas posições.
+
+As conclusões deverão permanecer abertas à evidência, à crítica, à correção e ao direito de resposta. Valores declarados não dispensam provas nem autorizam tratar como fatos preferências políticas.
 
 #### Da independência frente ao próprio projeto
 
@@ -2529,6 +2558,103 @@ A organização evitará transformar diagnósticos psiquiátricos em rótulos de
 Riscos reais de infiltração e engenharia social exigem controles técnicos e regras de acesso, não vigilância indiscriminada de amizades ou convicções.
 
 Suspeitas de operação coordenada ou espionagem deverão ser verificadas por provas, sem converter discordância crítica em sinal de conspiração.
+
+---
+
+<a id="parte-02-023"></a>
+
+## 02.023 — Compromisso social-democrata, serviços públicos e desenvolvimento sustentável
+
+*Parte de origem: [parts/02-principios/023-compromisso-social-democrata-e-servicos-publicos.md](../parts/02-principios/023-compromisso-social-democrata-e-servicos-publicos.md)*
+
+> **Situação:** minuta para discussão pública. **Versão:** 0.1. **Data:** 2026-11-09.
+> **Natureza:** declaração de valores e finalidades institucionais, não filiação partidária, programa eleitoral ou conclusão antecipada de investigação.
+
+#### CAPÍTULO I
+##### DA IDENTIDADE E DA ISENÇÃO METODOLÓGICA
+
+**Art. 1º** O Rondoscópio assume publicamente compromissos humanistas, progressistas e inspirados na esquerda democrática e na social-democracia, especialmente a defesa da dignidade humana, da liberdade, da igualdade substantiva, da justiça social, da democracia pluralista e da sustentabilidade ambiental.
+
+§ 1º O compromisso com esses valores não constitui filiação ou vinculação a partido, governo, candidatura ou movimento eleitoral.
+
+§ 2º O projeto preservará a liberdade de crítica, o contraditório, o direito de resposta e a disposição de rever interpretações e conclusões.
+
+**Art. 2º** A isenção do Rondoscópio é metodológica e editorial. Significa investigar e avaliar com critérios verificáveis, sem privilégios para autoridades ou grupos politicamente próximos de seus valores.
+
+Parágrafo único. A defesa de serviços públicos e direitos sociais não autoriza presumir que uma política seja eficaz, lícita ou justa apenas porque se apresenta como progressista, nem que seus críticos ajam de má-fé.
+
+#### CAPÍTULO II
+##### DOS SERVIÇOS PÚBLICOS E DOS DIREITOS SOCIAIS
+
+**Art. 3º** O Rondoscópio defende serviços públicos universais, acessíveis, contínuos, financiados de forma responsável, transparentes e capazes de reduzir desigualdades territoriais, sociais, econômicas e raciais.
+
+§ 1º São compromissos a qualidade do atendimento, a valorização de profissionais, a infraestrutura adequada, a capacidade técnica, a prevenção de desperdícios e o combate à corrupção.
+
+§ 2º A defesa do serviço público não afasta o controle de gastos, a avaliação de desempenho, a transparência ou a investigação de falhas e abusos.
+
+**Art. 4º** A organização defende o Sistema Único de Saúde (SUS) como política pública de acesso universal, integral, equitativo e gratuito no ponto de atendimento, sustentada por financiamento público, proteção social e gestão responsável.
+
+§ 1º A fiscalização poderá examinar atenção básica, vacinação, vigilância epidemiológica, assistência farmacêutica, saúde mental, urgências, filas, infraestrutura, condições de trabalho, compras, contratos, cobertura territorial e qualidade assistencial.
+
+§ 2º A gratuidade no atendimento não significa ausência de custos. A transparência sobre financiamento, despesas e resultados é parte do compromisso com a sustentabilidade do sistema.
+
+**Art. 5º** A organização defende a educação pública, gratuita, laica, inclusiva e de qualidade, da educação infantil ao ensino superior, incluindo educação profissional e tecnológica, pesquisa, extensão e oportunidades de aprendizagem ao longo da vida.
+
+§ 1º A valorização da educação abrange profissionais, carreira, formação, remuneração adequada, infraestrutura, permanência estudantil, acessibilidade, liberdade acadêmica e condições efetivas de aprendizagem.
+
+§ 2º Poderão ser acompanhados acesso a vagas, alfabetização, evasão, desempenho, financiamento, alimentação, transporte escolar, bibliotecas, laboratórios, conectividade e desigualdades entre territórios e grupos sociais.
+
+**Art. 6º** O projeto reconhece a importância de saneamento básico, abastecimento de água, mobilidade, habitação, assistência social, cultura e ciência como componentes de uma vida digna.
+
+Parágrafo único. Modelos de prestação direta, regulação, contratação ou cooperação deverão ser avaliados pelas obrigações legais, pelos resultados, pela equidade de acesso e pela prestação de contas, sem imunidade a críticas por sua natureza pública ou privada.
+
+#### CAPÍTULO III
+##### DA INDUSTRIALIZAÇÃO, DO DESENVOLVIMENTO E DO TRABALHO
+
+**Art. 7º** O Rondoscópio reconhece o papel da industrialização sustentável, do desenvolvimento científico e tecnológico e da diversificação produtiva na ampliação de empregos dignos, da capacidade econômica e da autonomia de desenvolvimento do país e de Rondônia.
+
+**Art. 8º** O projeto considera legítimas políticas de fortalecimento da indústria nacional, inovação, infraestrutura, pesquisa aplicada, formação técnica, agregação de valor à produção regional e desenvolvimento de pequenas e médias empresas.
+
+§ 1º O interesse público em incentivos, subsídios, crédito ou compras governamentais dependerá de regras claras, transparência, critérios de elegibilidade e avaliação de custos, benefícios e efeitos distributivos.
+
+§ 2º Incentivos econômicos não justificam favorecimento privado, desrespeito a direitos trabalhistas ou flexibilização ilegal da proteção ambiental.
+
+**Art. 9º** O desenvolvimento econômico defendido pelo Rondoscópio deve respeitar trabalho digno, negociação coletiva, proteção social, redução de desigualdades, sustentabilidade fiscal e responsabilidade ambiental.
+
+Parágrafo único. A diversificação produtiva será examinada também quanto à dependência excessiva de setores primários, à infraestrutura, à formação profissional e à distribuição territorial de oportunidades.
+
+#### CAPÍTULO IV
+##### DA IGUALDADE E DA PROTEÇÃO AMBIENTAL
+
+**Art. 10.** O Rondoscópio se compromete com o enfrentamento da desigualdade social, racial, territorial, patrimonial e de renda e com a redução de obstáculos estruturais ao exercício efetivo de direitos.
+
+§ 1º Esse compromisso compreende a legitimidade de políticas redistributivas, tributação progressiva, ações afirmativas e reparação de desigualdades históricas, sempre sujeitas à análise de legalidade, proporcionalidade, resultados e efeitos não previstos.
+
+§ 2º Serão observados os impactos sobre povos indígenas, comunidades tradicionais, população negra, mulheres, pessoas LGBTQIA+, pessoas com deficiência e outros grupos em situação de vulnerabilidade, sem atribuir culpa individual por identidade ou origem.
+
+**Art. 11.** O desenvolvimento econômico não poderá ser tratado como justificativa automática para desmatamento ilegal, contaminação dos rios, degradação da biodiversidade ou violação de direitos territoriais.
+
+**Art. 12.** O Rondoscópio valoriza a conservação e recuperação de florestas, águas e ecossistemas, a fiscalização ambiental competente, a proteção dos povos indígenas e a transição ecológica justa, com oportunidades de renda e trabalho para as comunidades envolvidas.
+
+#### CAPÍTULO V
+##### DA FISCALIZAÇÃO E DA PRESTAÇÃO DE CONTAS
+
+**Art. 13.** A fiscalização de políticas de saúde, educação, serviços públicos, indústria, trabalho, redistribuição e meio ambiente adotará indicadores verificáveis, comparação territorial e temporal, exame de orçamento, execução e entregas, avaliação de efeitos e divulgação das limitações dos dados.
+
+**Art. 14.** Governos e administrações de qualquer orientação política, assim como organizações privadas e seus beneficiários, estarão sujeitos a padrões equivalentes de apuração quando houver interesse público.
+
+**Art. 15.** Nenhuma investigação poderá ser suprimida, manipulada ou direcionada para proteger uma política, entidade ou pessoa identificada com os valores desta Carta.
+
+Parágrafo único. O Rondoscópio distinguirá de forma explícita seus compromissos normativos, os fatos verificados, as hipóteses investigativas e as conclusões sobre políticas públicas.
+
+#### Referências internas
+
+- [Valores](#parte-01-004).
+- [Objetivos institucionais](#parte-01-005).
+- [Justiça social e econômica](#parte-02-010).
+- [Proteção ambiental](#parte-02-012).
+- [Independência e imparcialidade](#parte-02-019).
+- [Avaliação de políticas públicas](#parte-05-008).
 
 ---
 
@@ -8988,13 +9114,21 @@ Quando um depoimento imputar ilícito a pessoa identificada, será buscada verif
 
 *Parte de origem: [parts/11-educacao/001-compromisso-educacional.md](../parts/11-educacao/001-compromisso-educacional.md)*
 
-> **Situação:** minuta para discussão pública. **Versão:** 0.1. **Data:** 2026-11-07.
+> **Situação:** minuta para discussão pública. **Versão:** 0.2. **Data:** 2026-11-09.
 
 O Rondoscópio pretende produzir conhecimento acessível sobre direitos, instituições, história e métodos de fiscalização.
 
 Materiais devem indicar fontes, público esperado, data de revisão e limites de aplicabilidade. A linguagem deverá ser compreensível sem simplificar a ponto de distorcer conceitos.
 
 Educação não equivale a orientação partidária. As aulas devem permitir examinar evidências, compreender posições distintas e formular perguntas próprias.
+
+#### Autonomia crítica, empatia e memória
+
+A educação pública promovida pelo Rondoscópio terá também a finalidade de ajudar pessoas a identificar manipulação, propaganda enganosa, discursos extremistas e distorções históricas. Esse compromisso inclui método científico, alfabetização midiática, direitos humanos, empatia e preservação contextualizada de fatos históricos.
+
+Seu objetivo é dar a cada pessoa instrumentos para formar juízo próprio, inclusive quando discordar das posições do projeto. Não será avaliada por fidelidade política nem concordância pessoal.
+
+Consulte [Pensamento crítico, pós-verdade, empatia e memória histórica](#parte-11-009).
 
 #### Educação como condição de fiscalização
 
@@ -9036,13 +9170,21 @@ Serão examinados riscos de captura institucional por procedimentos legais utili
 
 *Parte de origem: [parts/11-educacao/003-educacao-historica.md](../parts/11-educacao/003-educacao-historica.md)*
 
-> **Situação:** minuta para discussão pública. **Versão:** 0.1. **Data:** 2026-11-07.
+> **Situação:** minuta para discussão pública. **Versão:** 0.2. **Data:** 2026-11-09.
 
 A pesquisa abrangerá Rondônia, Amazônia, Brasil e história mundial. A formação territorial, os povos indígenas, o Vale do Guaporé, os ciclos econômicos, a Madeira-Mamoré, a migração, a ditadura e a redemocratização merecem atenção regional.
 
 A produção histórica deve diferenciar documentos originais de interpretações posteriores. Datas, atribuições e citações deverão ser conferidas.
 
 A história de povos e grupos tradicionalmente sub-representados não poderá depender apenas de narrativas oficiais. Testemunhos precisam de contexto e consentimento adequado.
+
+#### Memória contra o esquecimento
+
+O projeto ensinará a verificar acontecimentos históricos, diferenciar fontes primárias de interpretações e identificar formas de apagamento documental, propaganda e distorção de contexto. A preservação de atos públicos, discursos, políticas, violações de direitos e resistências democráticas deverá incluir cronologia, contraprovas e retificações.
+
+A educação promoverá respeito às vítimas e empatia com populações marginalizadas, sem converter sofrimento em propaganda ou culpa hereditária.
+
+Consulte [Pensamento crítico, pós-verdade, empatia e memória histórica](#parte-11-009).
 
 #### Autoritarismo e memória crítica
 
@@ -9086,13 +9228,21 @@ O ensino não buscará substituir dogmas religiosos por obediência dogmática a
 
 *Parte de origem: [parts/11-educacao/005-educacao-midiatica.md](../parts/11-educacao/005-educacao-midiatica.md)*
 
-> **Situação:** minuta para discussão pública. **Versão:** 0.1. **Data:** 2026-11-07.
+> **Situação:** minuta para discussão pública. **Versão:** 0.2. **Data:** 2026-11-09.
 
 Ensinar leitura crítica de manchetes, fontes, imagens, vídeos, gráficos e publicações em redes sociais.
 
 O uso de conceitos como propaganda, astroturfing, manipulação de contexto e operações de influência deve acompanhar exemplos verificáveis. Nem toda convergência de opiniões é coordenação.
 
 O foco será desenvolver autonomia de julgamento, não oferecer uma lista de veículos ou pessoas que mereçam obediência acrítica.
+
+#### Pós-verdade e autonomia de julgamento
+
+A formação abordará a diferença entre afirmações verificáveis e interpretações, os graus de evidência, a refutabilidade, o raciocínio motivado, o viés de confirmação e o papel de algoritmos, emoções e pertencimento de grupo na circulação de narrativas. Serão considerados conteúdos sintéticos, desinformação e negacionismo, com cuidado para não ampliar material enganoso.
+
+O público deverá ser incentivado a verificar também as próprias afirmações do Rondoscópio.
+
+Consulte [Pensamento crítico, pós-verdade, empatia e memória histórica](#parte-11-009).
 
 #### Propaganda, sátira e persuasão
 
@@ -9173,6 +9323,331 @@ O conteúdo explicará como metadados, contas de recuperação, contatos, dispos
 Serão apresentadas diferenças entre uso de Tor, criptografia de ponta a ponta, HTTPS, autenticação FIDO2 e OpenPGP. Nenhum mecanismo será apresentado como anonimato garantido.
 
 A orientação não incentivará obtenção ilícita de dados ou invasão de sistemas. Em situações de risco elevado, a pessoa deverá procurar orientação profissional e canais competentes.
+
+---
+
+<a id="parte-11-009"></a>
+
+## 11.009 — Pensamento crítico, pós-verdade, empatia e memória histórica
+
+*Parte de origem: [parts/11-educacao/009-pensamento-critico-pos-verdade-e-memoria.md](../parts/11-educacao/009-pensamento-critico-pos-verdade-e-memoria.md)*
+
+> **Situação:** minuta para discussão pública. **Versão:** 0.2. **Data:** 2026-11-09.
+> **Natureza:** diretriz educacional proposta, sem vigência institucional até aprovação competente.
+
+#### CAPÍTULO I
+##### DA AUTONOMIA CRÍTICA
+
+**Art. 1º** O Rondoscópio promoverá educação cívica e crítica para ajudar pessoas a reconhecer manipulação informacional, propaganda enganosa, extremismo, desumanização, desconhecimento de direitos e distorções ou apagamentos da memória histórica.
+
+§ 1º A finalidade é fortalecer a autonomia para formular perguntas, verificar fontes, reconhecer incertezas e rever posições diante de evidências, não determinar crenças ou comportamentos eleitorais.
+
+§ 2º A organização poderá convidar o público a despertar para a importância dos fatos, dos direitos humanos, da empatia e da história, sem tratar pessoas que discordem como inferiores, incapazes ou inimigas a converter.
+
+**Art. 2º** A educação distinguirá os compromissos éticos expressos pelo Rondoscópio de fatos verificáveis, hipóteses, interpretações, opiniões e preferências políticas.
+
+Parágrafo único. A inspiração humanista, progressista e social-democrata do projeto não torna seus argumentos imunes a crítica, contraprova ou correção.
+
+#### CAPÍTULO II
+##### DA PÓS-VERDADE, DA PROPAGANDA E DO CONHECIMENTO
+
+**Art. 3º** O ensino abordará como apelos emocionais, medo, ressentimento, repetição, identidade de grupo, descontextualização e alegações sem evidências podem influenciar crenças e decisões.
+
+**Art. 4º** A alfabetização midiática poderá abranger:
+
+I - distinção entre notícia, opinião, hipótese, publicidade, sátira, propaganda, erro e falsidade deliberada;
+
+II - identificação de fontes primárias, data, autoria, contexto, métodos, dados originais, registros arquivados e possíveis conflitos de interesse;
+
+III - reconhecimento de generalizações, falsa causalidade, ataques pessoais, falsas equivalências e inversões retóricas;
+
+IV - análise de narrativas conspiratórias, especialmente refutabilidade, adequação das evidências e exame de explicações alternativas;
+
+V - funcionamento de algoritmos de recomendação, publicidade segmentada, redes de amplificação, contas automatizadas e operações de influência, sem supor coordenação pela mera concordância entre usuários;
+
+VI - verificação de imagens, vídeos, conteúdos sintéticos e material produzido por inteligência artificial;
+
+VII - estudo de vieses cognitivos, raciocínio motivado, viés de confirmação e limitações de quem investiga.
+
+**Art. 5º** Nenhuma afirmação será considerada verdadeira apenas por sua popularidade, repetição, autoria ou força emocional, nem falsa apenas por contrariar os valores da organização.
+
+**Art. 6º** A educação científica tratará de hipóteses, refutabilidade, correlação, causalidade, graus de evidência, revisão por pares, consenso científico e incerteza, sem fabricar equivalência entre alegações de sustentação muito desigual.
+
+#### CAPÍTULO III
+##### DA PREVENÇÃO AO EXTREMISMO E DA EMPATIA
+
+**Art. 7º** Serão estudados processos de radicalização, propaganda extremista, construção de inimigos, culto à personalidade, desumanização de grupos, perseguições e justificativas para a violência política e o autoritarismo, com base em estudos e casos documentados.
+
+**Art. 8º** A educação promoverá empatia, escuta, respeito à dignidade e compreensão das consequências humanas da discriminação, da violência e da exclusão.
+
+§ 1º A empatia não exige concordância com qualquer opinião, tolerância à violência nem impunidade.
+
+§ 2º Discordância política, crença religiosa, crítica legítima e exercício de direitos não serão classificados, isoladamente, como radicalização ou extremismo.
+
+**Art. 9º** Poderão ser abordados racismo, antissemitismo, misoginia, LGBTfobia, xenofobia e discriminação contra povos indígenas e outros grupos, sem generalizar responsabilidades a comunidades inteiras.
+
+**Art. 10.** Os materiais não incentivarão assédio, humilhação pública, perseguição, exposição de dados pessoais nem supressão de direitos de pessoas que expressem posições diferentes.
+
+#### CAPÍTULO IV
+##### DA MEMÓRIA HISTÓRICA E DA PREVENÇÃO AO APAGAMENTO
+
+**Art. 11.** O projeto combaterá o esquecimento e a distorção de acontecimentos relevantes por meio de documentos preservados, cronologias verificáveis, pesquisa historiográfica e apresentação do contexto.
+
+**Art. 12.** Poderão ser estudados colonialismo, escravização, racismo, fascismo, nazismo, Holocausto, ditaduras, perseguições, violações de direitos humanos, resistências democráticas e processos de reparação.
+
+Parágrafo único. Os materiais distinguirão evidências históricas bem estabelecidas, debates historiográficos legítimos e alegações negacionistas sem base comparável.
+
+**Art. 13.** A história de Rondônia e da Amazônia considerará os povos indígenas, o processo de ocupação territorial, migrações, conflitos fundiários e ambientais, desigualdades, violações de direitos e conquistas sociais.
+
+**Art. 14.** O Rondoscópio buscará preservar e contextualizar discursos, decisões, promessas, mudanças de posição, políticas e efeitos documentados, incluindo retificações, revogações e conclusões posteriores.
+
+Parágrafo único. A memória pública não justifica expor informações íntimas sem interesse público, retirar falas de contexto ou atribuir culpa hereditária a descendentes de agentes históricos.
+
+#### CAPÍTULO V
+##### DOS FORMATOS E DAS GARANTIAS DIDÁTICAS
+
+**Art. 15.** Os materiais poderão incluir estudos de caso, linhas do tempo, guias de checagem, oficinas, análise de documentos e exercícios de comparação de evidências, com exemplos locais e internacionais.
+
+**Art. 16.** Cada material indicará, conforme sua natureza, fontes, método, público-alvo, data de revisão, limitações e graus de certeza. Exemplos fictícios serão identificados como tais.
+
+**Art. 17.** A linguagem será acessível, respeitará diferenças de escolaridade e evitará confundir desconhecimento sobre um tema com inferioridade moral ou intelectual.
+
+**Art. 18.** A qualidade educativa será avaliada pela clareza, precisão, autonomia crítica, acessibilidade e capacidade de verificação, nunca pela adesão a partido, dirigente ou posição da organização.
+
+**Art. 19.** Será admitida discordância fundamentada e assegurada a possibilidade de correção pública de erros.
+
+#### Referências internas
+
+- [24 temas do Meteoro Brasil para investigação e ensino](#parte-11-010).
+- [Cinco eixos de leitura sobre pós-verdade](#parte-11-011).
+
+- [Compromisso educacional](#parte-11-001).
+- [Educação histórica](#parte-11-003).
+- [Educação científica](#parte-11-004).
+- [Educação midiática](#parte-11-005).
+- [Critérios didáticos](#parte-11-006).
+- [Política de memória](#parte-10-001).
+- [Análise de desinformação](#parte-05-006).
+- [Prudência e resistência à manipulação](#parte-02-022).
+
+---
+
+<a id="parte-11-010"></a>
+
+## 11.010 — Roteiro de investigação e educação inspirado no Meteoro Brasil
+
+*Parte de origem: [parts/11-educacao/010-roteiro-critico-meteoro-brasil.md](../parts/11-educacao/010-roteiro-critico-meteoro-brasil.md)*
+
+> **Situação:** minuta para discussão pública. **Versão:** 0.1. **Data:** 2026-11-09.
+> **Natureza:** roteiro autoral de temas de estudo. Não reproduz o texto do livro nem incorpora automaticamente as conclusões dos autores.
+
+#### Referência e finalidade
+
+Este documento toma como ponto de partida os **24 temas apresentados no sumário da obra [Tudo o que você precisou desaprender para virar um idiota](https://www.planetadelivros.com.br/livro-tudo-o-que-voce-precisou-desaprender-para-virar-um-idiota/307931)**, do Meteoro Brasil (Planeta, 2019), identificados na fotografia fornecida para o Rondoscópio.
+
+Os enunciados originais possuem formulações deliberadamente provocativas. Abaixo eles foram **reformulados como problemas de pesquisa e educação cívica**, não como fatos automaticamente comprovados. O projeto deverá verificar cada tema com documentação primária, estudos especializados, historiografia, indicadores pertinentes e consideração de hipóteses alternativas.
+
+#### CAPÍTULO I
+##### DO MÉTODO E DAS GARANTIAS
+
+**Art. 1º** Os temas elencados deverão subsidiar materiais de educação crítica, verificação documental, história, ciência e direitos humanos.
+
+**Art. 2º** A posição do livro ou da organização não substitui comprovação. O roteiro explicitará divergências legítimas, períodos históricos, referências e incertezas pertinentes.
+
+**Art. 3º** As análises não deverão confundir crítica a ideias e políticas com ataques à dignidade de pessoas, nem usar expressões polêmicas como prova da intenção de seus adeptos.
+
+#### CAPÍTULO II
+##### DOS 24 TEMAS DE ESTUDO
+
+##### 01 — Conspirações e alegações irrefutáveis
+
+Ensinar a distinguir suspeitas investigáveis de narrativas que sempre reinterpretam contraprovas como parte da conspiração. Pedir fontes primárias, hipóteses testáveis e critérios que poderiam mudar a conclusão.
+
+##### 02 — Globalização e a narrativa do globalismo
+
+Diferenciar fenômenos reais de integração econômica, instituições internacionais e acordos públicos da tese de uma direção mundial secreta e homogênea. Verificar atores, documentos e competências.
+
+##### 03 — A chamada religião biônica mundial
+
+Examinar a origem e a circulação dessa alegação conspiratória e sua relação com discursos sobre religião e cultura. Distinguir mudanças sociais observáveis de planos secretos sem evidência.
+
+##### 04 — A narrativa do marxismo cultural
+
+Investigar a história da expressão, sua circulação na propaganda política e as alegações sobre Escola de Frankfurt, instituições culturais e conspirações anticomunistas. Examinar documentos e historiografia, inclusive relações históricas com propaganda antissemita.
+
+##### 05 — Antonio Gramsci e interpretações de sua obra
+
+Estudar textos de Gramsci, seu contexto intelectual, suas ideias sobre hegemonia e a diferença entre pesquisa da obra e caricaturas sobre um suposto plano de manipulação da sociedade.
+
+##### 06 — Direitos humanos e alegações de dominação internacional
+
+Explicar a história, os fundamentos e os mecanismos legais dos direitos humanos; distinguir tratados, obrigações, recomendações e teorias sobre uma suposta dominação global.
+
+##### 07 — A expressão politicamente correto e seus usos políticos
+
+Investigar a origem histórica da expressão e sua apropriação por diferentes correntes. Distinguir debate legítimo sobre linguagem, liberdades e discriminação de explicações simplistas.
+
+##### 08 — Boatos sobre Barack Obama e serviços secretos
+
+Utilizar alegações de recrutamento por serviços de inteligência como estudo de atribuição responsável: origem do rumor, provas exigidas, cronologia, documentos e ônus de demonstração.
+
+##### 09 — Martin Luther King Jr., anticomunismo e direitos civis
+
+Examinar a trajetória de King, suas posições sobre comunismo, capitalismo, racismo e justiça econômica, sem reduzir sua atuação a uma frase ou rótulo ideológico.
+
+##### 10 — Psicologia, hierarquias sociais e pseudociência
+
+Distinguir descrições de diferenças humanas de justificativas normativas para castas ou discriminações. Investigar abuso de testes, eugenia, racismo científico e limitações metodológicas.
+
+##### 11 — Freud e a diferença entre descrição e prescrição
+
+Examinar conceitos psicanalíticos ligados à sexualidade e relações familiares, distinguindo formulações descritivas de apoio moral a práticas abusivas. Contextualizar debates e críticas científicas.
+
+##### 12 — Estudos de gênero e retórica de ideologia de gênero
+
+Explicar o campo acadêmico dos estudos de gênero, seus métodos e divergências, e investigar como expressões políticas são usadas para caracterizar políticas públicas e direitos LGBTQIA+.
+
+##### 13 — Contribuições de pessoas LGBTQIA+
+
+Documentar contribuições de pessoas LGBTQIA+ à ciência, à saúde, à cultura e à sociedade, combatendo apagamentos históricos sem transformar slogans em afirmações universais não verificáveis.
+
+##### 14 — Drogas, história e políticas baseadas em evidências
+
+Estudar a presença histórica de substâncias psicoativas, os diferentes riscos, a prevenção, a redução de danos, o tratamento e os efeitos das políticas repressivas, com fontes sanitárias e jurídicas.
+
+##### 15 — Método científico e conhecimento revisável
+
+Ensinar hipóteses, experimentos, reprodutibilidade, revisão por pares, avaliação crítica e limites do consenso. Reconhecer conquistas científicas sem tratar cientistas como infalíveis.
+
+##### 16 — Vacinação, eficácia e segurança
+
+Explicar ensaios clínicos, vigilância de eventos adversos, eficácia, efetividade, balanço entre riscos e benefícios e atualização de recomendações. Não afirmar risco nulo para toda vacina ou toda pessoa.
+
+##### 17 — Forma da Terra e astronomia básica
+
+Apresentar observações e experimentos reproduzíveis sobre a forma da Terra, rotação e movimento orbital, distinguindo o método científico de argumentos de autoridade.
+
+##### 18 — Dependência de combustíveis fósseis
+
+Examinar reservas finitas, emissões, custos ambientais, alternativas tecnológicas e transições energéticas, incluindo seus impactos sociais, industriais e distributivos.
+
+##### 19 — Aquecimento global e evidências climáticas
+
+Diferenciar variabilidade natural do clima e aquecimento global observado, apresentar evidências e atribuição científica e avaliar medidas de mitigação e adaptação sem confundir ciência com preferência por uma política específica.
+
+##### 20 — Escravidão e desigualdades persistentes
+
+Investigar documentos históricos e indicadores sobre efeitos duradouros da escravização, do racismo e da exclusão em patrimônio, renda, terra, educação e oportunidades, sem atribuir culpa individual por ancestralidade.
+
+##### 21 — Foro de São Paulo e sua documentação pública
+
+Explicar origem, participantes, encontros e documentos públicos do Foro de São Paulo, distinguindo organização política verificável de alegações de comando oculto ou responsabilidade criminal sem prova.
+
+##### 22 — Lei Rouanet e financiamento cultural
+
+Examinar o mecanismo legal de incentivo fiscal, aprovação de projetos, captação, prestação de contas, fiscalização e resultados. Distinguir crítica fundamentada, irregularidade comprovada e generalizações.
+
+##### 23 — Pesquisa e universidades públicas
+
+Documentar produção científica, formação de pesquisadores, serviços à sociedade, financiamento, extensão e inovação das universidades públicas, com indicadores comparáveis e transparência sobre limitações.
+
+##### 24 — Paulo Freire e educação crítica
+
+Estudar a obra, a recepção e as críticas documentadas a Paulo Freire, distinguindo concepções pedagógicas, práticas de sala de aula e acusações genéricas de doutrinação não demonstradas.
+
+#### CAPÍTULO III
+##### DAS FORMAS DE VERIFICAÇÃO
+
+**Art. 4º** Para cada tema, os materiais deverão informar: afirmação examinada, fontes primárias, contexto histórico, avaliação das evidências, explicações alternativas, conclusão proporcional à prova e data da última revisão.
+
+**Art. 5º** Alegações sobre pessoas e instituições, especialmente espionagem, crimes, organizações secretas ou corrupção, exigem comprovação específica e respeito à presunção de inocência e ao direito de resposta.
+
+**Art. 6º** Estudos científicos e históricos devem distinguir consenso bem sustentado, hipóteses abertas, controvérsias documentadas e posições negacionistas ou conspiratórias sem lastro comparável.
+
+**Art. 7º** O Rondoscópio poderá divergir das conclusões da obra referenciada quando a investigação identificar erros, exageros, lacunas ou novas informações.
+
+#### Referências e relações internas
+
+- Meteoro Brasil. [*Tudo o que você precisou desaprender para virar um idiota*](https://www.planetadelivros.com.br/livro-tudo-o-que-voce-precisou-desaprender-para-virar-um-idiota/307931). Planeta, 2019.
+- [Pensamento crítico, pós-verdade, empatia e memória histórica](#parte-11-009).
+- [Roteiro de leitura sobre pós-verdade e respostas democráticas](#parte-11-011).
+- [Bibliografia](#parte-14-005).
+
+---
+
+<a id="parte-11-011"></a>
+
+## 11.011 — Roteiro de leitura sobre pós-verdade e respostas democráticas
+
+*Parte de origem: [parts/11-educacao/011-roteiro-pos-verdade-matthew-dancona.md](../parts/11-educacao/011-roteiro-pos-verdade-matthew-dancona.md)*
+
+> **Situação:** minuta para discussão pública. **Versão:** 0.1. **Data:** 2026-11-09.
+> **Natureza:** síntese temática autoral inspirada na estrutura de uma obra publicada. Não contém reprodução dos capítulos.
+
+#### Referência e objetivo
+
+O documento se inspira nos **cinco capítulos** de *Pós-verdade: A nova guerra contra os fatos em tempos de fake news*, de **Matthew d'Ancona**, edição brasileira da **Faro Editorial (2018)**. A fotografia compartilhada apresenta a contracapa, enquanto os temas dos capítulos foram conferidos na edição e nos materiais bibliográficos disponíveis.
+
+A obra discute a perda de importância social atribuída à verdade factual, a influência de emoções sobre o debate público, a desconfiança institucional, os meios digitais de circulação de falsidades e as formas de resistência. Este documento transforma essas questões em diretrizes educacionais e de investigação próprias do Rondoscópio.
+
+#### CAPÍTULO I
+##### DO ESTUDO DA PÓS-VERDADE
+
+**Art. 1º** O Rondoscópio examinará situações em que fatos verificáveis perdem influência no debate público diante de apelos emocionais, crenças identitárias e narrativas que resistem à correção.
+
+Parágrafo único. Emoções e valores fazem parte da política democrática. O problema investigativo não é sua presença, mas a falsificação de fatos, a manipulação de evidências e a recusa sistemática de prestar contas da veracidade das afirmações.
+
+#### CAPÍTULO II
+##### DOS CINCO EIXOS DE LEITURA E INVESTIGAÇÃO
+
+##### 01 — Surgimento da pós-verdade no debate político
+
+Estudar as transformações da relação entre fatos, emoções, líderes e públicos, utilizando como referências históricas os contextos do referendo do Brexit e das eleições norte-americanas de 2016 tratados pelo autor.
+
+Questões de trabalho: quando um erro factual é corrigido, como seus efeitos permanecem? Quais fatores tornam a narrativa mais persuasiva do que a evidência? Como separar análise retrospectiva de generalizações para outros países e períodos?
+
+##### 02 — Crise de confiança, produção industrial de desinformação e ambiente digital
+
+Investigar a confiança em instituições, jornalismo, ciência e governo, os incentivos da economia de atenção, a amplificação algorítmica, modelos de negócio e a circulação de boatos, fraudes e notícias falsas.
+
+Questões de trabalho: que atores e mecanismos são comprováveis? Onde há apenas indício de coordenação? A desconfiança decorre de falhas reais, propaganda ou combinação de fatores? Como prestar contas sem exigir confiança cega?
+
+##### 03 — Conspiracionismo, negação e ataques ao conhecimento
+
+Estudar narrativas conspiratórias autorreforçadoras, ataques ao método científico e tentativas de negar acontecimentos historicamente documentados, incluindo antissemitismo e negação do Holocausto, tratados na obra.
+
+Questões de trabalho: qual afirmação é testável? Que documentos e estudos podem comprová-la ou refutá-la? Que estratégias tornam a narrativa resistente a qualquer evidência contrária?
+
+##### 04 — Relativismo, ironia e disputas sobre a verdade
+
+Investigar a diferença entre crítica filosófica legítima, pluralidade interpretativa, incerteza do conhecimento e o uso retórico da ideia de que toda versão teria valor factual equivalente.
+
+Questões de trabalho: o que é interpretação e o que é dado verificável? Como reconhecer falhas de instituições sem concluir que todos os registros são inúteis? Como comunicar incertezas sem transformar a dúvida em licença para inventar fatos?
+
+##### 05 — Formas de reagir sem abandonar o pluralismo
+
+Desenvolver práticas de jornalismo responsável, correção pública, transparência de fontes, alfabetização midiática, educação científica, responsabilização proporcional e desenho cuidadoso de tecnologias informacionais.
+
+Questões de trabalho: como evitar amplificar boatos ao refutá-los? Como avaliar se uma intervenção educativa melhora a capacidade de verificação? Como combinar conhecimento, empatia e narrativa compreensível sem manipular o público?
+
+#### CAPÍTULO III
+##### DAS GARANTIAS CONTRA A PRÓPRIA PÓS-VERDADE
+
+**Art. 2º** O Rondoscópio não deverá reivindicar acesso privilegiado à verdade. Suas publicações serão verificáveis e passíveis de revisão, inclusive quando tratarem de grupos ou políticas de orientação próxima à sua identidade institucional.
+
+**Art. 3º** A correção de informação falsa deverá preservar o contexto necessário e evitar repetição sensacionalista, atribuição imprudente de autoria e exposição de pessoas sem interesse público demonstrado.
+
+**Art. 4º** A crítica à propaganda, à desinformação e ao negacionismo será acompanhada de explicação de método, evidências e incertezas, sem reduzir toda divergência de opinião a manipulação.
+
+**Art. 5º** A atividade educativa deverá fortalecer autonomia e capacidade de julgamento do público, e não adesão partidária, fidelização a dirigentes ou crença acrítica no próprio projeto.
+
+#### Referências e relações internas
+
+- Matthew d'Ancona. [*Pós-verdade: A nova guerra contra os fatos em tempos de fake news*](https://faroeditorial.com.br/produto/pos-verdade/). Faro Editorial, 2018.
+- [Amostra disponibilizada pela editora](https://faroeditorial.com.br/site2020/wp-content/uploads/2023/07/pos-verdade.pdf).
+- [Pensamento crítico, pós-verdade, empatia e memória histórica](#parte-11-009).
+- [Roteiro de investigação e educação inspirado no Meteoro Brasil](#parte-11-010).
+- [Bibliografia](#parte-14-005).
 
 ---
 
@@ -10088,7 +10563,7 @@ A ausência de licença expressa não será interpretada como domínio público.
 
 *Parte de origem: [parts/14-referencias/005-bibliografia.md](../parts/14-referencias/005-bibliografia.md)*
 
-> **Situação:** minuta para discussão pública. **Versão:** 0.1. **Data:** 2026-11-07.
+> **Situação:** minuta para discussão pública. **Versão:** 0.2. **Data:** 2026-11-09.
 
 Este documento reunirá bibliografia efetivamente utilizada em análises e políticas. A inclusão de um título significa referência bibliográfica, não concordância com todas as suas conclusões.
 
@@ -10107,6 +10582,13 @@ A pesquisa deverá registrar edições de documentos constitucionais e históric
 Na discussão sobre a Alemanha de 1933, recomenda-se consultar documentos e materiais do [Museu Memorial do Holocausto dos EUA](https://encyclopedia.ushmm.org/content/en/article/the-enabling-act), evitando a simplificação de que o nazismo chegou à ditadura por um voto livre isolado.
 
 Bibliografia sobre desigualdades históricas, coronelismo e clientelismo deverá distinguir interpretações, fontes originais e responsabilidade individual.
+
+#### Obras de divulgação e crítica da desinformação
+
+- **Meteoro Brasil.** *Tudo o que você precisou desaprender para virar um idiota*. Planeta, 2019. [Página da editora](https://www.planetadelivros.com.br/livro-tudo-o-que-voce-precisou-desaprender-para-virar-um-idiota/307931). Referência temática para os [24 tópicos de educação crítica](#parte-11-010). As teses da obra não são adotadas automaticamente pelo Rondoscópio.
+- **D'ANCONA, Matthew.** *Pós-verdade: A nova guerra contra os fatos em tempos de fake news*. Faro Editorial, 2018. [Página da editora](https://faroeditorial.com.br/produto/pos-verdade/). Referência para os [cinco eixos de investigação sobre pós-verdade](#parte-11-011). A interpretação do livro não substitui fontes primárias e pesquisa independente.
+
+A referência bibliográfica identifica inspirações de pesquisa e não autoriza reprodução integral de textos protegidos por direitos autorais.
 
 ---
 

@@ -28,6 +28,10 @@ O [núcleo de identidade](parts/03-governanca/008-clausulas-de-identidade-e-limi
 
 O [controle de compatibilidade interna](parts/03-governanca/011-procedimento-de-controle-de-constitucionalidade-interna.md) e os comitês previstos só poderão funcionar após instalação real de pessoas independentes, não na fase de ADM único.
 
+## Valores progressistas e independência na apuração
+
+O Rondoscópio declara inspiração na esquerda democrática, no humanismo e na social-democracia. Defende serviços públicos universais, educação pública gratuita e de qualidade, SUS universal e gratuito no atendimento, industrialização sustentável, redução das desigualdades sociais, raciais e de renda e proteção ambiental. Esses compromissos não significam filiação partidária nem favorecimento na apuração. Consulte o [Compromisso social-democrata, serviços públicos e desenvolvimento sustentável](parts/02-principios/023-compromisso-social-democrata-e-servicos-publicos.md) e a política de [Independência e imparcialidade](parts/02-principios/019-independencia-e-imparcialidade.md).
+
 ## Governança e separação de poderes
 
 A [Constituição Institucional](parts/00-abertura/001-constituicao.md) propõe uma organização que continua além de qualquer pessoa, sem privilégios permanentes de fundador. A função [ADM](parts/03-governanca/004-regimento-de-papeis-e-permissoes.md) é ocupada provisoriamente por uma pessoa nesta fase; os comitês e a assembleia ainda não estão instalados.
@@ -35,6 +39,12 @@ A [Constituição Institucional](parts/00-abertura/001-constituicao.md) propõe 
 As minutas tratam de [papéis e permissões](parts/03-governanca/004-regimento-de-papeis-e-permissoes.md), [comitê de ética e conduta](parts/03-governanca/006-comite-de-etica-e-conduta.md), [destituição e defesa](parts/03-governanca/013-processo-de-destituicao-e-defesa.md), [proteção contra captura institucional](parts/03-governanca/012-protecao-contra-captura-institucional.md) e [transição e sucessão](parts/03-governanca/015-transicao-administrativa-e-sucessao.md).
 
 A criação de funções no texto não concede automaticamente direitos no GitHub, nos domínios ou em uma eventual pessoa jurídica. Sua implementação exigirá pessoas habilitadas, decisões registradas e controles técnicos reais.
+
+## Educação crítica, resistência à manipulação e memória
+
+O Rondoscópio também pretende promover pensamento científico, alfabetização midiática, empatia e memória histórica para ajudar pessoas a reconhecer desinformação, propaganda, narrativas conspiratórias infundadas, extremismo e distorções do passado. O objetivo é fortalecer sua capacidade de questionar e verificar, não impor crenças nem exigir alinhamento partidário. Consulte [Pensamento crítico, pós-verdade, empatia e memória histórica](parts/11-educacao/009-pensamento-critico-pos-verdade-e-memoria.md).
+
+O eixo educativo inclui [24 temas inspirados no livro do Meteoro Brasil](parts/11-educacao/010-roteiro-critico-meteoro-brasil.md) e [cinco eixos de leitura sobre o livro *Pós-verdade*](parts/11-educacao/011-roteiro-pos-verdade-matthew-dancona.md). São roteiros próprios de pesquisa, sem reprodução dos capítulos nem adoção acrítica das teses das obras.
 
 ## Objetivos de fiscalização, metas e referenciais
 
