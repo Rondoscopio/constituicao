@@ -12,7 +12,9 @@
 
 § 2º O Rondoscópio não reivindica neutralidade ideológica. Poderá manifestar-se em defesa de propostas, direitos e políticas públicas coerentes com seu posicionamento de esquerda, distinguindo expressamente a defesa de valores e projetos políticos dos fatos apurados e das conclusões técnicas.
 
-§ 3º O projeto preservará a liberdade de crítica, o contraditório, o direito de resposta e a disposição de rever interpretações e conclusões.
+§ 3º O Rondoscópio poderá publicar materiais jornalísticos e educativos em defesa e promoção de pautas de esquerda, inclusive reportagens explicativas, análises e editoriais. O gênero e o posicionamento editorial deverão ser identificáveis, sem reduzir as exigências de verificação dos fatos.
+
+§ 4º O projeto preservará a liberdade de crítica, o contraditório, o direito de resposta e a disposição de rever interpretações e conclusões.
 
 **Art. 2º** A isenção do Rondoscópio é metodológica e editorial, não ausência de valores. Significa investigar e avaliar com critérios públicos, verificáveis e coerentes, sem privilégios para autoridades ou grupos politicamente próximos de seus valores.
 
