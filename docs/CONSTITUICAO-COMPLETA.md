@@ -626,7 +626,7 @@ As referências são inspirações, não representam endosso ou parceria das org
 
 *Parte de origem: [parts/00-abertura/002-carta-fundadora.md](../parts/00-abertura/002-carta-fundadora.md)*
 
-> **Situação:** minuta para discussão pública. **Versão:** 0.7. **Data:** 2026-11-07.
+> **Situação:** minuta para discussão pública. **Versão:** 0.8. **Data:** 2026-11-10.
 > **Natureza:** documento institucional proposto, sem vigência formal até aprovação pela instância competente.
 
 
@@ -672,13 +672,21 @@ VI - desenvolvimento de ferramentas abertas ou acessíveis de consulta, análise
 
 **Art. 4º** O Rondoscópio orientará sua atuação pela dignidade humana, democracia, Estado de Direito, igualdade de direitos, liberdade de expressão e de consciência, laicidade, rigor científico, justiça social e proteção ambiental.
 
-Parágrafo único. A defesa desses valores não autoriza conclusões prévias sobre pessoas ou fatos, supressão de evidências contrárias ou aplicação desigual dos critérios de investigação.
+§ 1º O Rondoscópio é declaradamente um projeto de esquerda e defende de forma explícita posições da esquerda democrática e progressista, com inspiração social-democrata e afinidade com princípios do liberalismo social relativos às liberdades individuais. Não reivindica neutralidade ideológica. Essa declaração não significa filiação partidária ou obrigação de adesão ideológica de colaboradores.
+
+§ 2º O projeto poderá defender publicamente pautas e políticas compatíveis com seus valores, desde que identifique o caráter político ou opinativo dessas manifestações e não as apresente como resultados obrigatórios de suas investigações.
+
+§ 3º O Rondoscópio poderá produzir e publicar materiais jornalísticos em defesa e promoção de pautas de esquerda, distinguindo apuração factual, análise, opinião e defesa institucional de propostas.
+
+§ 4º A defesa desses valores não autoriza conclusões prévias sobre pessoas ou fatos, supressão de evidências contrárias ou aplicação desigual dos critérios de investigação.
 
 **Art. 5º** O trabalho será independente de partidos políticos, governos, candidatos, empresas, grupos religiosos e financiadores.
 
 § 1º A independência exige critérios editoriais conhecidos, tratamento de conflitos de interesses e transparência sobre fontes de financiamento.
 
 § 2º Independência metodológica não significa atribuir igual credibilidade a afirmações sustentadas por evidências de qualidade diferente.
+
+§ 3º Os mesmos critérios de investigação, prova, transparência e responsabilização serão aplicados a agentes de todas as orientações políticas, inclusive aos identificados com os valores do Rondoscópio, sem equivalência artificial entre fatos distintos.
 
 **Art. 6º** A fiscalização observará, em relação às pessoas e instituições envolvidas:
 
@@ -2471,7 +2479,7 @@ A concentração fundiária e a transmissão patrimonial poderão justificar inv
 
 *Parte de origem: [parts/02-principios/019-independencia-e-imparcialidade.md](../parts/02-principios/019-independencia-e-imparcialidade.md)*
 
-> **Situação:** minuta para discussão pública. **Versão:** 0.2. **Data:** 2026-11-09.
+> **Situação:** minuta para discussão pública. **Versão:** 0.3. **Data:** 2026-11-10.
 
 A pauta será definida por relevância pública, evidências disponíveis e riscos reais, não por preferências partidárias de colaboradores ou apoiadores.
 
@@ -2481,11 +2489,19 @@ A imparcialidade é metodológica. Não significa neutralidade diante de direito
 
 #### Da identidade de valores e da imparcialidade
 
-O Rondoscópio poderá assumir explicitamente inspiração na esquerda democrática, na social-democracia e no humanismo, defendendo serviços públicos universais, educação pública gratuita, saúde pública, industrialização sustentável, direitos trabalhistas, igualdade e conservação ambiental.
+O Rondoscópio é um projeto declaradamente de esquerda e defende publicamente esse posicionamento político, especialmente em sua vertente democrática, progressista e social-democrata, com respeito às liberdades individuais e aos princípios do liberalismo social. Defende serviços públicos universais, educação pública gratuita, saúde pública, industrialização sustentável, direitos trabalhistas, igualdade e conservação ambiental. Não se apresenta como ideologicamente neutro.
 
-Essa posição orienta a finalidade e a escolha de temas de interesse público, mas não determina antecipadamente as respostas. A instituição deverá investigar governos, partidos, empresas e autoridades de qualquer orientação, inclusive quando aliados ou simpatizantes de suas posições.
+A defesa de pautas de esquerda poderá integrar manifestações e propostas institucionais, com identificação clara do que constitui opinião ou compromisso político. Essa posição orienta a finalidade e a escolha de temas de interesse público, mas não determina antecipadamente as respostas. A instituição deverá investigar governos, partidos, empresas, autoridades e seus próprios integrantes de qualquer orientação, inclusive quando aliados, financiadores ou simpatizantes de suas posições.
 
 As conclusões deverão permanecer abertas à evidência, à crítica, à correção e ao direito de resposta. Valores declarados não dispensam provas nem autorizam tratar como fatos preferências políticas.
+
+#### Da aplicação uniforme dos critérios
+
+Não se presume ausência de vieses pessoais ou institucionais. A resposta a esse risco deve ser a explicitação dos valores e dos métodos, a identificação de conflitos de interesses, o exame de contraprovas e a revisão crítica das decisões.
+
+A mesma conduta deve ser examinada com os mesmos critérios de legalidade, prova, contexto e responsabilidade, independentemente da identidade política de seus autores. Diferenças de tratamento precisam ser justificadas por diferenças relevantes nos fatos, não pelo alinhamento ideológico das pessoas envolvidas.
+
+A seleção de pautas deve ser explicável por interesse público, relevância, disponibilidade de evidências e capacidade de apuração. O Rondoscópio deverá reconhecer limitações de cobertura e corrigir distorções sistemáticas de atenção. A igualdade de critérios não exige equivalência artificial entre versões apoiadas por evidências desiguais.
 
 #### Da independência frente ao próprio projeto
 
@@ -2567,21 +2583,29 @@ Suspeitas de operação coordenada ou espionagem deverão ser verificadas por pr
 
 *Parte de origem: [parts/02-principios/023-compromisso-social-democrata-e-servicos-publicos.md](../parts/02-principios/023-compromisso-social-democrata-e-servicos-publicos.md)*
 
-> **Situação:** minuta para discussão pública. **Versão:** 0.1. **Data:** 2026-11-09.
+> **Situação:** minuta para discussão pública. **Versão:** 0.2. **Data:** 2026-11-10.
 > **Natureza:** declaração de valores e finalidades institucionais, não filiação partidária, programa eleitoral ou conclusão antecipada de investigação.
 
 #### CAPÍTULO I
 ##### DA IDENTIDADE E DA ISENÇÃO METODOLÓGICA
 
-**Art. 1º** O Rondoscópio assume publicamente compromissos humanistas, progressistas e inspirados na esquerda democrática e na social-democracia, especialmente a defesa da dignidade humana, da liberdade, da igualdade substantiva, da justiça social, da democracia pluralista e da sustentabilidade ambiental.
+**Art. 1º** O Rondoscópio é um projeto cívico declaradamente de esquerda. Assume e defende publicamente posições políticas da esquerda democrática e progressista, com inspiração social-democrata e afinidade com princípios do liberalismo social na defesa das liberdades civis, da dignidade humana, da igualdade substantiva, da justiça social, da democracia pluralista e da sustentabilidade ambiental.
 
-§ 1º O compromisso com esses valores não constitui filiação ou vinculação a partido, governo, candidatura ou movimento eleitoral.
+§ 1º Essa identidade expressa valores e finalidades institucionais, não filiação ou vinculação a partido, governo, candidatura ou movimento eleitoral. Não será exigida concordância ideológica de colaboradores, fontes ou pessoas investigadas.
 
-§ 2º O projeto preservará a liberdade de crítica, o contraditório, o direito de resposta e a disposição de rever interpretações e conclusões.
+§ 2º O Rondoscópio não reivindica neutralidade ideológica. Poderá manifestar-se em defesa de propostas, direitos e políticas públicas coerentes com seu posicionamento de esquerda, distinguindo expressamente a defesa de valores e projetos políticos dos fatos apurados e das conclusões técnicas.
 
-**Art. 2º** A isenção do Rondoscópio é metodológica e editorial. Significa investigar e avaliar com critérios verificáveis, sem privilégios para autoridades ou grupos politicamente próximos de seus valores.
+§ 3º O Rondoscópio poderá publicar materiais jornalísticos e educativos em defesa e promoção de pautas de esquerda, inclusive reportagens explicativas, análises e editoriais. O gênero e o posicionamento editorial deverão ser identificáveis, sem reduzir as exigências de verificação dos fatos.
 
-Parágrafo único. A defesa de serviços públicos e direitos sociais não autoriza presumir que uma política seja eficaz, lícita ou justa apenas porque se apresenta como progressista, nem que seus críticos ajam de má-fé.
+§ 4º O projeto preservará a liberdade de crítica, o contraditório, o direito de resposta e a disposição de rever interpretações e conclusões.
+
+**Art. 2º** A isenção do Rondoscópio é metodológica e editorial, não ausência de valores. Significa investigar e avaliar com critérios públicos, verificáveis e coerentes, sem privilégios para autoridades ou grupos politicamente próximos de seus valores.
+
+§ 1º Pessoas, governos, partidos, movimentos, financiadores e organizações identificados com a esquerda, o progressismo ou com as posições do Rondoscópio estarão sujeitos à mesma exigência de evidências, transparência, crítica e prestação de contas aplicada aos demais.
+
+§ 2º A igualdade de critérios não obriga atribuir igual credibilidade a evidências de qualidades diferentes nem ignora distinções relevantes de contexto, competência, gravidade ou responsabilidade. Diferenças de tratamento deverão decorrer dessas circunstâncias, não de simpatia ou antipatia política.
+
+§ 3º A defesa de serviços públicos e direitos sociais não autoriza presumir que uma política seja eficaz, lícita ou justa apenas porque se apresenta como progressista, nem que seus críticos ajam de má-fé.
 
 #### CAPÍTULO II
 ##### DOS SERVIÇOS PÚBLICOS E DOS DIREITOS SOCIAIS
@@ -2641,7 +2665,7 @@ Parágrafo único. A diversificação produtiva será examinada também quanto �
 
 **Art. 13.** A fiscalização de políticas de saúde, educação, serviços públicos, indústria, trabalho, redistribuição e meio ambiente adotará indicadores verificáveis, comparação territorial e temporal, exame de orçamento, execução e entregas, avaliação de efeitos e divulgação das limitações dos dados.
 
-**Art. 14.** Governos e administrações de qualquer orientação política, assim como organizações privadas e seus beneficiários, estarão sujeitos a padrões equivalentes de apuração quando houver interesse público.
+**Art. 14.** Governos, partidos, autoridades e administrações de esquerda, centro ou direita, assim como organizações privadas e seus beneficiários, estarão sujeitos a padrões equivalentes de apuração quando houver interesse público.
 
 **Art. 15.** Nenhuma investigação poderá ser suprimida, manipulada ou direcionada para proteger uma política, entidade ou pessoa identificada com os valores desta Carta.
 
@@ -3807,7 +3831,7 @@ Os relatórios deverão permitir comparar compromissos, recursos utilizados e re
 
 *Parte de origem: [parts/04-editorial/001-politica-editorial.md](../parts/04-editorial/001-politica-editorial.md)*
 
-> **Situação:** minuta para discussão pública. **Versão:** 0.2. **Data:** 2026-11-07.
+> **Situação:** minuta para discussão pública. **Versão:** 0.3. **Data:** 2026-11-10.
 > **Natureza:** documento institucional proposto, sem vigência formal até aprovação pela instância competente.
 
 
@@ -3907,6 +3931,23 @@ Parágrafo único. Quando houver estrutura institucional, o recurso contra decis
 **Art. 19.** O setor editorial deverá registrar tentativas de interferência de administradores, financiadores e autoridades, com processo de revisão que não exponha fontes indevidamente.
 
 **Art. 20.** A seleção de pautas será explicável por critérios de interesse público, gravidade, verificabilidade e capacidade, não pela finalidade de humilhar adversários.
+
+#### CAPÍTULO VIII
+##### DO JORNALISMO DE POSICIONAMENTO E DA DEFESA DE PAUTAS DE ESQUERDA
+
+**Art. 21.** O Rondoscópio poderá produzir e publicar materiais jornalísticos em defesa e promoção de pautas, valores, direitos e políticas públicas associados à esquerda democrática e progressista, inclusive reportagens explicativas, análises, entrevistas, editoriais, artigos de opinião e materiais audiovisuais.
+
+§ 1º O posicionamento de esquerda será assumido de maneira explícita, sem alegação de neutralidade ideológica, mas sem converter preferências políticas em fatos comprovados.
+
+§ 2º A publicação deverá permitir ao público distinguir notícia e apuração factual de análise, opinião, editorial e defesa institucional de propostas.
+
+§ 3º A promoção de determinada pauta não dispensará apuração, fontes verificáveis, contextualização, correção de erros e exame de informações contrárias relevantes.
+
+**Art. 22.** A defesa de pautas de esquerda não autoriza ocultar fatos desfavoráveis a pessoas ou organizações de esquerda, distorcer dados, fabricar consenso ou adotar padrões de prova diferentes conforme o alinhamento político dos envolvidos.
+
+Parágrafo único. Investigações de atos, omissões e possíveis irregularidades de representantes da esquerda terão autonomia e os mesmos critérios de verificação, contraditório e responsabilização aplicados aos demais.
+
+**Art. 23.** A defesa editorial de uma pauta não constitui, por si, endosso de partido, candidatura ou governo. Qualquer atividade político-eleitoral ou publicidade correspondente deverá observar suas regras legais próprias e não poderá ser apresentada de forma enganosa como apuração jornalística independente.
 
 Consulte [Crítica Pública e Sátira](#parte-04-008).
 
