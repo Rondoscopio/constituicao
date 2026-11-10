@@ -52,6 +52,10 @@ O escopo detalhado está em [Áreas de atuação e objetivos de fiscalização](
 
 Essas minutas complementam os [Objetivos institucionais](parts/01-identidade/005-objetivos.md), os [Indicadores e séries históricas](parts/05-metodologia/011-indicadores-e-series-historicas.md) e os [Referenciais internacionais](parts/14-referencias/010-referenciais-internacionais.md). Não representam sistemas já implementados.
 
+## Fundamentos legais e jurisprudência
+
+O [catálogo de fundamentos legais](parts/14-referencias/013-fundamentos-legais-da-fiscalizacao-e-preservacao.md) reúne dispositivos constitucionais, LGPD, transparência, direitos autorais, provas digitais e tratados. O [catálogo de jurisprudência](parts/14-referencias/014-jurisprudencia-fiscalizacao-e-jornalismo.md) distingue decisões brasileiras, precedentes internacionais, analogias e limites da preservação de publicações públicas. As análises são minutas, não autorizações gerais de coleta ou conservação.
+
 ## Investigações, crítica pública e proteção jurídica
 
 As minutas incluem [investigação de autoridades e relações de poder](parts/04-editorial/012-investigacao-de-autoridades-e-poderes.md), [cooperação segura com autoridades](parts/08-denuncias/009-cooperacao-segura-com-autoridades.md), [crítica pública e sátira responsável](parts/04-editorial/008-critica-publica-satira-e-responsabilidade.md), [proteção contra assédio judicial](parts/06-direitos/007-protecao-contra-assedio-judicial-e-perseguicao.md) e [LGPD e jornalismo](parts/04-editorial/013-lgpd-jornalismo-e-minimizacao-de-dados.md).
