@@ -1,6 +1,6 @@
 # Carta Fundadora do Rondoscópio
 
-> **Situação:** minuta para discussão pública. **Versão:** 0.7. **Data:** 2026-11-07.
+> **Situação:** minuta para discussão pública. **Versão:** 0.8. **Data:** 2026-11-10.
 > **Natureza:** documento institucional proposto, sem vigência formal até aprovação pela instância competente.
 
 
@@ -46,13 +46,17 @@ VI - desenvolvimento de ferramentas abertas ou acessíveis de consulta, análise
 
 **Art. 4º** O Rondoscópio orientará sua atuação pela dignidade humana, democracia, Estado de Direito, igualdade de direitos, liberdade de expressão e de consciência, laicidade, rigor científico, justiça social e proteção ambiental.
 
-Parágrafo único. A defesa desses valores não autoriza conclusões prévias sobre pessoas ou fatos, supressão de evidências contrárias ou aplicação desigual dos critérios de investigação.
+§ 1º O projeto assume identidade cívica de esquerda democrática e orientação progressista, com inspiração social-democrata e afinidade com princípios do liberalismo social relativos às liberdades individuais. Essa declaração de valores não significa filiação partidária ou obrigação de adesão ideológica de colaboradores.
+
+§ 2º A defesa desses valores não autoriza conclusões prévias sobre pessoas ou fatos, supressão de evidências contrárias ou aplicação desigual dos critérios de investigação.
 
 **Art. 5º** O trabalho será independente de partidos políticos, governos, candidatos, empresas, grupos religiosos e financiadores.
 
 § 1º A independência exige critérios editoriais conhecidos, tratamento de conflitos de interesses e transparência sobre fontes de financiamento.
 
 § 2º Independência metodológica não significa atribuir igual credibilidade a afirmações sustentadas por evidências de qualidade diferente.
+
+§ 3º Os mesmos critérios de investigação, prova, transparência e responsabilização serão aplicados a agentes de todas as orientações políticas, inclusive aos identificados com os valores do Rondoscópio, sem equivalência artificial entre fatos distintos.
 
 **Art. 6º** A fiscalização observará, em relação às pessoas e instituições envolvidas:
 
