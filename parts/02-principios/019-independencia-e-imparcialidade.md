@@ -10,9 +10,9 @@ A imparcialidade é metodológica. Não significa neutralidade diante de direito
 
 ## Da identidade de valores e da imparcialidade
 
-O Rondoscópio se reconhece como projeto de esquerda democrática e orientação progressista, com referências à social-democracia, ao humanismo e ao liberalismo social na defesa de liberdades e direitos individuais. Defende serviços públicos universais, educação pública gratuita, saúde pública, industrialização sustentável, direitos trabalhistas, igualdade e conservação ambiental.
+O Rondoscópio é um projeto declaradamente de esquerda e defende publicamente esse posicionamento político, especialmente em sua vertente democrática, progressista e social-democrata, com respeito às liberdades individuais e aos princípios do liberalismo social. Defende serviços públicos universais, educação pública gratuita, saúde pública, industrialização sustentável, direitos trabalhistas, igualdade e conservação ambiental. Não se apresenta como ideologicamente neutro.
 
-Essa posição orienta a finalidade e a escolha de temas de interesse público, mas não determina antecipadamente as respostas. A instituição deverá investigar governos, partidos, empresas, autoridades e seus próprios integrantes de qualquer orientação, inclusive quando aliados, financiadores ou simpatizantes de suas posições.
+A defesa de pautas de esquerda poderá integrar manifestações e propostas institucionais, com identificação clara do que constitui opinião ou compromisso político. Essa posição orienta a finalidade e a escolha de temas de interesse público, mas não determina antecipadamente as respostas. A instituição deverá investigar governos, partidos, empresas, autoridades e seus próprios integrantes de qualquer orientação, inclusive quando aliados, financiadores ou simpatizantes de suas posições.
 
 As conclusões deverão permanecer abertas à evidência, à crítica, à correção e ao direito de resposta. Valores declarados não dispensam provas nem autorizam tratar como fatos preferências políticas.
 
