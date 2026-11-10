@@ -4246,18 +4246,24 @@ Relações familiares ou dados de saúde e intimidade de autoridades só serão 
 
 **Art. 2º** A investigação não excluirá instituição alguma em razão de prestígio, função constitucional, capacidade investigativa, força econômica ou relação anterior com a organização.
 
-Parágrafo único. A isenção de escrutínio não pressupõe que toda instituição seja corrupta ou que a hipótese de influência ilícita esteja confirmada.
+§ 1º O objeto da fiscalização individual será a atuação de agentes públicos e a participação de pessoas físicas ou jurídicas em contratos, licitações, editais, repasses e outros instrumentos envolvendo recursos públicos.
+
+§ 2º A pessoa privada sem vínculo relevante com a finalidade pública investigada não será alvo de monitoramento pessoal. Mesmo os beneficiários de recursos públicos mantêm a proteção da vida privada, da honra, da imagem e dos dados pessoais.
+
+§ 3º A condição de beneficiário final de política social ou assistencial não constitui, isoladamente, motivo para investigação nominal ou divulgação de dados pessoais, devendo a análise priorizar legalidade, execução, resultados e agentes responsáveis.
+
+§ 4º A ausência de isenção ao escrutínio não pressupõe que toda instituição seja corrupta ou que a hipótese de influência ilícita esteja confirmada.
 
 #### CAPÍTULO II
 ##### DAS HIPÓTESES DE CAPTURA
 
 **Art. 3º** Poderão ser apurados, com base em fatos documentáveis:
 
-I - nomeações, impedimentos e conflitos de interesses;
+I - nomeações, impedimentos e possíveis conflitos de interesses relacionados a funções e decisões públicas;
 
-II - relações familiares, societárias e financeiras pertinentes à decisão;
+II - relações societárias, profissionais, contratuais e financeiras documentadas e pertinentes a decisões públicas, sem investigação de vínculos familiares por si mesmos;
 
-III - concentração persistente de nomeações, recursos ou contratos em redes de poder;
+III - concentração persistente de nomeações, recursos ou contratos entre agentes públicos e beneficiários de instrumentos públicos;
 
 IV - interferências indevidas em decisões judiciais, policiais, administrativas ou parlamentares;
 
@@ -4267,9 +4273,9 @@ VI - omissões de fiscalização diante de obrigações e avisos comprovados.
 
 **Art. 4º** A análise de coronelismo, clientelismo, patrimonialismo e reprodução histórica de elites políticas e econômicas exigirá contexto historiográfico, registros de época e distinção entre herança de vantagens sociais e responsabilidade jurídica individual.
 
-§ 1º A condição de descendente de família influente não constitui prova de crime, favorecimento ou deslealdade.
+§ 1º Relações familiares não constituem categoria de monitoramento, não justificam a coleta da vida privada e não demonstram, por si, crime, favorecimento ou deslealdade.
 
-§ 2º A eventual atuação criminosa de ancestral não será atribuída a seus familiares sem prova de participação própria.
+§ 2º A responsabilidade por condutas deve ser individualizada e comprovada. O parentesco não autoriza imputação de conduta de terceiro.
 
 #### CAPÍTULO III
 ##### DOS LIMITES
@@ -11275,7 +11281,7 @@ Este catálogo complementa [Normas e legislação](#parte-14-003), a [política 
 
 #### Escopo
 
-O modelo proposto para o Observador consiste em coletar manifestações de perfis públicos de agentes eleitos, manter arquivo confidencial e criptografado, classificar posteriormente o interesse público e divulgar somente após avaliação editorial. A finalidade investigativa concentra-se na atuação pública e em potenciais conflitos de interesse, sem vigiar intimidade ou vínculos familiares sem relevância institucional. Captura, armazenamento, classificação e publicação são operações juridicamente distintas.
+O modelo proposto para o Observador consiste em coletar manifestações de perfis públicos de agentes eleitos, manter arquivo confidencial e criptografado, classificar posteriormente o interesse público e divulgar somente após avaliação editorial. A fiscalização individual dirige-se a agentes que exercem funções públicas e a pessoas físicas ou jurídicas na medida de sua participação em contratos, licitações, editais, repasses e outras relações financiadas pelo poder público. O vínculo com recursos públicos justifica o escrutínio da contratação, execução, prestação de contas e possíveis conflitos de interesse, sem transformar particulares em figuras públicas para todos os fins. A finalidade investigativa não inclui vida privada, vínculos familiares por si mesmos nem monitoramento nominal de beneficiários de políticas assistenciais sem indícios concretos de irregularidades. Captura, armazenamento, classificação e publicação são operações juridicamente distintas.
 
 #### Constituição Federal de 1988
 
@@ -11523,25 +11529,33 @@ As decisões são agrupadas segundo seu alcance. Um precedente vinculante do STF
 - **Limite:** **decisão cautelar**, não julgamento definitivo de licitude de todas as matérias ou acusações.
 - **Fonte:** [STJ, comunicado da decisão](https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/2026/03022026-STJ-garante-liberdade-de-imprensa-e-afasta-censura-a-noticias-com-criticas-a-agentes-publicos.aspx).
 
+##### 18. Informativo 859, STJ, menor expectativa de privacidade de pessoa pública
+
+- **Divulgação:** 26 de agosto de 2025.
+- **Resultado:** em ação sobre montagem crítica de autoridade pública na capa de revista, o STJ considerou legítima a crítica jornalística nos limites do caso, em razão da liberdade de expressão e da ausência de invasão de vida privada.
+- **Fundamento:** pessoas públicas podem ser submetidas a maior escrutínio de seus atos pela população, com redução contextual da proteção dos direitos da personalidade em matérias de interesse público.
+- **Aplicação:** fiscalização de mandatos, funções, contratos e decisões. A condição de autoridade ou contratada não suprime o núcleo de intimidade, honra e proteção de dados.
+- **Fonte:** [STJ, Informativo 859](https://processo.stj.jus.br/jurisprudencia/externo/informativo/?acao=pesquisarumaedicao&livre=%270859%27.cod.).
+
 #### III. Corte Interamericana de Direitos Humanos
 
 As decisões da Corte IDH relativas a outros Estados integram referência de interpretação da Convenção Americana. Não se deve descrever cada decisão estrangeira como se condenasse o Brasil.
 
-##### 18. Ricardo Canese versus Paraguai, 2004
+##### 19. Ricardo Canese versus Paraguai, 2004
 
 - **Resultado:** reconhecimento de violação à liberdade de expressão e outras garantias em caso de condenação relacionada a declarações eleitorais sobre relações empresariais de candidato.
 - **Aplicação:** relevância democrática de debates e investigações sobre vínculos empresariais e atuação política.
 - **Limite:** não dispensa verificação nem autoriza imputações falsas.
 - **Fonte:** [Corte IDH, ficha do caso](https://corteidh.or.cr/ver_ficha_tecnica.cfm?lang=es&nId_Ficha=218).
 
-##### 19. Claude Reyes e outros versus Chile, 2006
+##### 20. Claude Reyes e outros versus Chile, 2006
 
 - **Resultado:** reconhecimento de violação do direito de acesso a informação sob controle do Estado, relacionada a projeto de exploração florestal.
 - **Aplicação:** obtenção de documentos oficiais para fiscalização ambiental, empresarial e administrativa.
 - **Limite:** não concede livre acesso a informações sigilosas ou particulares.
 - **Fonte:** [Corte IDH, expediente](https://corteidh.or.cr/ver_expediente.cfm?lang=es&nId_expediente=54).
 
-##### 20. Herrera Ulloa versus Costa Rica, 2004
+##### 21. Herrera Ulloa versus Costa Rica, 2004
 
 - **Resultado:** reconhecimento de violações à liberdade de expressão e garantias processuais em condenação de jornalista por reportagens envolvendo alegações já divulgadas por jornais estrangeiros.
 - **Aplicação:** proteção do trabalho jornalístico e necessidade de examinar diligência e atribuição de fontes.
@@ -11550,14 +11564,14 @@ As decisões da Corte IDH relativas a outros Estados integram referência de int
 
 #### IV. Direito comparado europeu
 
-##### 21. Magyar Helsinki Bizottság versus Hungria, Corte Europeia, 2016
+##### 22. Magyar Helsinki Bizottság versus Hungria, Corte Europeia, 2016
 
 - **Resultado:** proteção do direito de organização civil receber informações necessárias à fiscalização pública, inclusive determinados dados identificáveis de profissionais nomeados pelo Estado.
 - **Aplicação:** organizações civis podem exercer função fiscalizadora, e anonimização excessiva pode impedir exame de padrões de distribuição de decisões ou recursos.
 - **Limite:** precedente de outro sistema jurídico, aplicável apenas como argumento comparativo.
 - **Fonte:** [Corte Europeia, processo 18030/11](https://hudoc.echr.coe.int/?i=001-167828).
 
-##### 22. Buivids, processo C-345/17, Tribunal de Justiça da União Europeia, 2019
+##### 23. Buivids, processo C-345/17, Tribunal de Justiça da União Europeia, 2019
 
 - **Resultado:** gravação e divulgação de agentes policiais por pessoa sem vínculo demonstrado com imprensa profissional **podem** constituir tratamento para fins jornalísticos, se a finalidade efetiva for comunicar informações, opiniões ou ideias ao público.
 - **Limite:** o tribunal deixou a verificação do enquadramento à jurisdição nacional. Não declarou lícito todo tratamento nem aplica automaticamente a interpretação da legislação europeia à LGPD brasileira.
@@ -11565,14 +11579,14 @@ As decisões da Corte IDH relativas a outros Estados integram referência de int
 
 #### V. Casos de contraste: decisões que restringem excessos
 
-##### 23. Satakunnan Markkinapörssi e Satamedia versus Finlândia, Corte Europeia, 2017
+##### 24. Satakunnan Markkinapörssi e Satamedia versus Finlândia, Corte Europeia, 2017
 
 - **Resultado:** não se reconheceu violação da liberdade de expressão nas restrições nacionais à divulgação massiva de base tributária com dados de grande número de pessoas.
 - **Aplicação:** distinguir acesso e documentação jornalística de divulgação indiscriminada de bases inteiras.
 - **Limite:** **não é vitória das empresas jornalísticas e não é autorização de coleta irrestrita**.
 - **Fonte:** [Corte Europeia, pesquisa da decisão](https://hudoc.echr.coe.int/eng?i=001-175121).
 
-##### 24. ADPF 722, STF, vigilância estatal de posicionamentos políticos
+##### 25. ADPF 722, STF, vigilância estatal de posicionamentos políticos
 
 - **Julgamento:** maio de 2022.
 - **Resultado:** declarados inconstitucionais atos estatais que produziram ou compartilharam informações sobre escolhas políticas e práticas cívicas de pessoas identificadas com movimento antifascista.
