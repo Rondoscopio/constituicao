@@ -1,6 +1,6 @@
 # Política Editorial do Rondoscópio
 
-> **Situação:** minuta para discussão pública. **Versão:** 0.2. **Data:** 2026-11-07.
+> **Situação:** minuta para discussão pública. **Versão:** 0.3. **Data:** 2026-11-10.
 > **Natureza:** documento institucional proposto, sem vigência formal até aprovação pela instância competente.
 
 
@@ -100,5 +100,22 @@ Parágrafo único. Quando houver estrutura institucional, o recurso contra decis
 **Art. 19.** O setor editorial deverá registrar tentativas de interferência de administradores, financiadores e autoridades, com processo de revisão que não exponha fontes indevidamente.
 
 **Art. 20.** A seleção de pautas será explicável por critérios de interesse público, gravidade, verificabilidade e capacidade, não pela finalidade de humilhar adversários.
+
+## CAPÍTULO VIII
+### DO JORNALISMO DE POSICIONAMENTO E DA DEFESA DE PAUTAS DE ESQUERDA
+
+**Art. 21.** O Rondoscópio poderá produzir e publicar materiais jornalísticos em defesa e promoção de pautas, valores, direitos e políticas públicas associados à esquerda democrática e progressista, inclusive reportagens explicativas, análises, entrevistas, editoriais, artigos de opinião e materiais audiovisuais.
+
+§ 1º O posicionamento de esquerda será assumido de maneira explícita, sem alegação de neutralidade ideológica, mas sem converter preferências políticas em fatos comprovados.
+
+§ 2º A publicação deverá permitir ao público distinguir notícia e apuração factual de análise, opinião, editorial e defesa institucional de propostas.
+
+§ 3º A promoção de determinada pauta não dispensará apuração, fontes verificáveis, contextualização, correção de erros e exame de informações contrárias relevantes.
+
+**Art. 22.** A defesa de pautas de esquerda não autoriza ocultar fatos desfavoráveis a pessoas ou organizações de esquerda, distorcer dados, fabricar consenso ou adotar padrões de prova diferentes conforme o alinhamento político dos envolvidos.
+
+Parágrafo único. Investigações de atos, omissões e possíveis irregularidades de representantes da esquerda terão autonomia e os mesmos critérios de verificação, contraditório e responsabilização aplicados aos demais.
+
+**Art. 23.** A defesa editorial de uma pauta não constitui, por si, endosso de partido, candidatura ou governo. Qualquer atividade político-eleitoral ou publicidade correspondente deverá observar suas regras legais próprias e não poderá ser apresentada de forma enganosa como apuração jornalística independente.
 
 Consulte [Crítica Pública e Sátira](008-critica-publica-satira-e-responsabilidade.md).

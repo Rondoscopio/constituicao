@@ -1,20 +1,28 @@
 # Compromisso social-democrata, serviços públicos e desenvolvimento sustentável
 
-> **Situação:** minuta para discussão pública. **Versão:** 0.1. **Data:** 2026-11-09.
+> **Situação:** minuta para discussão pública. **Versão:** 0.2. **Data:** 2026-11-10.
 > **Natureza:** declaração de valores e finalidades institucionais, não filiação partidária, programa eleitoral ou conclusão antecipada de investigação.
 
 ## CAPÍTULO I
 ### DA IDENTIDADE E DA ISENÇÃO METODOLÓGICA
 
-**Art. 1º** O Rondoscópio assume publicamente compromissos humanistas, progressistas e inspirados na esquerda democrática e na social-democracia, especialmente a defesa da dignidade humana, da liberdade, da igualdade substantiva, da justiça social, da democracia pluralista e da sustentabilidade ambiental.
+**Art. 1º** O Rondoscópio é um projeto cívico declaradamente de esquerda. Assume e defende publicamente posições políticas da esquerda democrática e progressista, com inspiração social-democrata e afinidade com princípios do liberalismo social na defesa das liberdades civis, da dignidade humana, da igualdade substantiva, da justiça social, da democracia pluralista e da sustentabilidade ambiental.
 
-§ 1º O compromisso com esses valores não constitui filiação ou vinculação a partido, governo, candidatura ou movimento eleitoral.
+§ 1º Essa identidade expressa valores e finalidades institucionais, não filiação ou vinculação a partido, governo, candidatura ou movimento eleitoral. Não será exigida concordância ideológica de colaboradores, fontes ou pessoas investigadas.
 
-§ 2º O projeto preservará a liberdade de crítica, o contraditório, o direito de resposta e a disposição de rever interpretações e conclusões.
+§ 2º O Rondoscópio não reivindica neutralidade ideológica. Poderá manifestar-se em defesa de propostas, direitos e políticas públicas coerentes com seu posicionamento de esquerda, distinguindo expressamente a defesa de valores e projetos políticos dos fatos apurados e das conclusões técnicas.
 
-**Art. 2º** A isenção do Rondoscópio é metodológica e editorial. Significa investigar e avaliar com critérios verificáveis, sem privilégios para autoridades ou grupos politicamente próximos de seus valores.
+§ 3º O Rondoscópio poderá publicar materiais jornalísticos e educativos em defesa e promoção de pautas de esquerda, inclusive reportagens explicativas, análises e editoriais. O gênero e o posicionamento editorial deverão ser identificáveis, sem reduzir as exigências de verificação dos fatos.
 
-Parágrafo único. A defesa de serviços públicos e direitos sociais não autoriza presumir que uma política seja eficaz, lícita ou justa apenas porque se apresenta como progressista, nem que seus críticos ajam de má-fé.
+§ 4º O projeto preservará a liberdade de crítica, o contraditório, o direito de resposta e a disposição de rever interpretações e conclusões.
+
+**Art. 2º** A isenção do Rondoscópio é metodológica e editorial, não ausência de valores. Significa investigar e avaliar com critérios públicos, verificáveis e coerentes, sem privilégios para autoridades ou grupos politicamente próximos de seus valores.
+
+§ 1º Pessoas, governos, partidos, movimentos, financiadores e organizações identificados com a esquerda, o progressismo ou com as posições do Rondoscópio estarão sujeitos à mesma exigência de evidências, transparência, crítica e prestação de contas aplicada aos demais.
+
+§ 2º A igualdade de critérios não obriga atribuir igual credibilidade a evidências de qualidades diferentes nem ignora distinções relevantes de contexto, competência, gravidade ou responsabilidade. Diferenças de tratamento deverão decorrer dessas circunstâncias, não de simpatia ou antipatia política.
+
+§ 3º A defesa de serviços públicos e direitos sociais não autoriza presumir que uma política seja eficaz, lícita ou justa apenas porque se apresenta como progressista, nem que seus críticos ajam de má-fé.
 
 ## CAPÍTULO II
 ### DOS SERVIÇOS PÚBLICOS E DOS DIREITOS SOCIAIS
@@ -74,7 +82,7 @@ Parágrafo único. A diversificação produtiva será examinada também quanto �
 
 **Art. 13.** A fiscalização de políticas de saúde, educação, serviços públicos, indústria, trabalho, redistribuição e meio ambiente adotará indicadores verificáveis, comparação territorial e temporal, exame de orçamento, execução e entregas, avaliação de efeitos e divulgação das limitações dos dados.
 
-**Art. 14.** Governos e administrações de qualquer orientação política, assim como organizações privadas e seus beneficiários, estarão sujeitos a padrões equivalentes de apuração quando houver interesse público.
+**Art. 14.** Governos, partidos, autoridades e administrações de esquerda, centro ou direita, assim como organizações privadas e seus beneficiários, estarão sujeitos a padrões equivalentes de apuração quando houver interesse público.
 
 **Art. 15.** Nenhuma investigação poderá ser suprimida, manipulada ou direcionada para proteger uma política, entidade ou pessoa identificada com os valores desta Carta.
 
