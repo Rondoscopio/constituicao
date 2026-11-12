@@ -41,6 +41,8 @@ Atribuir uma inspiração não equivale a copiar texto ou código, nem dispensa 
 - [FollowTheMoney](https://followthemoney.tech/): representação de entidades e relações.
 - [Downdetector](https://downdetector.com/): relatos de indisponibilidade e séries históricas.
 - [Cloudflare Radar](https://radar.cloudflare.com/): visualização de conectividade, incidentes e anomalias.
+- [EFF, defesa do youtube-dl e direitos dos desenvolvedores](https://www.eff.org/files/2020/11/17/eff_letter_to_github_re_youtube-dl_11152020.pdf): referência de contestação jurídica e técnica de pedidos de retirada.
+- [Human Rights Watch, Mnemonic e WITNESS, preservação de evidências audiovisuais](https://www.hrw.org/news/2020/11/25/us-archivists-victory-over-overbroad-copyright-claim): usos em documentação de direitos humanos, preservação e verificação.
 
 ## Como atualizar
 
