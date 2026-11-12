@@ -229,6 +229,7 @@
 - [14.012 — Reconhecimento histórico e memória das referências](#parte-14-012)
 - [14.013 — Fundamentos legais da fiscalização cívica, jornalismo e preservação documental](#parte-14-013)
 - [14.014 — Jurisprudência sobre fiscalização do poder, jornalismo, informação e preservação](#parte-14-014)
+- [14.015 — Caso youtube-dl e defesa da preservação digital](#parte-14-015)
 
 ### 15 — Modelos
 - [15.001 — [Título]](#parte-15-001)
@@ -603,6 +604,26 @@ Parágrafo único. Enquanto houver apenas um ADM, não se alegará a existência
 **Art. 51.** A gestão de riscos deverá abranger espionagem, ataques digitais, assédio judicial, perda de domínios e contas, comprometimento de integrantes e continuidade do acervo, por medidas proporcionais e legalmente admissíveis.
 
 **Art. 52.** Nenhum integrante poderá ser obrigado a correr risco pessoal desproporcional em nome da organização, nem receberá promessa de anonimato absoluto, proteção física ou continuidade técnica inexistentes.
+
+
+#### TÍTULO X
+##### DA PRESERVAÇÃO DIGITAL, DA LIBERDADE DE FERRAMENTAS E DA DEFESA JURÍDICA
+
+**Art. 53.** O Rondoscópio reconhece como atividades de interesse público, quando lícitas e proporcionais, o desenvolvimento, o estudo e a utilização de ferramentas destinadas à documentação de acontecimentos, à preservação da memória, à verificação jornalística e à obtenção de evidências sobre violações de direitos humanos.
+
+§ 1º A possibilidade de uso indevido de uma ferramenta de finalidade geral não autoriza, por si só, concluir que todo uso, desenvolvimento ou distribuição do programa é ilícito.
+
+§ 2º A defesa da liberdade de ferramentas não constitui autorização para violar direitos autorais, contornar proteções técnicas juridicamente tuteladas, acessar recursos sem autorização, tratar dados pessoais indevidamente ou descumprir ordens judiciais válidas.
+
+**Art. 54.** A proteção institucional da atividade de preservação e apuração deverá observar, em conjunto, as liberdades previstas nos arts. 5º, IV, IX, XIV e XXXIII, e 220 da Constituição Federal, os direitos de personalidade e autorais dos arts. 5º, V, X, XXVII, XXVIII e LXXIX, o art. 216 da Constituição, a Lei de Acesso à Informação, o Marco Civil da Internet, a Lei de Direitos Autorais, a LGPD e o art. 13 da Convenção Americana sobre Direitos Humanos, segundo seus respectivos âmbitos de aplicação.
+
+**Art. 55.** Diante de pedido de retirada de software, conteúdo ou acervo, deverá ser assegurado procedimento documentado para identificar a medida requerida, o fundamento jurídico, os materiais afetados, a possibilidade de correção e os meios legais de resposta, sem presumir que toda reclamação seja abusiva.
+
+Parágrafo único. A organização distinguirá conservação interna, divulgação pública e distribuição de ferramentas, considerando os riscos às fontes, às vítimas, a terceiros e à integridade da prova.
+
+**Art. 56.** A controvérsia envolvendo o youtube-dl e o GitHub em 2020 será mantida como exemplo histórico de defesa jurídica de software com usos legítimos em jornalismo, acessibilidade e preservação de evidências. A carta da Electronic Frontier Foundation, a decisão administrativa do GitHub e as manifestações de Human Rights Watch, Mnemonic e WITNESS constituem referências documentais de naturezas distintas, sem força de precedente judicial brasileiro.
+
+O [estudo de caso do youtube-dl](#parte-14-015) reúne a cronologia, os argumentos das organizações, as fontes originais e os limites jurídicos da analogia.
 
 O detalhamento consta de [Cláusulas de Identidade](#parte-03-008), [Hierarquia de Atos](#parte-03-010), [Controle de Compatibilidade Interna](#parte-03-011), [Cooperação Segura](#parte-08-009), [Crítica Pública e Sátira](#parte-04-008) e [Proteção contra Assédio Judicial](#parte-06-007).
 
@@ -6924,6 +6945,19 @@ VI - redução da dependência de uma única pessoa, prestador ou domínio.
 
 **Art. 9º** A segurança de pessoas terá precedência sobre a publicação imediata e sobre o interesse de demonstrar resistência institucional.
 
+#### CAPÍTULO IV
+##### DA DEFESA DE FERRAMENTAS DE ARQUIVAMENTO E DE EVIDÊNCIAS
+
+**Art. 10.** A resposta a alegações de infração autoral, violação de termos, contorno de medidas técnicas ou retirada de software deverá separar desenvolvimento de ferramenta, obtenção de conteúdo, armazenamento, publicação e distribuição, segundo os fatos e a lei aplicável.
+
+**Art. 11.** Antes de responder publicamente, a organização deverá preservar licitamente a comunicação recebida, conferir prazo, competência, direito alegado, material individualizado, fundamento técnico, possibilidade de correção e necessidade de assessoramento jurídico.
+
+**Art. 12.** A estratégia de continuidade deverá prever cópias de segurança autorizadas, registros de proveniência, possibilidade de exportação, contato alternativo e restauração verificável de serviços sem divulgar acervos protegidos por sigilo.
+
+**Art. 13.** O caso de retirada e restauração do youtube-dl no GitHub, em 2020, será estudado como exemplo de contestação técnica e jurídica fundamentada, sem presumir identidade entre a DMCA estadunidense e as normas brasileiras.
+
+Consulte o [estudo de caso do youtube-dl](#parte-14-015), com carta da EFF, pronunciamento do GitHub, manifestações de Human Rights Watch, Mnemonic e WITNESS e legislação aplicável.
+
 ---
 
 <a id="parte-07-014"></a>
@@ -10372,6 +10406,8 @@ Atribuir uma inspiração não equivale a copiar texto ou código, nem dispensa 
 - [FollowTheMoney](https://followthemoney.tech/): representação de entidades e relações.
 - [Downdetector](https://downdetector.com/): relatos de indisponibilidade e séries históricas.
 - [Cloudflare Radar](https://radar.cloudflare.com/): visualização de conectividade, incidentes e anomalias.
+- [EFF, defesa do youtube-dl e direitos dos desenvolvedores](https://www.eff.org/files/2020/11/17/eff_letter_to_github_re_youtube-dl_11152020.pdf): referência de contestação jurídica e técnica de pedidos de retirada.
+- [Human Rights Watch, Mnemonic e WITNESS, preservação de evidências audiovisuais](https://www.hrw.org/news/2020/11/25/us-archivists-victory-over-overbroad-copyright-claim): usos em documentação de direitos humanos, preservação e verificação.
 
 #### Como atualizar
 
@@ -11416,6 +11452,14 @@ Decisões estrangeiras e de tribunais internacionais têm peso jurídico variáv
 
 **Esta consolidação não presume que todos os dispositivos sejam cumulativamente aplicáveis a cada operação.** O enquadramento depende da atividade realmente exercida.
 
+#### Ferramentas de preservação, direitos autorais e o caso youtube-dl
+
+A [análise documentada do caso youtube-dl](#parte-14-015) registra a retirada do projeto pelo GitHub em outubro de 2020, a defesa da EFF e a restauração em novembro, além das manifestações de Human Rights Watch, Mnemonic e WITNESS. O episódio é referência histórica e argumentativa sobre o valor público de ferramentas de arquivamento, não julgamento com força vinculante no Brasil.
+
+O marco normativo brasileiro inclui o art. 5º, IV, V, IX, X, XIV, XXVII, XXVIII, XXXIII e LXXIX, e os arts. 216 e 220 da Constituição, a [Lei de Direitos Autorais, arts. 29 e 46](https://www.planalto.gov.br/ccivil_03/leis/l9610.htm), a LAI, o Marco Civil da Internet e a LGPD. O [art. 13 da Convenção Americana](https://www.oas.org/pt/cidh/expressao/showarticle.asp?artID=25&lID=4), promulgada pelo [Decreto nº 678/1992](https://www.planalto.gov.br/ccivil_03/decreto/d0678.htm), também protege buscar, receber e difundir informações, observados os limites legítimos.
+
+A tese de fair use apresentada na defesa estadunidense não cria exceção geral de reprodução no direito brasileiro. A existência de informação acessível ao público não elimina direitos autorais, privacidade ou proteção de dados. A conservação interna e a republicação pública demandam análises distintas.
+
 ---
 
 <a id="parte-14-014"></a>
@@ -11644,6 +11688,149 @@ As decisões da Corte IDH relativas a outros Estados integram referência de int
 Não foi identificado neste catálogo precedente brasileiro que estabeleça direito absoluto de capturar automaticamente, criptografar e conservar por tempo indeterminado todos os posts e stories públicos de pessoas eleitas. Para esse modelo, a defesa depende de argumentos combinados, prova da finalidade real, análise de direitos autorais, licitude de acesso e retenção justificada.
 
 Antes de usar qualquer precedente em petição, parecer ou publicação de consequência jurídica, conferir o texto integral, o órgão julgador, eventuais embargos, a situação processual e a aderência dos fatos. Uma decisão cautelar ou estrangeira nunca deve ser descrita como tese vinculante brasileira.
+
+#### Episódio youtube-dl, sem natureza de precedente judicial
+
+A [controvérsia youtube-dl de 2020](#parte-14-015) é registrada como decisão administrativa de uma plataforma após defesa técnica e jurídica, acompanhada de manifestações de organizações de direitos humanos. Não foi uma sentença de tribunal brasileiro nem fixou tese judicial aplicável à captura e ao arquivamento de conteúdo. A carta da EFF cita decisões de tribunais dos Estados Unidos relacionadas ao conceito de circumvenção sob a DMCA, cuja aplicabilidade depende do direito estadunidense e do contexto técnico. A comparação com decisões brasileiras deve ser argumentada caso a caso.
+
+---
+
+<a id="parte-14-015"></a>
+
+## 14.015 — Caso youtube-dl e defesa da preservação digital
+
+*Parte de origem: [parts/14-referencias/015-caso-youtube-dl-e-defesa-da-preservacao-digital.md](../parts/14-referencias/015-caso-youtube-dl-e-defesa-da-preservacao-digital.md)*
+
+> **Situação:** minuta para discussão pública. **Versão:** 0.1. **Data:** 2026-11-12.
+> **Natureza:** estudo de caso histórico e referência jurídica comparada. Não é jurisprudência brasileira, parecer sobre uma situação concreta nem autorização geral para coleta, cópia ou distribuição de conteúdos.
+
+#### Propósito
+
+O episódio ocorrido com o youtube-dl em 2020 demonstra os riscos de pedidos de retirada de software de uso geral baseados em alegações de violação autoral ou de medidas tecnológicas. O caso é relevante para a preservação de evidências audiovisuais, a liberdade de desenvolvimento de ferramentas, o jornalismo de verificação, a pesquisa, a acessibilidade, a educação e a documentação de violações de direitos humanos.
+
+O Rondoscópio poderá utilizar este caso como referência argumentativa e histórica para defender ferramentas, métodos e atividades lícitas de preservação. A utilidade social de uma tecnologia não prova por si só que qualquer uso específico seja permitido. Devem ser examinados separadamente o código, o modo de obtenção, a finalidade do arquivo, os direitos de terceiros, as medidas técnicas existentes e as regras de cada jurisdição.
+
+#### I. Fatos verificados e cronologia
+
+1. **21 de setembro de 2020.** Segundo a carta da EFF, a Recording Industry Association of America, RIAA, encaminhou uma notificação ao GitHub alegando violações relacionadas ao youtube-dl.
+2. **23 de outubro de 2020.** O GitHub processou a solicitação e retirou do ar o repositório e cópias afetadas. O pedido foi registrado em seu repositório público de notificações DMCA.
+3. **15 de novembro de 2020.** A Electronic Frontier Foundation, EFF, por meio de Mitchell L. Stoltz, encaminhou defesa técnica e jurídica dos mantenedores ao agente DMCA do GitHub.
+4. **16 de novembro de 2020.** O GitHub restaurou o youtube-dl, após reavaliar a alegação de violação da Seção 1201 da DMCA e considerar correções realizadas nos testes do projeto.
+5. **25 de novembro de 2020.** Human Rights Watch, Mnemonic e WITNESS manifestaram publicamente apoio à restauração e explicaram a importância da ferramenta para preservar registros audiovisuais de violações de direitos humanos.
+
+A restauração foi uma decisão de moderação e conformidade jurídica tomada pelo GitHub, não uma sentença judicial que declarou lícito todo uso do youtube-dl. O anúncio da plataforma relata ainda a revisão proposta para futuras solicitações, com especialistas jurídicos e técnicos, oportunidade de resposta e criação de um fundo de defesa de desenvolvedores anunciado no valor de US$ 1 milhão.
+
+#### II. Organizações e atores documentados
+
+##### Electronic Frontier Foundation, EFF
+
+Atuou como representante jurídica dos mantenedores do youtube-dl. Sua carta contestou a suficiência jurídica da notificação e descreveu usos legítimos: preservação de registros de testemunhas, pesquisas jornalísticas, educação, cópia de vídeos próprios, acessibilidade e acesso em redes lentas. A organização distinguiu interpretação pública de JavaScript de quebra de controle de acesso protegido por chaves secretas.
+
+##### Mantenedores do youtube-dl
+
+Forneceram esclarecimentos e alteraram referências a músicas protegidas utilizadas nos testes automatizados, sem reconhecer necessariamente que os testes fossem ilícitos. Em manifestação pública posterior, agradeceram ao GitHub, à EFF e ao advogado Mitchell Stoltz pelo auxílio. O projeto também mencionou a Uberspace como provedora de hospedagem que enfrentava disputa jurídica própria na Alemanha. Essa disputa não deve ser confundida com a decisão do GitHub nos Estados Unidos.
+
+##### GitHub
+
+Hospedava o projeto, executou a retirada e posteriormente o restaurou. Reconheceu que ferramentas com usos potencialmente infratores podem também atender a finalidades legítimas, como verificação jornalística, preservação de evidências de violações de direitos humanos, acessibilidade e conteúdos em domínio público ou licenciados em Creative Commons. Anunciou procedimentos mais rigorosos para examinar reclamações anticircunvenção e um fundo de defesa de desenvolvedores. Trata-se de decisão da plataforma, não de endosso a qualquer atividade do Rondoscópio.
+
+##### Human Rights Watch, HRW
+
+Defendeu publicamente a preservação audiovisual como parte das investigações de direitos humanos. Sua equipe de arquivos relatou a utilização do youtube-dl para obter vídeos no melhor nível de qualidade disponível, alertando que a indisponibilidade de cópias pode prejudicar a responsabilização de autores de abusos.
+
+##### Mnemonic
+
+Organização dedicada à preservação de documentação digital de direitos humanos. Informou ter utilizado o youtube-dl para preservar mais de dois milhões de vídeos de Sudão, Síria e Iêmen. No exame de um conjunto de vídeos verificados sobre o conflito sírio, relatou que 23% já não estavam disponíveis no YouTube. O percentual é referente à coleção examinada, não a todos os vídeos da plataforma.
+
+##### WITNESS
+
+Destacou a importância de fluxos transparentes e acessíveis de obtenção e conservação de registros junto a parceiros locais, tanto para incidência em direitos humanos quanto para possível utilização como prova. Sua manifestação reforça que ferramentas livres podem ser componentes essenciais da cadeia de documentação.
+
+##### Outros participantes e distinções
+
+A RIAA foi a autora da solicitação de retirada, não uma defensora da restauração. A Software Freedom Law Center foi mencionada pelo GitHub como exemplo de organização que presta apoio jurídico a desenvolvedores em disputas de propriedade intelectual, sem que isso prove participação direta na defesa específica do youtube-dl. A Uberspace foi reconhecida pelos próprios mantenedores por apoiar a hospedagem diante de disputa distinta.
+
+ZDNet, TechCrunch, The Register e outros veículos noticiaram o episódio e discutiram suas consequências. Cobertura jornalística, manifestação institucional, representação jurídica e decisão de plataforma são categorias distintas. A relação acima documenta os atores cuja atuação foi encontrada nas fontes primárias examinadas, sem alegar ser uma lista exaustiva de todas as manifestações públicas existentes.
+
+#### III. Argumentos jurídicos e técnicos apresentados
+
+##### A alegação da RIAA
+
+A notificação sustentava que o youtube-dl facilitaria reprodução ou distribuição não autorizada de fonogramas e vídeos musicais e permitiria contornar medidas tecnológicas de proteção usadas pelo YouTube. Apontou, entre outros elementos, referências a músicas comerciais em testes automatizados.
+
+##### A resposta da EFF sobre testes
+
+A EFF argumentou que os testes consultavam breves trechos de vídeos sem inserir músicas nos arquivos do código nem promover sua distribuição. Sustentou que tal uso poderia ser caracterizado como fair use no direito estadunidense. Os mantenedores substituíram as referências controvertidas para reduzir o conflito. O fair use dos Estados Unidos não é automaticamente equivalente às limitações brasileiras aos direitos autorais.
+
+##### A resposta sobre suposta circumvenção
+
+Segundo a EFF, o mecanismo de assinatura de URLs do YouTube era calculado a partir de JavaScript fornecido publicamente aos navegadores, sem chave secreta nem desbloqueio de fluxos protegidos por DRM. A defesa distinguiu executar o procedimento anunciado pelo próprio serviço de desativar ou contornar uma medida tecnológica efetiva. A argumentação citou os casos estadunidenses *Digital Drilling Data Systems, L.L.C. v. Petrolink Services*, 965 F.3d 365, 372 (5th Cir. 2020), e *Egilman v. Keller & Heckman, LLP.*, 401 F. Supp. 2d 105, 113 (D.D.C. 2005). Também distinguiu a assinatura pública de tecnologias como Widevine e CSS.
+
+Essa descrição é o argumento da EFF sobre a implementação examinada em 2020, não uma afirmação de que todos os vídeos, serviços ou tecnologias atuais são desprovidos de DRM. O tratamento jurídico de restrições tecnológicas e contratuais depende do mecanismo e da legislação pertinentes.
+
+##### O entendimento do GitHub
+
+Após receber os esclarecimentos, o GitHub informou que as alegações não demonstravam violação da Seção 1201 da DMCA no caso examinado. Declarou que revisaria tecnicamente e juridicamente notificações futuras, admitindo correções e manifestação dos desenvolvedores antes de retiradas quando possível. Não se tratou de declaração geral de que o direito autoral não incide sobre programas de captura audiovisual.
+
+#### IV. Fundamentos jurídicos brasileiros relevantes
+
+A análise de eventual controvérsia do Rondoscópio deve partir da legislação brasileira, sem importar automaticamente conclusões estadunidenses.
+
+- **Constituição Federal, art. 5º, IV, IX, XIV e XXXIII, e art. 220.** Liberdade de expressão, comunicação, informação jornalística, acesso à informação e, quando necessário ao exercício profissional, resguardo do sigilo da fonte.
+- **Constituição Federal, art. 5º, V, X, XXVII, XXVIII e LXXIX.** Direito de resposta, imagem, honra, privacidade, proteção autoral e proteção de dados pessoais. Essas garantias impõem limites reais à captura, guarda e divulgação.
+- **Constituição Federal, art. 216 e § 2º.** Relevância da memória cultural e dever estatal de gestão e acesso à documentação governamental. Não institui livre reprodução de toda obra privada.
+- **Lei nº 12.527/2011, arts. 3º, 7º, 8º e 31.** Acesso à informação pública, transparência e proteção de informações pessoais e sigilosas, nos termos legais.
+- **Lei nº 12.965/2014, arts. 2º e 3º.** Direitos humanos, liberdade de expressão, privacidade, proteção de dados, segurança e finalidade social da internet.
+- **Lei nº 9.610/1998, arts. 29, 46 e 47.** Proteção da reprodução e do armazenamento de obras e hipóteses específicas de limitação, incluindo citação proporcional para crítica ou estudo e utilização de obras para produção de prova judiciária ou administrativa. O art. 46 não institui permissão genérica para arquivar ou redistribuir integralmente todo vídeo disponível na rede.
+- **Lei nº 13.709/2018, art. 4º, II, a, e demais dispositivos aplicáveis.** A exclusão material para tratamento exclusivamente jornalístico depende da finalidade real. Não é imunidade da organização para cadastros, denúncias, recursos humanos ou quaisquer operações fora dessa finalidade.
+- **Convenção Americana sobre Direitos Humanos, art. 13, promulgada pelo Decreto nº 678/1992.** Proteção de buscar, receber e difundir informações, vedação de restrições indiretas indevidas e admissão de responsabilidades posteriores legalmente justificadas.
+- **Declaração Universal dos Direitos Humanos, art. 19.** Referência internacional de liberdade de opinião e informação. Tem natureza declaratória e não substitui a análise dos tratados e leis vinculantes aplicáveis.
+
+A jurisprudência constitucional brasileira sobre liberdade de imprensa, censura prévia, informação e responsabilidade, inclusive ADPF 130 e ADIs 6.792 e 7.055, poderá ser relevante conforme os fatos. São decisões com objetos próprios, não precedentes que assegurem autorização irrestrita de extração de conteúdos digitais.
+
+#### V. Protocolo proposto de preservação responsável
+
+**Art. 1º** Antes da captura, identificar o interesse público, a origem, a autorização ou fundamento jurídico, a necessidade do material, os riscos e as alternativas menos intrusivas.
+
+**Art. 2º** O registro de evidências deverá, quando tecnicamente viável, conservar URL, plataforma, identificador público, título, autoria atribuída, data de publicação indicada, data e hora UTC da captura, versão da ferramenta e seu modo de operação, formato, tamanho, hash criptográfico e histórico de acesso ao arquivo.
+
+§ 1º O hash comprova a consistência entre versões comparadas, não a veracidade do vídeo ou de suas alegações.
+
+§ 2º Cópias de trabalho, transcrições, cortes e versões redigidas deverão ser identificados como derivados, conservando separadamente o arquivo original quando lícito.
+
+**Art. 3º** Conteúdos relativos a vítimas, crianças, fontes sigilosas, dados íntimos e outras situações de risco terão armazenamento e acesso restritos, avaliação de necessidade e prazos de revisão. Divulgação pública não é consequência automática da conservação interna.
+
+**Art. 4º** Na investigação audiovisual, serão documentadas hipóteses de montagem, remoção de contexto, identificação equivocada, geolocalização ou cronologia falsa. O [Protocolo de Berkeley](https://searchlibrary.ohchr.org/record/30334), publicado pelo Alto Comissariado da ONU para Direitos Humanos em conjunto com o Human Rights Center da Universidade da Califórnia, Berkeley, é referência metodológica, não fonte de autorização para acesso ilícito.
+
+**Art. 5º** O Rondoscópio não praticará invasão de sistemas, aquisição clandestina de credenciais, quebra de DRM protegido, coleta de conteúdo de acesso restrito sem fundamento ou distribuição de obras em violação de direitos autorais. A existência de uma ferramenta de código aberto não substitui a avaliação da legalidade de cada operação.
+
+**Art. 6º** A resposta a notificações de retirada deverá preservar o aviso recebido e a versão do material controvertido em condições lícitas, identificar o reclamante e a base invocada, separar o arquivo-fonte da publicação pública, verificar a alegação técnica, registrar medidas proporcionais, buscar assessoria jurídica habilitada e oferecer correção ou contestação motivada quando cabível.
+
+§ 1º A organização não classificará toda notificação ou decisão desfavorável como censura, perseguição ou assédio.
+
+§ 2º Ordens judiciais válidas deverão ser observadas. Eventual impugnação ocorrerá por meios legais, com atenção a prazos e à proteção de pessoas.
+
+#### VI. Fontes primárias e documentação do episódio
+
+1. [Notificação da RIAA registrada pelo GitHub em 23 de outubro de 2020](https://github.com/github/dmca/blob/master/2020/10/2020-10-23-RIAA.md). Alegações originais da parte reclamante.
+2. [Carta da EFF ao GitHub, de 15 de novembro de 2020](https://www.eff.org/files/2020/11/17/eff_letter_to_github_re_youtube-dl_11152020.pdf). Defesa técnica e jurídica dirigida ao agente DMCA.
+3. [GitHub, Standing up for developers: youtube-dl is back, 16 de novembro de 2020](https://github.blog/news-insights/policy-news-and-insights/standing-up-for-developers-youtube-dl-is-back/). Decisão de restauração e medidas anunciadas.
+4. [Human Rights Watch, Mnemonic e WITNESS, manifestação conjunta de 25 de novembro de 2020](https://www.hrw.org/news/2020/11/25/us-archivists-victory-over-overbroad-copyright-claim). Relatos de utilização e impactos de perda de evidências.
+5. [Mantenedores do youtube-dl, comunicado de 16 de novembro de 2020](https://github.com/ytdl-org/youtube-dl/issues/27013). Agradecimentos à EFF, GitHub e Uberspace, com distinção dos conflitos.
+6. [ZDNet, reportagem de Catalin Cimpanu, novembro de 2020](https://www.zdnet.fr/actualites/youtube-dl-l-eff-pousse-github-a-remettre-le-projet-en-ligne-39913143.htm). Cobertura jornalística secundária.
+
+#### VII. Referências normativas e metodológicas
+
+- [Constituição Federal de 1988](https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm).
+- [Lei de Direitos Autorais, Lei nº 9.610/1998](https://www.planalto.gov.br/ccivil_03/leis/l9610.htm).
+- [Lei de Acesso à Informação, Lei nº 12.527/2011](https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2011/lei/l12527.htm).
+- [Marco Civil da Internet, Lei nº 12.965/2014](https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2014/lei/l12965.htm).
+- [LGPD, Lei nº 13.709/2018](https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2018/lei/l13709.htm).
+- [Convenção Americana sobre Direitos Humanos, art. 13](https://www.oas.org/pt/cidh/expressao/showarticle.asp?artID=25&lID=4).
+- [Decreto nº 678/1992, promulgação da Convenção Americana](https://www.planalto.gov.br/ccivil_03/decreto/d0678.htm).
+- [Protocolo de Berkeley sobre investigações digitais em fontes abertas, 2022](https://searchlibrary.ohchr.org/record/30334).
+
+Este documento complementa os [fundamentos legais](#parte-14-013), o [catálogo de jurisprudência](#parte-14-014), a [política de resiliência jurídica](#parte-07-013) e a [política de proteção contra assédio judicial](#parte-06-007). Essas propostas deverão passar por revisão jurídica antes de orientar operações concretas.
 
 ---
 

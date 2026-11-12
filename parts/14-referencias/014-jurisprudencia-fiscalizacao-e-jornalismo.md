@@ -220,3 +220,8 @@ As decisões da Corte IDH relativas a outros Estados integram referência de int
 Não foi identificado neste catálogo precedente brasileiro que estabeleça direito absoluto de capturar automaticamente, criptografar e conservar por tempo indeterminado todos os posts e stories públicos de pessoas eleitas. Para esse modelo, a defesa depende de argumentos combinados, prova da finalidade real, análise de direitos autorais, licitude de acesso e retenção justificada.
 
 Antes de usar qualquer precedente em petição, parecer ou publicação de consequência jurídica, conferir o texto integral, o órgão julgador, eventuais embargos, a situação processual e a aderência dos fatos. Uma decisão cautelar ou estrangeira nunca deve ser descrita como tese vinculante brasileira.
+
+## Episódio youtube-dl, sem natureza de precedente judicial
+
+A [controvérsia youtube-dl de 2020](015-caso-youtube-dl-e-defesa-da-preservacao-digital.md) é registrada como decisão administrativa de uma plataforma após defesa técnica e jurídica, acompanhada de manifestações de organizações de direitos humanos. Não foi uma sentença de tribunal brasileiro nem fixou tese judicial aplicável à captura e ao arquivamento de conteúdo. A carta da EFF cita decisões de tribunais dos Estados Unidos relacionadas ao conceito de circumvenção sob a DMCA, cuja aplicabilidade depende do direito estadunidense e do contexto técnico. A comparação com decisões brasileiras deve ser argumentada caso a caso.
+

@@ -345,6 +345,26 @@ Parágrafo único. Enquanto houver apenas um ADM, não se alegará a existência
 
 **Art. 52.** Nenhum integrante poderá ser obrigado a correr risco pessoal desproporcional em nome da organização, nem receberá promessa de anonimato absoluto, proteção física ou continuidade técnica inexistentes.
 
+
+## TÍTULO X
+### DA PRESERVAÇÃO DIGITAL, DA LIBERDADE DE FERRAMENTAS E DA DEFESA JURÍDICA
+
+**Art. 53.** O Rondoscópio reconhece como atividades de interesse público, quando lícitas e proporcionais, o desenvolvimento, o estudo e a utilização de ferramentas destinadas à documentação de acontecimentos, à preservação da memória, à verificação jornalística e à obtenção de evidências sobre violações de direitos humanos.
+
+§ 1º A possibilidade de uso indevido de uma ferramenta de finalidade geral não autoriza, por si só, concluir que todo uso, desenvolvimento ou distribuição do programa é ilícito.
+
+§ 2º A defesa da liberdade de ferramentas não constitui autorização para violar direitos autorais, contornar proteções técnicas juridicamente tuteladas, acessar recursos sem autorização, tratar dados pessoais indevidamente ou descumprir ordens judiciais válidas.
+
+**Art. 54.** A proteção institucional da atividade de preservação e apuração deverá observar, em conjunto, as liberdades previstas nos arts. 5º, IV, IX, XIV e XXXIII, e 220 da Constituição Federal, os direitos de personalidade e autorais dos arts. 5º, V, X, XXVII, XXVIII e LXXIX, o art. 216 da Constituição, a Lei de Acesso à Informação, o Marco Civil da Internet, a Lei de Direitos Autorais, a LGPD e o art. 13 da Convenção Americana sobre Direitos Humanos, segundo seus respectivos âmbitos de aplicação.
+
+**Art. 55.** Diante de pedido de retirada de software, conteúdo ou acervo, deverá ser assegurado procedimento documentado para identificar a medida requerida, o fundamento jurídico, os materiais afetados, a possibilidade de correção e os meios legais de resposta, sem presumir que toda reclamação seja abusiva.
+
+Parágrafo único. A organização distinguirá conservação interna, divulgação pública e distribuição de ferramentas, considerando os riscos às fontes, às vítimas, a terceiros e à integridade da prova.
+
+**Art. 56.** A controvérsia envolvendo o youtube-dl e o GitHub em 2020 será mantida como exemplo histórico de defesa jurídica de software com usos legítimos em jornalismo, acessibilidade e preservação de evidências. A carta da Electronic Frontier Foundation, a decisão administrativa do GitHub e as manifestações de Human Rights Watch, Mnemonic e WITNESS constituem referências documentais de naturezas distintas, sem força de precedente judicial brasileiro.
+
+O [estudo de caso do youtube-dl](../14-referencias/015-caso-youtube-dl-e-defesa-da-preservacao-digital.md) reúne a cronologia, os argumentos das organizações, as fontes originais e os limites jurídicos da analogia.
+
 O detalhamento consta de [Cláusulas de Identidade](../03-governanca/008-clausulas-de-identidade-e-limites-a-reforma.md), [Hierarquia de Atos](../03-governanca/010-hierarquia-e-especies-normativas.md), [Controle de Compatibilidade Interna](../03-governanca/011-procedimento-de-controle-de-constitucionalidade-interna.md), [Cooperação Segura](../08-denuncias/009-cooperacao-segura-com-autoridades.md), [Crítica Pública e Sátira](../04-editorial/008-critica-publica-satira-e-responsabilidade.md) e [Proteção contra Assédio Judicial](../06-direitos/007-protecao-contra-assedio-judicial-e-perseguicao.md).
 
 ## Referências e inspirações

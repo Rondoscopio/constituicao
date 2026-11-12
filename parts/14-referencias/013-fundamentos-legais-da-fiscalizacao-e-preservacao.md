@@ -133,3 +133,12 @@ Decisões estrangeiras e de tribunais internacionais têm peso jurídico variáv
 8. Conferir normas estaduais e municipais e versões atualizadas antes de qualquer aplicação concreta.
 
 **Esta consolidação não presume que todos os dispositivos sejam cumulativamente aplicáveis a cada operação.** O enquadramento depende da atividade realmente exercida.
+
+## Ferramentas de preservação, direitos autorais e o caso youtube-dl
+
+A [análise documentada do caso youtube-dl](015-caso-youtube-dl-e-defesa-da-preservacao-digital.md) registra a retirada do projeto pelo GitHub em outubro de 2020, a defesa da EFF e a restauração em novembro, além das manifestações de Human Rights Watch, Mnemonic e WITNESS. O episódio é referência histórica e argumentativa sobre o valor público de ferramentas de arquivamento, não julgamento com força vinculante no Brasil.
+
+O marco normativo brasileiro inclui o art. 5º, IV, V, IX, X, XIV, XXVII, XXVIII, XXXIII e LXXIX, e os arts. 216 e 220 da Constituição, a [Lei de Direitos Autorais, arts. 29 e 46](https://www.planalto.gov.br/ccivil_03/leis/l9610.htm), a LAI, o Marco Civil da Internet e a LGPD. O [art. 13 da Convenção Americana](https://www.oas.org/pt/cidh/expressao/showarticle.asp?artID=25&lID=4), promulgada pelo [Decreto nº 678/1992](https://www.planalto.gov.br/ccivil_03/decreto/d0678.htm), também protege buscar, receber e difundir informações, observados os limites legítimos.
+
+A tese de fair use apresentada na defesa estadunidense não cria exceção geral de reprodução no direito brasileiro. A existência de informação acessível ao público não elimina direitos autorais, privacidade ou proteção de dados. A conservação interna e a republicação pública demandam análises distintas.
+
